@@ -9,6 +9,7 @@ import Gen.Basics
 import Gen.CodeGen.Generate as Generate
 import Gen.Svg
 import Gen.Svg.Attributes
+import Gen.VirtualDom
 import Json.Decode as Decode exposing (Decoder)
 import String.Extra
 import SvgParser exposing (Element, SvgNode(..))
@@ -50,12 +51,12 @@ files variants =
     internal :: List.map file variants
 
 
-toSvg : { declaration : Elm.Declaration, call : Expression -> Expression, callFrom : List String -> Expression -> Expression }
+toSvg : { declaration : Elm.Declaration, call : Expression -> Expression -> Expression, callFrom : List String -> Expression -> Expression -> Expression }
 toSvg =
-    Elm.Declare.fn "toSvg" ( "icon", Just annotation ) <|
-        \icon ->
-            Elm.unwrap [] "Icon" icon
-                |> Gen.Svg.map never
+    Elm.Declare.fn2 "toSvg" ( "attrs", Just <| Type.list (Gen.Svg.annotation_.attribute (Type.var "msg")) ) ( "(Icon { attributes, children })", Just annotation ) <|
+        \_ _ ->
+            Elm.val "Svg.svg (attrs ++ (List.map (mapAttribute) attributes)) (List.map (VirtualDom.map never) children)"
+                |> Elm.withType (Gen.Svg.annotation_.svg (Type.var "msg"))
 
 
 internal : Elm.File
@@ -63,11 +64,19 @@ internal =
     Elm.file [ "Internal", "Icon" ]
         [ Elm.customType "Icon"
             [ Elm.variantWith "Icon"
-                [ Gen.Svg.annotation_.svg Gen.Basics.annotation_.never ]
+                [ Type.record
+                    [ ( "attributes", Type.list (Gen.Svg.annotation_.attribute Gen.Basics.annotation_.never) )
+                    , ( "children", Type.list (Gen.Svg.annotation_.svg Gen.Basics.annotation_.never) )
+                    ]
+                ]
             ]
             |> Elm.exposeWith { exposeConstructor = True, group = Nothing }
         , Elm.expose <|
             toSvg.declaration
+        , Elm.declaration "mapAttribute" <|
+            Elm.withType (Type.function [ Gen.VirtualDom.annotation_.attribute Gen.Basics.annotation_.never ] (Gen.VirtualDom.annotation_.attribute (Type.var "msg"))) <|
+                Elm.fn ( "attr", Nothing ) <|
+                    Gen.VirtualDom.mapAttribute never
         ]
 
 
@@ -96,8 +105,15 @@ file ( variant, icons ) =
               , Elm.withDocumentation "Convert the icon to an SVG" <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Conversions" } <|
                         Elm.declaration "toSvg" <|
-                            Elm.withType (Type.function [ annotation ] (Gen.Svg.annotation_.svg (Type.var "msg"))) <|
-                                Elm.functionReduced "icon" (toSvg.callFrom [ "Internal", "Icon" ])
+                            Elm.withType
+                                (Type.function
+                                    [ Type.list (Gen.Svg.annotation_.attribute (Type.var "msg"))
+                                    , annotation
+                                    ]
+                                    (Gen.Svg.annotation_.svg (Type.var "msg"))
+                                )
+                            <|
+                                Elm.fn2 ( "attrs", Just <| Type.list (Gen.Svg.annotation_.attribute (Type.var "msg")) ) ( "svg", Just annotation ) (toSvg.callFrom [ "Internal", "Icon" ])
               ]
             , List.map
                 (\{ name, svg, category } ->
@@ -116,8 +132,26 @@ makeIcon s =
     SvgParser.parseToNode s
         |> Result.map identity
         |> Result.toMaybe
-        |> Maybe.andThen node
+        |> Maybe.andThen firstNode
         |> Maybe.map (List.singleton >> Elm.apply (Elm.val "Icon.Icon"))
+
+
+firstNode : SvgNode -> Maybe Expression
+firstNode svgNode =
+    case svgNode of
+        SvgElement el ->
+            if el.name == "svg" then
+                Just <|
+                    Elm.record
+                        [ ( "attributes", Elm.list (List.filterMap attribute el.attributes) )
+                        , ( "children", Elm.list (List.filterMap node el.children) )
+                        ]
+
+            else
+                Nothing
+
+        _ ->
+            Nothing
 
 
 node : SvgNode -> Maybe Expression

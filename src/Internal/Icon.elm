@@ -6,14 +6,23 @@ module Internal.Icon exposing (Icon(..), toSvg)
 
 
 import Svg
+import VirtualDom
 
 
 type Icon
-    = Icon (Svg.Svg Never)
+    = Icon
+        { attributes : List (Svg.Attribute Never)
+        , children : List (Svg.Svg Never)
+        }
 
 
-toSvg : Icon -> Svg.Svg msg
-toSvg icon =
-    Svg.map never ((\(Icon val) -> val) icon)
+toSvg : List (Svg.Attribute msg) -> Icon -> Svg.Svg msg
+toSvg attrs (Icon { attributes, children }) =
+    Svg.svg (attrs ++ (List.map (mapAttribute) attributes)) (List.map (VirtualDom.map never) children)
+
+
+mapAttribute : VirtualDom.Attribute Never -> VirtualDom.Attribute msg
+mapAttribute attr =
+    VirtualDom.mapAttribute never attr
 
 
