@@ -1,0 +1,26 @@
+{
+  "name": "md-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.ts",
+  "type": "module",
+  "scripts": {
+    "postinstall": "elm-codegen init",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "elm-codegen init",
+    "review": "elm-review",
+    "generate": "npm update @material-icons/svg && ts-node generate.ts && rm -rfd src/Material && mv generated/Material src/Material && cp generated/tests/*.elm tests/ && elm-review --fix-all && rm -rfd generated && elm-test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@material-icons/svg": "^1.0.33",
+    "elm": "^0.19.1-5",
+    "elm-codegen": "^0.3.0",
+    "elm-format": "^0.8.5",
+    "elm-review": "^2.9.1",
+    "elm-test": "^0.19.1-revision12",
+    "globby": "^13.1.3",
+    "ts-node": "^10.9.1"
+  }
+}
