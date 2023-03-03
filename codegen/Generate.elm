@@ -10,6 +10,7 @@ import Gen.Html
 import Gen.Svg
 import Gen.Test
 import Json.Decode as Decode exposing (Decoder)
+import List.Extra as List
 import String.Extra
 import SvgParser exposing (Element, SvgNode(..))
 
@@ -55,17 +56,35 @@ variantModule s =
 
 variantModule_ : String -> Maybe String
 variantModule_ s =
-    if s == "baseline" then
-        Nothing
+    case s of
+        "baseline" ->
+            Nothing
 
-    else
-        Just (String.Extra.toTitleCase s)
+        "outline" ->
+            Just "Outlined"
+
+        "twotone" ->
+            Just "TwoTone"
+
+        _ ->
+            Just (String.Extra.toTitleCase s)
 
 
 file : ( String, List Icon ) -> Elm.File
 file ( variant, icons ) =
     Elm.fileWith (variantModule variant)
-        { docs = List.map Elm.docs
+        { docs =
+            \docs ->
+                List.concat
+                    [ List.find (\{ group } -> group == Just "Type") docs
+                        |> Maybe.map (Elm.docs >> List.singleton)
+                        |> Maybe.withDefault []
+                    , List.find (\{ group } -> group == Just "Conversions") docs
+                        |> Maybe.map (Elm.docs >> List.singleton)
+                        |> Maybe.withDefault []
+                    , List.filter (\{ group } -> not (List.member group [ Just "Type", Just "Conversions" ])) docs
+                        |> List.map Elm.docs
+                    ]
         , aliases =
             [ ( [ "Internal", "Icon" ], "I" )
             , ( [ "Svg" ], "S" )
@@ -88,7 +107,7 @@ file ( variant, icons ) =
               ]
             , List.map
                 (\{ name, svg, category } ->
-                    Elm.withDocumentation (String.replace "_" " " name) <|
+                    Elm.withDocumentation (String.replace "_" " " name |> String.Extra.toTitleCase) <|
                         Elm.exposeWith { exposeConstructor = False, group = Just (String.Extra.toTitleCase category ++ " Icons") } <|
                             Elm.declaration (functionName name) <|
                                 Elm.withType annotation <|

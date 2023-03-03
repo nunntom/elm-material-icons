@@ -1,6 +1,14 @@
 module Material.Icons.Round exposing (Icon, abc, acUnit, accessAlarm, accessAlarms, accessTime, accessTimeFilled, accessibility, accessibilityNew, accessible, accessibleForward, accountBalance, accountBalanceWallet, accountBox, accountCircle, accountTree, adUnits, adb, add, addAPhoto, addAlarm, addAlert, addBox, addBusiness, addCard, addChart, addCircle, addCircleOutline, addComment, addHome, addHomeWork, addIcCall, addLink, addLocation, addLocationAlt, addModerator, addPhotoAlternate, addReaction, addRoad, addShoppingCart, addTask, addToDrive, addToHomeScreen, addToPhotos, addToQueue, addchart, adfScanner, adjust, adminPanelSettings, adobe, adsClick, agriculture, air, airlineSeatFlat, airlineSeatFlatAngled, airlineSeatIndividualSuite, airlineSeatLegroomExtra, airlineSeatLegroomNormal, airlineSeatLegroomReduced, airlineSeatReclineExtra, airlineSeatReclineNormal, airlineStops, airlines, airplaneTicket, airplanemodeActive, airplanemodeInactive, airplay, airportShuttle, alarm, alarmAdd, alarmOff, alarmOn, album, alignHorizontalCenter, alignHorizontalLeft, alignHorizontalRight, alignVerticalBottom, alignVerticalCenter, alignVerticalTop, allInbox, allInclusive, allOut, altRoute, alternateEmail, ampStories, analytics, anchor, android, animation, announcement, aod, apartment, api, appBlocking, appRegistration, appSettingsAlt, appShortcut, apple, approval, apps, appsOutage, architecture, archive, areaChart, arrowBack, arrowBackIos, arrowBackIosNew, arrowCircleDown, arrowCircleLeft, arrowCircleRight, arrowCircleUp, arrowDownward, arrowDropDown, arrowDropDownCircle, arrowDropUp, arrowForward, arrowForwardIos, arrowLeft, arrowOutward, arrowRight, arrowRightAlt, arrowUpward, artTrack, article, aspectRatio, assessment, assignment, assignmentInd, assignmentLate, assignmentReturn, assignmentReturned, assignmentTurnedIn, assistWalker, assistant, assistantDirection, assistantPhoto, assuredWorkload, atm, attachEmail, attachFile, attachMoney, attachment, attractions, attribution, audioFile, audiotrack, autoAwesome, autoAwesomeMosaic, autoAwesomeMotion, autoDelete, autoFixHigh, autoFixNormal, autoFixOff, autoGraph, autoMode, autoStories, autofpsSelect, autorenew, avTimer, babyChangingStation, backHand, backpack, backspace, backup, backupTable, badge, bakeryDining, balance, balcony, ballot, barChart, barcode, batchPrediction, bathroom, bathtub, battery0Bar, battery1Bar, battery20, battery2Bar, battery30, battery3Bar, battery4Bar, battery50, battery5Bar, battery60, battery6Bar, battery80, battery90, batteryAlert, batteryCharging20, batteryCharging30, batteryCharging50, batteryCharging60, batteryCharging80, batteryCharging90, batteryChargingFull, batteryFull, batterySaver, batteryStd, batteryUnknown, beachAccess, bed, bedroomBaby, bedroomChild, bedroomParent, bedtime, bedtimeOff, beenhere, bento, bikeScooter, biotech, blender, blind, blinds, blindsClosed, block, bloodtype, bluetooth, bluetoothAudio, bluetoothConnected, bluetoothDisabled, bluetoothDrive, bluetoothSearching, blurCircular, blurLinear, blurOff, blurOn, bolt, book, bookOnline, bookmark, bookmarkAdd, bookmarkAdded, bookmarkBorder, bookmarkRemove, bookmarks, borderAll, borderBottom, borderClear, borderColor, borderHorizontal, borderInner, borderLeft, borderOuter, borderRight, borderStyle, borderTop, borderVertical, boy, brandingWatermark, breakfastDining, brightness1, brightness2, brightness3, brightness4, brightness5, brightness6, brightness7, brightnessAuto, brightnessHigh, brightnessLow, brightnessMedium, broadcastOnHome, broadcastOnPersonal, brokenImage, browseGallery, browserNotSupported, browserUpdated, brunchDining, brush, bubbleChart, bugReport, build, buildCircle, bungalow, burstMode, busAlert, business, businessCenter, cabin, cable, cached, cake, calculate, calendarMonth, calendarToday, calendarViewDay, calendarViewMonth, calendarViewWeek, call, callEnd, callMade, callMerge, callMissed, callMissedOutgoing, callReceived, callSplit, callToAction, camera, cameraAlt, cameraEnhance, cameraFront, cameraIndoor, cameraOutdoor, cameraRear, cameraRoll, cameraswitch, campaign, cancel, cancelPresentation, cancelScheduleSend, candlestickChart, carCrash, carRental, carRepair, cardGiftcard, cardMembership, cardTravel, carpenter, cases, casino, cast, castConnected, castForEducation, castle, catchingPokemon, category, celebration, cellTower, cellWifi, centerFocusStrong, centerFocusWeak, chair, chairAlt, chalet, changeCircle, changeHistory, chargingStation, chat, chatBubble, chatBubbleOutline, check, checkBox, checkBoxOutlineBlank, checkCircle, checkCircleOutline, checklist, checklistRtl, checkroom, chevronLeft, chevronRight, childCare, childFriendly, chromeReaderMode, church, circle, circleNotifications, class, cleanHands, cleaningServices, clear, clearAll, close, closeFullscreen, closedCaption, closedCaptionDisabled, closedCaptionOff, cloud, cloudCircle, cloudDone, cloudDownload, cloudOff, cloudQueue, cloudSync, cloudUpload, co2, coPresent, code, codeOff, coffee, coffeeMaker, collections, collectionsBookmark, colorLens, colorize, comment, commentBank, commentsDisabled, commit, commute, compare, compareArrows, compassCalibration, compost, compress, computer, confirmationNumber, connectWithoutContact, connectedTv, connectingAirports, construction, contactEmergency, contactMail, contactPage, contactPhone, contactSupport, contactless, contacts, contentCopy, contentCut, contentPaste, contentPasteGo, contentPasteOff, contentPasteSearch, contrast, controlCamera, controlPoint, controlPointDuplicate, cookie, copyAll, copyright, coronavirus, corporateFare, cottage, countertops, create, createNewFolder, creditCard, creditCardOff, creditScore, crib, crisisAlert, crop, crop169, crop32, crop54, crop75, cropDin, cropFree, cropLandscape, cropOriginal, cropPortrait, cropRotate, cropSquare, crueltyFree, css, currencyBitcoin, currencyExchange, currencyFranc, currencyLira, currencyPound, currencyRuble, currencyRupee, currencyYen, currencyYuan, curtains, curtainsClosed, cyclone, dangerous, darkMode, dashboard, dashboardCustomize, dataArray, dataExploration, dataObject, dataSaverOff, dataSaverOn, dataThresholding, dataUsage, dataset, datasetLinked, dateRange, deblur, deck, dehaze, delete, deleteForever, deleteOutline, deleteSweep, deliveryDining, densityLarge, densityMedium, densitySmall, departureBoard, description, deselect, designServices, desk, desktopAccessDisabled, desktopMac, desktopWindows, details, developerBoard, developerBoardOff, developerMode, deviceHub, deviceThermostat, deviceUnknown, devices, devicesFold, devicesOther, dialerSip, dialpad, diamond, difference, dining, dinnerDining, directions, directionsBike, directionsBoat, directionsBoatFilled, directionsBus, directionsBusFilled, directionsCar, directionsCarFilled, directionsOff, directionsRailway, directionsRailwayFilled, directionsRun, directionsSubway, directionsSubwayFilled, directionsTransit, directionsTransitFilled, directionsWalk, dirtyLens, disabledByDefault, disabledVisible, discFull, discord, discount, displaySettings, diversity1, diversity2, diversity3, divide, dns, doDisturb, doDisturbAlt, doDisturbOff, doDisturbOn, doNotDisturb, doNotDisturbAlt, doNotDisturbOff, doNotDisturbOn, doNotDisturbOnTotalSilence, doNotStep, doNotTouch, dock, documentScanner, domain, domainAdd, domainDisabled, domainVerification, done, doneAll, doneOutline, donutLarge, donutSmall, doorBack, doorFront, doorSliding, doorbell, doubleArrow, downhillSkiing, download, downloadDone, downloadForOffline, downloading, drafts, dragHandle, dragIndicator, draw, driveEta, driveFileMove, driveFileMoveRtl, driveFileRenameOutline, driveFolderUpload, dry, dryCleaning, duo, dvr, dynamicFeed, dynamicForm, eMobiledata, earbuds, earbudsBattery, east, eco, edgesensorHigh, edgesensorLow, edit, editAttributes, editCalendar, editLocation, editLocationAlt, editNote, editNotifications, editOff, editRoad, egg, eggAlt, eightK, eightKPlus, eightMp, eighteenMp, eighteenUpRating, eject, elderly, elderlyWoman, electricBike, electricBolt, electricCar, electricMeter, electricMoped, electricRickshaw, electricScooter, electricalServices, elevator, elevenMp, email, emergency, emergencyRecording, emergencyShare, emojiEmotions, emojiEvents, emojiFlags, emojiFoodBeverage, emojiNature, emojiObjects, emojiPeople, emojiSymbols, emojiTransportation, energySavingsLeaf, engineering, enhancedEncryption, equalizer, equals, error, errorOutline, escalator, escalatorWarning, euro, euroSymbol, evStation, event, eventAvailable, eventBusy, eventNote, eventRepeat, eventSeat, exitToApp, expand, expandCircleDown, expandLess, expandMore, explicit, explore, exploreOff, exposure, exposureNeg1, exposureNeg2, exposurePlus1, exposurePlus2, exposureZero, extension, extensionOff, face, face2, face3, face4, face5, face6, faceRetouchingNatural, faceRetouchingOff, facebook, factCheck, factory, familyRestroom, fastForward, fastRewind, fastfood, favorite, favoriteBorder, fax, featuredPlayList, featuredVideo, feed, feedback, female, fence, festival, fiberDvr, fiberManualRecord, fiberNew, fiberPin, fiberSmartRecord, fifteenMp, fileCopy, fileDownload, fileDownloadDone, fileDownloadOff, fileOpen, filePresent, fileUpload, filter, filter1, filter2, filter3, filter4, filter5, filter6, filter7, filter8, filter9, filter9Plus, filterAlt, filterAltOff, filterBAndW, filterCenterFocus, filterDrama, filterFrames, filterHdr, filterList, filterListOff, filterNone, filterTiltShift, filterVintage, findInPage, findReplace, fingerprint, fireExtinguisher, fireHydrantAlt, fireTruck, fireplace, firstPage, fitScreen, fitbit, fitnessCenter, fiveG, fiveK, fiveKPlus, fiveMp, flag, flagCircle, flaky, flare, flashAuto, flashOff, flashOn, flashlightOff, flashlightOn, flatware, flight, flightClass, flightLand, flightTakeoff, flip, flipCameraAndroid, flipCameraIos, flipToBack, flipToFront, flood, flourescent, fluorescent, flutterDash, fmdBad, fmdGood, folder, folderCopy, folderDelete, folderOff, folderOpen, folderShared, folderSpecial, folderZip, followTheSigns, fontDownload, fontDownloadOff, foodBank, forest, forkLeft, forkRight, formatAlignCenter, formatAlignJustify, formatAlignLeft, formatAlignRight, formatBold, formatClear, formatColorFill, formatColorReset, formatColorText, formatIndentDecrease, formatIndentIncrease, formatItalic, formatLineSpacing, formatListBulleted, formatListNumbered, formatListNumberedRtl, formatOverline, formatPaint, formatQuote, formatShapes, formatSize, formatStrikethrough, formatTextdirectionLToR, formatTextdirectionRToL, formatUnderlined, fort, forum, forward, forward10, forward30, forward5, forwardToInbox, foundation, fourGMobiledata, fourGPlusMobiledata, fourK, fourKPlus, fourMp, fourteenMp, freeBreakfast, freeCancellation, frontHand, fullscreen, fullscreenExit, functions, gMobiledata, gTranslate, gamepad, games, garage, gasMeter, gavel, generatingTokens, gesture, getApp, gif, gifBox, girl, gite, golfCourse, gppBad, gppGood, gppMaybe, gpsFixed, gpsNotFixed, gpsOff, grade, gradient, grading, grain, graphicEq, grass, greaterThan, greaterThanEqual, grid3x3, grid4x4, gridGoldenratio, gridOff, gridOn, gridView, group, groupAdd, groupOff, groupRemove, groupWork, groups, groups2, groups3, hMobiledata, hPlusMobiledata, hail, handshake, handyman, hardware, hd, hdrAuto, hdrAutoSelect, hdrEnhancedSelect, hdrOff, hdrOffSelect, hdrOn, hdrOnSelect, hdrPlus, hdrStrong, hdrWeak, headphones, headphonesBattery, headset, headsetMic, headsetOff, healing, healthAndSafety, hearing, hearingDisabled, heartBroken, heatPump, height, help, helpCenter, helpOutline, hevc, hexagon, hideImage, hideSource, highQuality, highlight, highlightAlt, highlightOff, hiking, history, historyEdu, historyToggleOff, hive, hls, hlsOff, holidayVillage, home, homeMax, homeMini, homeRepairService, homeWork, horizontalDistribute, horizontalRule, horizontalSplit, hotTub, hotel, hotelClass, hourglassBottom, hourglassDisabled, hourglassEmpty, hourglassFull, hourglassTop, house, houseSiding, houseboat, howToReg, howToVote, html, http, https, hub, hvac, iceSkating, icecream, image, imageAspectRatio, imageNotSupported, imageSearch, imagesearchRoller, importContacts, importExport, importantDevices, inbox, incompleteCircle, indeterminateCheckBox, info, input, insertChart, insertChartOutlined, insertComment, insertDriveFile, insertEmoticon, insertInvitation, insertLink, insertPageBreak, insertPhoto, insights, installDesktop, installMobile, integrationInstructions, interests, interpreterMode, inventory, inventory2, invertColors, invertColorsOff, iosShare, iron, iso, javascript, joinFull, joinInner, joinLeft, joinRight, kayaking, kebabDining, key, keyOff, keyboard, keyboardAlt, keyboardArrowDown, keyboardArrowLeft, keyboardArrowRight, keyboardArrowUp, keyboardBackspace, keyboardCapslock, keyboardCommandKey, keyboardControlKey, keyboardDoubleArrowDown, keyboardDoubleArrowLeft, keyboardDoubleArrowRight, keyboardDoubleArrowUp, keyboardHide, keyboardOptionKey, keyboardReturn, keyboardTab, keyboardVoice, kingBed, kitchen, kitesurfing, label, labelImportant, labelOff, lan, landscape, landslide, language, laptop, laptopChromebook, laptopMac, laptopWindows, lastPage, launch, layers, layersClear, leaderboard, leakAdd, leakRemove, leaveBagsAtHome, legendToggle, lens, lensBlur, lessThan, lessThanEqual, libraryAdd, libraryAddCheck, libraryBooks, libraryMusic, light, lightMode, lightbulb, lightbulbCircle, lineAxis, lineStyle, lineWeight, linearScale, link, linkOff, linkedCamera, liquor, list, listAlt, liveHelp, liveTv, living, localActivity, localAirport, localAtm, localBar, localCafe, localCarWash, localConvenienceStore, localDining, localDrink, localFireDepartment, localFlorist, localGasStation, localGroceryStore, localHospital, localHotel, localLaundryService, localLibrary, localMall, localMovies, localOffer, localParking, localPharmacy, localPhone, localPizza, localPlay, localPolice, localPostOffice, localPrintshop, localSee, localShipping, localTaxi, locationCity, locationDisabled, locationOff, locationOn, locationSearching, lock, lockClock, lockOpen, lockPerson, lockReset, logIn, logOut, login, logoDev, logout, looks, looks3, looks4, looks5, looks6, looksOne, looksTwo, loop, loupe, lowPriority, loyalty, lteMobiledata, ltePlusMobiledata, luggage, lunchDining, lyrics, macroOff, mail, mailLock, mailOutline, male, man, man2, man3, man4, manageAccounts, manageHistory, manageSearch, map, mapsHomeWork, mapsUgc, margin, markAsUnread, markChatRead, markChatUnread, markEmailRead, markEmailUnread, markUnreadChatAlt, markunread, markunreadMailbox, masks, maximize, mediaBluetoothOff, mediaBluetoothOn, mediation, medicalInformation, medicalServices, medication, medicationLiquid, meetingRoom, memory, menu, menuBook, menuOpen, merge, mergeType, message, mic, micExternalOff, micExternalOn, micNone, micOff, microwave, militaryTech, minimize, minorCrash, minus, miscellaneousServices, missedVideoCall, mms, mobileFriendly, mobileOff, mobileScreenShare, mobiledataOff, mode, modeComment, modeEdit, modeEditOutline, modeFanOff, modeNight, modeOfTravel, modeStandby, modelTraining, monetizationOn, money, moneyOff, moneyOffCsred, monitor, monitorHeart, monitorWeight, monochromePhotos, mood, moodBad, moped, more, moreHoriz, moreTime, moreVert, mosque, motionPhotosAuto, motionPhotosOff, motionPhotosOn, motionPhotosPause, motionPhotosPaused, motorcycle, mouse, moveDown, moveToInbox, moveUp, movie, movieCreation, movieFilter, moving, mp, multilineChart, multipleStop, museum, musicNote, musicOff, musicVideo, myLocation, nat, nature, naturePeople, navigateBefore, navigateNext, navigation, nearMe, nearMeDisabled, nearbyError, nearbyOff, nestCamWiredStand, networkCell, networkCheck, networkLocked, networkPing, networkWifi, networkWifi1Bar, networkWifi2Bar, networkWifi3Bar, newLabel, newReleases, newspaper, nextPlan, nextWeek, nfc, nightShelter, nightlife, nightlight, nightlightRound, nightsStay, nineK, nineKPlus, nineMp, nineteenMp, noAccounts, noAdultContent, noBackpack, noCell, noCrash, noDrinks, noEncryption, noEncryptionGmailerrorred, noFlash, noFood, noLuggage, noMeals, noMeetingRoom, noPhotography, noSim, noStroller, noTransfer, noiseAware, noiseControlOff, nordicWalking, north, northEast, northWest, notAccessible, notEqual, notInterested, notListedLocation, notStarted, note, noteAdd, noteAlt, notes, notificationAdd, notificationImportant, notifications, notificationsActive, notificationsNone, notificationsOff, notificationsPaused, numbers, offlineBolt, offlinePin, offlineShare, oilBarrel, onDeviceTraining, ondemandVideo, oneK, oneKPlus, oneTwoThree, oneXMobiledata, onlinePrediction, opacity, openInBrowser, openInFull, openInNew, openInNewOff, openWith, otherHouses, outbond, outbound, outbox, outdoorGrill, outlet, outlinedFlag, output, padding, pages, pageview, paid, palette, panTool, panToolAlt, panorama, panoramaFishEye, panoramaHorizontal, panoramaHorizontalSelect, panoramaPhotosphere, panoramaPhotosphereSelect, panoramaVertical, panoramaVerticalSelect, panoramaWideAngle, panoramaWideAngleSelect, paragliding, park, partyMode, password, pattern, pause, pauseCircle, pauseCircleFilled, pauseCircleOutline, pausePresentation, payment, payments, paypal, pedalBike, pending, pendingActions, pentagon, people, peopleAlt, peopleOutline, percent, percentage, permCameraMic, permContactCalendar, permDataSetting, permDeviceInformation, permIdentity, permMedia, permPhoneMsg, permScanWifi, person, person2, person3, person4, personAdd, personAddAlt, personAddAlt1, personAddDisabled, personOff, personOutline, personPin, personPinCircle, personRemove, personRemoveAlt1, personSearch, personalInjury, personalVideo, pestControl, pestControlRodent, pets, phishing, phone, phoneAndroid, phoneBluetoothSpeaker, phoneCallback, phoneDisabled, phoneEnabled, phoneForwarded, phoneInTalk, phoneIphone, phoneLocked, phoneMissed, phonePaused, phonelink, phonelinkErase, phonelinkLock, phonelinkOff, phonelinkRing, phonelinkSetup, photo, photoAlbum, photoCamera, photoCameraBack, photoCameraFront, photoFilter, photoLibrary, photoSizeSelectActual, photoSizeSelectLarge, photoSizeSelectSmall, php, piano, pianoOff, pictureAsPdf, pictureInPicture, pictureInPictureAlt, pieChart, pieChartOutline, pin, pinDrop, pinEnd, pinInvoke, pinOff, pinch, pivotTableChart, pix, place, plagiarism, playArrow, playCircle, playCircleFilled, playCircleFilledWhite, playCircleOutline, playDisabled, playForWork, playLesson, playlistAdd, playlistAddCheck, playlistAddCheckCircle, playlistAddCircle, playlistPlay, playlistRemove, plumbing, plus, plusMinus, plusMinusAlt, plusOne, podcasts, pointOfSale, policy, poll, polyline, polymer, pool, portableWifiOff, portrait, postAdd, power, powerInput, powerOff, powerSettingsNew, precisionManufacturing, pregnantWoman, presentToAll, preview, priceChange, priceCheck, print, printDisabled, priorityHigh, privacyTip, privateConnectivity, productionQuantityLimits, propane, propaneTank, psychology, psychologyAlt, public, publicOff, publish, publishedWithChanges, punchClock, pushPin, qrCode, qrCode2, qrCodeScanner, qrcode, queryBuilder, queryStats, questionAnswer, questionMark, queue, queueMusic, queuePlayNext, quickreply, quiz, quora, rMobiledata, radar, radio, radioButtonChecked, radioButtonUnchecked, railwayAlert, ramenDining, rampLeft, rampRight, rateReview, rawOff, rawOn, readMore, realEstateAgent, receipt, receiptLong, recentActors, recommend, recordVoiceOver, rectangle, recycling, reddit, redeem, redo, reduceCapacity, refresh, rememberMe, remove, removeCircle, removeCircleOutline, removeDone, removeFromQueue, removeModerator, removeRedEye, removeRoad, removeShoppingCart, reorder, repartition, repeat, repeatOn, repeatOne, repeatOneOn, replay, replay10, replay30, replay5, replayCircleFilled, reply, replyAll, report, reportGmailerrorred, reportOff, reportProblem, requestPage, requestQuote, resetTv, restartAlt, restaurant, restaurantMenu, restore, restoreFromTrash, restorePage, reviews, riceBowl, ringVolume, rocket, rocketLaunch, rollerShades, rollerShadesClosed, rollerSkating, roofing, room, roomPreferences, roomService, rotate90DegreesCcw, rotate90DegreesCw, rotateLeft, rotateRight, roundaboutLeft, roundaboutRight, roundedCorner, route, router, rowing, rssFeed, rsvp, rtt, rule, ruleFolder, runCircle, runningWithErrors, rvHookup, safetyCheck, safetyDivider, sailing, sanitizer, satellite, satelliteAlt, save, saveAll, saveAlt, saveAs, savedSearch, savings, scale, scanner, scatterPlot, schedule, scheduleSend, schema, school, science, score, scoreboard, screenLockLandscape, screenLockPortrait, screenLockRotation, screenRotation, screenRotationAlt, screenSearchDesktop, screenShare, screenshot, screenshotMonitor, scubaDiving, sd, sdCard, sdCardAlert, sdStorage, search, searchOff, security, securityUpdate, securityUpdateGood, securityUpdateWarning, segment, selectAll, selfImprovement, sell, send, sendAndArchive, sendTimeExtension, sendToMobile, sensorDoor, sensorOccupied, sensorWindow, sensors, sensorsOff, sentimentDissatisfied, sentimentNeutral, sentimentSatisfied, sentimentSatisfiedAlt, sentimentSlightlyDissatisfied, sentimentVeryDissatisfied, sentimentVerySatisfied, setMeal, settings, settingsAccessibility, settingsApplications, settingsBackupRestore, settingsBluetooth, settingsBrightness, settingsCell, settingsEthernet, settingsInputAntenna, settingsInputComponent, settingsInputComposite, settingsInputHdmi, settingsInputSvideo, settingsOverscan, settingsPhone, settingsPower, settingsRemote, settingsSuggest, settingsSystemDaydream, settingsVoice, sevenK, sevenKPlus, sevenMp, seventeenMp, severeCold, shapeLine, share, shareArrivalTime, shareLocation, shield, shieldMoon, shop, shop2, shopTwo, shopify, shoppingBag, shoppingBasket, shoppingCart, shoppingCartCheckout, shortText, shortcut, showChart, shower, shuffle, shuffleOn, shutterSpeed, sick, signLanguage, signalCellular0Bar, signalCellular1Bar, signalCellular2Bar, signalCellular3Bar, signalCellular4Bar, signalCellularAlt, signalCellularAlt1Bar, signalCellularAlt2Bar, signalCellularConnectedNoInternet0Bar, signalCellularConnectedNoInternet1Bar, signalCellularConnectedNoInternet2Bar, signalCellularConnectedNoInternet3Bar, signalCellularConnectedNoInternet4Bar, signalCellularNoSim, signalCellularNodata, signalCellularNull, signalCellularOff, signalWifi0Bar, signalWifi1Bar, signalWifi1BarLock, signalWifi2Bar, signalWifi2BarLock, signalWifi3Bar, signalWifi3BarLock, signalWifi4Bar, signalWifi4BarLock, signalWifiBad, signalWifiConnectedNoInternet4, signalWifiOff, signalWifiStatusbar4Bar, signalWifiStatusbarConnectedNoInternet4, signalWifiStatusbarNull, signpost, simCard, simCardAlert, simCardDownload, singleBed, sip, sixFtApart, sixK, sixKPlus, sixMp, sixteenMp, sixtyFps, sixtyFpsSelect, skateboarding, skipNext, skipPrevious, sledding, slideshow, slowMotionVideo, smartButton, smartDisplay, smartScreen, smartToy, smartphone, smokeFree, smokingRooms, sms, smsFailed, snapchat, snippetFolder, snooze, snowboarding, snowmobile, snowshoeing, soap, socialDistance, solarPower, sort, sortByAlpha, sos, soupKitchen, source, south, southAmerica, southEast, southWest, spa, spaceBar, spaceDashboard, spatialAudio, spatialAudioOff, spatialTracking, speaker, speakerGroup, speakerNotes, speakerNotesOff, speakerPhone, speed, spellcheck, splitscreen, spoke, sports, sportsBar, sportsBaseball, sportsBasketball, sportsCricket, sportsEsports, sportsFootball, sportsGolf, sportsGymnastics, sportsHandball, sportsHockey, sportsKabaddi, sportsMartialArts, sportsMma, sportsMotorsports, sportsRugby, sportsScore, sportsSoccer, sportsTennis, sportsVolleyball, square, squareFoot, ssidChart, stackedBarChart, stackedLineChart, stadium, stairs, star, starBorder, starBorderPurple500, starHalf, starOutline, starPurple500, starRate, stars, start, stayCurrentLandscape, stayCurrentPortrait, stayPrimaryLandscape, stayPrimaryPortrait, stickyNote2, stop, stopCircle, stopScreenShare, storage, store, storeMallDirectory, storefront, storm, straight, straighten, stream, streetview, strikethroughS, stroller, style, subdirectoryArrowLeft, subdirectoryArrowRight, subject, subscript, subscriptions, subtitles, subtitlesOff, subway, summarize, superscript, supervisedUserCircle, supervisorAccount, support, supportAgent, surfing, surroundSound, swapCalls, swapHoriz, swapHorizontalCircle, swapVert, swapVerticalCircle, swipe, swipeDown, swipeDownAlt, swipeLeft, swipeLeftAlt, swipeRight, swipeRightAlt, swipeUp, swipeUpAlt, swipeVertical, switchAccessShortcut, switchAccessShortcutAdd, switchAccount, switchCamera, switchLeft, switchRight, switchVideo, synagogue, sync, syncAlt, syncDisabled, syncLock, syncProblem, systemSecurityUpdate, systemSecurityUpdateGood, systemSecurityUpdateWarning, systemUpdate, systemUpdateAlt, tab, tabUnselected, tableBar, tableChart, tableRestaurant, tableRows, tableView, tablet, tabletAndroid, tabletMac, tag, tagFaces, takeoutDining, tapAndPlay, tapas, task, taskAlt, taxiAlert, telegram, templeBuddhist, templeHindu, tenK, tenMp, terminal, terrain, textDecrease, textFields, textFormat, textIncrease, textRotateUp, textRotateVertical, textRotationAngledown, textRotationAngleup, textRotationDown, textRotationNone, textSnippet, textsms, texture, theaterComedy, theaters, thermostat, thermostatAuto, thirteenMp, thirtyFps, thirtyFpsSelect, threeDRotation, threeGMobiledata, threeK, threeKPlus, threeMp, threeP, threeSixty, thumbDown, thumbDownAlt, thumbDownOffAlt, thumbUp, thumbUpAlt, thumbUpOffAlt, thumbsUpDown, thunderstorm, tiktok, timeToLeave, timelapse, timeline, timer, timer10, timer10Select, timer3, timer3Select, timerOff, tipsAndUpdates, tireRepair, title, toHtml, toHtmlWith, toc, today, toggleOff, toggleOn, token, toll, tonality, topic, tornado, touchApp, tour, toys, trackChanges, traffic, train, tram, transcribe, transferWithinAStation, transform, transgender, transitEnterexit, translate, travelExplore, trendingDown, trendingFlat, trendingUp, tripOrigin, troubleshoot, try, tsunami, tty, tune, tungsten, turnLeft, turnRight, turnSharpLeft, turnSharpRight, turnSlightLeft, turnSlightRight, turnedIn, turnedInNot, tv, tvOff, twelveMp, twentyFourMp, twentyMp, twentyOneMp, twentyThreeMp, twentyTwoMp, twoK, twoKPlus, twoMp, twoWheeler, typeSpecimen, uTurnLeft, uTurnRight, umbrella, unarchive, undo, unfoldLess, unfoldLessDouble, unfoldMore, unfoldMoreDouble, unpublished, unsubscribe, upcoming, update, updateDisabled, upgrade, upload, uploadFile, usb, usbOff, vaccines, vapeFree, vapingRooms, verified, verifiedUser, verticalAlignBottom, verticalAlignCenter, verticalAlignTop, verticalDistribute, verticalShades, verticalShadesClosed, verticalSplit, vibration, videoCall, videoCameraBack, videoCameraFront, videoChat, videoFile, videoLabel, videoLibrary, videoSettings, videoStable, videocam, videocamOff, videogameAsset, videogameAssetOff, viewAgenda, viewArray, viewCarousel, viewColumn, viewComfy, viewComfyAlt, viewCompact, viewCompactAlt, viewCozy, viewDay, viewHeadline, viewInAr, viewKanban, viewList, viewModule, viewQuilt, viewSidebar, viewStream, viewTimeline, viewWeek, vignette, villa, visibility, visibilityOff, voiceChat, voiceOverOff, voicemail, volcano, volumeDown, volumeMute, volumeOff, volumeUp, volunteerActivism, vpnKey, vpnKeyOff, vpnLock, vrpano, wallet, wallpaper, warehouse, warning, warningAmber, wash, watch, watchLater, watchOff, water, waterDamage, waterDrop, waterfallChart, waves, wavingHand, wbAuto, wbCloudy, wbIncandescent, wbIridescent, wbShade, wbSunny, wbTwilight, wc, web, webAsset, webAssetOff, webStories, webhook, wechat, weekend, west, whatsapp, whatshot, wheelchairPickup, whereToVote, widgets, widthFull, widthNormal, widthWide, wifi, wifi1Bar, wifi2Bar, wifiCalling, wifiCalling3, wifiChannel, wifiFind, wifiLock, wifiOff, wifiPassword, wifiProtectedSetup, wifiTethering, wifiTetheringError, wifiTetheringErrorRounded, wifiTetheringOff, windPower, window, wineBar, woman, woman2, wooCommerce, wordpress, work, workHistory, workOff, workOutline, workspacePremium, workspaces, wrapText, wrongLocation, wysiwyg, yard, youtubeSearchedFor, zoomIn, zoomInMap, zoomOut, zoomOutMap)
 
 {-| 
+## Type
+
+@docs Icon
+
+## Conversions
+
+@docs toHtmlWith, toHtml
+
 ## Action Icons
 
 @docs zoomOut, zoomIn, youtubeSearchedFor, wysiwyg, workOutline, workOff, workHistory, work, wifiProtectedSetup, widthWide, widthNormal, widthFull, webhook, watchLater, voiceOverOff, visibilityOff, visibility, viewWeek, viewTimeline, viewStream, viewSidebar, viewQuilt, viewModule, viewList, viewKanban, viewInAr, viewHeadline, viewDay, viewCozy, viewCompactAlt, viewComfyAlt, viewColumn, viewCarousel, viewArray, viewAgenda, verticalSplit, verifiedUser, verified, upgrade, updateDisabled, update, unpublished, unfoldMoreDouble, unfoldLessDouble, turnedInNot, turnedIn, try, troubleshoot, trendingUp, trendingFlat, trendingDown, translate, transcribe, trackChanges, tour, touchApp, toll, token, today, toc, tipsAndUpdates, timeline, thumbsUpDown, thumbUpOffAlt, thumbUp, thumbDownOffAlt, thumbDown, theaters, textRotationNone, textRotationDown, textRotationAngleup, textRotationAngledown, textRotateVertical, textRotateUp, terminal, taskAlt, tableView, tabUnselected, tab, systemUpdateAlt, syncAlt, switchAccessShortcutAdd, switchAccessShortcut, swipeVertical, swipeUpAlt, swipeUp, swipeRightAlt, swipeRight, swipeLeftAlt, swipeLeft, swipeDownAlt, swipeDown, swipe, swapVerticalCircle, swapVert, swapHorizontalCircle, swapHoriz, support, supervisorAccount, supervisedUserCircle, subtitlesOff, subject, store, stickyNote2, stars, starRate, spellcheck, speakerNotesOff, speakerNotes, spatialTracking, spatialAudioOff, spatialAudio, spaceDashboard, source, smartButton, shoppingCartCheckout, shoppingCart, shoppingBasket, shoppingBag, shopTwo, shop2, shop, settingsVoice, settingsRemote, settingsPower, settingsPhone, settingsOverscan, settingsInputSvideo, settingsInputHdmi, settingsInputComposite, settingsInputComponent, settingsInputAntenna, settingsEthernet, settingsCell, settingsBrightness, settingsBluetooth, settingsBackupRestore, settingsApplications, settingsAccessibility, settings, sensorsOff, sensors, sendAndArchive, segment, searchOff, search, scheduleSend, schedule, savings, savedSearch, satelliteAlt, rule, rowing, roundedCorner, room, rocketLaunch, rocket, restorePage, restoreFromTrash, restore, requestPage, reportProblem, repartition, reorder, removeShoppingCart, removeDone, redeem, recordVoiceOver, receipt, quickreply, questionMark, questionAnswer, queryBuilder, publishedWithChanges, productionQuantityLimits, privateConnectivity, privacyTip, print, preview, pregnantWoman, powerSettingsNew, polymer, playForWork, plagiarism, pinch, pinInvoke, pinEnd, pictureInPictureAlt, pictureInPicture, php, pets, permScanWifi, permPhoneMsg, permMedia, permIdentity, permDeviceInformation, permDataSetting, permContactCalendar, permCameraMic, percent, pendingActions, pending, payment, panToolAlt, panTool, paid, pageview, output, outlet, outbox, outbound, outbond, openWith, openInNewOff, openInNew, openInFull, openInBrowser, opacity, onlinePrediction, onDeviceTraining, offlinePin, offlineBolt, noteAdd, notStarted, notAccessible, noiseControlOff, noiseAware, noAccounts, nightlightRound, nextPlan, newLabel, networkPing, motorcycle, modelTraining, minimize, mediation, maximize, markunreadMailbox, markAsUnread, manageHistory, manageAccounts, loyalty, logout, login, logOut, logIn, lockReset, lockPerson, lockOpen, lockClock, lock, list, lineWeight, lineStyle, lightbulbCircle, lightbulb, leaderboard, launch, language, labelOff, labelImportant, label, joinRight, joinLeft, joinInner, joinFull, javascript, invertColors, integrationInstructions, installMobile, installDesktop, input, info, importantDevices, https, http, html, hourglassFull, hourglassEmpty, hourglassDisabled, hotelClass, horizontalSplit, home, hlsOff, hls, historyToggleOff, history, highlightOff, highlightAlt, hideSource, helpOutline, helpCenter, help, groupWork, grading, grade, gifBox, gif, getApp, generatingTokens, gavel, gTranslate, freeCancellation, flutterDash, flipToFront, flipToBack, flightTakeoff, flightLand, flaky, fitScreen, fingerprint, findReplace, findInPage, filterAltOff, filterAlt, filePresent, feedback, fax, favoriteBorder, favorite, factCheck, face, extensionOff, extension, exploreOff, explore, expand, exitToApp, eventSeat, eventRepeat, event, euroSymbol, eject, editOff, editCalendar, eco, dynamicForm, dragIndicator, donutSmall, donutLarge, doneOutline, doneAll, done, dns, displaySettings, disabledVisible, disabledByDefault, description, densitySmall, densityMedium, densityLarge, deleteOutline, deleteForever, delete, dateRange, dataThresholding, dataExploration, dashboardCustomize, dashboard, dangerous, currencyExchange, css, creditCardOff, creditCard, copyright, contactless, contactSupport, contactPage, compress, compareArrows, commute, commit, commentBank, codeOff, code, closeFullscreen, class, circleNotifications, chromeReaderMode, checkCircleOutline, checkCircle, changeHistory, cardTravel, cardMembership, cardGiftcard, cancelScheduleSend, cameraEnhance, calendarViewWeek, calendarViewMonth, calendarViewDay, calendarToday, calendarMonth, cached, buildCircle, build, bugReport, browseGallery, bookmarks, bookmarkRemove, bookmarkBorder, bookmarkAdded, bookmarkAdd, bookmark, bookOnline, book, batchPrediction, balance, backupTable, backup, autorenew, assuredWorkload, assignmentTurnedIn, assignmentReturned, assignmentReturn, assignmentLate, assignmentInd, assignment, assessment, aspectRatio, article, arrowRightAlt, arrowOutward, arrowCircleUp, arrowCircleRight, arrowCircleLeft, arrowCircleDown, appShortcut, appBlocking, api, announcement, android, anchor, analytics, allOut, allInbox, alarmOn, alarmOff, alarmAdd, alarm, adsClick, adminPanelSettings, addchart, addToDrive, addTask, addShoppingCart, addHome, addCard, accountCircle, accountBox, accountBalanceWallet, accountBalance, accessibleForward, accessible, accessibilityNew, accessibility, abc, threeDRotation, oneTwoThree
@@ -20,10 +28,6 @@ module Material.Icons.Round exposing (Icon, abc, acUnit, accessAlarm, accessAlar
 ## Content Icons
 
 @docs whereToVote, weekend, webStories, waves, upcoming, undo, unarchive, textFormat, tag, stream, stackedBarChart, squareFoot, sort, shield, send, selectAll, saveAs, saveAlt, saveAll, save, reportOff, reportGmailerrorred, report, replyAll, reply, removeCircleOutline, removeCircle, remove, redo, pushPin, policy, pinOff, outlinedFlag, nextWeek, moveToInbox, markunread, mail, lowPriority, linkOff, link, inventory2, inventory, insights, inbox, howToVote, howToReg, gesture, forward, fontDownloadOff, fontDownload, flagCircle, flag, filterListOff, filterList, fileCopy, dynamicFeed, drafts, deselect, deleteSweep, create, copyAll, contentPasteSearch, contentPasteOff, contentPasteGo, contentPaste, contentCut, contentCopy, clear, changeCircle, calculate, bolt, block, biotech, ballot, backspace, attribution, archive, ampStories, addLink, addCircleOutline, addCircle, addBox, add
-
-## Conversions
-
-@docs toHtmlWith, toHtml
 
 ## Device Icons
 
@@ -84,10 +88,6 @@ module Material.Icons.Round exposing (Icon, abc, acUnit, accessAlarm, accessAlar
 ## Toggle Icons
 
 @docs toggleOn, toggleOff, starPurple500, starOutline, starHalf, starBorderPurple500, starBorder, star, radioButtonUnchecked, radioButtonChecked, indeterminateCheckBox, checkBoxOutlineBlank, checkBox
-
-## Type
-
-@docs Icon
 -}
 
 
@@ -241,7 +241,7 @@ seventeenMp =
         ]
 
 
-{-| 18 up rating -}
+{-| 18 Up Rating -}
 eighteenUpRating : Icon
 eighteenUpRating =
     I.fromNodes
@@ -294,7 +294,7 @@ oneK =
         ]
 
 
-{-| 1k plus -}
+{-| 1k Plus -}
 oneKPlus : Icon
 oneKPlus =
     I.fromNodes
@@ -306,7 +306,7 @@ oneKPlus =
         ]
 
 
-{-| 1x mobiledata -}
+{-| 1x Mobiledata -}
 oneXMobiledata : Icon
 oneXMobiledata =
     I.fromNodes
@@ -395,7 +395,7 @@ twoK =
         ]
 
 
-{-| 2k plus -}
+{-| 2k Plus -}
 twoKPlus : Icon
 twoKPlus =
     I.fromNodes
@@ -432,7 +432,7 @@ thirtyFps =
         ]
 
 
-{-| 30fps select -}
+{-| 30fps Select -}
 thirtyFpsSelect : Icon
 thirtyFpsSelect =
     I.fromNodes
@@ -456,7 +456,7 @@ threeSixty =
         ]
 
 
-{-| 3d rotation -}
+{-| 3d Rotation -}
 threeDRotation : Icon
 threeDRotation =
     I.fromNodes
@@ -468,7 +468,7 @@ threeDRotation =
         ]
 
 
-{-| 3g mobiledata -}
+{-| 3g Mobiledata -}
 threeGMobiledata : Icon
 threeGMobiledata =
     I.fromNodes
@@ -492,7 +492,7 @@ threeK =
         ]
 
 
-{-| 3k plus -}
+{-| 3k Plus -}
 threeKPlus : Icon
 threeKPlus =
     I.fromNodes
@@ -529,7 +529,7 @@ threeP =
         ]
 
 
-{-| 4g mobiledata -}
+{-| 4g Mobiledata -}
 fourGMobiledata : Icon
 fourGMobiledata =
     I.fromNodes
@@ -541,7 +541,7 @@ fourGMobiledata =
         ]
 
 
-{-| 4g plus mobiledata -}
+{-| 4g Plus Mobiledata -}
 fourGPlusMobiledata : Icon
 fourGPlusMobiledata =
     I.fromNodes
@@ -565,7 +565,7 @@ fourK =
         ]
 
 
-{-| 4k plus -}
+{-| 4k Plus -}
 fourKPlus : Icon
 fourKPlus =
     I.fromNodes
@@ -614,7 +614,7 @@ fiveK =
         ]
 
 
-{-| 5k plus -}
+{-| 5k Plus -}
 fiveKPlus : Icon
 fiveKPlus =
     I.fromNodes
@@ -639,7 +639,7 @@ fiveMp =
         ]
 
 
-{-| 6 ft apart -}
+{-| 6 Ft Apart -}
 sixFtApart : Icon
 sixFtApart =
     I.fromNodes
@@ -663,7 +663,7 @@ sixtyFps =
         ]
 
 
-{-| 60fps select -}
+{-| 60fps Select -}
 sixtyFpsSelect : Icon
 sixtyFpsSelect =
     I.fromNodes
@@ -687,7 +687,7 @@ sixK =
         ]
 
 
-{-| 6k plus -}
+{-| 6k Plus -}
 sixKPlus : Icon
 sixKPlus =
     I.fromNodes
@@ -725,7 +725,7 @@ sevenK =
         ]
 
 
-{-| 7k plus -}
+{-| 7k Plus -}
 sevenKPlus : Icon
 sevenKPlus =
     I.fromNodes
@@ -762,7 +762,7 @@ eightK =
         ]
 
 
-{-| 8k plus -}
+{-| 8k Plus -}
 eightKPlus : Icon
 eightKPlus =
     I.fromNodes
@@ -801,7 +801,7 @@ nineK =
         ]
 
 
-{-| 9k plus -}
+{-| 9k Plus -}
 nineKPlus : Icon
 nineKPlus =
     I.fromNodes
@@ -827,7 +827,7 @@ nineMp =
         ]
 
 
-{-| abc -}
+{-| Abc -}
 abc : Icon
 abc =
     I.fromNodes
@@ -839,7 +839,7 @@ abc =
         ]
 
 
-{-| ac unit -}
+{-| Ac Unit -}
 acUnit : Icon
 acUnit =
     I.fromNodes
@@ -851,7 +851,7 @@ acUnit =
         ]
 
 
-{-| access alarm -}
+{-| Access Alarm -}
 accessAlarm : Icon
 accessAlarm =
     I.fromNodes
@@ -863,7 +863,7 @@ accessAlarm =
         ]
 
 
-{-| access alarms -}
+{-| Access Alarms -}
 accessAlarms : Icon
 accessAlarms =
     I.fromNodes
@@ -875,7 +875,7 @@ accessAlarms =
         ]
 
 
-{-| access time -}
+{-| Access Time -}
 accessTime : Icon
 accessTime =
     I.fromNodes
@@ -887,7 +887,7 @@ accessTime =
         ]
 
 
-{-| access time filled -}
+{-| Access Time Filled -}
 accessTimeFilled : Icon
 accessTimeFilled =
     I.fromNodes
@@ -899,7 +899,7 @@ accessTimeFilled =
         ]
 
 
-{-| accessibility -}
+{-| Accessibility -}
 accessibility : Icon
 accessibility =
     I.fromNodes
@@ -911,7 +911,7 @@ accessibility =
         ]
 
 
-{-| accessibility new -}
+{-| Accessibility New -}
 accessibilityNew : Icon
 accessibilityNew =
     I.fromNodes
@@ -923,7 +923,7 @@ accessibilityNew =
         ]
 
 
-{-| accessible -}
+{-| Accessible -}
 accessible : Icon
 accessible =
     I.fromNodes
@@ -936,7 +936,7 @@ accessible =
         ]
 
 
-{-| accessible forward -}
+{-| Accessible Forward -}
 accessibleForward : Icon
 accessibleForward =
     I.fromNodes
@@ -949,7 +949,7 @@ accessibleForward =
         ]
 
 
-{-| account balance -}
+{-| Account Balance -}
 accountBalance : Icon
 accountBalance =
     I.fromNodes
@@ -961,7 +961,7 @@ accountBalance =
         ]
 
 
-{-| account balance wallet -}
+{-| Account Balance Wallet -}
 accountBalanceWallet : Icon
 accountBalanceWallet =
     I.fromNodes
@@ -973,7 +973,7 @@ accountBalanceWallet =
         ]
 
 
-{-| account box -}
+{-| Account Box -}
 accountBox : Icon
 accountBox =
     I.fromNodes
@@ -985,7 +985,7 @@ accountBox =
         ]
 
 
-{-| account circle -}
+{-| Account Circle -}
 accountCircle : Icon
 accountCircle =
     I.fromNodes
@@ -997,7 +997,7 @@ accountCircle =
         ]
 
 
-{-| account tree -}
+{-| Account Tree -}
 accountTree : Icon
 accountTree =
     I.fromNodes
@@ -1009,7 +1009,7 @@ accountTree =
         ]
 
 
-{-| ad units -}
+{-| Ad Units -}
 adUnits : Icon
 adUnits =
     I.fromNodes
@@ -1026,7 +1026,7 @@ adUnits =
         ]
 
 
-{-| adb -}
+{-| Adb -}
 adb : Icon
 adb =
     I.fromNodes
@@ -1038,7 +1038,7 @@ adb =
         ]
 
 
-{-| add -}
+{-| Add -}
 add : Icon
 add =
     I.fromNodes
@@ -1050,7 +1050,7 @@ add =
         ]
 
 
-{-| add a photo -}
+{-| Add A Photo -}
 addAPhoto : Icon
 addAPhoto =
     I.fromNodes
@@ -1068,7 +1068,7 @@ addAPhoto =
         ]
 
 
-{-| add alarm -}
+{-| Add Alarm -}
 addAlarm : Icon
 addAlarm =
     I.fromNodes
@@ -1080,7 +1080,7 @@ addAlarm =
         ]
 
 
-{-| add alert -}
+{-| Add Alert -}
 addAlert : Icon
 addAlert =
     I.fromNodes
@@ -1092,7 +1092,7 @@ addAlert =
         ]
 
 
-{-| add box -}
+{-| Add Box -}
 addBox : Icon
 addBox =
     I.fromNodes
@@ -1104,7 +1104,7 @@ addBox =
         ]
 
 
-{-| add business -}
+{-| Add Business -}
 addBusiness : Icon
 addBusiness =
     I.fromNodes
@@ -1121,7 +1121,7 @@ addBusiness =
         ]
 
 
-{-| add card -}
+{-| Add Card -}
 addCard : Icon
 addCard =
     I.fromNodes
@@ -1133,7 +1133,7 @@ addCard =
         ]
 
 
-{-| add chart -}
+{-| Add Chart -}
 addChart : Icon
 addChart =
     I.fromNodes
@@ -1155,7 +1155,7 @@ addChart =
         ]
 
 
-{-| add circle -}
+{-| Add Circle -}
 addCircle : Icon
 addCircle =
     I.fromNodes
@@ -1167,7 +1167,7 @@ addCircle =
         ]
 
 
-{-| add circle outline -}
+{-| Add Circle Outline -}
 addCircleOutline : Icon
 addCircleOutline =
     I.fromNodes
@@ -1179,7 +1179,7 @@ addCircleOutline =
         ]
 
 
-{-| add comment -}
+{-| Add Comment -}
 addComment : Icon
 addComment =
     I.fromNodes
@@ -1191,7 +1191,7 @@ addComment =
         ]
 
 
-{-| add home -}
+{-| Add Home -}
 addHome : Icon
 addHome =
     I.fromNodes
@@ -1208,7 +1208,7 @@ addHome =
         ]
 
 
-{-| add home work -}
+{-| Add Home Work -}
 addHomeWork : Icon
 addHomeWork =
     I.fromNodes
@@ -1225,7 +1225,7 @@ addHomeWork =
         ]
 
 
-{-| add ic call -}
+{-| Add Ic Call -}
 addIcCall : Icon
 addIcCall =
     I.fromNodes
@@ -1237,7 +1237,7 @@ addIcCall =
         ]
 
 
-{-| add link -}
+{-| Add Link -}
 addLink : Icon
 addLink =
     I.fromNodes
@@ -1249,7 +1249,7 @@ addLink =
         ]
 
 
-{-| add location -}
+{-| Add Location -}
 addLocation : Icon
 addLocation =
     I.fromNodes
@@ -1261,7 +1261,7 @@ addLocation =
         ]
 
 
-{-| add location alt -}
+{-| Add Location Alt -}
 addLocationAlt : Icon
 addLocationAlt =
     I.fromNodes
@@ -1273,7 +1273,7 @@ addLocationAlt =
         ]
 
 
-{-| add moderator -}
+{-| Add Moderator -}
 addModerator : Icon
 addModerator =
     I.fromNodes
@@ -1290,7 +1290,7 @@ addModerator =
         ]
 
 
-{-| add photo alternate -}
+{-| Add Photo Alternate -}
 addPhotoAlternate : Icon
 addPhotoAlternate =
     I.fromNodes
@@ -1302,7 +1302,7 @@ addPhotoAlternate =
         ]
 
 
-{-| add reaction -}
+{-| Add Reaction -}
 addReaction : Icon
 addReaction =
     I.fromNodes
@@ -1314,7 +1314,7 @@ addReaction =
         ]
 
 
-{-| add road -}
+{-| Add Road -}
 addRoad : Icon
 addRoad =
     I.fromNodes
@@ -1326,7 +1326,7 @@ addRoad =
         ]
 
 
-{-| add shopping cart -}
+{-| Add Shopping Cart -}
 addShoppingCart : Icon
 addShoppingCart =
     I.fromNodes
@@ -1338,7 +1338,7 @@ addShoppingCart =
         ]
 
 
-{-| add task -}
+{-| Add Task -}
 addTask : Icon
 addTask =
     I.fromNodes
@@ -1350,7 +1350,7 @@ addTask =
         ]
 
 
-{-| add to drive -}
+{-| Add To Drive -}
 addToDrive : Icon
 addToDrive =
     I.fromNodes
@@ -1362,7 +1362,7 @@ addToDrive =
         ]
 
 
-{-| add to home screen -}
+{-| Add To Home Screen -}
 addToHomeScreen : Icon
 addToHomeScreen =
     I.fromNodes
@@ -1374,7 +1374,7 @@ addToHomeScreen =
         ]
 
 
-{-| add to photos -}
+{-| Add To Photos -}
 addToPhotos : Icon
 addToPhotos =
     I.fromNodes
@@ -1386,7 +1386,7 @@ addToPhotos =
         ]
 
 
-{-| add to queue -}
+{-| Add To Queue -}
 addToQueue : Icon
 addToQueue =
     I.fromNodes
@@ -1398,7 +1398,7 @@ addToQueue =
         ]
 
 
-{-| addchart -}
+{-| Addchart -}
 addchart : Icon
 addchart =
     I.fromNodes
@@ -1410,7 +1410,7 @@ addchart =
         ]
 
 
-{-| adf scanner -}
+{-| Adf Scanner -}
 adfScanner : Icon
 adfScanner =
     I.fromNodes
@@ -1422,7 +1422,7 @@ adfScanner =
         ]
 
 
-{-| adjust -}
+{-| Adjust -}
 adjust : Icon
 adjust =
     I.fromNodes
@@ -1434,7 +1434,7 @@ adjust =
         ]
 
 
-{-| admin panel settings -}
+{-| Admin Panel Settings -}
 adminPanelSettings : Icon
 adminPanelSettings =
     I.fromNodes
@@ -1451,7 +1451,7 @@ adminPanelSettings =
         ]
 
 
-{-| adobe -}
+{-| Adobe -}
 adobe : Icon
 adobe =
     I.fromNodes
@@ -1463,7 +1463,7 @@ adobe =
         ]
 
 
-{-| ads click -}
+{-| Ads Click -}
 adsClick : Icon
 adsClick =
     I.fromNodes
@@ -1475,7 +1475,7 @@ adsClick =
         ]
 
 
-{-| agriculture -}
+{-| Agriculture -}
 agriculture : Icon
 agriculture =
     I.fromNodes
@@ -1492,7 +1492,7 @@ agriculture =
         ]
 
 
-{-| air -}
+{-| Air -}
 air : Icon
 air =
     I.fromNodes
@@ -1504,7 +1504,7 @@ air =
         ]
 
 
-{-| airline seat flat -}
+{-| Airline Seat Flat -}
 airlineSeatFlat : Icon
 airlineSeatFlat =
     I.fromNodes
@@ -1516,7 +1516,7 @@ airlineSeatFlat =
         ]
 
 
-{-| airline seat flat angled -}
+{-| Airline Seat Flat Angled -}
 airlineSeatFlatAngled : Icon
 airlineSeatFlatAngled =
     I.fromNodes
@@ -1528,7 +1528,7 @@ airlineSeatFlatAngled =
         ]
 
 
-{-| airline seat individual suite -}
+{-| Airline Seat Individual Suite -}
 airlineSeatIndividualSuite : Icon
 airlineSeatIndividualSuite =
     I.fromNodes
@@ -1540,7 +1540,7 @@ airlineSeatIndividualSuite =
         ]
 
 
-{-| airline seat legroom extra -}
+{-| Airline Seat Legroom Extra -}
 airlineSeatLegroomExtra : Icon
 airlineSeatLegroomExtra =
     I.fromNodes
@@ -1552,7 +1552,7 @@ airlineSeatLegroomExtra =
         ]
 
 
-{-| airline seat legroom normal -}
+{-| Airline Seat Legroom Normal -}
 airlineSeatLegroomNormal : Icon
 airlineSeatLegroomNormal =
     I.fromNodes
@@ -1564,7 +1564,7 @@ airlineSeatLegroomNormal =
         ]
 
 
-{-| airline seat legroom reduced -}
+{-| Airline Seat Legroom Reduced -}
 airlineSeatLegroomReduced : Icon
 airlineSeatLegroomReduced =
     I.fromNodes
@@ -1576,7 +1576,7 @@ airlineSeatLegroomReduced =
         ]
 
 
-{-| airline seat recline extra -}
+{-| Airline Seat Recline Extra -}
 airlineSeatReclineExtra : Icon
 airlineSeatReclineExtra =
     I.fromNodes
@@ -1588,7 +1588,7 @@ airlineSeatReclineExtra =
         ]
 
 
-{-| airline seat recline normal -}
+{-| Airline Seat Recline Normal -}
 airlineSeatReclineNormal : Icon
 airlineSeatReclineNormal =
     I.fromNodes
@@ -1600,7 +1600,7 @@ airlineSeatReclineNormal =
         ]
 
 
-{-| airline stops -}
+{-| Airline Stops -}
 airlineStops : Icon
 airlineStops =
     I.fromNodes
@@ -1612,7 +1612,7 @@ airlineStops =
         ]
 
 
-{-| airlines -}
+{-| Airlines -}
 airlines : Icon
 airlines =
     I.fromNodes
@@ -1624,7 +1624,7 @@ airlines =
         ]
 
 
-{-| airplane ticket -}
+{-| Airplane Ticket -}
 airplaneTicket : Icon
 airplaneTicket =
     I.fromNodes
@@ -1636,7 +1636,7 @@ airplaneTicket =
         ]
 
 
-{-| airplanemode active -}
+{-| Airplanemode Active -}
 airplanemodeActive : Icon
 airplanemodeActive =
     I.fromNodes
@@ -1648,7 +1648,7 @@ airplanemodeActive =
         ]
 
 
-{-| airplanemode inactive -}
+{-| Airplanemode Inactive -}
 airplanemodeInactive : Icon
 airplanemodeInactive =
     I.fromNodes
@@ -1660,7 +1660,7 @@ airplanemodeInactive =
         ]
 
 
-{-| airplay -}
+{-| Airplay -}
 airplay : Icon
 airplay =
     I.fromNodes
@@ -1672,7 +1672,7 @@ airplay =
         ]
 
 
-{-| airport shuttle -}
+{-| Airport Shuttle -}
 airportShuttle : Icon
 airportShuttle =
     I.fromNodes
@@ -1684,7 +1684,7 @@ airportShuttle =
         ]
 
 
-{-| alarm -}
+{-| Alarm -}
 alarm : Icon
 alarm =
     I.fromNodes
@@ -1696,7 +1696,7 @@ alarm =
         ]
 
 
-{-| alarm add -}
+{-| Alarm Add -}
 alarmAdd : Icon
 alarmAdd =
     I.fromNodes
@@ -1708,7 +1708,7 @@ alarmAdd =
         ]
 
 
-{-| alarm off -}
+{-| Alarm Off -}
 alarmOff : Icon
 alarmOff =
     I.fromNodes
@@ -1720,7 +1720,7 @@ alarmOff =
         ]
 
 
-{-| alarm on -}
+{-| Alarm On -}
 alarmOn : Icon
 alarmOn =
     I.fromNodes
@@ -1732,7 +1732,7 @@ alarmOn =
         ]
 
 
-{-| album -}
+{-| Album -}
 album : Icon
 album =
     I.fromNodes
@@ -1744,7 +1744,7 @@ album =
         ]
 
 
-{-| align horizontal center -}
+{-| Align Horizontal Center -}
 alignHorizontalCenter : Icon
 alignHorizontalCenter =
     I.fromNodes
@@ -1756,7 +1756,7 @@ alignHorizontalCenter =
         ]
 
 
-{-| align horizontal left -}
+{-| Align Horizontal Left -}
 alignHorizontalLeft : Icon
 alignHorizontalLeft =
     I.fromNodes
@@ -1768,7 +1768,7 @@ alignHorizontalLeft =
         ]
 
 
-{-| align horizontal right -}
+{-| Align Horizontal Right -}
 alignHorizontalRight : Icon
 alignHorizontalRight =
     I.fromNodes
@@ -1780,7 +1780,7 @@ alignHorizontalRight =
         ]
 
 
-{-| align vertical bottom -}
+{-| Align Vertical Bottom -}
 alignVerticalBottom : Icon
 alignVerticalBottom =
     I.fromNodes
@@ -1792,7 +1792,7 @@ alignVerticalBottom =
         ]
 
 
-{-| align vertical center -}
+{-| Align Vertical Center -}
 alignVerticalCenter : Icon
 alignVerticalCenter =
     I.fromNodes
@@ -1804,7 +1804,7 @@ alignVerticalCenter =
         ]
 
 
-{-| align vertical top -}
+{-| Align Vertical Top -}
 alignVerticalTop : Icon
 alignVerticalTop =
     I.fromNodes
@@ -1816,7 +1816,7 @@ alignVerticalTop =
         ]
 
 
-{-| all inbox -}
+{-| All Inbox -}
 allInbox : Icon
 allInbox =
     I.fromNodes
@@ -1828,7 +1828,7 @@ allInbox =
         ]
 
 
-{-| all inclusive -}
+{-| All Inclusive -}
 allInclusive : Icon
 allInclusive =
     I.fromNodes
@@ -1840,7 +1840,7 @@ allInclusive =
         ]
 
 
-{-| all out -}
+{-| All Out -}
 allOut : Icon
 allOut =
     I.fromNodes
@@ -1852,7 +1852,7 @@ allOut =
         ]
 
 
-{-| alt route -}
+{-| Alt Route -}
 altRoute : Icon
 altRoute =
     I.fromNodes
@@ -1864,7 +1864,7 @@ altRoute =
         ]
 
 
-{-| alternate email -}
+{-| Alternate Email -}
 alternateEmail : Icon
 alternateEmail =
     I.fromNodes
@@ -1876,7 +1876,7 @@ alternateEmail =
         ]
 
 
-{-| amp stories -}
+{-| Amp Stories -}
 ampStories : Icon
 ampStories =
     I.fromNodes
@@ -1888,7 +1888,7 @@ ampStories =
         ]
 
 
-{-| analytics -}
+{-| Analytics -}
 analytics : Icon
 analytics =
     I.fromNodes
@@ -1900,7 +1900,7 @@ analytics =
         ]
 
 
-{-| anchor -}
+{-| Anchor -}
 anchor : Icon
 anchor =
     I.fromNodes
@@ -1912,7 +1912,7 @@ anchor =
         ]
 
 
-{-| android -}
+{-| Android -}
 android : Icon
 android =
     I.fromNodes
@@ -1924,7 +1924,7 @@ android =
         ]
 
 
-{-| animation -}
+{-| Animation -}
 animation : Icon
 animation =
     I.fromNodes
@@ -1936,7 +1936,7 @@ animation =
         ]
 
 
-{-| announcement -}
+{-| Announcement -}
 announcement : Icon
 announcement =
     I.fromNodes
@@ -1948,7 +1948,7 @@ announcement =
         ]
 
 
-{-| aod -}
+{-| Aod -}
 aod : Icon
 aod =
     I.fromNodes
@@ -1960,7 +1960,7 @@ aod =
         ]
 
 
-{-| apartment -}
+{-| Apartment -}
 apartment : Icon
 apartment =
     I.fromNodes
@@ -1972,7 +1972,7 @@ apartment =
         ]
 
 
-{-| api -}
+{-| Api -}
 api : Icon
 api =
     I.fromNodes
@@ -1984,7 +1984,7 @@ api =
         ]
 
 
-{-| app blocking -}
+{-| App Blocking -}
 appBlocking : Icon
 appBlocking =
     I.fromNodes
@@ -2001,7 +2001,7 @@ appBlocking =
         ]
 
 
-{-| app registration -}
+{-| App Registration -}
 appRegistration : Icon
 appRegistration =
     I.fromNodes
@@ -2018,7 +2018,7 @@ appRegistration =
         ]
 
 
-{-| app settings alt -}
+{-| App Settings Alt -}
 appSettingsAlt : Icon
 appSettingsAlt =
     I.fromNodes
@@ -2030,7 +2030,7 @@ appSettingsAlt =
         ]
 
 
-{-| app shortcut -}
+{-| App Shortcut -}
 appShortcut : Icon
 appShortcut =
     I.fromNodes
@@ -2047,7 +2047,7 @@ appShortcut =
         ]
 
 
-{-| apple -}
+{-| Apple -}
 apple : Icon
 apple =
     I.fromNodes
@@ -2059,7 +2059,7 @@ apple =
         ]
 
 
-{-| approval -}
+{-| Approval -}
 approval : Icon
 approval =
     I.fromNodes
@@ -2071,7 +2071,7 @@ approval =
         ]
 
 
-{-| apps -}
+{-| Apps -}
 apps : Icon
 apps =
     I.fromNodes
@@ -2083,7 +2083,7 @@ apps =
         ]
 
 
-{-| apps outage -}
+{-| Apps Outage -}
 appsOutage : Icon
 appsOutage =
     I.fromNodes
@@ -2095,7 +2095,7 @@ appsOutage =
         ]
 
 
-{-| architecture -}
+{-| Architecture -}
 architecture : Icon
 architecture =
     I.fromNodes
@@ -2107,7 +2107,7 @@ architecture =
         ]
 
 
-{-| archive -}
+{-| Archive -}
 archive : Icon
 archive =
     I.fromNodes
@@ -2119,7 +2119,7 @@ archive =
         ]
 
 
-{-| area chart -}
+{-| Area Chart -}
 areaChart : Icon
 areaChart =
     I.fromNodes
@@ -2131,7 +2131,7 @@ areaChart =
         ]
 
 
-{-| arrow back -}
+{-| Arrow Back -}
 arrowBack : Icon
 arrowBack =
     I.fromNodes
@@ -2143,7 +2143,7 @@ arrowBack =
         ]
 
 
-{-| arrow back ios -}
+{-| Arrow Back Ios -}
 arrowBackIos : Icon
 arrowBackIos =
     I.fromNodes
@@ -2155,7 +2155,7 @@ arrowBackIos =
         ]
 
 
-{-| arrow back ios new -}
+{-| Arrow Back Ios New -}
 arrowBackIosNew : Icon
 arrowBackIosNew =
     I.fromNodes
@@ -2167,7 +2167,7 @@ arrowBackIosNew =
         ]
 
 
-{-| arrow circle down -}
+{-| Arrow Circle Down -}
 arrowCircleDown : Icon
 arrowCircleDown =
     I.fromNodes
@@ -2179,7 +2179,7 @@ arrowCircleDown =
         ]
 
 
-{-| arrow circle left -}
+{-| Arrow Circle Left -}
 arrowCircleLeft : Icon
 arrowCircleLeft =
     I.fromNodes
@@ -2191,7 +2191,7 @@ arrowCircleLeft =
         ]
 
 
-{-| arrow circle right -}
+{-| Arrow Circle Right -}
 arrowCircleRight : Icon
 arrowCircleRight =
     I.fromNodes
@@ -2203,7 +2203,7 @@ arrowCircleRight =
         ]
 
 
-{-| arrow circle up -}
+{-| Arrow Circle Up -}
 arrowCircleUp : Icon
 arrowCircleUp =
     I.fromNodes
@@ -2215,7 +2215,7 @@ arrowCircleUp =
         ]
 
 
-{-| arrow downward -}
+{-| Arrow Downward -}
 arrowDownward : Icon
 arrowDownward =
     I.fromNodes
@@ -2227,7 +2227,7 @@ arrowDownward =
         ]
 
 
-{-| arrow drop down -}
+{-| Arrow Drop Down -}
 arrowDropDown : Icon
 arrowDropDown =
     I.fromNodes
@@ -2239,7 +2239,7 @@ arrowDropDown =
         ]
 
 
-{-| arrow drop down circle -}
+{-| Arrow Drop Down Circle -}
 arrowDropDownCircle : Icon
 arrowDropDownCircle =
     I.fromNodes
@@ -2251,7 +2251,7 @@ arrowDropDownCircle =
         ]
 
 
-{-| arrow drop up -}
+{-| Arrow Drop Up -}
 arrowDropUp : Icon
 arrowDropUp =
     I.fromNodes
@@ -2263,7 +2263,7 @@ arrowDropUp =
         ]
 
 
-{-| arrow forward -}
+{-| Arrow Forward -}
 arrowForward : Icon
 arrowForward =
     I.fromNodes
@@ -2275,7 +2275,7 @@ arrowForward =
         ]
 
 
-{-| arrow forward ios -}
+{-| Arrow Forward Ios -}
 arrowForwardIos : Icon
 arrowForwardIos =
     I.fromNodes
@@ -2287,7 +2287,7 @@ arrowForwardIos =
         ]
 
 
-{-| arrow left -}
+{-| Arrow Left -}
 arrowLeft : Icon
 arrowLeft =
     I.fromNodes
@@ -2299,7 +2299,7 @@ arrowLeft =
         ]
 
 
-{-| arrow outward -}
+{-| Arrow Outward -}
 arrowOutward : Icon
 arrowOutward =
     I.fromNodes
@@ -2311,7 +2311,7 @@ arrowOutward =
         ]
 
 
-{-| arrow right -}
+{-| Arrow Right -}
 arrowRight : Icon
 arrowRight =
     I.fromNodes
@@ -2323,7 +2323,7 @@ arrowRight =
         ]
 
 
-{-| arrow right alt -}
+{-| Arrow Right Alt -}
 arrowRightAlt : Icon
 arrowRightAlt =
     I.fromNodes
@@ -2335,7 +2335,7 @@ arrowRightAlt =
         ]
 
 
-{-| arrow upward -}
+{-| Arrow Upward -}
 arrowUpward : Icon
 arrowUpward =
     I.fromNodes
@@ -2347,7 +2347,7 @@ arrowUpward =
         ]
 
 
-{-| art track -}
+{-| Art Track -}
 artTrack : Icon
 artTrack =
     I.fromNodes
@@ -2359,7 +2359,7 @@ artTrack =
         ]
 
 
-{-| article -}
+{-| Article -}
 article : Icon
 article =
     I.fromNodes
@@ -2371,7 +2371,7 @@ article =
         ]
 
 
-{-| aspect ratio -}
+{-| Aspect Ratio -}
 aspectRatio : Icon
 aspectRatio =
     I.fromNodes
@@ -2383,7 +2383,7 @@ aspectRatio =
         ]
 
 
-{-| assessment -}
+{-| Assessment -}
 assessment : Icon
 assessment =
     I.fromNodes
@@ -2395,7 +2395,7 @@ assessment =
         ]
 
 
-{-| assignment -}
+{-| Assignment -}
 assignment : Icon
 assignment =
     I.fromNodes
@@ -2407,7 +2407,7 @@ assignment =
         ]
 
 
-{-| assignment ind -}
+{-| Assignment Ind -}
 assignmentInd : Icon
 assignmentInd =
     I.fromNodes
@@ -2419,7 +2419,7 @@ assignmentInd =
         ]
 
 
-{-| assignment late -}
+{-| Assignment Late -}
 assignmentLate : Icon
 assignmentLate =
     I.fromNodes
@@ -2431,7 +2431,7 @@ assignmentLate =
         ]
 
 
-{-| assignment return -}
+{-| Assignment Return -}
 assignmentReturn : Icon
 assignmentReturn =
     I.fromNodes
@@ -2443,7 +2443,7 @@ assignmentReturn =
         ]
 
 
-{-| assignment returned -}
+{-| Assignment Returned -}
 assignmentReturned : Icon
 assignmentReturned =
     I.fromNodes
@@ -2455,7 +2455,7 @@ assignmentReturned =
         ]
 
 
-{-| assignment turned in -}
+{-| Assignment Turned In -}
 assignmentTurnedIn : Icon
 assignmentTurnedIn =
     I.fromNodes
@@ -2467,7 +2467,7 @@ assignmentTurnedIn =
         ]
 
 
-{-| assist walker -}
+{-| Assist Walker -}
 assistWalker : Icon
 assistWalker =
     I.fromNodes
@@ -2480,7 +2480,7 @@ assistWalker =
         ]
 
 
-{-| assistant -}
+{-| Assistant -}
 assistant : Icon
 assistant =
     I.fromNodes
@@ -2492,7 +2492,7 @@ assistant =
         ]
 
 
-{-| assistant direction -}
+{-| Assistant Direction -}
 assistantDirection : Icon
 assistantDirection =
     I.fromNodes
@@ -2504,7 +2504,7 @@ assistantDirection =
         ]
 
 
-{-| assistant photo -}
+{-| Assistant Photo -}
 assistantPhoto : Icon
 assistantPhoto =
     I.fromNodes
@@ -2516,7 +2516,7 @@ assistantPhoto =
         ]
 
 
-{-| assured workload -}
+{-| Assured Workload -}
 assuredWorkload : Icon
 assuredWorkload =
     I.fromNodes
@@ -2528,7 +2528,7 @@ assuredWorkload =
         ]
 
 
-{-| atm -}
+{-| Atm -}
 atm : Icon
 atm =
     I.fromNodes
@@ -2540,7 +2540,7 @@ atm =
         ]
 
 
-{-| attach email -}
+{-| Attach Email -}
 attachEmail : Icon
 attachEmail =
     I.fromNodes
@@ -2557,7 +2557,7 @@ attachEmail =
         ]
 
 
-{-| attach file -}
+{-| Attach File -}
 attachFile : Icon
 attachFile =
     I.fromNodes
@@ -2569,7 +2569,7 @@ attachFile =
         ]
 
 
-{-| attach money -}
+{-| Attach Money -}
 attachMoney : Icon
 attachMoney =
     I.fromNodes
@@ -2581,7 +2581,7 @@ attachMoney =
         ]
 
 
-{-| attachment -}
+{-| Attachment -}
 attachment : Icon
 attachment =
     I.fromNodes
@@ -2593,7 +2593,7 @@ attachment =
         ]
 
 
-{-| attractions -}
+{-| Attractions -}
 attractions : Icon
 attractions =
     I.fromNodes
@@ -2605,7 +2605,7 @@ attractions =
         ]
 
 
-{-| attribution -}
+{-| Attribution -}
 attribution : Icon
 attribution =
     I.fromNodes
@@ -2618,7 +2618,7 @@ attribution =
         ]
 
 
-{-| audio file -}
+{-| Audio File -}
 audioFile : Icon
 audioFile =
     I.fromNodes
@@ -2630,7 +2630,7 @@ audioFile =
         ]
 
 
-{-| audiotrack -}
+{-| Audiotrack -}
 audiotrack : Icon
 audiotrack =
     I.fromNodes
@@ -2642,7 +2642,7 @@ audiotrack =
         ]
 
 
-{-| auto awesome -}
+{-| Auto Awesome -}
 autoAwesome : Icon
 autoAwesome =
     I.fromNodes
@@ -2654,7 +2654,7 @@ autoAwesome =
         ]
 
 
-{-| auto awesome mosaic -}
+{-| Auto Awesome Mosaic -}
 autoAwesomeMosaic : Icon
 autoAwesomeMosaic =
     I.fromNodes
@@ -2666,7 +2666,7 @@ autoAwesomeMosaic =
         ]
 
 
-{-| auto awesome motion -}
+{-| Auto Awesome Motion -}
 autoAwesomeMotion : Icon
 autoAwesomeMotion =
     I.fromNodes
@@ -2678,7 +2678,7 @@ autoAwesomeMotion =
         ]
 
 
-{-| auto delete -}
+{-| Auto Delete -}
 autoDelete : Icon
 autoDelete =
     I.fromNodes
@@ -2695,7 +2695,7 @@ autoDelete =
         ]
 
 
-{-| auto fix high -}
+{-| Auto Fix High -}
 autoFixHigh : Icon
 autoFixHigh =
     I.fromNodes
@@ -2707,7 +2707,7 @@ autoFixHigh =
         ]
 
 
-{-| auto fix normal -}
+{-| Auto Fix Normal -}
 autoFixNormal : Icon
 autoFixNormal =
     I.fromNodes
@@ -2719,7 +2719,7 @@ autoFixNormal =
         ]
 
 
-{-| auto fix off -}
+{-| Auto Fix Off -}
 autoFixOff : Icon
 autoFixOff =
     I.fromNodes
@@ -2731,7 +2731,7 @@ autoFixOff =
         ]
 
 
-{-| auto graph -}
+{-| Auto Graph -}
 autoGraph : Icon
 autoGraph =
     I.fromNodes
@@ -2743,7 +2743,7 @@ autoGraph =
         ]
 
 
-{-| auto mode -}
+{-| Auto Mode -}
 autoMode : Icon
 autoMode =
     I.fromNodes
@@ -2760,7 +2760,7 @@ autoMode =
         ]
 
 
-{-| auto stories -}
+{-| Auto Stories -}
 autoStories : Icon
 autoStories =
     I.fromNodes
@@ -2772,7 +2772,7 @@ autoStories =
         ]
 
 
-{-| autofps select -}
+{-| Autofps Select -}
 autofpsSelect : Icon
 autofpsSelect =
     I.fromNodes
@@ -2789,7 +2789,7 @@ autofpsSelect =
         ]
 
 
-{-| autorenew -}
+{-| Autorenew -}
 autorenew : Icon
 autorenew =
     I.fromNodes
@@ -2801,7 +2801,7 @@ autorenew =
         ]
 
 
-{-| av timer -}
+{-| Av Timer -}
 avTimer : Icon
 avTimer =
     I.fromNodes
@@ -2816,7 +2816,7 @@ avTimer =
         ]
 
 
-{-| baby changing station -}
+{-| Baby Changing Station -}
 babyChangingStation : Icon
 babyChangingStation =
     I.fromNodes
@@ -2828,7 +2828,7 @@ babyChangingStation =
         ]
 
 
-{-| back hand -}
+{-| Back Hand -}
 backHand : Icon
 backHand =
     I.fromNodes
@@ -2840,7 +2840,7 @@ backHand =
         ]
 
 
-{-| backpack -}
+{-| Backpack -}
 backpack : Icon
 backpack =
     I.fromNodes
@@ -2852,7 +2852,7 @@ backpack =
         ]
 
 
-{-| backspace -}
+{-| Backspace -}
 backspace : Icon
 backspace =
     I.fromNodes
@@ -2864,7 +2864,7 @@ backspace =
         ]
 
 
-{-| backup -}
+{-| Backup -}
 backup : Icon
 backup =
     I.fromNodes
@@ -2876,7 +2876,7 @@ backup =
         ]
 
 
-{-| backup table -}
+{-| Backup Table -}
 backupTable : Icon
 backupTable =
     I.fromNodes
@@ -2893,7 +2893,7 @@ backupTable =
         ]
 
 
-{-| badge -}
+{-| Badge -}
 badge : Icon
 badge =
     I.fromNodes
@@ -2905,7 +2905,7 @@ badge =
         ]
 
 
-{-| bakery dining -}
+{-| Bakery Dining -}
 bakeryDining : Icon
 bakeryDining =
     I.fromNodes
@@ -2917,7 +2917,7 @@ bakeryDining =
         ]
 
 
-{-| balance -}
+{-| Balance -}
 balance : Icon
 balance =
     I.fromNodes
@@ -2929,7 +2929,7 @@ balance =
         ]
 
 
-{-| balcony -}
+{-| Balcony -}
 balcony : Icon
 balcony =
     I.fromNodes
@@ -2941,7 +2941,7 @@ balcony =
         ]
 
 
-{-| ballot -}
+{-| Ballot -}
 ballot : Icon
 ballot =
     I.fromNodes
@@ -2953,7 +2953,7 @@ ballot =
         ]
 
 
-{-| bar chart -}
+{-| Bar Chart -}
 barChart : Icon
 barChart =
     I.fromNodes
@@ -2965,7 +2965,7 @@ barChart =
         ]
 
 
-{-| barcode -}
+{-| Barcode -}
 barcode : Icon
 barcode =
     I.fromNodes
@@ -2978,7 +2978,7 @@ barcode =
         ]
 
 
-{-| batch prediction -}
+{-| Batch Prediction -}
 batchPrediction : Icon
 batchPrediction =
     I.fromNodes
@@ -2990,7 +2990,7 @@ batchPrediction =
         ]
 
 
-{-| bathroom -}
+{-| Bathroom -}
 bathroom : Icon
 bathroom =
     I.fromNodes
@@ -3002,7 +3002,7 @@ bathroom =
         ]
 
 
-{-| bathtub -}
+{-| Bathtub -}
 bathtub : Icon
 bathtub =
     I.fromNodes
@@ -3015,7 +3015,7 @@ bathtub =
         ]
 
 
-{-| battery 0 bar -}
+{-| Battery 0 Bar -}
 battery0Bar : Icon
 battery0Bar =
     I.fromNodes
@@ -3027,7 +3027,7 @@ battery0Bar =
         ]
 
 
-{-| battery 1 bar -}
+{-| Battery 1 Bar -}
 battery1Bar : Icon
 battery1Bar =
     I.fromNodes
@@ -3039,7 +3039,7 @@ battery1Bar =
         ]
 
 
-{-| battery 2 bar -}
+{-| Battery 2 Bar -}
 battery2Bar : Icon
 battery2Bar =
     I.fromNodes
@@ -3051,7 +3051,7 @@ battery2Bar =
         ]
 
 
-{-| battery 20 -}
+{-| Battery 20 -}
 battery20 : Icon
 battery20 =
     I.fromNodes
@@ -3069,7 +3069,7 @@ battery20 =
         ]
 
 
-{-| battery 3 bar -}
+{-| Battery 3 Bar -}
 battery3Bar : Icon
 battery3Bar =
     I.fromNodes
@@ -3081,7 +3081,7 @@ battery3Bar =
         ]
 
 
-{-| battery 30 -}
+{-| Battery 30 -}
 battery30 : Icon
 battery30 =
     I.fromNodes
@@ -3099,7 +3099,7 @@ battery30 =
         ]
 
 
-{-| battery 4 bar -}
+{-| Battery 4 Bar -}
 battery4Bar : Icon
 battery4Bar =
     I.fromNodes
@@ -3111,7 +3111,7 @@ battery4Bar =
         ]
 
 
-{-| battery 5 bar -}
+{-| Battery 5 Bar -}
 battery5Bar : Icon
 battery5Bar =
     I.fromNodes
@@ -3123,7 +3123,7 @@ battery5Bar =
         ]
 
 
-{-| battery 50 -}
+{-| Battery 50 -}
 battery50 : Icon
 battery50 =
     I.fromNodes
@@ -3141,7 +3141,7 @@ battery50 =
         ]
 
 
-{-| battery 6 bar -}
+{-| Battery 6 Bar -}
 battery6Bar : Icon
 battery6Bar =
     I.fromNodes
@@ -3153,7 +3153,7 @@ battery6Bar =
         ]
 
 
-{-| battery 60 -}
+{-| Battery 60 -}
 battery60 : Icon
 battery60 =
     I.fromNodes
@@ -3171,7 +3171,7 @@ battery60 =
         ]
 
 
-{-| battery 80 -}
+{-| Battery 80 -}
 battery80 : Icon
 battery80 =
     I.fromNodes
@@ -3189,7 +3189,7 @@ battery80 =
         ]
 
 
-{-| battery 90 -}
+{-| Battery 90 -}
 battery90 : Icon
 battery90 =
     I.fromNodes
@@ -3207,7 +3207,7 @@ battery90 =
         ]
 
 
-{-| battery alert -}
+{-| Battery Alert -}
 batteryAlert : Icon
 batteryAlert =
     I.fromNodes
@@ -3219,7 +3219,7 @@ batteryAlert =
         ]
 
 
-{-| battery charging 20 -}
+{-| Battery Charging 20 -}
 batteryCharging20 : Icon
 batteryCharging20 =
     I.fromNodes
@@ -3237,7 +3237,7 @@ batteryCharging20 =
         ]
 
 
-{-| battery charging 30 -}
+{-| Battery Charging 30 -}
 batteryCharging30 : Icon
 batteryCharging30 =
     I.fromNodes
@@ -3255,7 +3255,7 @@ batteryCharging30 =
         ]
 
 
-{-| battery charging 50 -}
+{-| Battery Charging 50 -}
 batteryCharging50 : Icon
 batteryCharging50 =
     I.fromNodes
@@ -3273,7 +3273,7 @@ batteryCharging50 =
         ]
 
 
-{-| battery charging 60 -}
+{-| Battery Charging 60 -}
 batteryCharging60 : Icon
 batteryCharging60 =
     I.fromNodes
@@ -3291,7 +3291,7 @@ batteryCharging60 =
         ]
 
 
-{-| battery charging 80 -}
+{-| Battery Charging 80 -}
 batteryCharging80 : Icon
 batteryCharging80 =
     I.fromNodes
@@ -3309,7 +3309,7 @@ batteryCharging80 =
         ]
 
 
-{-| battery charging 90 -}
+{-| Battery Charging 90 -}
 batteryCharging90 : Icon
 batteryCharging90 =
     I.fromNodes
@@ -3327,7 +3327,7 @@ batteryCharging90 =
         ]
 
 
-{-| battery charging full -}
+{-| Battery Charging Full -}
 batteryChargingFull : Icon
 batteryChargingFull =
     I.fromNodes
@@ -3339,7 +3339,7 @@ batteryChargingFull =
         ]
 
 
-{-| battery full -}
+{-| Battery Full -}
 batteryFull : Icon
 batteryFull =
     I.fromNodes
@@ -3351,7 +3351,7 @@ batteryFull =
         ]
 
 
-{-| battery saver -}
+{-| Battery Saver -}
 batterySaver : Icon
 batterySaver =
     I.fromNodes
@@ -3363,7 +3363,7 @@ batterySaver =
         ]
 
 
-{-| battery std -}
+{-| Battery Std -}
 batteryStd : Icon
 batteryStd =
     I.fromNodes
@@ -3375,7 +3375,7 @@ batteryStd =
         ]
 
 
-{-| battery unknown -}
+{-| Battery Unknown -}
 batteryUnknown : Icon
 batteryUnknown =
     I.fromNodes
@@ -3387,7 +3387,7 @@ batteryUnknown =
         ]
 
 
-{-| beach access -}
+{-| Beach Access -}
 beachAccess : Icon
 beachAccess =
     I.fromNodes
@@ -3399,7 +3399,7 @@ beachAccess =
         ]
 
 
-{-| bed -}
+{-| Bed -}
 bed : Icon
 bed =
     I.fromNodes
@@ -3411,7 +3411,7 @@ bed =
         ]
 
 
-{-| bedroom baby -}
+{-| Bedroom Baby -}
 bedroomBaby : Icon
 bedroomBaby =
     I.fromNodes
@@ -3428,7 +3428,7 @@ bedroomBaby =
         ]
 
 
-{-| bedroom child -}
+{-| Bedroom Child -}
 bedroomChild : Icon
 bedroomChild =
     I.fromNodes
@@ -3445,7 +3445,7 @@ bedroomChild =
         ]
 
 
-{-| bedroom parent -}
+{-| Bedroom Parent -}
 bedroomParent : Icon
 bedroomParent =
     I.fromNodes
@@ -3462,7 +3462,7 @@ bedroomParent =
         ]
 
 
-{-| bedtime -}
+{-| Bedtime -}
 bedtime : Icon
 bedtime =
     I.fromNodes
@@ -3474,7 +3474,7 @@ bedtime =
         ]
 
 
-{-| bedtime off -}
+{-| Bedtime Off -}
 bedtimeOff : Icon
 bedtimeOff =
     I.fromNodes
@@ -3486,7 +3486,7 @@ bedtimeOff =
         ]
 
 
-{-| beenhere -}
+{-| Beenhere -}
 beenhere : Icon
 beenhere =
     I.fromNodes
@@ -3498,7 +3498,7 @@ beenhere =
         ]
 
 
-{-| bento -}
+{-| Bento -}
 bento : Icon
 bento =
     I.fromNodes
@@ -3510,7 +3510,7 @@ bento =
         ]
 
 
-{-| bike scooter -}
+{-| Bike Scooter -}
 bikeScooter : Icon
 bikeScooter =
     I.fromNodes
@@ -3527,7 +3527,7 @@ bikeScooter =
         ]
 
 
-{-| biotech -}
+{-| Biotech -}
 biotech : Icon
 biotech =
     I.fromNodes
@@ -3545,7 +3545,7 @@ biotech =
         ]
 
 
-{-| blender -}
+{-| Blender -}
 blender : Icon
 blender =
     I.fromNodes
@@ -3557,7 +3557,7 @@ blender =
         ]
 
 
-{-| blind -}
+{-| Blind -}
 blind : Icon
 blind =
     I.fromNodes
@@ -3570,7 +3570,7 @@ blind =
         ]
 
 
-{-| blinds -}
+{-| Blinds -}
 blinds : Icon
 blinds =
     I.fromNodes
@@ -3582,7 +3582,7 @@ blinds =
         ]
 
 
-{-| blinds closed -}
+{-| Blinds Closed -}
 blindsClosed : Icon
 blindsClosed =
     I.fromNodes
@@ -3594,7 +3594,7 @@ blindsClosed =
         ]
 
 
-{-| block -}
+{-| Block -}
 block : Icon
 block =
     I.fromNodes
@@ -3606,7 +3606,7 @@ block =
         ]
 
 
-{-| bloodtype -}
+{-| Bloodtype -}
 bloodtype : Icon
 bloodtype =
     I.fromNodes
@@ -3618,7 +3618,7 @@ bloodtype =
         ]
 
 
-{-| bluetooth -}
+{-| Bluetooth -}
 bluetooth : Icon
 bluetooth =
     I.fromNodes
@@ -3630,7 +3630,7 @@ bluetooth =
         ]
 
 
-{-| bluetooth audio -}
+{-| Bluetooth Audio -}
 bluetoothAudio : Icon
 bluetoothAudio =
     I.fromNodes
@@ -3642,7 +3642,7 @@ bluetoothAudio =
         ]
 
 
-{-| bluetooth connected -}
+{-| Bluetooth Connected -}
 bluetoothConnected : Icon
 bluetoothConnected =
     I.fromNodes
@@ -3654,7 +3654,7 @@ bluetoothConnected =
         ]
 
 
-{-| bluetooth disabled -}
+{-| Bluetooth Disabled -}
 bluetoothDisabled : Icon
 bluetoothDisabled =
     I.fromNodes
@@ -3666,7 +3666,7 @@ bluetoothDisabled =
         ]
 
 
-{-| bluetooth drive -}
+{-| Bluetooth Drive -}
 bluetoothDrive : Icon
 bluetoothDrive =
     I.fromNodes
@@ -3683,7 +3683,7 @@ bluetoothDrive =
         ]
 
 
-{-| bluetooth searching -}
+{-| Bluetooth Searching -}
 bluetoothSearching : Icon
 bluetoothSearching =
     I.fromNodes
@@ -3695,7 +3695,7 @@ bluetoothSearching =
         ]
 
 
-{-| blur circular -}
+{-| Blur Circular -}
 blurCircular : Icon
 blurCircular =
     I.fromNodes
@@ -3707,7 +3707,7 @@ blurCircular =
         ]
 
 
-{-| blur linear -}
+{-| Blur Linear -}
 blurLinear : Icon
 blurLinear =
     I.fromNodes
@@ -3719,7 +3719,7 @@ blurLinear =
         ]
 
 
-{-| blur off -}
+{-| Blur Off -}
 blurOff : Icon
 blurOff =
     I.fromNodes
@@ -3759,7 +3759,7 @@ blurOff =
         ]
 
 
-{-| blur on -}
+{-| Blur On -}
 blurOn : Icon
 blurOn =
     I.fromNodes
@@ -3771,7 +3771,7 @@ blurOn =
         ]
 
 
-{-| bolt -}
+{-| Bolt -}
 bolt : Icon
 bolt =
     I.fromNodes
@@ -3783,7 +3783,7 @@ bolt =
         ]
 
 
-{-| book -}
+{-| Book -}
 book : Icon
 book =
     I.fromNodes
@@ -3795,7 +3795,7 @@ book =
         ]
 
 
-{-| book online -}
+{-| Book Online -}
 bookOnline : Icon
 bookOnline =
     I.fromNodes
@@ -3807,7 +3807,7 @@ bookOnline =
         ]
 
 
-{-| bookmark -}
+{-| Bookmark -}
 bookmark : Icon
 bookmark =
     I.fromNodes
@@ -3817,7 +3817,7 @@ bookmark =
         ]
 
 
-{-| bookmark add -}
+{-| Bookmark Add -}
 bookmarkAdd : Icon
 bookmarkAdd =
     I.fromNodes
@@ -3829,7 +3829,7 @@ bookmarkAdd =
         ]
 
 
-{-| bookmark added -}
+{-| Bookmark Added -}
 bookmarkAdded : Icon
 bookmarkAdded =
     I.fromNodes
@@ -3841,7 +3841,7 @@ bookmarkAdded =
         ]
 
 
-{-| bookmark border -}
+{-| Bookmark Border -}
 bookmarkBorder : Icon
 bookmarkBorder =
     I.fromNodes
@@ -3853,7 +3853,7 @@ bookmarkBorder =
         ]
 
 
-{-| bookmark remove -}
+{-| Bookmark Remove -}
 bookmarkRemove : Icon
 bookmarkRemove =
     I.fromNodes
@@ -3865,7 +3865,7 @@ bookmarkRemove =
         ]
 
 
-{-| bookmarks -}
+{-| Bookmarks -}
 bookmarks : Icon
 bookmarks =
     I.fromNodes
@@ -3877,7 +3877,7 @@ bookmarks =
         ]
 
 
-{-| border all -}
+{-| Border All -}
 borderAll : Icon
 borderAll =
     I.fromNodes
@@ -3889,7 +3889,7 @@ borderAll =
         ]
 
 
-{-| border bottom -}
+{-| Border Bottom -}
 borderBottom : Icon
 borderBottom =
     I.fromNodes
@@ -3901,7 +3901,7 @@ borderBottom =
         ]
 
 
-{-| border clear -}
+{-| Border Clear -}
 borderClear : Icon
 borderClear =
     I.fromNodes
@@ -3913,7 +3913,7 @@ borderClear =
         ]
 
 
-{-| border color -}
+{-| Border Color -}
 borderColor : Icon
 borderColor =
     I.fromNodes
@@ -3925,7 +3925,7 @@ borderColor =
         ]
 
 
-{-| border horizontal -}
+{-| Border Horizontal -}
 borderHorizontal : Icon
 borderHorizontal =
     I.fromNodes
@@ -3937,7 +3937,7 @@ borderHorizontal =
         ]
 
 
-{-| border inner -}
+{-| Border Inner -}
 borderInner : Icon
 borderInner =
     I.fromNodes
@@ -3949,7 +3949,7 @@ borderInner =
         ]
 
 
-{-| border left -}
+{-| Border Left -}
 borderLeft : Icon
 borderLeft =
     I.fromNodes
@@ -3961,7 +3961,7 @@ borderLeft =
         ]
 
 
-{-| border outer -}
+{-| Border Outer -}
 borderOuter : Icon
 borderOuter =
     I.fromNodes
@@ -3973,7 +3973,7 @@ borderOuter =
         ]
 
 
-{-| border right -}
+{-| Border Right -}
 borderRight : Icon
 borderRight =
     I.fromNodes
@@ -3985,7 +3985,7 @@ borderRight =
         ]
 
 
-{-| border style -}
+{-| Border Style -}
 borderStyle : Icon
 borderStyle =
     I.fromNodes
@@ -3997,7 +3997,7 @@ borderStyle =
         ]
 
 
-{-| border top -}
+{-| Border Top -}
 borderTop : Icon
 borderTop =
     I.fromNodes
@@ -4009,7 +4009,7 @@ borderTop =
         ]
 
 
-{-| border vertical -}
+{-| Border Vertical -}
 borderVertical : Icon
 borderVertical =
     I.fromNodes
@@ -4021,7 +4021,7 @@ borderVertical =
         ]
 
 
-{-| boy -}
+{-| Boy -}
 boy : Icon
 boy =
     I.fromNodes
@@ -4033,7 +4033,7 @@ boy =
         ]
 
 
-{-| branding watermark -}
+{-| Branding Watermark -}
 brandingWatermark : Icon
 brandingWatermark =
     I.fromNodes
@@ -4045,7 +4045,7 @@ brandingWatermark =
         ]
 
 
-{-| breakfast dining -}
+{-| Breakfast Dining -}
 breakfastDining : Icon
 breakfastDining =
     I.fromNodes
@@ -4057,13 +4057,13 @@ breakfastDining =
         ]
 
 
-{-| brightness 1 -}
+{-| Brightness 1 -}
 brightness1 : Icon
 brightness1 =
     I.fromNodes [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
 
 
-{-| brightness 2 -}
+{-| Brightness 2 -}
 brightness2 : Icon
 brightness2 =
     I.fromNodes
@@ -4075,7 +4075,7 @@ brightness2 =
         ]
 
 
-{-| brightness 3 -}
+{-| Brightness 3 -}
 brightness3 : Icon
 brightness3 =
     I.fromNodes
@@ -4087,7 +4087,7 @@ brightness3 =
         ]
 
 
-{-| brightness 4 -}
+{-| Brightness 4 -}
 brightness4 : Icon
 brightness4 =
     I.fromNodes
@@ -4099,7 +4099,7 @@ brightness4 =
         ]
 
 
-{-| brightness 5 -}
+{-| Brightness 5 -}
 brightness5 : Icon
 brightness5 =
     I.fromNodes
@@ -4111,7 +4111,7 @@ brightness5 =
         ]
 
 
-{-| brightness 6 -}
+{-| Brightness 6 -}
 brightness6 : Icon
 brightness6 =
     I.fromNodes
@@ -4123,7 +4123,7 @@ brightness6 =
         ]
 
 
-{-| brightness 7 -}
+{-| Brightness 7 -}
 brightness7 : Icon
 brightness7 =
     I.fromNodes
@@ -4135,7 +4135,7 @@ brightness7 =
         ]
 
 
-{-| brightness auto -}
+{-| Brightness Auto -}
 brightnessAuto : Icon
 brightnessAuto =
     I.fromNodes
@@ -4147,7 +4147,7 @@ brightnessAuto =
         ]
 
 
-{-| brightness high -}
+{-| Brightness High -}
 brightnessHigh : Icon
 brightnessHigh =
     I.fromNodes
@@ -4159,7 +4159,7 @@ brightnessHigh =
         ]
 
 
-{-| brightness low -}
+{-| Brightness Low -}
 brightnessLow : Icon
 brightnessLow =
     I.fromNodes
@@ -4171,7 +4171,7 @@ brightnessLow =
         ]
 
 
-{-| brightness medium -}
+{-| Brightness Medium -}
 brightnessMedium : Icon
 brightnessMedium =
     I.fromNodes
@@ -4183,7 +4183,7 @@ brightnessMedium =
         ]
 
 
-{-| broadcast on home -}
+{-| Broadcast On Home -}
 broadcastOnHome : Icon
 broadcastOnHome =
     I.fromNodes
@@ -4205,7 +4205,7 @@ broadcastOnHome =
         ]
 
 
-{-| broadcast on personal -}
+{-| Broadcast On Personal -}
 broadcastOnPersonal : Icon
 broadcastOnPersonal =
     I.fromNodes
@@ -4227,7 +4227,7 @@ broadcastOnPersonal =
         ]
 
 
-{-| broken image -}
+{-| Broken Image -}
 brokenImage : Icon
 brokenImage =
     I.fromNodes
@@ -4239,7 +4239,7 @@ brokenImage =
         ]
 
 
-{-| browse gallery -}
+{-| Browse Gallery -}
 browseGallery : Icon
 browseGallery =
     I.fromNodes
@@ -4256,7 +4256,7 @@ browseGallery =
         ]
 
 
-{-| browser not supported -}
+{-| Browser Not Supported -}
 browserNotSupported : Icon
 browserNotSupported =
     I.fromNodes
@@ -4268,7 +4268,7 @@ browserNotSupported =
         ]
 
 
-{-| browser updated -}
+{-| Browser Updated -}
 browserUpdated : Icon
 browserUpdated =
     I.fromNodes
@@ -4280,7 +4280,7 @@ browserUpdated =
         ]
 
 
-{-| brunch dining -}
+{-| Brunch Dining -}
 brunchDining : Icon
 brunchDining =
     I.fromNodes
@@ -4292,7 +4292,7 @@ brunchDining =
         ]
 
 
-{-| brush -}
+{-| Brush -}
 brush : Icon
 brush =
     I.fromNodes
@@ -4304,7 +4304,7 @@ brush =
         ]
 
 
-{-| bubble chart -}
+{-| Bubble Chart -}
 bubbleChart : Icon
 bubbleChart =
     I.fromNodes
@@ -4314,7 +4314,7 @@ bubbleChart =
         ]
 
 
-{-| bug report -}
+{-| Bug Report -}
 bugReport : Icon
 bugReport =
     I.fromNodes
@@ -4326,7 +4326,7 @@ bugReport =
         ]
 
 
-{-| build -}
+{-| Build -}
 build : Icon
 build =
     I.fromNodes
@@ -4338,7 +4338,7 @@ build =
         ]
 
 
-{-| build circle -}
+{-| Build Circle -}
 buildCircle : Icon
 buildCircle =
     I.fromNodes
@@ -4351,7 +4351,7 @@ buildCircle =
         ]
 
 
-{-| bungalow -}
+{-| Bungalow -}
 bungalow : Icon
 bungalow =
     I.fromNodes
@@ -4363,7 +4363,7 @@ bungalow =
         ]
 
 
-{-| burst mode -}
+{-| Burst Mode -}
 burstMode : Icon
 burstMode =
     I.fromNodes
@@ -4375,7 +4375,7 @@ burstMode =
         ]
 
 
-{-| bus alert -}
+{-| Bus Alert -}
 busAlert : Icon
 busAlert =
     I.fromNodes
@@ -4392,7 +4392,7 @@ busAlert =
         ]
 
 
-{-| business -}
+{-| Business -}
 business : Icon
 business =
     I.fromNodes
@@ -4404,7 +4404,7 @@ business =
         ]
 
 
-{-| business center -}
+{-| Business Center -}
 businessCenter : Icon
 businessCenter =
     I.fromNodes
@@ -4416,7 +4416,7 @@ businessCenter =
         ]
 
 
-{-| cabin -}
+{-| Cabin -}
 cabin : Icon
 cabin =
     I.fromNodes
@@ -4428,7 +4428,7 @@ cabin =
         ]
 
 
-{-| cable -}
+{-| Cable -}
 cable : Icon
 cable =
     I.fromNodes
@@ -4440,7 +4440,7 @@ cable =
         ]
 
 
-{-| cached -}
+{-| Cached -}
 cached : Icon
 cached =
     I.fromNodes
@@ -4452,7 +4452,7 @@ cached =
         ]
 
 
-{-| cake -}
+{-| Cake -}
 cake : Icon
 cake =
     I.fromNodes
@@ -4464,7 +4464,7 @@ cake =
         ]
 
 
-{-| calculate -}
+{-| Calculate -}
 calculate : Icon
 calculate =
     I.fromNodes
@@ -4476,7 +4476,7 @@ calculate =
         ]
 
 
-{-| calendar month -}
+{-| Calendar Month -}
 calendarMonth : Icon
 calendarMonth =
     I.fromNodes
@@ -4488,7 +4488,7 @@ calendarMonth =
         ]
 
 
-{-| calendar today -}
+{-| Calendar Today -}
 calendarToday : Icon
 calendarToday =
     I.fromNodes
@@ -4500,7 +4500,7 @@ calendarToday =
         ]
 
 
-{-| calendar view day -}
+{-| Calendar View Day -}
 calendarViewDay : Icon
 calendarViewDay =
     I.fromNodes
@@ -4512,7 +4512,7 @@ calendarViewDay =
         ]
 
 
-{-| calendar view month -}
+{-| Calendar View Month -}
 calendarViewMonth : Icon
 calendarViewMonth =
     I.fromNodes
@@ -4524,7 +4524,7 @@ calendarViewMonth =
         ]
 
 
-{-| calendar view week -}
+{-| Calendar View Week -}
 calendarViewWeek : Icon
 calendarViewWeek =
     I.fromNodes
@@ -4536,7 +4536,7 @@ calendarViewWeek =
         ]
 
 
-{-| call -}
+{-| Call -}
 call : Icon
 call =
     I.fromNodes
@@ -4548,7 +4548,7 @@ call =
         ]
 
 
-{-| call end -}
+{-| Call End -}
 callEnd : Icon
 callEnd =
     I.fromNodes
@@ -4560,7 +4560,7 @@ callEnd =
         ]
 
 
-{-| call made -}
+{-| Call Made -}
 callMade : Icon
 callMade =
     I.fromNodes
@@ -4572,7 +4572,7 @@ callMade =
         ]
 
 
-{-| call merge -}
+{-| Call Merge -}
 callMerge : Icon
 callMerge =
     I.fromNodes
@@ -4584,7 +4584,7 @@ callMerge =
         ]
 
 
-{-| call missed -}
+{-| Call Missed -}
 callMissed : Icon
 callMissed =
     I.fromNodes
@@ -4596,7 +4596,7 @@ callMissed =
         ]
 
 
-{-| call missed outgoing -}
+{-| Call Missed Outgoing -}
 callMissedOutgoing : Icon
 callMissedOutgoing =
     I.fromNodes
@@ -4608,7 +4608,7 @@ callMissedOutgoing =
         ]
 
 
-{-| call received -}
+{-| Call Received -}
 callReceived : Icon
 callReceived =
     I.fromNodes
@@ -4620,7 +4620,7 @@ callReceived =
         ]
 
 
-{-| call split -}
+{-| Call Split -}
 callSplit : Icon
 callSplit =
     I.fromNodes
@@ -4632,7 +4632,7 @@ callSplit =
         ]
 
 
-{-| call to action -}
+{-| Call To Action -}
 callToAction : Icon
 callToAction =
     I.fromNodes
@@ -4644,7 +4644,7 @@ callToAction =
         ]
 
 
-{-| camera -}
+{-| Camera -}
 camera : Icon
 camera =
     I.fromNodes
@@ -4656,7 +4656,7 @@ camera =
         ]
 
 
-{-| camera alt -}
+{-| Camera Alt -}
 cameraAlt : Icon
 cameraAlt =
     I.fromNodes
@@ -4669,7 +4669,7 @@ cameraAlt =
         ]
 
 
-{-| camera enhance -}
+{-| Camera Enhance -}
 cameraEnhance : Icon
 cameraEnhance =
     I.fromNodes
@@ -4681,7 +4681,7 @@ cameraEnhance =
         ]
 
 
-{-| camera front -}
+{-| Camera Front -}
 cameraFront : Icon
 cameraFront =
     I.fromNodes
@@ -4693,7 +4693,7 @@ cameraFront =
         ]
 
 
-{-| camera indoor -}
+{-| Camera Indoor -}
 cameraIndoor : Icon
 cameraIndoor =
     I.fromNodes
@@ -4705,7 +4705,7 @@ cameraIndoor =
         ]
 
 
-{-| camera outdoor -}
+{-| Camera Outdoor -}
 cameraOutdoor : Icon
 cameraOutdoor =
     I.fromNodes
@@ -4717,7 +4717,7 @@ cameraOutdoor =
         ]
 
 
-{-| camera rear -}
+{-| Camera Rear -}
 cameraRear : Icon
 cameraRear =
     I.fromNodes
@@ -4729,7 +4729,7 @@ cameraRear =
         ]
 
 
-{-| camera roll -}
+{-| Camera Roll -}
 cameraRoll : Icon
 cameraRoll =
     I.fromNodes
@@ -4741,7 +4741,7 @@ cameraRoll =
         ]
 
 
-{-| cameraswitch -}
+{-| Cameraswitch -}
 cameraswitch : Icon
 cameraswitch =
     I.fromNodes
@@ -4758,7 +4758,7 @@ cameraswitch =
         ]
 
 
-{-| campaign -}
+{-| Campaign -}
 campaign : Icon
 campaign =
     I.fromNodes
@@ -4770,7 +4770,7 @@ campaign =
         ]
 
 
-{-| cancel -}
+{-| Cancel -}
 cancel : Icon
 cancel =
     I.fromNodes
@@ -4782,7 +4782,7 @@ cancel =
         ]
 
 
-{-| cancel presentation -}
+{-| Cancel Presentation -}
 cancelPresentation : Icon
 cancelPresentation =
     I.fromNodes
@@ -4794,7 +4794,7 @@ cancelPresentation =
         ]
 
 
-{-| cancel schedule send -}
+{-| Cancel Schedule Send -}
 cancelScheduleSend : Icon
 cancelScheduleSend =
     I.fromNodes
@@ -4811,7 +4811,7 @@ cancelScheduleSend =
         ]
 
 
-{-| candlestick chart -}
+{-| Candlestick Chart -}
 candlestickChart : Icon
 candlestickChart =
     I.fromNodes
@@ -4823,7 +4823,7 @@ candlestickChart =
         ]
 
 
-{-| car crash -}
+{-| Car Crash -}
 carCrash : Icon
 carCrash =
     I.fromNodes
@@ -4835,7 +4835,7 @@ carCrash =
         ]
 
 
-{-| car rental -}
+{-| Car Rental -}
 carRental : Icon
 carRental =
     I.fromNodes
@@ -4847,7 +4847,7 @@ carRental =
         ]
 
 
-{-| car repair -}
+{-| Car Repair -}
 carRepair : Icon
 carRepair =
     I.fromNodes
@@ -4859,7 +4859,7 @@ carRepair =
         ]
 
 
-{-| card giftcard -}
+{-| Card Giftcard -}
 cardGiftcard : Icon
 cardGiftcard =
     I.fromNodes
@@ -4871,7 +4871,7 @@ cardGiftcard =
         ]
 
 
-{-| card membership -}
+{-| Card Membership -}
 cardMembership : Icon
 cardMembership =
     I.fromNodes
@@ -4883,7 +4883,7 @@ cardMembership =
         ]
 
 
-{-| card travel -}
+{-| Card Travel -}
 cardTravel : Icon
 cardTravel =
     I.fromNodes
@@ -4895,7 +4895,7 @@ cardTravel =
         ]
 
 
-{-| carpenter -}
+{-| Carpenter -}
 carpenter : Icon
 carpenter =
     I.fromNodes
@@ -4907,7 +4907,7 @@ carpenter =
         ]
 
 
-{-| cases -}
+{-| Cases -}
 cases : Icon
 cases =
     I.fromNodes
@@ -4919,7 +4919,7 @@ cases =
         ]
 
 
-{-| casino -}
+{-| Casino -}
 casino : Icon
 casino =
     I.fromNodes
@@ -4931,7 +4931,7 @@ casino =
         ]
 
 
-{-| cast -}
+{-| Cast -}
 cast : Icon
 cast =
     I.fromNodes
@@ -4943,7 +4943,7 @@ cast =
         ]
 
 
-{-| cast connected -}
+{-| Cast Connected -}
 castConnected : Icon
 castConnected =
     I.fromNodes
@@ -4955,7 +4955,7 @@ castConnected =
         ]
 
 
-{-| cast for education -}
+{-| Cast For Education -}
 castForEducation : Icon
 castForEducation =
     I.fromNodes
@@ -4967,7 +4967,7 @@ castForEducation =
         ]
 
 
-{-| castle -}
+{-| Castle -}
 castle : Icon
 castle =
     I.fromNodes
@@ -4979,7 +4979,7 @@ castle =
         ]
 
 
-{-| catching pokemon -}
+{-| Catching Pokemon -}
 catchingPokemon : Icon
 catchingPokemon =
     I.fromNodes
@@ -4991,7 +4991,7 @@ catchingPokemon =
         ]
 
 
-{-| category -}
+{-| Category -}
 category : Icon
 category =
     I.fromNodes
@@ -5009,7 +5009,7 @@ category =
         ]
 
 
-{-| celebration -}
+{-| Celebration -}
 celebration : Icon
 celebration =
     I.fromNodes
@@ -5021,7 +5021,7 @@ celebration =
         ]
 
 
-{-| cell tower -}
+{-| Cell Tower -}
 cellTower : Icon
 cellTower =
     I.fromNodes
@@ -5038,7 +5038,7 @@ cellTower =
         ]
 
 
-{-| cell wifi -}
+{-| Cell Wifi -}
 cellWifi : Icon
 cellWifi =
     I.fromNodes
@@ -5055,7 +5055,7 @@ cellWifi =
         ]
 
 
-{-| center focus strong -}
+{-| Center Focus Strong -}
 centerFocusStrong : Icon
 centerFocusStrong =
     I.fromNodes
@@ -5067,7 +5067,7 @@ centerFocusStrong =
         ]
 
 
-{-| center focus weak -}
+{-| Center Focus Weak -}
 centerFocusWeak : Icon
 centerFocusWeak =
     I.fromNodes
@@ -5079,7 +5079,7 @@ centerFocusWeak =
         ]
 
 
-{-| chair -}
+{-| Chair -}
 chair : Icon
 chair =
     I.fromNodes
@@ -5096,7 +5096,7 @@ chair =
         ]
 
 
-{-| chair alt -}
+{-| Chair Alt -}
 chairAlt : Icon
 chairAlt =
     I.fromNodes
@@ -5108,7 +5108,7 @@ chairAlt =
         ]
 
 
-{-| chalet -}
+{-| Chalet -}
 chalet : Icon
 chalet =
     I.fromNodes
@@ -5120,7 +5120,7 @@ chalet =
         ]
 
 
-{-| change circle -}
+{-| Change Circle -}
 changeCircle : Icon
 changeCircle =
     I.fromNodes
@@ -5132,7 +5132,7 @@ changeCircle =
         ]
 
 
-{-| change history -}
+{-| Change History -}
 changeHistory : Icon
 changeHistory =
     I.fromNodes
@@ -5144,7 +5144,7 @@ changeHistory =
         ]
 
 
-{-| charging station -}
+{-| Charging Station -}
 chargingStation : Icon
 chargingStation =
     I.fromNodes
@@ -5156,7 +5156,7 @@ chargingStation =
         ]
 
 
-{-| chat -}
+{-| Chat -}
 chat : Icon
 chat =
     I.fromNodes
@@ -5168,7 +5168,7 @@ chat =
         ]
 
 
-{-| chat bubble -}
+{-| Chat Bubble -}
 chatBubble : Icon
 chatBubble =
     I.fromNodes
@@ -5180,7 +5180,7 @@ chatBubble =
         ]
 
 
-{-| chat bubble outline -}
+{-| Chat Bubble Outline -}
 chatBubbleOutline : Icon
 chatBubbleOutline =
     I.fromNodes
@@ -5192,7 +5192,7 @@ chatBubbleOutline =
         ]
 
 
-{-| check -}
+{-| Check -}
 check : Icon
 check =
     I.fromNodes
@@ -5204,7 +5204,7 @@ check =
         ]
 
 
-{-| check box -}
+{-| Check Box -}
 checkBox : Icon
 checkBox =
     I.fromNodes
@@ -5216,7 +5216,7 @@ checkBox =
         ]
 
 
-{-| check box outline blank -}
+{-| Check Box Outline Blank -}
 checkBoxOutlineBlank : Icon
 checkBoxOutlineBlank =
     I.fromNodes
@@ -5228,7 +5228,7 @@ checkBoxOutlineBlank =
         ]
 
 
-{-| check circle -}
+{-| Check Circle -}
 checkCircle : Icon
 checkCircle =
     I.fromNodes
@@ -5240,7 +5240,7 @@ checkCircle =
         ]
 
 
-{-| check circle outline -}
+{-| Check Circle Outline -}
 checkCircleOutline : Icon
 checkCircleOutline =
     I.fromNodes
@@ -5252,7 +5252,7 @@ checkCircleOutline =
         ]
 
 
-{-| checklist -}
+{-| Checklist -}
 checklist : Icon
 checklist =
     I.fromNodes
@@ -5264,7 +5264,7 @@ checklist =
         ]
 
 
-{-| checklist rtl -}
+{-| Checklist Rtl -}
 checklistRtl : Icon
 checklistRtl =
     I.fromNodes
@@ -5276,7 +5276,7 @@ checklistRtl =
         ]
 
 
-{-| checkroom -}
+{-| Checkroom -}
 checkroom : Icon
 checkroom =
     I.fromNodes
@@ -5288,7 +5288,7 @@ checkroom =
         ]
 
 
-{-| chevron left -}
+{-| Chevron Left -}
 chevronLeft : Icon
 chevronLeft =
     I.fromNodes
@@ -5300,7 +5300,7 @@ chevronLeft =
         ]
 
 
-{-| chevron right -}
+{-| Chevron Right -}
 chevronRight : Icon
 chevronRight =
     I.fromNodes
@@ -5312,7 +5312,7 @@ chevronRight =
         ]
 
 
-{-| child care -}
+{-| Child Care -}
 childCare : Icon
 childCare =
     I.fromNodes
@@ -5326,7 +5326,7 @@ childCare =
         ]
 
 
-{-| child friendly -}
+{-| Child Friendly -}
 childFriendly : Icon
 childFriendly =
     I.fromNodes
@@ -5338,7 +5338,7 @@ childFriendly =
         ]
 
 
-{-| chrome reader mode -}
+{-| Chrome Reader Mode -}
 chromeReaderMode : Icon
 chromeReaderMode =
     I.fromNodes
@@ -5350,7 +5350,7 @@ chromeReaderMode =
         ]
 
 
-{-| church -}
+{-| Church -}
 church : Icon
 church =
     I.fromNodes
@@ -5362,7 +5362,7 @@ church =
         ]
 
 
-{-| circle -}
+{-| Circle -}
 circle : Icon
 circle =
     I.fromNodes
@@ -5374,7 +5374,7 @@ circle =
         ]
 
 
-{-| circle notifications -}
+{-| Circle Notifications -}
 circleNotifications : Icon
 circleNotifications =
     I.fromNodes
@@ -5386,7 +5386,7 @@ circleNotifications =
         ]
 
 
-{-| class -}
+{-| Class -}
 class : Icon
 class =
     I.fromNodes
@@ -5398,7 +5398,7 @@ class =
         ]
 
 
-{-| clean hands -}
+{-| Clean Hands -}
 cleanHands : Icon
 cleanHands =
     I.fromNodes
@@ -5410,7 +5410,7 @@ cleanHands =
         ]
 
 
-{-| cleaning services -}
+{-| Cleaning Services -}
 cleaningServices : Icon
 cleaningServices =
     I.fromNodes
@@ -5422,7 +5422,7 @@ cleaningServices =
         ]
 
 
-{-| clear -}
+{-| Clear -}
 clear : Icon
 clear =
     I.fromNodes
@@ -5434,7 +5434,7 @@ clear =
         ]
 
 
-{-| clear all -}
+{-| Clear All -}
 clearAll : Icon
 clearAll =
     I.fromNodes
@@ -5446,7 +5446,7 @@ clearAll =
         ]
 
 
-{-| close -}
+{-| Close -}
 close : Icon
 close =
     I.fromNodes
@@ -5458,7 +5458,7 @@ close =
         ]
 
 
-{-| close fullscreen -}
+{-| Close Fullscreen -}
 closeFullscreen : Icon
 closeFullscreen =
     I.fromNodes
@@ -5470,7 +5470,7 @@ closeFullscreen =
         ]
 
 
-{-| closed caption -}
+{-| Closed Caption -}
 closedCaption : Icon
 closedCaption =
     I.fromNodes
@@ -5482,7 +5482,7 @@ closedCaption =
         ]
 
 
-{-| closed caption disabled -}
+{-| Closed Caption Disabled -}
 closedCaptionDisabled : Icon
 closedCaptionDisabled =
     I.fromNodes
@@ -5494,7 +5494,7 @@ closedCaptionDisabled =
         ]
 
 
-{-| closed caption off -}
+{-| Closed Caption Off -}
 closedCaptionOff : Icon
 closedCaptionOff =
     I.fromNodes
@@ -5506,7 +5506,7 @@ closedCaptionOff =
         ]
 
 
-{-| cloud -}
+{-| Cloud -}
 cloud : Icon
 cloud =
     I.fromNodes
@@ -5518,7 +5518,7 @@ cloud =
         ]
 
 
-{-| cloud circle -}
+{-| Cloud Circle -}
 cloudCircle : Icon
 cloudCircle =
     I.fromNodes
@@ -5530,7 +5530,7 @@ cloudCircle =
         ]
 
 
-{-| cloud done -}
+{-| Cloud Done -}
 cloudDone : Icon
 cloudDone =
     I.fromNodes
@@ -5542,7 +5542,7 @@ cloudDone =
         ]
 
 
-{-| cloud download -}
+{-| Cloud Download -}
 cloudDownload : Icon
 cloudDownload =
     I.fromNodes
@@ -5554,7 +5554,7 @@ cloudDownload =
         ]
 
 
-{-| cloud off -}
+{-| Cloud Off -}
 cloudOff : Icon
 cloudOff =
     I.fromNodes
@@ -5566,7 +5566,7 @@ cloudOff =
         ]
 
 
-{-| cloud queue -}
+{-| Cloud Queue -}
 cloudQueue : Icon
 cloudQueue =
     I.fromNodes
@@ -5578,7 +5578,7 @@ cloudQueue =
         ]
 
 
-{-| cloud sync -}
+{-| Cloud Sync -}
 cloudSync : Icon
 cloudSync =
     I.fromNodes
@@ -5590,7 +5590,7 @@ cloudSync =
         ]
 
 
-{-| cloud upload -}
+{-| Cloud Upload -}
 cloudUpload : Icon
 cloudUpload =
     I.fromNodes
@@ -5602,7 +5602,7 @@ cloudUpload =
         ]
 
 
-{-| co present -}
+{-| Co Present -}
 coPresent : Icon
 coPresent =
     I.fromNodes
@@ -5620,7 +5620,7 @@ coPresent =
         ]
 
 
-{-| co2 -}
+{-| Co2 -}
 co2 : Icon
 co2 =
     I.fromNodes
@@ -5632,7 +5632,7 @@ co2 =
         ]
 
 
-{-| code -}
+{-| Code -}
 code : Icon
 code =
     I.fromNodes
@@ -5644,7 +5644,7 @@ code =
         ]
 
 
-{-| code off -}
+{-| Code Off -}
 codeOff : Icon
 codeOff =
     I.fromNodes
@@ -5656,7 +5656,7 @@ codeOff =
         ]
 
 
-{-| coffee -}
+{-| Coffee -}
 coffee : Icon
 coffee =
     I.fromNodes
@@ -5668,7 +5668,7 @@ coffee =
         ]
 
 
-{-| coffee maker -}
+{-| Coffee Maker -}
 coffeeMaker : Icon
 coffeeMaker =
     I.fromNodes
@@ -5681,7 +5681,7 @@ coffeeMaker =
         ]
 
 
-{-| collections -}
+{-| Collections -}
 collections : Icon
 collections =
     I.fromNodes
@@ -5693,7 +5693,7 @@ collections =
         ]
 
 
-{-| collections bookmark -}
+{-| Collections Bookmark -}
 collectionsBookmark : Icon
 collectionsBookmark =
     I.fromNodes
@@ -5705,7 +5705,7 @@ collectionsBookmark =
         ]
 
 
-{-| color lens -}
+{-| Color Lens -}
 colorLens : Icon
 colorLens =
     I.fromNodes
@@ -5717,7 +5717,7 @@ colorLens =
         ]
 
 
-{-| colorize -}
+{-| Colorize -}
 colorize : Icon
 colorize =
     I.fromNodes
@@ -5729,7 +5729,7 @@ colorize =
         ]
 
 
-{-| comment -}
+{-| Comment -}
 comment : Icon
 comment =
     I.fromNodes
@@ -5741,7 +5741,7 @@ comment =
         ]
 
 
-{-| comment bank -}
+{-| Comment Bank -}
 commentBank : Icon
 commentBank =
     I.fromNodes
@@ -5753,7 +5753,7 @@ commentBank =
         ]
 
 
-{-| comments disabled -}
+{-| Comments Disabled -}
 commentsDisabled : Icon
 commentsDisabled =
     I.fromNodes
@@ -5765,7 +5765,7 @@ commentsDisabled =
         ]
 
 
-{-| commit -}
+{-| Commit -}
 commit : Icon
 commit =
     I.fromNodes
@@ -5777,7 +5777,7 @@ commit =
         ]
 
 
-{-| commute -}
+{-| Commute -}
 commute : Icon
 commute =
     I.fromNodes
@@ -5789,7 +5789,7 @@ commute =
         ]
 
 
-{-| compare -}
+{-| Compare -}
 compare : Icon
 compare =
     I.fromNodes
@@ -5801,7 +5801,7 @@ compare =
         ]
 
 
-{-| compare arrows -}
+{-| Compare Arrows -}
 compareArrows : Icon
 compareArrows =
     I.fromNodes
@@ -5813,7 +5813,7 @@ compareArrows =
         ]
 
 
-{-| compass calibration -}
+{-| Compass Calibration -}
 compassCalibration : Icon
 compassCalibration =
     I.fromNodes
@@ -5826,7 +5826,7 @@ compassCalibration =
         ]
 
 
-{-| compost -}
+{-| Compost -}
 compost : Icon
 compost =
     I.fromNodes
@@ -5838,7 +5838,7 @@ compost =
         ]
 
 
-{-| compress -}
+{-| Compress -}
 compress : Icon
 compress =
     I.fromNodes
@@ -5850,7 +5850,7 @@ compress =
         ]
 
 
-{-| computer -}
+{-| Computer -}
 computer : Icon
 computer =
     I.fromNodes
@@ -5862,7 +5862,7 @@ computer =
         ]
 
 
-{-| confirmation number -}
+{-| Confirmation Number -}
 confirmationNumber : Icon
 confirmationNumber =
     I.fromNodes
@@ -5874,7 +5874,7 @@ confirmationNumber =
         ]
 
 
-{-| connect without contact -}
+{-| Connect Without Contact -}
 connectWithoutContact : Icon
 connectWithoutContact =
     I.fromNodes
@@ -5886,7 +5886,7 @@ connectWithoutContact =
         ]
 
 
-{-| connected tv -}
+{-| Connected Tv -}
 connectedTv : Icon
 connectedTv =
     I.fromNodes
@@ -5898,7 +5898,7 @@ connectedTv =
         ]
 
 
-{-| connecting airports -}
+{-| Connecting Airports -}
 connectingAirports : Icon
 connectingAirports =
     I.fromNodes
@@ -5910,7 +5910,7 @@ connectingAirports =
         ]
 
 
-{-| construction -}
+{-| Construction -}
 construction : Icon
 construction =
     I.fromNodes
@@ -5922,7 +5922,7 @@ construction =
         ]
 
 
-{-| contact emergency -}
+{-| Contact Emergency -}
 contactEmergency : Icon
 contactEmergency =
     I.fromNodes
@@ -5934,7 +5934,7 @@ contactEmergency =
         ]
 
 
-{-| contact mail -}
+{-| Contact Mail -}
 contactMail : Icon
 contactMail =
     I.fromNodes
@@ -5946,7 +5946,7 @@ contactMail =
         ]
 
 
-{-| contact page -}
+{-| Contact Page -}
 contactPage : Icon
 contactPage =
     I.fromNodes
@@ -5958,7 +5958,7 @@ contactPage =
         ]
 
 
-{-| contact phone -}
+{-| Contact Phone -}
 contactPhone : Icon
 contactPhone =
     I.fromNodes
@@ -5970,7 +5970,7 @@ contactPhone =
         ]
 
 
-{-| contact support -}
+{-| Contact Support -}
 contactSupport : Icon
 contactSupport =
     I.fromNodes
@@ -5982,7 +5982,7 @@ contactSupport =
         ]
 
 
-{-| contactless -}
+{-| Contactless -}
 contactless : Icon
 contactless =
     I.fromNodes
@@ -5994,7 +5994,7 @@ contactless =
         ]
 
 
-{-| contacts -}
+{-| Contacts -}
 contacts : Icon
 contacts =
     I.fromNodes
@@ -6006,7 +6006,7 @@ contacts =
         ]
 
 
-{-| content copy -}
+{-| Content Copy -}
 contentCopy : Icon
 contentCopy =
     I.fromNodes
@@ -6018,7 +6018,7 @@ contentCopy =
         ]
 
 
-{-| content cut -}
+{-| Content Cut -}
 contentCut : Icon
 contentCut =
     I.fromNodes
@@ -6030,7 +6030,7 @@ contentCut =
         ]
 
 
-{-| content paste -}
+{-| Content Paste -}
 contentPaste : Icon
 contentPaste =
     I.fromNodes
@@ -6042,7 +6042,7 @@ contentPaste =
         ]
 
 
-{-| content paste go -}
+{-| Content Paste Go -}
 contentPasteGo : Icon
 contentPasteGo =
     I.fromNodes
@@ -6059,7 +6059,7 @@ contentPasteGo =
         ]
 
 
-{-| content paste off -}
+{-| Content Paste Off -}
 contentPasteOff : Icon
 contentPasteOff =
     I.fromNodes
@@ -6071,7 +6071,7 @@ contentPasteOff =
         ]
 
 
-{-| content paste search -}
+{-| Content Paste Search -}
 contentPasteSearch : Icon
 contentPasteSearch =
     I.fromNodes
@@ -6088,7 +6088,7 @@ contentPasteSearch =
         ]
 
 
-{-| contrast -}
+{-| Contrast -}
 contrast : Icon
 contrast =
     I.fromNodes
@@ -6100,7 +6100,7 @@ contrast =
         ]
 
 
-{-| control camera -}
+{-| Control Camera -}
 controlCamera : Icon
 controlCamera =
     I.fromNodes
@@ -6113,7 +6113,7 @@ controlCamera =
         ]
 
 
-{-| control point -}
+{-| Control Point -}
 controlPoint : Icon
 controlPoint =
     I.fromNodes
@@ -6125,7 +6125,7 @@ controlPoint =
         ]
 
 
-{-| control point duplicate -}
+{-| Control Point Duplicate -}
 controlPointDuplicate : Icon
 controlPointDuplicate =
     I.fromNodes
@@ -6137,7 +6137,7 @@ controlPointDuplicate =
         ]
 
 
-{-| cookie -}
+{-| Cookie -}
 cookie : Icon
 cookie =
     I.fromNodes
@@ -6149,7 +6149,7 @@ cookie =
         ]
 
 
-{-| copy all -}
+{-| Copy All -}
 copyAll : Icon
 copyAll =
     I.fromNodes
@@ -6161,7 +6161,7 @@ copyAll =
         ]
 
 
-{-| copyright -}
+{-| Copyright -}
 copyright : Icon
 copyright =
     I.fromNodes
@@ -6173,7 +6173,7 @@ copyright =
         ]
 
 
-{-| coronavirus -}
+{-| Coronavirus -}
 coronavirus : Icon
 coronavirus =
     I.fromNodes
@@ -6185,7 +6185,7 @@ coronavirus =
         ]
 
 
-{-| corporate fare -}
+{-| Corporate Fare -}
 corporateFare : Icon
 corporateFare =
     I.fromNodes
@@ -6197,7 +6197,7 @@ corporateFare =
         ]
 
 
-{-| cottage -}
+{-| Cottage -}
 cottage : Icon
 cottage =
     I.fromNodes
@@ -6209,7 +6209,7 @@ cottage =
         ]
 
 
-{-| countertops -}
+{-| Countertops -}
 countertops : Icon
 countertops =
     I.fromNodes
@@ -6221,7 +6221,7 @@ countertops =
         ]
 
 
-{-| create -}
+{-| Create -}
 create : Icon
 create =
     I.fromNodes
@@ -6233,7 +6233,7 @@ create =
         ]
 
 
-{-| create new folder -}
+{-| Create New Folder -}
 createNewFolder : Icon
 createNewFolder =
     I.fromNodes
@@ -6245,7 +6245,7 @@ createNewFolder =
         ]
 
 
-{-| credit card -}
+{-| Credit Card -}
 creditCard : Icon
 creditCard =
     I.fromNodes
@@ -6257,7 +6257,7 @@ creditCard =
         ]
 
 
-{-| credit card off -}
+{-| Credit Card Off -}
 creditCardOff : Icon
 creditCardOff =
     I.fromNodes
@@ -6269,7 +6269,7 @@ creditCardOff =
         ]
 
 
-{-| credit score -}
+{-| Credit Score -}
 creditScore : Icon
 creditScore =
     I.fromNodes
@@ -6281,7 +6281,7 @@ creditScore =
         ]
 
 
-{-| crib -}
+{-| Crib -}
 crib : Icon
 crib =
     I.fromNodes
@@ -6293,7 +6293,7 @@ crib =
         ]
 
 
-{-| crisis alert -}
+{-| Crisis Alert -}
 crisisAlert : Icon
 crisisAlert =
     I.fromNodes
@@ -6305,7 +6305,7 @@ crisisAlert =
         ]
 
 
-{-| crop -}
+{-| Crop -}
 crop : Icon
 crop =
     I.fromNodes
@@ -6317,7 +6317,7 @@ crop =
         ]
 
 
-{-| crop 16 9 -}
+{-| Crop 16 9 -}
 crop169 : Icon
 crop169 =
     I.fromNodes
@@ -6329,7 +6329,7 @@ crop169 =
         ]
 
 
-{-| crop 3 2 -}
+{-| Crop 3 2 -}
 crop32 : Icon
 crop32 =
     I.fromNodes
@@ -6341,7 +6341,7 @@ crop32 =
         ]
 
 
-{-| crop 5 4 -}
+{-| Crop 5 4 -}
 crop54 : Icon
 crop54 =
     I.fromNodes
@@ -6353,7 +6353,7 @@ crop54 =
         ]
 
 
-{-| crop 7 5 -}
+{-| Crop 7 5 -}
 crop75 : Icon
 crop75 =
     I.fromNodes
@@ -6365,7 +6365,7 @@ crop75 =
         ]
 
 
-{-| crop din -}
+{-| Crop Din -}
 cropDin : Icon
 cropDin =
     I.fromNodes
@@ -6377,7 +6377,7 @@ cropDin =
         ]
 
 
-{-| crop free -}
+{-| Crop Free -}
 cropFree : Icon
 cropFree =
     I.fromNodes
@@ -6389,7 +6389,7 @@ cropFree =
         ]
 
 
-{-| crop landscape -}
+{-| Crop Landscape -}
 cropLandscape : Icon
 cropLandscape =
     I.fromNodes
@@ -6401,7 +6401,7 @@ cropLandscape =
         ]
 
 
-{-| crop original -}
+{-| Crop Original -}
 cropOriginal : Icon
 cropOriginal =
     I.fromNodes
@@ -6413,7 +6413,7 @@ cropOriginal =
         ]
 
 
-{-| crop portrait -}
+{-| Crop Portrait -}
 cropPortrait : Icon
 cropPortrait =
     I.fromNodes
@@ -6425,7 +6425,7 @@ cropPortrait =
         ]
 
 
-{-| crop rotate -}
+{-| Crop Rotate -}
 cropRotate : Icon
 cropRotate =
     I.fromNodes
@@ -6437,7 +6437,7 @@ cropRotate =
         ]
 
 
-{-| crop square -}
+{-| Crop Square -}
 cropSquare : Icon
 cropSquare =
     I.fromNodes
@@ -6449,7 +6449,7 @@ cropSquare =
         ]
 
 
-{-| cruelty free -}
+{-| Cruelty Free -}
 crueltyFree : Icon
 crueltyFree =
     I.fromNodes
@@ -6461,7 +6461,7 @@ crueltyFree =
         ]
 
 
-{-| css -}
+{-| Css -}
 css : Icon
 css =
     I.fromNodes
@@ -6473,7 +6473,7 @@ css =
         ]
 
 
-{-| currency bitcoin -}
+{-| Currency Bitcoin -}
 currencyBitcoin : Icon
 currencyBitcoin =
     I.fromNodes
@@ -6485,7 +6485,7 @@ currencyBitcoin =
         ]
 
 
-{-| currency exchange -}
+{-| Currency Exchange -}
 currencyExchange : Icon
 currencyExchange =
     I.fromNodes
@@ -6497,7 +6497,7 @@ currencyExchange =
         ]
 
 
-{-| currency franc -}
+{-| Currency Franc -}
 currencyFranc : Icon
 currencyFranc =
     I.fromNodes
@@ -6509,7 +6509,7 @@ currencyFranc =
         ]
 
 
-{-| currency lira -}
+{-| Currency Lira -}
 currencyLira : Icon
 currencyLira =
     I.fromNodes
@@ -6521,7 +6521,7 @@ currencyLira =
         ]
 
 
-{-| currency pound -}
+{-| Currency Pound -}
 currencyPound : Icon
 currencyPound =
     I.fromNodes
@@ -6533,7 +6533,7 @@ currencyPound =
         ]
 
 
-{-| currency ruble -}
+{-| Currency Ruble -}
 currencyRuble : Icon
 currencyRuble =
     I.fromNodes
@@ -6545,7 +6545,7 @@ currencyRuble =
         ]
 
 
-{-| currency rupee -}
+{-| Currency Rupee -}
 currencyRupee : Icon
 currencyRupee =
     I.fromNodes
@@ -6557,7 +6557,7 @@ currencyRupee =
         ]
 
 
-{-| currency yen -}
+{-| Currency Yen -}
 currencyYen : Icon
 currencyYen =
     I.fromNodes
@@ -6569,7 +6569,7 @@ currencyYen =
         ]
 
 
-{-| currency yuan -}
+{-| Currency Yuan -}
 currencyYuan : Icon
 currencyYuan =
     I.fromNodes
@@ -6581,7 +6581,7 @@ currencyYuan =
         ]
 
 
-{-| curtains -}
+{-| Curtains -}
 curtains : Icon
 curtains =
     I.fromNodes
@@ -6593,7 +6593,7 @@ curtains =
         ]
 
 
-{-| curtains closed -}
+{-| Curtains Closed -}
 curtainsClosed : Icon
 curtainsClosed =
     I.fromNodes
@@ -6605,7 +6605,7 @@ curtainsClosed =
         ]
 
 
-{-| cyclone -}
+{-| Cyclone -}
 cyclone : Icon
 cyclone =
     I.fromNodes
@@ -6622,7 +6622,7 @@ cyclone =
         ]
 
 
-{-| dangerous -}
+{-| Dangerous -}
 dangerous : Icon
 dangerous =
     I.fromNodes
@@ -6634,7 +6634,7 @@ dangerous =
         ]
 
 
-{-| dark mode -}
+{-| Dark Mode -}
 darkMode : Icon
 darkMode =
     I.fromNodes
@@ -6646,7 +6646,7 @@ darkMode =
         ]
 
 
-{-| dashboard -}
+{-| Dashboard -}
 dashboard : Icon
 dashboard =
     I.fromNodes
@@ -6658,7 +6658,7 @@ dashboard =
         ]
 
 
-{-| dashboard customize -}
+{-| Dashboard Customize -}
 dashboardCustomize : Icon
 dashboardCustomize =
     I.fromNodes
@@ -6670,7 +6670,7 @@ dashboardCustomize =
         ]
 
 
-{-| data array -}
+{-| Data Array -}
 dataArray : Icon
 dataArray =
     I.fromNodes
@@ -6682,7 +6682,7 @@ dataArray =
         ]
 
 
-{-| data exploration -}
+{-| Data Exploration -}
 dataExploration : Icon
 dataExploration =
     I.fromNodes
@@ -6694,7 +6694,7 @@ dataExploration =
         ]
 
 
-{-| data object -}
+{-| Data Object -}
 dataObject : Icon
 dataObject =
     I.fromNodes
@@ -6706,7 +6706,7 @@ dataObject =
         ]
 
 
-{-| data saver off -}
+{-| Data Saver Off -}
 dataSaverOff : Icon
 dataSaverOff =
     I.fromNodes
@@ -6718,7 +6718,7 @@ dataSaverOff =
         ]
 
 
-{-| data saver on -}
+{-| Data Saver On -}
 dataSaverOn : Icon
 dataSaverOn =
     I.fromNodes
@@ -6730,7 +6730,7 @@ dataSaverOn =
         ]
 
 
-{-| data thresholding -}
+{-| Data Thresholding -}
 dataThresholding : Icon
 dataThresholding =
     I.fromNodes
@@ -6742,7 +6742,7 @@ dataThresholding =
         ]
 
 
-{-| data usage -}
+{-| Data Usage -}
 dataUsage : Icon
 dataUsage =
     I.fromNodes
@@ -6754,7 +6754,7 @@ dataUsage =
         ]
 
 
-{-| dataset -}
+{-| Dataset -}
 dataset : Icon
 dataset =
     I.fromNodes
@@ -6766,7 +6766,7 @@ dataset =
         ]
 
 
-{-| dataset linked -}
+{-| Dataset Linked -}
 datasetLinked : Icon
 datasetLinked =
     I.fromNodes
@@ -6788,7 +6788,7 @@ datasetLinked =
         ]
 
 
-{-| date range -}
+{-| Date Range -}
 dateRange : Icon
 dateRange =
     I.fromNodes
@@ -6800,7 +6800,7 @@ dateRange =
         ]
 
 
-{-| deblur -}
+{-| Deblur -}
 deblur : Icon
 deblur =
     I.fromNodes
@@ -6820,7 +6820,7 @@ deblur =
         ]
 
 
-{-| deck -}
+{-| Deck -}
 deck : Icon
 deck =
     I.fromNodes
@@ -6837,7 +6837,7 @@ deck =
         ]
 
 
-{-| dehaze -}
+{-| Dehaze -}
 dehaze : Icon
 dehaze =
     I.fromNodes
@@ -6849,7 +6849,7 @@ dehaze =
         ]
 
 
-{-| delete -}
+{-| Delete -}
 delete : Icon
 delete =
     I.fromNodes
@@ -6861,7 +6861,7 @@ delete =
         ]
 
 
-{-| delete forever -}
+{-| Delete Forever -}
 deleteForever : Icon
 deleteForever =
     I.fromNodes
@@ -6873,7 +6873,7 @@ deleteForever =
         ]
 
 
-{-| delete outline -}
+{-| Delete Outline -}
 deleteOutline : Icon
 deleteOutline =
     I.fromNodes
@@ -6885,7 +6885,7 @@ deleteOutline =
         ]
 
 
-{-| delete sweep -}
+{-| Delete Sweep -}
 deleteSweep : Icon
 deleteSweep =
     I.fromNodes
@@ -6897,7 +6897,7 @@ deleteSweep =
         ]
 
 
-{-| delivery dining -}
+{-| Delivery Dining -}
 deliveryDining : Icon
 deliveryDining =
     I.fromNodes
@@ -6914,7 +6914,7 @@ deliveryDining =
         ]
 
 
-{-| density large -}
+{-| Density Large -}
 densityLarge : Icon
 densityLarge =
     I.fromNodes
@@ -6926,7 +6926,7 @@ densityLarge =
         ]
 
 
-{-| density medium -}
+{-| Density Medium -}
 densityMedium : Icon
 densityMedium =
     I.fromNodes
@@ -6938,7 +6938,7 @@ densityMedium =
         ]
 
 
-{-| density small -}
+{-| Density Small -}
 densitySmall : Icon
 densitySmall =
     I.fromNodes
@@ -6950,7 +6950,7 @@ densitySmall =
         ]
 
 
-{-| departure board -}
+{-| Departure Board -}
 departureBoard : Icon
 departureBoard =
     I.fromNodes
@@ -6962,7 +6962,7 @@ departureBoard =
         ]
 
 
-{-| description -}
+{-| Description -}
 description : Icon
 description =
     I.fromNodes
@@ -6974,7 +6974,7 @@ description =
         ]
 
 
-{-| deselect -}
+{-| Deselect -}
 deselect : Icon
 deselect =
     I.fromNodes
@@ -6986,7 +6986,7 @@ deselect =
         ]
 
 
-{-| design services -}
+{-| Design Services -}
 designServices : Icon
 designServices =
     I.fromNodes
@@ -6998,7 +6998,7 @@ designServices =
         ]
 
 
-{-| desk -}
+{-| Desk -}
 desk : Icon
 desk =
     I.fromNodes
@@ -7010,7 +7010,7 @@ desk =
         ]
 
 
-{-| desktop access disabled -}
+{-| Desktop Access Disabled -}
 desktopAccessDisabled : Icon
 desktopAccessDisabled =
     I.fromNodes
@@ -7022,7 +7022,7 @@ desktopAccessDisabled =
         ]
 
 
-{-| desktop mac -}
+{-| Desktop Mac -}
 desktopMac : Icon
 desktopMac =
     I.fromNodes
@@ -7034,7 +7034,7 @@ desktopMac =
         ]
 
 
-{-| desktop windows -}
+{-| Desktop Windows -}
 desktopWindows : Icon
 desktopWindows =
     I.fromNodes
@@ -7046,7 +7046,7 @@ desktopWindows =
         ]
 
 
-{-| details -}
+{-| Details -}
 details : Icon
 details =
     I.fromNodes
@@ -7058,7 +7058,7 @@ details =
         ]
 
 
-{-| developer board -}
+{-| Developer Board -}
 developerBoard : Icon
 developerBoard =
     I.fromNodes
@@ -7070,7 +7070,7 @@ developerBoard =
         ]
 
 
-{-| developer board off -}
+{-| Developer Board Off -}
 developerBoardOff : Icon
 developerBoardOff =
     I.fromNodes
@@ -7082,7 +7082,7 @@ developerBoardOff =
         ]
 
 
-{-| developer mode -}
+{-| Developer Mode -}
 developerMode : Icon
 developerMode =
     I.fromNodes
@@ -7094,7 +7094,7 @@ developerMode =
         ]
 
 
-{-| device hub -}
+{-| Device Hub -}
 deviceHub : Icon
 deviceHub =
     I.fromNodes
@@ -7106,7 +7106,7 @@ deviceHub =
         ]
 
 
-{-| device thermostat -}
+{-| Device Thermostat -}
 deviceThermostat : Icon
 deviceThermostat =
     I.fromNodes
@@ -7118,7 +7118,7 @@ deviceThermostat =
         ]
 
 
-{-| device unknown -}
+{-| Device Unknown -}
 deviceUnknown : Icon
 deviceUnknown =
     I.fromNodes
@@ -7130,7 +7130,7 @@ deviceUnknown =
         ]
 
 
-{-| devices -}
+{-| Devices -}
 devices : Icon
 devices =
     I.fromNodes
@@ -7142,7 +7142,7 @@ devices =
         ]
 
 
-{-| devices fold -}
+{-| Devices Fold -}
 devicesFold : Icon
 devicesFold =
     I.fromNodes
@@ -7154,7 +7154,7 @@ devicesFold =
         ]
 
 
-{-| devices other -}
+{-| Devices Other -}
 devicesOther : Icon
 devicesOther =
     I.fromNodes
@@ -7166,7 +7166,7 @@ devicesOther =
         ]
 
 
-{-| dialer sip -}
+{-| Dialer Sip -}
 dialerSip : Icon
 dialerSip =
     I.fromNodes
@@ -7178,7 +7178,7 @@ dialerSip =
         ]
 
 
-{-| dialpad -}
+{-| Dialpad -}
 dialpad : Icon
 dialpad =
     I.fromNodes
@@ -7190,7 +7190,7 @@ dialpad =
         ]
 
 
-{-| diamond -}
+{-| Diamond -}
 diamond : Icon
 diamond =
     I.fromNodes
@@ -7202,7 +7202,7 @@ diamond =
         ]
 
 
-{-| difference -}
+{-| Difference -}
 difference : Icon
 difference =
     I.fromNodes
@@ -7214,7 +7214,7 @@ difference =
         ]
 
 
-{-| dining -}
+{-| Dining -}
 dining : Icon
 dining =
     I.fromNodes
@@ -7226,7 +7226,7 @@ dining =
         ]
 
 
-{-| dinner dining -}
+{-| Dinner Dining -}
 dinnerDining : Icon
 dinnerDining =
     I.fromNodes
@@ -7238,7 +7238,7 @@ dinnerDining =
         ]
 
 
-{-| directions -}
+{-| Directions -}
 directions : Icon
 directions =
     I.fromNodes
@@ -7250,7 +7250,7 @@ directions =
         ]
 
 
-{-| directions bike -}
+{-| Directions Bike -}
 directionsBike : Icon
 directionsBike =
     I.fromNodes
@@ -7262,7 +7262,7 @@ directionsBike =
         ]
 
 
-{-| directions boat -}
+{-| Directions Boat -}
 directionsBoat : Icon
 directionsBoat =
     I.fromNodes
@@ -7274,7 +7274,7 @@ directionsBoat =
         ]
 
 
-{-| directions boat filled -}
+{-| Directions Boat Filled -}
 directionsBoatFilled : Icon
 directionsBoatFilled =
     I.fromNodes
@@ -7286,7 +7286,7 @@ directionsBoatFilled =
         ]
 
 
-{-| directions bus -}
+{-| Directions Bus -}
 directionsBus : Icon
 directionsBus =
     I.fromNodes
@@ -7298,7 +7298,7 @@ directionsBus =
         ]
 
 
-{-| directions bus filled -}
+{-| Directions Bus Filled -}
 directionsBusFilled : Icon
 directionsBusFilled =
     I.fromNodes
@@ -7310,7 +7310,7 @@ directionsBusFilled =
         ]
 
 
-{-| directions car -}
+{-| Directions Car -}
 directionsCar : Icon
 directionsCar =
     I.fromNodes
@@ -7322,7 +7322,7 @@ directionsCar =
         ]
 
 
-{-| directions car filled -}
+{-| Directions Car Filled -}
 directionsCarFilled : Icon
 directionsCarFilled =
     I.fromNodes
@@ -7334,7 +7334,7 @@ directionsCarFilled =
         ]
 
 
-{-| directions off -}
+{-| Directions Off -}
 directionsOff : Icon
 directionsOff =
     I.fromNodes
@@ -7346,7 +7346,7 @@ directionsOff =
         ]
 
 
-{-| directions railway -}
+{-| Directions Railway -}
 directionsRailway : Icon
 directionsRailway =
     I.fromNodes
@@ -7358,7 +7358,7 @@ directionsRailway =
         ]
 
 
-{-| directions railway filled -}
+{-| Directions Railway Filled -}
 directionsRailwayFilled : Icon
 directionsRailwayFilled =
     I.fromNodes
@@ -7370,7 +7370,7 @@ directionsRailwayFilled =
         ]
 
 
-{-| directions run -}
+{-| Directions Run -}
 directionsRun : Icon
 directionsRun =
     I.fromNodes
@@ -7382,7 +7382,7 @@ directionsRun =
         ]
 
 
-{-| directions subway -}
+{-| Directions Subway -}
 directionsSubway : Icon
 directionsSubway =
     I.fromNodes
@@ -7394,7 +7394,7 @@ directionsSubway =
         ]
 
 
-{-| directions subway filled -}
+{-| Directions Subway Filled -}
 directionsSubwayFilled : Icon
 directionsSubwayFilled =
     I.fromNodes
@@ -7406,7 +7406,7 @@ directionsSubwayFilled =
         ]
 
 
-{-| directions transit -}
+{-| Directions Transit -}
 directionsTransit : Icon
 directionsTransit =
     I.fromNodes
@@ -7418,7 +7418,7 @@ directionsTransit =
         ]
 
 
-{-| directions transit filled -}
+{-| Directions Transit Filled -}
 directionsTransitFilled : Icon
 directionsTransitFilled =
     I.fromNodes
@@ -7430,7 +7430,7 @@ directionsTransitFilled =
         ]
 
 
-{-| directions walk -}
+{-| Directions Walk -}
 directionsWalk : Icon
 directionsWalk =
     I.fromNodes
@@ -7442,7 +7442,7 @@ directionsWalk =
         ]
 
 
-{-| dirty lens -}
+{-| Dirty Lens -}
 dirtyLens : Icon
 dirtyLens =
     I.fromNodes
@@ -7454,7 +7454,7 @@ dirtyLens =
         ]
 
 
-{-| disabled by default -}
+{-| Disabled By Default -}
 disabledByDefault : Icon
 disabledByDefault =
     I.fromNodes
@@ -7466,7 +7466,7 @@ disabledByDefault =
         ]
 
 
-{-| disabled visible -}
+{-| Disabled Visible -}
 disabledVisible : Icon
 disabledVisible =
     I.fromNodes
@@ -7478,7 +7478,7 @@ disabledVisible =
         ]
 
 
-{-| disc full -}
+{-| Disc Full -}
 discFull : Icon
 discFull =
     I.fromNodes
@@ -7490,7 +7490,7 @@ discFull =
         ]
 
 
-{-| discord -}
+{-| Discord -}
 discord : Icon
 discord =
     I.fromNodes
@@ -7502,7 +7502,7 @@ discord =
         ]
 
 
-{-| discount -}
+{-| Discount -}
 discount : Icon
 discount =
     I.fromNodes
@@ -7519,7 +7519,7 @@ discount =
         ]
 
 
-{-| display settings -}
+{-| Display Settings -}
 displaySettings : Icon
 displaySettings =
     I.fromNodes
@@ -7536,7 +7536,7 @@ displaySettings =
         ]
 
 
-{-| diversity 1 -}
+{-| Diversity 1 -}
 diversity1 : Icon
 diversity1 =
     I.fromNodes
@@ -7560,7 +7560,7 @@ diversity1 =
         ]
 
 
-{-| diversity 2 -}
+{-| Diversity 2 -}
 diversity2 : Icon
 diversity2 =
     I.fromNodes
@@ -7582,7 +7582,7 @@ diversity2 =
         ]
 
 
-{-| diversity 3 -}
+{-| Diversity 3 -}
 diversity3 : Icon
 diversity3 =
     I.fromNodes
@@ -7599,7 +7599,7 @@ diversity3 =
         ]
 
 
-{-| divide -}
+{-| Divide -}
 divide : Icon
 divide =
     I.fromNodes
@@ -7611,7 +7611,7 @@ divide =
         ]
 
 
-{-| dns -}
+{-| Dns -}
 dns : Icon
 dns =
     I.fromNodes
@@ -7623,7 +7623,7 @@ dns =
         ]
 
 
-{-| do disturb -}
+{-| Do Disturb -}
 doDisturb : Icon
 doDisturb =
     I.fromNodes
@@ -7635,7 +7635,7 @@ doDisturb =
         ]
 
 
-{-| do disturb alt -}
+{-| Do Disturb Alt -}
 doDisturbAlt : Icon
 doDisturbAlt =
     I.fromNodes
@@ -7647,7 +7647,7 @@ doDisturbAlt =
         ]
 
 
-{-| do disturb off -}
+{-| Do Disturb Off -}
 doDisturbOff : Icon
 doDisturbOff =
     I.fromNodes
@@ -7659,7 +7659,7 @@ doDisturbOff =
         ]
 
 
-{-| do disturb on -}
+{-| Do Disturb On -}
 doDisturbOn : Icon
 doDisturbOn =
     I.fromNodes
@@ -7671,7 +7671,7 @@ doDisturbOn =
         ]
 
 
-{-| do not disturb -}
+{-| Do Not Disturb -}
 doNotDisturb : Icon
 doNotDisturb =
     I.fromNodes
@@ -7683,7 +7683,7 @@ doNotDisturb =
         ]
 
 
-{-| do not disturb alt -}
+{-| Do Not Disturb Alt -}
 doNotDisturbAlt : Icon
 doNotDisturbAlt =
     I.fromNodes
@@ -7695,7 +7695,7 @@ doNotDisturbAlt =
         ]
 
 
-{-| do not disturb off -}
+{-| Do Not Disturb Off -}
 doNotDisturbOff : Icon
 doNotDisturbOff =
     I.fromNodes
@@ -7707,7 +7707,7 @@ doNotDisturbOff =
         ]
 
 
-{-| do not disturb on -}
+{-| Do Not Disturb On -}
 doNotDisturbOn : Icon
 doNotDisturbOn =
     I.fromNodes
@@ -7719,7 +7719,7 @@ doNotDisturbOn =
         ]
 
 
-{-| do not disturb on total silence -}
+{-| Do Not Disturb On Total Silence -}
 doNotDisturbOnTotalSilence : Icon
 doNotDisturbOnTotalSilence =
     I.fromNodes
@@ -7731,7 +7731,7 @@ doNotDisturbOnTotalSilence =
         ]
 
 
-{-| do not step -}
+{-| Do Not Step -}
 doNotStep : Icon
 doNotStep =
     I.fromNodes
@@ -7743,7 +7743,7 @@ doNotStep =
         ]
 
 
-{-| do not touch -}
+{-| Do Not Touch -}
 doNotTouch : Icon
 doNotTouch =
     I.fromNodes
@@ -7755,7 +7755,7 @@ doNotTouch =
         ]
 
 
-{-| dock -}
+{-| Dock -}
 dock : Icon
 dock =
     I.fromNodes
@@ -7767,7 +7767,7 @@ dock =
         ]
 
 
-{-| document scanner -}
+{-| Document Scanner -}
 documentScanner : Icon
 documentScanner =
     I.fromNodes
@@ -7779,7 +7779,7 @@ documentScanner =
         ]
 
 
-{-| domain -}
+{-| Domain -}
 domain : Icon
 domain =
     I.fromNodes
@@ -7791,7 +7791,7 @@ domain =
         ]
 
 
-{-| domain add -}
+{-| Domain Add -}
 domainAdd : Icon
 domainAdd =
     I.fromNodes
@@ -7803,7 +7803,7 @@ domainAdd =
         ]
 
 
-{-| domain disabled -}
+{-| Domain Disabled -}
 domainDisabled : Icon
 domainDisabled =
     I.fromNodes
@@ -7815,7 +7815,7 @@ domainDisabled =
         ]
 
 
-{-| domain verification -}
+{-| Domain Verification -}
 domainVerification : Icon
 domainVerification =
     I.fromNodes
@@ -7832,7 +7832,7 @@ domainVerification =
         ]
 
 
-{-| done -}
+{-| Done -}
 done : Icon
 done =
     I.fromNodes
@@ -7844,7 +7844,7 @@ done =
         ]
 
 
-{-| done all -}
+{-| Done All -}
 doneAll : Icon
 doneAll =
     I.fromNodes
@@ -7856,7 +7856,7 @@ doneAll =
         ]
 
 
-{-| done outline -}
+{-| Done Outline -}
 doneOutline : Icon
 doneOutline =
     I.fromNodes
@@ -7868,7 +7868,7 @@ doneOutline =
         ]
 
 
-{-| donut large -}
+{-| Donut Large -}
 donutLarge : Icon
 donutLarge =
     I.fromNodes
@@ -7880,7 +7880,7 @@ donutLarge =
         ]
 
 
-{-| donut small -}
+{-| Donut Small -}
 donutSmall : Icon
 donutSmall =
     I.fromNodes
@@ -7892,7 +7892,7 @@ donutSmall =
         ]
 
 
-{-| door back -}
+{-| Door Back -}
 doorBack : Icon
 doorBack =
     I.fromNodes
@@ -7904,7 +7904,7 @@ doorBack =
         ]
 
 
-{-| door front -}
+{-| Door Front -}
 doorFront : Icon
 doorFront =
     I.fromNodes
@@ -7916,7 +7916,7 @@ doorFront =
         ]
 
 
-{-| door sliding -}
+{-| Door Sliding -}
 doorSliding : Icon
 doorSliding =
     I.fromNodes
@@ -7928,7 +7928,7 @@ doorSliding =
         ]
 
 
-{-| doorbell -}
+{-| Doorbell -}
 doorbell : Icon
 doorbell =
     I.fromNodes
@@ -7940,7 +7940,7 @@ doorbell =
         ]
 
 
-{-| double arrow -}
+{-| Double Arrow -}
 doubleArrow : Icon
 doubleArrow =
     I.fromNodes
@@ -7957,7 +7957,7 @@ doubleArrow =
         ]
 
 
-{-| downhill skiing -}
+{-| Downhill Skiing -}
 downhillSkiing : Icon
 downhillSkiing =
     I.fromNodes
@@ -7969,7 +7969,7 @@ downhillSkiing =
         ]
 
 
-{-| download -}
+{-| Download -}
 download : Icon
 download =
     I.fromNodes
@@ -7981,7 +7981,7 @@ download =
         ]
 
 
-{-| download done -}
+{-| Download Done -}
 downloadDone : Icon
 downloadDone =
     I.fromNodes
@@ -7993,7 +7993,7 @@ downloadDone =
         ]
 
 
-{-| download for offline -}
+{-| Download For Offline -}
 downloadForOffline : Icon
 downloadForOffline =
     I.fromNodes
@@ -8005,7 +8005,7 @@ downloadForOffline =
         ]
 
 
-{-| downloading -}
+{-| Downloading -}
 downloading : Icon
 downloading =
     I.fromNodes
@@ -8017,7 +8017,7 @@ downloading =
         ]
 
 
-{-| drafts -}
+{-| Drafts -}
 drafts : Icon
 drafts =
     I.fromNodes
@@ -8029,7 +8029,7 @@ drafts =
         ]
 
 
-{-| drag handle -}
+{-| Drag Handle -}
 dragHandle : Icon
 dragHandle =
     I.fromNodes
@@ -8041,7 +8041,7 @@ dragHandle =
         ]
 
 
-{-| drag indicator -}
+{-| Drag Indicator -}
 dragIndicator : Icon
 dragIndicator =
     I.fromNodes
@@ -8053,7 +8053,7 @@ dragIndicator =
         ]
 
 
-{-| draw -}
+{-| Draw -}
 draw : Icon
 draw =
     I.fromNodes
@@ -8065,7 +8065,7 @@ draw =
         ]
 
 
-{-| drive eta -}
+{-| Drive Eta -}
 driveEta : Icon
 driveEta =
     I.fromNodes
@@ -8077,7 +8077,7 @@ driveEta =
         ]
 
 
-{-| drive file move -}
+{-| Drive File Move -}
 driveFileMove : Icon
 driveFileMove =
     I.fromNodes
@@ -8089,7 +8089,7 @@ driveFileMove =
         ]
 
 
-{-| drive file move rtl -}
+{-| Drive File Move Rtl -}
 driveFileMoveRtl : Icon
 driveFileMoveRtl =
     I.fromNodes
@@ -8101,7 +8101,7 @@ driveFileMoveRtl =
         ]
 
 
-{-| drive file rename outline -}
+{-| Drive File Rename Outline -}
 driveFileRenameOutline : Icon
 driveFileRenameOutline =
     I.fromNodes
@@ -8113,7 +8113,7 @@ driveFileRenameOutline =
         ]
 
 
-{-| drive folder upload -}
+{-| Drive Folder Upload -}
 driveFolderUpload : Icon
 driveFolderUpload =
     I.fromNodes
@@ -8125,7 +8125,7 @@ driveFolderUpload =
         ]
 
 
-{-| dry -}
+{-| Dry -}
 dry : Icon
 dry =
     I.fromNodes
@@ -8137,7 +8137,7 @@ dry =
         ]
 
 
-{-| dry cleaning -}
+{-| Dry Cleaning -}
 dryCleaning : Icon
 dryCleaning =
     I.fromNodes
@@ -8149,7 +8149,7 @@ dryCleaning =
         ]
 
 
-{-| duo -}
+{-| Duo -}
 duo : Icon
 duo =
     I.fromNodes
@@ -8161,7 +8161,7 @@ duo =
         ]
 
 
-{-| dvr -}
+{-| Dvr -}
 dvr : Icon
 dvr =
     I.fromNodes
@@ -8173,7 +8173,7 @@ dvr =
         ]
 
 
-{-| dynamic feed -}
+{-| Dynamic Feed -}
 dynamicFeed : Icon
 dynamicFeed =
     I.fromNodes
@@ -8190,7 +8190,7 @@ dynamicFeed =
         ]
 
 
-{-| dynamic form -}
+{-| Dynamic Form -}
 dynamicForm : Icon
 dynamicForm =
     I.fromNodes
@@ -8202,7 +8202,7 @@ dynamicForm =
         ]
 
 
-{-| e mobiledata -}
+{-| E Mobiledata -}
 eMobiledata : Icon
 eMobiledata =
     I.fromNodes
@@ -8214,7 +8214,7 @@ eMobiledata =
         ]
 
 
-{-| earbuds -}
+{-| Earbuds -}
 earbuds : Icon
 earbuds =
     I.fromNodes
@@ -8226,7 +8226,7 @@ earbuds =
         ]
 
 
-{-| earbuds battery -}
+{-| Earbuds Battery -}
 earbudsBattery : Icon
 earbudsBattery =
     I.fromNodes
@@ -8238,7 +8238,7 @@ earbudsBattery =
         ]
 
 
-{-| east -}
+{-| East -}
 east : Icon
 east =
     I.fromNodes
@@ -8250,7 +8250,7 @@ east =
         ]
 
 
-{-| eco -}
+{-| Eco -}
 eco : Icon
 eco =
     I.fromNodes
@@ -8262,7 +8262,7 @@ eco =
         ]
 
 
-{-| edgesensor high -}
+{-| Edgesensor High -}
 edgesensorHigh : Icon
 edgesensorHigh =
     I.fromNodes
@@ -8274,7 +8274,7 @@ edgesensorHigh =
         ]
 
 
-{-| edgesensor low -}
+{-| Edgesensor Low -}
 edgesensorLow : Icon
 edgesensorLow =
     I.fromNodes
@@ -8286,7 +8286,7 @@ edgesensorLow =
         ]
 
 
-{-| edit -}
+{-| Edit -}
 edit : Icon
 edit =
     I.fromNodes
@@ -8298,7 +8298,7 @@ edit =
         ]
 
 
-{-| edit attributes -}
+{-| Edit Attributes -}
 editAttributes : Icon
 editAttributes =
     I.fromNodes
@@ -8310,7 +8310,7 @@ editAttributes =
         ]
 
 
-{-| edit calendar -}
+{-| Edit Calendar -}
 editCalendar : Icon
 editCalendar =
     I.fromNodes
@@ -8322,7 +8322,7 @@ editCalendar =
         ]
 
 
-{-| edit location -}
+{-| Edit Location -}
 editLocation : Icon
 editLocation =
     I.fromNodes
@@ -8334,7 +8334,7 @@ editLocation =
         ]
 
 
-{-| edit location alt -}
+{-| Edit Location Alt -}
 editLocationAlt : Icon
 editLocationAlt =
     I.fromNodes
@@ -8351,7 +8351,7 @@ editLocationAlt =
         ]
 
 
-{-| edit note -}
+{-| Edit Note -}
 editNote : Icon
 editNote =
     I.fromNodes
@@ -8363,7 +8363,7 @@ editNote =
         ]
 
 
-{-| edit notifications -}
+{-| Edit Notifications -}
 editNotifications : Icon
 editNotifications =
     I.fromNodes
@@ -8375,7 +8375,7 @@ editNotifications =
         ]
 
 
-{-| edit off -}
+{-| Edit Off -}
 editOff : Icon
 editOff =
     I.fromNodes
@@ -8387,7 +8387,7 @@ editOff =
         ]
 
 
-{-| edit road -}
+{-| Edit Road -}
 editRoad : Icon
 editRoad =
     I.fromNodes
@@ -8399,7 +8399,7 @@ editRoad =
         ]
 
 
-{-| egg -}
+{-| Egg -}
 egg : Icon
 egg =
     I.fromNodes
@@ -8411,7 +8411,7 @@ egg =
         ]
 
 
-{-| egg alt -}
+{-| Egg Alt -}
 eggAlt : Icon
 eggAlt =
     I.fromNodes
@@ -8423,7 +8423,7 @@ eggAlt =
         ]
 
 
-{-| eject -}
+{-| Eject -}
 eject : Icon
 eject =
     I.fromNodes
@@ -8435,7 +8435,7 @@ eject =
         ]
 
 
-{-| elderly -}
+{-| Elderly -}
 elderly : Icon
 elderly =
     I.fromNodes
@@ -8447,7 +8447,7 @@ elderly =
         ]
 
 
-{-| elderly woman -}
+{-| Elderly Woman -}
 elderlyWoman : Icon
 elderlyWoman =
     I.fromNodes
@@ -8459,7 +8459,7 @@ elderlyWoman =
         ]
 
 
-{-| electric bike -}
+{-| Electric Bike -}
 electricBike : Icon
 electricBike =
     I.fromNodes
@@ -8471,7 +8471,7 @@ electricBike =
         ]
 
 
-{-| electric bolt -}
+{-| Electric Bolt -}
 electricBolt : Icon
 electricBolt =
     I.fromNodes
@@ -8483,7 +8483,7 @@ electricBolt =
         ]
 
 
-{-| electric car -}
+{-| Electric Car -}
 electricCar : Icon
 electricCar =
     I.fromNodes
@@ -8495,7 +8495,7 @@ electricCar =
         ]
 
 
-{-| electric meter -}
+{-| Electric Meter -}
 electricMeter : Icon
 electricMeter =
     I.fromNodes
@@ -8507,7 +8507,7 @@ electricMeter =
         ]
 
 
-{-| electric moped -}
+{-| Electric Moped -}
 electricMoped : Icon
 electricMoped =
     I.fromNodes
@@ -8524,7 +8524,7 @@ electricMoped =
         ]
 
 
-{-| electric rickshaw -}
+{-| Electric Rickshaw -}
 electricRickshaw : Icon
 electricRickshaw =
     I.fromNodes
@@ -8536,7 +8536,7 @@ electricRickshaw =
         ]
 
 
-{-| electric scooter -}
+{-| Electric Scooter -}
 electricScooter : Icon
 electricScooter =
     I.fromNodes
@@ -8553,7 +8553,7 @@ electricScooter =
         ]
 
 
-{-| electrical services -}
+{-| Electrical Services -}
 electricalServices : Icon
 electricalServices =
     I.fromNodes
@@ -8565,7 +8565,7 @@ electricalServices =
         ]
 
 
-{-| elevator -}
+{-| Elevator -}
 elevator : Icon
 elevator =
     I.fromNodes
@@ -8577,7 +8577,7 @@ elevator =
         ]
 
 
-{-| email -}
+{-| Email -}
 email : Icon
 email =
     I.fromNodes
@@ -8589,7 +8589,7 @@ email =
         ]
 
 
-{-| emergency -}
+{-| Emergency -}
 emergency : Icon
 emergency =
     I.fromNodes
@@ -8601,7 +8601,7 @@ emergency =
         ]
 
 
-{-| emergency recording -}
+{-| Emergency Recording -}
 emergencyRecording : Icon
 emergencyRecording =
     I.fromNodes
@@ -8613,7 +8613,7 @@ emergencyRecording =
         ]
 
 
-{-| emergency share -}
+{-| Emergency Share -}
 emergencyShare : Icon
 emergencyShare =
     I.fromNodes
@@ -8625,7 +8625,7 @@ emergencyShare =
         ]
 
 
-{-| emoji emotions -}
+{-| Emoji Emotions -}
 emojiEmotions : Icon
 emojiEmotions =
     I.fromNodes
@@ -8637,7 +8637,7 @@ emojiEmotions =
         ]
 
 
-{-| emoji events -}
+{-| Emoji Events -}
 emojiEvents : Icon
 emojiEvents =
     I.fromNodes
@@ -8649,7 +8649,7 @@ emojiEvents =
         ]
 
 
-{-| emoji flags -}
+{-| Emoji Flags -}
 emojiFlags : Icon
 emojiFlags =
     I.fromNodes
@@ -8661,7 +8661,7 @@ emojiFlags =
         ]
 
 
-{-| emoji food beverage -}
+{-| Emoji Food Beverage -}
 emojiFoodBeverage : Icon
 emojiFoodBeverage =
     I.fromNodes
@@ -8673,7 +8673,7 @@ emojiFoodBeverage =
         ]
 
 
-{-| emoji nature -}
+{-| Emoji Nature -}
 emojiNature : Icon
 emojiNature =
     I.fromNodes
@@ -8685,7 +8685,7 @@ emojiNature =
         ]
 
 
-{-| emoji objects -}
+{-| Emoji Objects -}
 emojiObjects : Icon
 emojiObjects =
     I.fromNodes
@@ -8697,7 +8697,7 @@ emojiObjects =
         ]
 
 
-{-| emoji people -}
+{-| Emoji People -}
 emojiPeople : Icon
 emojiPeople =
     I.fromNodes
@@ -8710,7 +8710,7 @@ emojiPeople =
         ]
 
 
-{-| emoji symbols -}
+{-| Emoji Symbols -}
 emojiSymbols : Icon
 emojiSymbols =
     I.fromNodes
@@ -8729,7 +8729,7 @@ emojiSymbols =
         ]
 
 
-{-| emoji transportation -}
+{-| Emoji Transportation -}
 emojiTransportation : Icon
 emojiTransportation =
     I.fromNodes
@@ -8747,7 +8747,7 @@ emojiTransportation =
         ]
 
 
-{-| energy savings leaf -}
+{-| Energy Savings Leaf -}
 energySavingsLeaf : Icon
 energySavingsLeaf =
     I.fromNodes
@@ -8759,7 +8759,7 @@ energySavingsLeaf =
         ]
 
 
-{-| engineering -}
+{-| Engineering -}
 engineering : Icon
 engineering =
     I.fromNodes
@@ -8771,7 +8771,7 @@ engineering =
         ]
 
 
-{-| enhanced encryption -}
+{-| Enhanced Encryption -}
 enhancedEncryption : Icon
 enhancedEncryption =
     I.fromNodes
@@ -8783,7 +8783,7 @@ enhancedEncryption =
         ]
 
 
-{-| equalizer -}
+{-| Equalizer -}
 equalizer : Icon
 equalizer =
     I.fromNodes
@@ -8795,7 +8795,7 @@ equalizer =
         ]
 
 
-{-| equals -}
+{-| Equals -}
 equals : Icon
 equals =
     I.fromNodes
@@ -8807,7 +8807,7 @@ equals =
         ]
 
 
-{-| error -}
+{-| Error -}
 error : Icon
 error =
     I.fromNodes
@@ -8819,7 +8819,7 @@ error =
         ]
 
 
-{-| error outline -}
+{-| Error Outline -}
 errorOutline : Icon
 errorOutline =
     I.fromNodes
@@ -8831,7 +8831,7 @@ errorOutline =
         ]
 
 
-{-| escalator -}
+{-| Escalator -}
 escalator : Icon
 escalator =
     I.fromNodes
@@ -8843,7 +8843,7 @@ escalator =
         ]
 
 
-{-| escalator warning -}
+{-| Escalator Warning -}
 escalatorWarning : Icon
 escalatorWarning =
     I.fromNodes
@@ -8855,7 +8855,7 @@ escalatorWarning =
         ]
 
 
-{-| euro -}
+{-| Euro -}
 euro : Icon
 euro =
     I.fromNodes
@@ -8867,7 +8867,7 @@ euro =
         ]
 
 
-{-| euro symbol -}
+{-| Euro Symbol -}
 euroSymbol : Icon
 euroSymbol =
     I.fromNodes
@@ -8879,7 +8879,7 @@ euroSymbol =
         ]
 
 
-{-| ev station -}
+{-| Ev Station -}
 evStation : Icon
 evStation =
     I.fromNodes
@@ -8891,7 +8891,7 @@ evStation =
         ]
 
 
-{-| event -}
+{-| Event -}
 event : Icon
 event =
     I.fromNodes
@@ -8903,7 +8903,7 @@ event =
         ]
 
 
-{-| event available -}
+{-| Event Available -}
 eventAvailable : Icon
 eventAvailable =
     I.fromNodes
@@ -8915,7 +8915,7 @@ eventAvailable =
         ]
 
 
-{-| event busy -}
+{-| Event Busy -}
 eventBusy : Icon
 eventBusy =
     I.fromNodes
@@ -8927,7 +8927,7 @@ eventBusy =
         ]
 
 
-{-| event note -}
+{-| Event Note -}
 eventNote : Icon
 eventNote =
     I.fromNodes
@@ -8939,7 +8939,7 @@ eventNote =
         ]
 
 
-{-| event repeat -}
+{-| Event Repeat -}
 eventRepeat : Icon
 eventRepeat =
     I.fromNodes
@@ -8951,7 +8951,7 @@ eventRepeat =
         ]
 
 
-{-| event seat -}
+{-| Event Seat -}
 eventSeat : Icon
 eventSeat =
     I.fromNodes
@@ -8963,7 +8963,7 @@ eventSeat =
         ]
 
 
-{-| exit to app -}
+{-| Exit To App -}
 exitToApp : Icon
 exitToApp =
     I.fromNodes
@@ -8975,7 +8975,7 @@ exitToApp =
         ]
 
 
-{-| expand -}
+{-| Expand -}
 expand : Icon
 expand =
     I.fromNodes
@@ -8987,7 +8987,7 @@ expand =
         ]
 
 
-{-| expand circle down -}
+{-| Expand Circle Down -}
 expandCircleDown : Icon
 expandCircleDown =
     I.fromNodes
@@ -8999,7 +8999,7 @@ expandCircleDown =
         ]
 
 
-{-| expand less -}
+{-| Expand Less -}
 expandLess : Icon
 expandLess =
     I.fromNodes
@@ -9011,7 +9011,7 @@ expandLess =
         ]
 
 
-{-| expand more -}
+{-| Expand More -}
 expandMore : Icon
 expandMore =
     I.fromNodes
@@ -9023,7 +9023,7 @@ expandMore =
         ]
 
 
-{-| explicit -}
+{-| Explicit -}
 explicit : Icon
 explicit =
     I.fromNodes
@@ -9035,7 +9035,7 @@ explicit =
         ]
 
 
-{-| explore -}
+{-| Explore -}
 explore : Icon
 explore =
     I.fromNodes
@@ -9047,7 +9047,7 @@ explore =
         ]
 
 
-{-| explore off -}
+{-| Explore Off -}
 exploreOff : Icon
 exploreOff =
     I.fromNodes
@@ -9059,7 +9059,7 @@ exploreOff =
         ]
 
 
-{-| exposure -}
+{-| Exposure -}
 exposure : Icon
 exposure =
     I.fromNodes
@@ -9071,7 +9071,7 @@ exposure =
         ]
 
 
-{-| exposure neg 1 -}
+{-| Exposure Neg 1 -}
 exposureNeg1 : Icon
 exposureNeg1 =
     I.fromNodes
@@ -9083,7 +9083,7 @@ exposureNeg1 =
         ]
 
 
-{-| exposure neg 2 -}
+{-| Exposure Neg 2 -}
 exposureNeg2 : Icon
 exposureNeg2 =
     I.fromNodes
@@ -9095,7 +9095,7 @@ exposureNeg2 =
         ]
 
 
-{-| exposure plus 1 -}
+{-| Exposure Plus 1 -}
 exposurePlus1 : Icon
 exposurePlus1 =
     I.fromNodes
@@ -9107,7 +9107,7 @@ exposurePlus1 =
         ]
 
 
-{-| exposure plus 2 -}
+{-| Exposure Plus 2 -}
 exposurePlus2 : Icon
 exposurePlus2 =
     I.fromNodes
@@ -9119,7 +9119,7 @@ exposurePlus2 =
         ]
 
 
-{-| exposure zero -}
+{-| Exposure Zero -}
 exposureZero : Icon
 exposureZero =
     I.fromNodes
@@ -9131,7 +9131,7 @@ exposureZero =
         ]
 
 
-{-| extension -}
+{-| Extension -}
 extension : Icon
 extension =
     I.fromNodes
@@ -9143,7 +9143,7 @@ extension =
         ]
 
 
-{-| extension off -}
+{-| Extension Off -}
 extensionOff : Icon
 extensionOff =
     I.fromNodes
@@ -9155,7 +9155,7 @@ extensionOff =
         ]
 
 
-{-| face -}
+{-| Face -}
 face : Icon
 face =
     I.fromNodes
@@ -9167,7 +9167,7 @@ face =
         ]
 
 
-{-| face 2 -}
+{-| Face 2 -}
 face2 : Icon
 face2 =
     I.fromNodes
@@ -9181,7 +9181,7 @@ face2 =
         ]
 
 
-{-| face 3 -}
+{-| Face 3 -}
 face3 : Icon
 face3 =
     I.fromNodes
@@ -9195,7 +9195,7 @@ face3 =
         ]
 
 
-{-| face 4 -}
+{-| Face 4 -}
 face4 : Icon
 face4 =
     I.fromNodes
@@ -9209,7 +9209,7 @@ face4 =
         ]
 
 
-{-| face 5 -}
+{-| Face 5 -}
 face5 : Icon
 face5 =
     I.fromNodes
@@ -9243,7 +9243,7 @@ face5 =
         ]
 
 
-{-| face 6 -}
+{-| Face 6 -}
 face6 : Icon
 face6 =
     I.fromNodes
@@ -9257,7 +9257,7 @@ face6 =
         ]
 
 
-{-| face retouching natural -}
+{-| Face Retouching Natural -}
 faceRetouchingNatural : Icon
 faceRetouchingNatural =
     I.fromNodes
@@ -9276,7 +9276,7 @@ faceRetouchingNatural =
         ]
 
 
-{-| face retouching off -}
+{-| Face Retouching Off -}
 faceRetouchingOff : Icon
 faceRetouchingOff =
     I.fromNodes
@@ -9289,7 +9289,7 @@ faceRetouchingOff =
         ]
 
 
-{-| facebook -}
+{-| Facebook -}
 facebook : Icon
 facebook =
     I.fromNodes
@@ -9301,7 +9301,7 @@ facebook =
         ]
 
 
-{-| fact check -}
+{-| Fact Check -}
 factCheck : Icon
 factCheck =
     I.fromNodes
@@ -9314,7 +9314,7 @@ factCheck =
         ]
 
 
-{-| factory -}
+{-| Factory -}
 factory : Icon
 factory =
     I.fromNodes
@@ -9326,7 +9326,7 @@ factory =
         ]
 
 
-{-| family restroom -}
+{-| Family Restroom -}
 familyRestroom : Icon
 familyRestroom =
     I.fromNodes
@@ -9338,7 +9338,7 @@ familyRestroom =
         ]
 
 
-{-| fast forward -}
+{-| Fast Forward -}
 fastForward : Icon
 fastForward =
     I.fromNodes
@@ -9350,7 +9350,7 @@ fastForward =
         ]
 
 
-{-| fast rewind -}
+{-| Fast Rewind -}
 fastRewind : Icon
 fastRewind =
     I.fromNodes
@@ -9362,7 +9362,7 @@ fastRewind =
         ]
 
 
-{-| fastfood -}
+{-| Fastfood -}
 fastfood : Icon
 fastfood =
     I.fromNodes
@@ -9374,7 +9374,7 @@ fastfood =
         ]
 
 
-{-| favorite -}
+{-| Favorite -}
 favorite : Icon
 favorite =
     I.fromNodes
@@ -9386,7 +9386,7 @@ favorite =
         ]
 
 
-{-| favorite border -}
+{-| Favorite Border -}
 favoriteBorder : Icon
 favoriteBorder =
     I.fromNodes
@@ -9398,7 +9398,7 @@ favoriteBorder =
         ]
 
 
-{-| fax -}
+{-| Fax -}
 fax : Icon
 fax =
     I.fromNodes
@@ -9410,7 +9410,7 @@ fax =
         ]
 
 
-{-| featured play list -}
+{-| Featured Play List -}
 featuredPlayList : Icon
 featuredPlayList =
     I.fromNodes
@@ -9422,7 +9422,7 @@ featuredPlayList =
         ]
 
 
-{-| featured video -}
+{-| Featured Video -}
 featuredVideo : Icon
 featuredVideo =
     I.fromNodes
@@ -9434,7 +9434,7 @@ featuredVideo =
         ]
 
 
-{-| feed -}
+{-| Feed -}
 feed : Icon
 feed =
     I.fromNodes
@@ -9446,7 +9446,7 @@ feed =
         ]
 
 
-{-| feedback -}
+{-| Feedback -}
 feedback : Icon
 feedback =
     I.fromNodes
@@ -9458,7 +9458,7 @@ feedback =
         ]
 
 
-{-| female -}
+{-| Female -}
 female : Icon
 female =
     I.fromNodes
@@ -9470,7 +9470,7 @@ female =
         ]
 
 
-{-| fence -}
+{-| Fence -}
 fence : Icon
 fence =
     I.fromNodes
@@ -9482,7 +9482,7 @@ fence =
         ]
 
 
-{-| festival -}
+{-| Festival -}
 festival : Icon
 festival =
     I.fromNodes
@@ -9494,7 +9494,7 @@ festival =
         ]
 
 
-{-| fiber dvr -}
+{-| Fiber Dvr -}
 fiberDvr : Icon
 fiberDvr =
     I.fromNodes
@@ -9506,13 +9506,13 @@ fiberDvr =
         ]
 
 
-{-| fiber manual record -}
+{-| Fiber Manual Record -}
 fiberManualRecord : Icon
 fiberManualRecord =
     I.fromNodes [ S.circle [ SA.cx "12", SA.cy "12", SA.r "8" ] [] ]
 
 
-{-| fiber new -}
+{-| Fiber New -}
 fiberNew : Icon
 fiberNew =
     I.fromNodes
@@ -9524,7 +9524,7 @@ fiberNew =
         ]
 
 
-{-| fiber pin -}
+{-| Fiber Pin -}
 fiberPin : Icon
 fiberPin =
     I.fromNodes
@@ -9536,7 +9536,7 @@ fiberPin =
         ]
 
 
-{-| fiber smart record -}
+{-| Fiber Smart Record -}
 fiberSmartRecord : Icon
 fiberSmartRecord =
     I.fromNodes
@@ -9549,7 +9549,7 @@ fiberSmartRecord =
         ]
 
 
-{-| file copy -}
+{-| File Copy -}
 fileCopy : Icon
 fileCopy =
     I.fromNodes
@@ -9561,7 +9561,7 @@ fileCopy =
         ]
 
 
-{-| file download -}
+{-| File Download -}
 fileDownload : Icon
 fileDownload =
     I.fromNodes
@@ -9573,7 +9573,7 @@ fileDownload =
         ]
 
 
-{-| file download done -}
+{-| File Download Done -}
 fileDownloadDone : Icon
 fileDownloadDone =
     I.fromNodes
@@ -9585,7 +9585,7 @@ fileDownloadDone =
         ]
 
 
-{-| file download off -}
+{-| File Download Off -}
 fileDownloadOff : Icon
 fileDownloadOff =
     I.fromNodes
@@ -9597,7 +9597,7 @@ fileDownloadOff =
         ]
 
 
-{-| file open -}
+{-| File Open -}
 fileOpen : Icon
 fileOpen =
     I.fromNodes
@@ -9609,7 +9609,7 @@ fileOpen =
         ]
 
 
-{-| file present -}
+{-| File Present -}
 filePresent : Icon
 filePresent =
     I.fromNodes
@@ -9621,7 +9621,7 @@ filePresent =
         ]
 
 
-{-| file upload -}
+{-| File Upload -}
 fileUpload : Icon
 fileUpload =
     I.fromNodes
@@ -9633,7 +9633,7 @@ fileUpload =
         ]
 
 
-{-| filter -}
+{-| Filter -}
 filter : Icon
 filter =
     I.fromNodes
@@ -9645,7 +9645,7 @@ filter =
         ]
 
 
-{-| filter 1 -}
+{-| Filter 1 -}
 filter1 : Icon
 filter1 =
     I.fromNodes
@@ -9657,7 +9657,7 @@ filter1 =
         ]
 
 
-{-| filter 2 -}
+{-| Filter 2 -}
 filter2 : Icon
 filter2 =
     I.fromNodes
@@ -9669,7 +9669,7 @@ filter2 =
         ]
 
 
-{-| filter 3 -}
+{-| Filter 3 -}
 filter3 : Icon
 filter3 =
     I.fromNodes
@@ -9681,7 +9681,7 @@ filter3 =
         ]
 
 
-{-| filter 4 -}
+{-| Filter 4 -}
 filter4 : Icon
 filter4 =
     I.fromNodes
@@ -9693,7 +9693,7 @@ filter4 =
         ]
 
 
-{-| filter 5 -}
+{-| Filter 5 -}
 filter5 : Icon
 filter5 =
     I.fromNodes
@@ -9705,7 +9705,7 @@ filter5 =
         ]
 
 
-{-| filter 6 -}
+{-| Filter 6 -}
 filter6 : Icon
 filter6 =
     I.fromNodes
@@ -9717,7 +9717,7 @@ filter6 =
         ]
 
 
-{-| filter 7 -}
+{-| Filter 7 -}
 filter7 : Icon
 filter7 =
     I.fromNodes
@@ -9729,7 +9729,7 @@ filter7 =
         ]
 
 
-{-| filter 8 -}
+{-| Filter 8 -}
 filter8 : Icon
 filter8 =
     I.fromNodes
@@ -9741,7 +9741,7 @@ filter8 =
         ]
 
 
-{-| filter 9 -}
+{-| Filter 9 -}
 filter9 : Icon
 filter9 =
     I.fromNodes
@@ -9753,7 +9753,7 @@ filter9 =
         ]
 
 
-{-| filter 9 plus -}
+{-| Filter 9 Plus -}
 filter9Plus : Icon
 filter9Plus =
     I.fromNodes
@@ -9765,7 +9765,7 @@ filter9Plus =
         ]
 
 
-{-| filter alt -}
+{-| Filter Alt -}
 filterAlt : Icon
 filterAlt =
     I.fromNodes
@@ -9777,7 +9777,7 @@ filterAlt =
         ]
 
 
-{-| filter alt off -}
+{-| Filter Alt Off -}
 filterAltOff : Icon
 filterAltOff =
     I.fromNodes
@@ -9789,7 +9789,7 @@ filterAltOff =
         ]
 
 
-{-| filter b and w -}
+{-| Filter B And W -}
 filterBAndW : Icon
 filterBAndW =
     I.fromNodes
@@ -9801,7 +9801,7 @@ filterBAndW =
         ]
 
 
-{-| filter center focus -}
+{-| Filter Center Focus -}
 filterCenterFocus : Icon
 filterCenterFocus =
     I.fromNodes
@@ -9813,7 +9813,7 @@ filterCenterFocus =
         ]
 
 
-{-| filter drama -}
+{-| Filter Drama -}
 filterDrama : Icon
 filterDrama =
     I.fromNodes
@@ -9825,7 +9825,7 @@ filterDrama =
         ]
 
 
-{-| filter frames -}
+{-| Filter Frames -}
 filterFrames : Icon
 filterFrames =
     I.fromNodes
@@ -9837,7 +9837,7 @@ filterFrames =
         ]
 
 
-{-| filter hdr -}
+{-| Filter Hdr -}
 filterHdr : Icon
 filterHdr =
     I.fromNodes
@@ -9849,7 +9849,7 @@ filterHdr =
         ]
 
 
-{-| filter list -}
+{-| Filter List -}
 filterList : Icon
 filterList =
     I.fromNodes
@@ -9861,7 +9861,7 @@ filterList =
         ]
 
 
-{-| filter list off -}
+{-| Filter List Off -}
 filterListOff : Icon
 filterListOff =
     I.fromNodes
@@ -9873,7 +9873,7 @@ filterListOff =
         ]
 
 
-{-| filter none -}
+{-| Filter None -}
 filterNone : Icon
 filterNone =
     I.fromNodes
@@ -9885,7 +9885,7 @@ filterNone =
         ]
 
 
-{-| filter tilt shift -}
+{-| Filter Tilt Shift -}
 filterTiltShift : Icon
 filterTiltShift =
     I.fromNodes
@@ -9897,7 +9897,7 @@ filterTiltShift =
         ]
 
 
-{-| filter vintage -}
+{-| Filter Vintage -}
 filterVintage : Icon
 filterVintage =
     I.fromNodes
@@ -9909,7 +9909,7 @@ filterVintage =
         ]
 
 
-{-| find in page -}
+{-| Find In Page -}
 findInPage : Icon
 findInPage =
     I.fromNodes
@@ -9921,7 +9921,7 @@ findInPage =
         ]
 
 
-{-| find replace -}
+{-| Find Replace -}
 findReplace : Icon
 findReplace =
     I.fromNodes
@@ -9933,7 +9933,7 @@ findReplace =
         ]
 
 
-{-| fingerprint -}
+{-| Fingerprint -}
 fingerprint : Icon
 fingerprint =
     I.fromNodes
@@ -9945,7 +9945,7 @@ fingerprint =
         ]
 
 
-{-| fire extinguisher -}
+{-| Fire Extinguisher -}
 fireExtinguisher : Icon
 fireExtinguisher =
     I.fromNodes
@@ -9957,7 +9957,7 @@ fireExtinguisher =
         ]
 
 
-{-| fire hydrant alt -}
+{-| Fire Hydrant Alt -}
 fireHydrantAlt : Icon
 fireHydrantAlt =
     I.fromNodes
@@ -9970,7 +9970,7 @@ fireHydrantAlt =
         ]
 
 
-{-| fire truck -}
+{-| Fire Truck -}
 fireTruck : Icon
 fireTruck =
     I.fromNodes
@@ -9987,7 +9987,7 @@ fireTruck =
         ]
 
 
-{-| fireplace -}
+{-| Fireplace -}
 fireplace : Icon
 fireplace =
     I.fromNodes
@@ -9999,7 +9999,7 @@ fireplace =
         ]
 
 
-{-| first page -}
+{-| First Page -}
 firstPage : Icon
 firstPage =
     I.fromNodes
@@ -10011,7 +10011,7 @@ firstPage =
         ]
 
 
-{-| fit screen -}
+{-| Fit Screen -}
 fitScreen : Icon
 fitScreen =
     I.fromNodes
@@ -10023,7 +10023,7 @@ fitScreen =
         ]
 
 
-{-| fitbit -}
+{-| Fitbit -}
 fitbit : Icon
 fitbit =
     I.fromNodes
@@ -10035,7 +10035,7 @@ fitbit =
         ]
 
 
-{-| fitness center -}
+{-| Fitness Center -}
 fitnessCenter : Icon
 fitnessCenter =
     I.fromNodes
@@ -10047,7 +10047,7 @@ fitnessCenter =
         ]
 
 
-{-| flag -}
+{-| Flag -}
 flag : Icon
 flag =
     I.fromNodes
@@ -10059,7 +10059,7 @@ flag =
         ]
 
 
-{-| flag circle -}
+{-| Flag Circle -}
 flagCircle : Icon
 flagCircle =
     I.fromNodes
@@ -10071,7 +10071,7 @@ flagCircle =
         ]
 
 
-{-| flaky -}
+{-| Flaky -}
 flaky : Icon
 flaky =
     I.fromNodes
@@ -10084,7 +10084,7 @@ flaky =
         ]
 
 
-{-| flare -}
+{-| Flare -}
 flare : Icon
 flare =
     I.fromNodes
@@ -10096,7 +10096,7 @@ flare =
         ]
 
 
-{-| flash auto -}
+{-| Flash Auto -}
 flashAuto : Icon
 flashAuto =
     I.fromNodes
@@ -10108,7 +10108,7 @@ flashAuto =
         ]
 
 
-{-| flash off -}
+{-| Flash Off -}
 flashOff : Icon
 flashOff =
     I.fromNodes
@@ -10120,7 +10120,7 @@ flashOff =
         ]
 
 
-{-| flash on -}
+{-| Flash On -}
 flashOn : Icon
 flashOn =
     I.fromNodes
@@ -10132,7 +10132,7 @@ flashOn =
         ]
 
 
-{-| flashlight off -}
+{-| Flashlight Off -}
 flashlightOff : Icon
 flashlightOff =
     I.fromNodes
@@ -10144,7 +10144,7 @@ flashlightOff =
         ]
 
 
-{-| flashlight on -}
+{-| Flashlight On -}
 flashlightOn : Icon
 flashlightOn =
     I.fromNodes
@@ -10156,7 +10156,7 @@ flashlightOn =
         ]
 
 
-{-| flatware -}
+{-| Flatware -}
 flatware : Icon
 flatware =
     I.fromNodes
@@ -10168,7 +10168,7 @@ flatware =
         ]
 
 
-{-| flight -}
+{-| Flight -}
 flight : Icon
 flight =
     I.fromNodes
@@ -10180,7 +10180,7 @@ flight =
         ]
 
 
-{-| flight class -}
+{-| Flight Class -}
 flightClass : Icon
 flightClass =
     I.fromNodes
@@ -10192,7 +10192,7 @@ flightClass =
         ]
 
 
-{-| flight land -}
+{-| Flight Land -}
 flightLand : Icon
 flightLand =
     I.fromNodes
@@ -10204,7 +10204,7 @@ flightLand =
         ]
 
 
-{-| flight takeoff -}
+{-| Flight Takeoff -}
 flightTakeoff : Icon
 flightTakeoff =
     I.fromNodes
@@ -10216,7 +10216,7 @@ flightTakeoff =
         ]
 
 
-{-| flip -}
+{-| Flip -}
 flip : Icon
 flip =
     I.fromNodes
@@ -10228,7 +10228,7 @@ flip =
         ]
 
 
-{-| flip camera android -}
+{-| Flip Camera Android -}
 flipCameraAndroid : Icon
 flipCameraAndroid =
     I.fromNodes
@@ -10244,7 +10244,7 @@ flipCameraAndroid =
         ]
 
 
-{-| flip camera ios -}
+{-| Flip Camera Ios -}
 flipCameraIos : Icon
 flipCameraIos =
     I.fromNodes
@@ -10256,7 +10256,7 @@ flipCameraIos =
         ]
 
 
-{-| flip to back -}
+{-| Flip To Back -}
 flipToBack : Icon
 flipToBack =
     I.fromNodes
@@ -10268,7 +10268,7 @@ flipToBack =
         ]
 
 
-{-| flip to front -}
+{-| Flip To Front -}
 flipToFront : Icon
 flipToFront =
     I.fromNodes
@@ -10280,7 +10280,7 @@ flipToFront =
         ]
 
 
-{-| flood -}
+{-| Flood -}
 flood : Icon
 flood =
     I.fromNodes
@@ -10292,7 +10292,7 @@ flood =
         ]
 
 
-{-| flourescent -}
+{-| Flourescent -}
 flourescent : Icon
 flourescent =
     I.fromNodes
@@ -10304,7 +10304,7 @@ flourescent =
         ]
 
 
-{-| fluorescent -}
+{-| Fluorescent -}
 fluorescent : Icon
 fluorescent =
     I.fromNodes
@@ -10316,7 +10316,7 @@ fluorescent =
         ]
 
 
-{-| flutter dash -}
+{-| Flutter Dash -}
 flutterDash : Icon
 flutterDash =
     I.fromNodes
@@ -10328,7 +10328,7 @@ flutterDash =
         ]
 
 
-{-| fmd bad -}
+{-| Fmd Bad -}
 fmdBad : Icon
 fmdBad =
     I.fromNodes
@@ -10340,7 +10340,7 @@ fmdBad =
         ]
 
 
-{-| fmd good -}
+{-| Fmd Good -}
 fmdGood : Icon
 fmdGood =
     I.fromNodes
@@ -10352,7 +10352,7 @@ fmdGood =
         ]
 
 
-{-| folder -}
+{-| Folder -}
 folder : Icon
 folder =
     I.fromNodes
@@ -10364,7 +10364,7 @@ folder =
         ]
 
 
-{-| folder copy -}
+{-| Folder Copy -}
 folderCopy : Icon
 folderCopy =
     I.fromNodes
@@ -10381,7 +10381,7 @@ folderCopy =
         ]
 
 
-{-| folder delete -}
+{-| Folder Delete -}
 folderDelete : Icon
 folderDelete =
     I.fromNodes
@@ -10393,7 +10393,7 @@ folderDelete =
         ]
 
 
-{-| folder off -}
+{-| Folder Off -}
 folderOff : Icon
 folderOff =
     I.fromNodes
@@ -10405,7 +10405,7 @@ folderOff =
         ]
 
 
-{-| folder open -}
+{-| Folder Open -}
 folderOpen : Icon
 folderOpen =
     I.fromNodes
@@ -10417,7 +10417,7 @@ folderOpen =
         ]
 
 
-{-| folder shared -}
+{-| Folder Shared -}
 folderShared : Icon
 folderShared =
     I.fromNodes
@@ -10429,7 +10429,7 @@ folderShared =
         ]
 
 
-{-| folder special -}
+{-| Folder Special -}
 folderSpecial : Icon
 folderSpecial =
     I.fromNodes
@@ -10441,7 +10441,7 @@ folderSpecial =
         ]
 
 
-{-| folder zip -}
+{-| Folder Zip -}
 folderZip : Icon
 folderZip =
     I.fromNodes
@@ -10453,7 +10453,7 @@ folderZip =
         ]
 
 
-{-| follow the signs -}
+{-| Follow The Signs -}
 followTheSigns : Icon
 followTheSigns =
     I.fromNodes
@@ -10465,7 +10465,7 @@ followTheSigns =
         ]
 
 
-{-| font download -}
+{-| Font Download -}
 fontDownload : Icon
 fontDownload =
     I.fromNodes
@@ -10477,7 +10477,7 @@ fontDownload =
         ]
 
 
-{-| font download off -}
+{-| Font Download Off -}
 fontDownloadOff : Icon
 fontDownloadOff =
     I.fromNodes
@@ -10489,7 +10489,7 @@ fontDownloadOff =
         ]
 
 
-{-| food bank -}
+{-| Food Bank -}
 foodBank : Icon
 foodBank =
     I.fromNodes
@@ -10501,7 +10501,7 @@ foodBank =
         ]
 
 
-{-| forest -}
+{-| Forest -}
 forest : Icon
 forest =
     I.fromNodes
@@ -10518,7 +10518,7 @@ forest =
         ]
 
 
-{-| fork left -}
+{-| Fork Left -}
 forkLeft : Icon
 forkLeft =
     I.fromNodes
@@ -10530,7 +10530,7 @@ forkLeft =
         ]
 
 
-{-| fork right -}
+{-| Fork Right -}
 forkRight : Icon
 forkRight =
     I.fromNodes
@@ -10542,7 +10542,7 @@ forkRight =
         ]
 
 
-{-| format align center -}
+{-| Format Align Center -}
 formatAlignCenter : Icon
 formatAlignCenter =
     I.fromNodes
@@ -10554,7 +10554,7 @@ formatAlignCenter =
         ]
 
 
-{-| format align justify -}
+{-| Format Align Justify -}
 formatAlignJustify : Icon
 formatAlignJustify =
     I.fromNodes
@@ -10566,7 +10566,7 @@ formatAlignJustify =
         ]
 
 
-{-| format align left -}
+{-| Format Align Left -}
 formatAlignLeft : Icon
 formatAlignLeft =
     I.fromNodes
@@ -10578,7 +10578,7 @@ formatAlignLeft =
         ]
 
 
-{-| format align right -}
+{-| Format Align Right -}
 formatAlignRight : Icon
 formatAlignRight =
     I.fromNodes
@@ -10590,7 +10590,7 @@ formatAlignRight =
         ]
 
 
-{-| format bold -}
+{-| Format Bold -}
 formatBold : Icon
 formatBold =
     I.fromNodes
@@ -10602,7 +10602,7 @@ formatBold =
         ]
 
 
-{-| format clear -}
+{-| Format Clear -}
 formatClear : Icon
 formatClear =
     I.fromNodes
@@ -10614,7 +10614,7 @@ formatClear =
         ]
 
 
-{-| format color fill -}
+{-| Format Color Fill -}
 formatColorFill : Icon
 formatColorFill =
     I.fromNodes
@@ -10626,7 +10626,7 @@ formatColorFill =
         ]
 
 
-{-| format color reset -}
+{-| Format Color Reset -}
 formatColorReset : Icon
 formatColorReset =
     I.fromNodes
@@ -10638,7 +10638,7 @@ formatColorReset =
         ]
 
 
-{-| format color text -}
+{-| Format Color Text -}
 formatColorText : Icon
 formatColorText =
     I.fromNodes
@@ -10650,7 +10650,7 @@ formatColorText =
         ]
 
 
-{-| format indent decrease -}
+{-| Format Indent Decrease -}
 formatIndentDecrease : Icon
 formatIndentDecrease =
     I.fromNodes
@@ -10662,7 +10662,7 @@ formatIndentDecrease =
         ]
 
 
-{-| format indent increase -}
+{-| Format Indent Increase -}
 formatIndentIncrease : Icon
 formatIndentIncrease =
     I.fromNodes
@@ -10674,7 +10674,7 @@ formatIndentIncrease =
         ]
 
 
-{-| format italic -}
+{-| Format Italic -}
 formatItalic : Icon
 formatItalic =
     I.fromNodes
@@ -10686,7 +10686,7 @@ formatItalic =
         ]
 
 
-{-| format line spacing -}
+{-| Format Line Spacing -}
 formatLineSpacing : Icon
 formatLineSpacing =
     I.fromNodes
@@ -10698,7 +10698,7 @@ formatLineSpacing =
         ]
 
 
-{-| format list bulleted -}
+{-| Format List Bulleted -}
 formatListBulleted : Icon
 formatListBulleted =
     I.fromNodes
@@ -10710,7 +10710,7 @@ formatListBulleted =
         ]
 
 
-{-| format list numbered -}
+{-| Format List Numbered -}
 formatListNumbered : Icon
 formatListNumbered =
     I.fromNodes
@@ -10722,7 +10722,7 @@ formatListNumbered =
         ]
 
 
-{-| format list numbered rtl -}
+{-| Format List Numbered Rtl -}
 formatListNumberedRtl : Icon
 formatListNumberedRtl =
     I.fromNodes
@@ -10734,7 +10734,7 @@ formatListNumberedRtl =
         ]
 
 
-{-| format overline -}
+{-| Format Overline -}
 formatOverline : Icon
 formatOverline =
     I.fromNodes
@@ -10746,7 +10746,7 @@ formatOverline =
         ]
 
 
-{-| format paint -}
+{-| Format Paint -}
 formatPaint : Icon
 formatPaint =
     I.fromNodes
@@ -10758,7 +10758,7 @@ formatPaint =
         ]
 
 
-{-| format quote -}
+{-| Format Quote -}
 formatQuote : Icon
 formatQuote =
     I.fromNodes
@@ -10770,7 +10770,7 @@ formatQuote =
         ]
 
 
-{-| format shapes -}
+{-| Format Shapes -}
 formatShapes : Icon
 formatShapes =
     I.fromNodes
@@ -10782,7 +10782,7 @@ formatShapes =
         ]
 
 
-{-| format size -}
+{-| Format Size -}
 formatSize : Icon
 formatSize =
     I.fromNodes
@@ -10794,7 +10794,7 @@ formatSize =
         ]
 
 
-{-| format strikethrough -}
+{-| Format Strikethrough -}
 formatStrikethrough : Icon
 formatStrikethrough =
     I.fromNodes
@@ -10806,7 +10806,7 @@ formatStrikethrough =
         ]
 
 
-{-| format textdirection l to r -}
+{-| Format Textdirection L To R -}
 formatTextdirectionLToR : Icon
 formatTextdirectionLToR =
     I.fromNodes
@@ -10818,7 +10818,7 @@ formatTextdirectionLToR =
         ]
 
 
-{-| format textdirection r to l -}
+{-| Format Textdirection R To L -}
 formatTextdirectionRToL : Icon
 formatTextdirectionRToL =
     I.fromNodes
@@ -10830,7 +10830,7 @@ formatTextdirectionRToL =
         ]
 
 
-{-| format underlined -}
+{-| Format Underlined -}
 formatUnderlined : Icon
 formatUnderlined =
     I.fromNodes
@@ -10842,7 +10842,7 @@ formatUnderlined =
         ]
 
 
-{-| fort -}
+{-| Fort -}
 fort : Icon
 fort =
     I.fromNodes
@@ -10854,7 +10854,7 @@ fort =
         ]
 
 
-{-| forum -}
+{-| Forum -}
 forum : Icon
 forum =
     I.fromNodes
@@ -10866,7 +10866,7 @@ forum =
         ]
 
 
-{-| forward -}
+{-| Forward -}
 forward : Icon
 forward =
     I.fromNodes
@@ -10878,7 +10878,7 @@ forward =
         ]
 
 
-{-| forward 10 -}
+{-| Forward 10 -}
 forward10 : Icon
 forward10 =
     I.fromNodes
@@ -10890,7 +10890,7 @@ forward10 =
         ]
 
 
-{-| forward 30 -}
+{-| Forward 30 -}
 forward30 : Icon
 forward30 =
     I.fromNodes
@@ -10902,7 +10902,7 @@ forward30 =
         ]
 
 
-{-| forward 5 -}
+{-| Forward 5 -}
 forward5 : Icon
 forward5 =
     I.fromNodes
@@ -10914,7 +10914,7 @@ forward5 =
         ]
 
 
-{-| forward to inbox -}
+{-| Forward To Inbox -}
 forwardToInbox : Icon
 forwardToInbox =
     I.fromNodes
@@ -10926,7 +10926,7 @@ forwardToInbox =
         ]
 
 
-{-| foundation -}
+{-| Foundation -}
 foundation : Icon
 foundation =
     I.fromNodes
@@ -10938,7 +10938,7 @@ foundation =
         ]
 
 
-{-| free breakfast -}
+{-| Free Breakfast -}
 freeBreakfast : Icon
 freeBreakfast =
     I.fromNodes
@@ -10950,7 +10950,7 @@ freeBreakfast =
         ]
 
 
-{-| free cancellation -}
+{-| Free Cancellation -}
 freeCancellation : Icon
 freeCancellation =
     I.fromNodes
@@ -10962,7 +10962,7 @@ freeCancellation =
         ]
 
 
-{-| front hand -}
+{-| Front Hand -}
 frontHand : Icon
 frontHand =
     I.fromNodes
@@ -10974,7 +10974,7 @@ frontHand =
         ]
 
 
-{-| fullscreen -}
+{-| Fullscreen -}
 fullscreen : Icon
 fullscreen =
     I.fromNodes
@@ -10986,7 +10986,7 @@ fullscreen =
         ]
 
 
-{-| fullscreen exit -}
+{-| Fullscreen Exit -}
 fullscreenExit : Icon
 fullscreenExit =
     I.fromNodes
@@ -10998,7 +10998,7 @@ fullscreenExit =
         ]
 
 
-{-| functions -}
+{-| Functions -}
 functions : Icon
 functions =
     I.fromNodes
@@ -11010,7 +11010,7 @@ functions =
         ]
 
 
-{-| g mobiledata -}
+{-| G Mobiledata -}
 gMobiledata : Icon
 gMobiledata =
     I.fromNodes
@@ -11022,7 +11022,7 @@ gMobiledata =
         ]
 
 
-{-| g translate -}
+{-| G Translate -}
 gTranslate : Icon
 gTranslate =
     I.fromNodes
@@ -11034,7 +11034,7 @@ gTranslate =
         ]
 
 
-{-| gamepad -}
+{-| Gamepad -}
 gamepad : Icon
 gamepad =
     I.fromNodes
@@ -11046,7 +11046,7 @@ gamepad =
         ]
 
 
-{-| games -}
+{-| Games -}
 games : Icon
 games =
     I.fromNodes
@@ -11058,7 +11058,7 @@ games =
         ]
 
 
-{-| garage -}
+{-| Garage -}
 garage : Icon
 garage =
     I.fromNodes
@@ -11073,7 +11073,7 @@ garage =
         ]
 
 
-{-| gas meter -}
+{-| Gas Meter -}
 gasMeter : Icon
 gasMeter =
     I.fromNodes
@@ -11085,7 +11085,7 @@ gasMeter =
         ]
 
 
-{-| gavel -}
+{-| Gavel -}
 gavel : Icon
 gavel =
     I.fromNodes
@@ -11097,7 +11097,7 @@ gavel =
         ]
 
 
-{-| generating tokens -}
+{-| Generating Tokens -}
 generatingTokens : Icon
 generatingTokens =
     I.fromNodes
@@ -11109,7 +11109,7 @@ generatingTokens =
         ]
 
 
-{-| gesture -}
+{-| Gesture -}
 gesture : Icon
 gesture =
     I.fromNodes
@@ -11121,7 +11121,7 @@ gesture =
         ]
 
 
-{-| get app -}
+{-| Get App -}
 getApp : Icon
 getApp =
     I.fromNodes
@@ -11133,7 +11133,7 @@ getApp =
         ]
 
 
-{-| gif -}
+{-| Gif -}
 gif : Icon
 gif =
     I.fromNodes
@@ -11145,7 +11145,7 @@ gif =
         ]
 
 
-{-| gif box -}
+{-| Gif Box -}
 gifBox : Icon
 gifBox =
     I.fromNodes
@@ -11157,7 +11157,7 @@ gifBox =
         ]
 
 
-{-| girl -}
+{-| Girl -}
 girl : Icon
 girl =
     I.fromNodes
@@ -11169,7 +11169,7 @@ girl =
         ]
 
 
-{-| gite -}
+{-| Gite -}
 gite : Icon
 gite =
     I.fromNodes
@@ -11181,7 +11181,7 @@ gite =
         ]
 
 
-{-| golf course -}
+{-| Golf Course -}
 golfCourse : Icon
 golfCourse =
     I.fromNodes
@@ -11194,7 +11194,7 @@ golfCourse =
         ]
 
 
-{-| gpp bad -}
+{-| Gpp Bad -}
 gppBad : Icon
 gppBad =
     I.fromNodes
@@ -11206,7 +11206,7 @@ gppBad =
         ]
 
 
-{-| gpp good -}
+{-| Gpp Good -}
 gppGood : Icon
 gppGood =
     I.fromNodes
@@ -11218,7 +11218,7 @@ gppGood =
         ]
 
 
-{-| gpp maybe -}
+{-| Gpp Maybe -}
 gppMaybe : Icon
 gppMaybe =
     I.fromNodes
@@ -11230,7 +11230,7 @@ gppMaybe =
         ]
 
 
-{-| gps fixed -}
+{-| Gps Fixed -}
 gpsFixed : Icon
 gpsFixed =
     I.fromNodes
@@ -11242,7 +11242,7 @@ gpsFixed =
         ]
 
 
-{-| gps not fixed -}
+{-| Gps Not Fixed -}
 gpsNotFixed : Icon
 gpsNotFixed =
     I.fromNodes
@@ -11254,7 +11254,7 @@ gpsNotFixed =
         ]
 
 
-{-| gps off -}
+{-| Gps Off -}
 gpsOff : Icon
 gpsOff =
     I.fromNodes
@@ -11266,7 +11266,7 @@ gpsOff =
         ]
 
 
-{-| grade -}
+{-| Grade -}
 grade : Icon
 grade =
     I.fromNodes
@@ -11278,7 +11278,7 @@ grade =
         ]
 
 
-{-| gradient -}
+{-| Gradient -}
 gradient : Icon
 gradient =
     I.fromNodes
@@ -11290,7 +11290,7 @@ gradient =
         ]
 
 
-{-| grading -}
+{-| Grading -}
 grading : Icon
 grading =
     I.fromNodes
@@ -11302,7 +11302,7 @@ grading =
         ]
 
 
-{-| grain -}
+{-| Grain -}
 grain : Icon
 grain =
     I.fromNodes
@@ -11314,7 +11314,7 @@ grain =
         ]
 
 
-{-| graphic eq -}
+{-| Graphic Eq -}
 graphicEq : Icon
 graphicEq =
     I.fromNodes
@@ -11326,7 +11326,7 @@ graphicEq =
         ]
 
 
-{-| grass -}
+{-| Grass -}
 grass : Icon
 grass =
     I.fromNodes
@@ -11338,7 +11338,7 @@ grass =
         ]
 
 
-{-| greater than -}
+{-| Greater Than -}
 greaterThan : Icon
 greaterThan =
     I.fromNodes
@@ -11351,7 +11351,7 @@ greaterThan =
         ]
 
 
-{-| greater than equal -}
+{-| Greater Than Equal -}
 greaterThanEqual : Icon
 greaterThanEqual =
     I.fromNodes
@@ -11369,7 +11369,7 @@ greaterThanEqual =
         ]
 
 
-{-| grid 3x3 -}
+{-| Grid 3x3 -}
 grid3x3 : Icon
 grid3x3 =
     I.fromNodes
@@ -11381,7 +11381,7 @@ grid3x3 =
         ]
 
 
-{-| grid 4x4 -}
+{-| Grid 4x4 -}
 grid4x4 : Icon
 grid4x4 =
     I.fromNodes
@@ -11393,7 +11393,7 @@ grid4x4 =
         ]
 
 
-{-| grid goldenratio -}
+{-| Grid Goldenratio -}
 gridGoldenratio : Icon
 gridGoldenratio =
     I.fromNodes
@@ -11405,7 +11405,7 @@ gridGoldenratio =
         ]
 
 
-{-| grid off -}
+{-| Grid Off -}
 gridOff : Icon
 gridOff =
     I.fromNodes
@@ -11417,7 +11417,7 @@ gridOff =
         ]
 
 
-{-| grid on -}
+{-| Grid On -}
 gridOn : Icon
 gridOn =
     I.fromNodes
@@ -11429,7 +11429,7 @@ gridOn =
         ]
 
 
-{-| grid view -}
+{-| Grid View -}
 gridView : Icon
 gridView =
     I.fromNodes
@@ -11441,7 +11441,7 @@ gridView =
         ]
 
 
-{-| group -}
+{-| Group -}
 group : Icon
 group =
     I.fromNodes
@@ -11453,7 +11453,7 @@ group =
         ]
 
 
-{-| group add -}
+{-| Group Add -}
 groupAdd : Icon
 groupAdd =
     I.fromNodes
@@ -11465,7 +11465,7 @@ groupAdd =
         ]
 
 
-{-| group off -}
+{-| Group Off -}
 groupOff : Icon
 groupOff =
     I.fromNodes
@@ -11477,7 +11477,7 @@ groupOff =
         ]
 
 
-{-| group remove -}
+{-| Group Remove -}
 groupRemove : Icon
 groupRemove =
     I.fromNodes
@@ -11489,7 +11489,7 @@ groupRemove =
         ]
 
 
-{-| group work -}
+{-| Group Work -}
 groupWork : Icon
 groupWork =
     I.fromNodes
@@ -11501,7 +11501,7 @@ groupWork =
         ]
 
 
-{-| groups -}
+{-| Groups -}
 groups : Icon
 groups =
     I.fromNodes
@@ -11513,7 +11513,7 @@ groups =
         ]
 
 
-{-| groups 2 -}
+{-| Groups 2 -}
 groups2 : Icon
 groups2 =
     I.fromNodes
@@ -11525,7 +11525,7 @@ groups2 =
         ]
 
 
-{-| groups 3 -}
+{-| Groups 3 -}
 groups3 : Icon
 groups3 =
     I.fromNodes
@@ -11537,7 +11537,7 @@ groups3 =
         ]
 
 
-{-| h mobiledata -}
+{-| H Mobiledata -}
 hMobiledata : Icon
 hMobiledata =
     I.fromNodes
@@ -11549,7 +11549,7 @@ hMobiledata =
         ]
 
 
-{-| h plus mobiledata -}
+{-| H Plus Mobiledata -}
 hPlusMobiledata : Icon
 hPlusMobiledata =
     I.fromNodes
@@ -11561,7 +11561,7 @@ hPlusMobiledata =
         ]
 
 
-{-| hail -}
+{-| Hail -}
 hail : Icon
 hail =
     I.fromNodes
@@ -11573,7 +11573,7 @@ hail =
         ]
 
 
-{-| handshake -}
+{-| Handshake -}
 handshake : Icon
 handshake =
     I.fromNodes
@@ -11585,7 +11585,7 @@ handshake =
         ]
 
 
-{-| handyman -}
+{-| Handyman -}
 handyman : Icon
 handyman =
     I.fromNodes
@@ -11602,7 +11602,7 @@ handyman =
         ]
 
 
-{-| hardware -}
+{-| Hardware -}
 hardware : Icon
 hardware =
     I.fromNodes
@@ -11614,7 +11614,7 @@ hardware =
         ]
 
 
-{-| hd -}
+{-| Hd -}
 hd : Icon
 hd =
     I.fromNodes
@@ -11626,7 +11626,7 @@ hd =
         ]
 
 
-{-| hdr auto -}
+{-| Hdr Auto -}
 hdrAuto : Icon
 hdrAuto =
     I.fromNodes
@@ -11639,7 +11639,7 @@ hdrAuto =
         ]
 
 
-{-| hdr auto select -}
+{-| Hdr Auto Select -}
 hdrAutoSelect : Icon
 hdrAutoSelect =
     I.fromNodes
@@ -11656,7 +11656,7 @@ hdrAutoSelect =
         ]
 
 
-{-| hdr enhanced select -}
+{-| Hdr Enhanced Select -}
 hdrEnhancedSelect : Icon
 hdrEnhancedSelect =
     I.fromNodes
@@ -11668,7 +11668,7 @@ hdrEnhancedSelect =
         ]
 
 
-{-| hdr off -}
+{-| Hdr Off -}
 hdrOff : Icon
 hdrOff =
     I.fromNodes
@@ -11680,7 +11680,7 @@ hdrOff =
         ]
 
 
-{-| hdr off select -}
+{-| Hdr Off Select -}
 hdrOffSelect : Icon
 hdrOffSelect =
     I.fromNodes
@@ -11692,7 +11692,7 @@ hdrOffSelect =
         ]
 
 
-{-| hdr on -}
+{-| Hdr On -}
 hdrOn : Icon
 hdrOn =
     I.fromNodes
@@ -11704,7 +11704,7 @@ hdrOn =
         ]
 
 
-{-| hdr on select -}
+{-| Hdr On Select -}
 hdrOnSelect : Icon
 hdrOnSelect =
     I.fromNodes
@@ -11716,7 +11716,7 @@ hdrOnSelect =
         ]
 
 
-{-| hdr plus -}
+{-| Hdr Plus -}
 hdrPlus : Icon
 hdrPlus =
     I.fromNodes
@@ -11729,7 +11729,7 @@ hdrPlus =
         ]
 
 
-{-| hdr strong -}
+{-| Hdr Strong -}
 hdrStrong : Icon
 hdrStrong =
     I.fromNodes
@@ -11741,7 +11741,7 @@ hdrStrong =
         ]
 
 
-{-| hdr weak -}
+{-| Hdr Weak -}
 hdrWeak : Icon
 hdrWeak =
     I.fromNodes
@@ -11753,7 +11753,7 @@ hdrWeak =
         ]
 
 
-{-| headphones -}
+{-| Headphones -}
 headphones : Icon
 headphones =
     I.fromNodes
@@ -11765,7 +11765,7 @@ headphones =
         ]
 
 
-{-| headphones battery -}
+{-| Headphones Battery -}
 headphonesBattery : Icon
 headphonesBattery =
     I.fromNodes
@@ -11777,7 +11777,7 @@ headphonesBattery =
         ]
 
 
-{-| headset -}
+{-| Headset -}
 headset : Icon
 headset =
     I.fromNodes
@@ -11789,7 +11789,7 @@ headset =
         ]
 
 
-{-| headset mic -}
+{-| Headset Mic -}
 headsetMic : Icon
 headsetMic =
     I.fromNodes
@@ -11801,7 +11801,7 @@ headsetMic =
         ]
 
 
-{-| headset off -}
+{-| Headset Off -}
 headsetOff : Icon
 headsetOff =
     I.fromNodes
@@ -11813,7 +11813,7 @@ headsetOff =
         ]
 
 
-{-| healing -}
+{-| Healing -}
 healing : Icon
 healing =
     I.fromNodes
@@ -11825,7 +11825,7 @@ healing =
         ]
 
 
-{-| health and safety -}
+{-| Health And Safety -}
 healthAndSafety : Icon
 healthAndSafety =
     I.fromNodes
@@ -11837,7 +11837,7 @@ healthAndSafety =
         ]
 
 
-{-| hearing -}
+{-| Hearing -}
 hearing : Icon
 hearing =
     I.fromNodes
@@ -11849,7 +11849,7 @@ hearing =
         ]
 
 
-{-| hearing disabled -}
+{-| Hearing Disabled -}
 hearingDisabled : Icon
 hearingDisabled =
     I.fromNodes
@@ -11861,7 +11861,7 @@ hearingDisabled =
         ]
 
 
-{-| heart broken -}
+{-| Heart Broken -}
 heartBroken : Icon
 heartBroken =
     I.fromNodes
@@ -11873,7 +11873,7 @@ heartBroken =
         ]
 
 
-{-| heat pump -}
+{-| Heat Pump -}
 heatPump : Icon
 heatPump =
     I.fromNodes
@@ -11885,7 +11885,7 @@ heatPump =
         ]
 
 
-{-| height -}
+{-| Height -}
 height : Icon
 height =
     I.fromNodes
@@ -11897,7 +11897,7 @@ height =
         ]
 
 
-{-| help -}
+{-| Help -}
 help : Icon
 help =
     I.fromNodes
@@ -11909,7 +11909,7 @@ help =
         ]
 
 
-{-| help center -}
+{-| Help Center -}
 helpCenter : Icon
 helpCenter =
     I.fromNodes
@@ -11921,7 +11921,7 @@ helpCenter =
         ]
 
 
-{-| help outline -}
+{-| Help Outline -}
 helpOutline : Icon
 helpOutline =
     I.fromNodes
@@ -11933,7 +11933,7 @@ helpOutline =
         ]
 
 
-{-| hevc -}
+{-| Hevc -}
 hevc : Icon
 hevc =
     I.fromNodes
@@ -11945,7 +11945,7 @@ hevc =
         ]
 
 
-{-| hexagon -}
+{-| Hexagon -}
 hexagon : Icon
 hexagon =
     I.fromNodes
@@ -11957,7 +11957,7 @@ hexagon =
         ]
 
 
-{-| hide image -}
+{-| Hide Image -}
 hideImage : Icon
 hideImage =
     I.fromNodes
@@ -11969,7 +11969,7 @@ hideImage =
         ]
 
 
-{-| hide source -}
+{-| Hide Source -}
 hideSource : Icon
 hideSource =
     I.fromNodes
@@ -11981,7 +11981,7 @@ hideSource =
         ]
 
 
-{-| high quality -}
+{-| High Quality -}
 highQuality : Icon
 highQuality =
     I.fromNodes
@@ -11993,7 +11993,7 @@ highQuality =
         ]
 
 
-{-| highlight -}
+{-| Highlight -}
 highlight : Icon
 highlight =
     I.fromNodes
@@ -12005,7 +12005,7 @@ highlight =
         ]
 
 
-{-| highlight alt -}
+{-| Highlight Alt -}
 highlightAlt : Icon
 highlightAlt =
     I.fromNodes
@@ -12017,7 +12017,7 @@ highlightAlt =
         ]
 
 
-{-| highlight off -}
+{-| Highlight Off -}
 highlightOff : Icon
 highlightOff =
     I.fromNodes
@@ -12029,7 +12029,7 @@ highlightOff =
         ]
 
 
-{-| hiking -}
+{-| Hiking -}
 hiking : Icon
 hiking =
     I.fromNodes
@@ -12041,7 +12041,7 @@ hiking =
         ]
 
 
-{-| history -}
+{-| History -}
 history : Icon
 history =
     I.fromNodes
@@ -12053,7 +12053,7 @@ history =
         ]
 
 
-{-| history edu -}
+{-| History Edu -}
 historyEdu : Icon
 historyEdu =
     I.fromNodes
@@ -12065,7 +12065,7 @@ historyEdu =
         ]
 
 
-{-| history toggle off -}
+{-| History Toggle Off -}
 historyToggleOff : Icon
 historyToggleOff =
     I.fromNodes
@@ -12077,7 +12077,7 @@ historyToggleOff =
         ]
 
 
-{-| hive -}
+{-| Hive -}
 hive : Icon
 hive =
     I.fromNodes
@@ -12089,7 +12089,7 @@ hive =
         ]
 
 
-{-| hls -}
+{-| Hls -}
 hls : Icon
 hls =
     I.fromNodes
@@ -12101,7 +12101,7 @@ hls =
         ]
 
 
-{-| hls off -}
+{-| Hls Off -}
 hlsOff : Icon
 hlsOff =
     I.fromNodes
@@ -12113,7 +12113,7 @@ hlsOff =
         ]
 
 
-{-| holiday village -}
+{-| Holiday Village -}
 holidayVillage : Icon
 holidayVillage =
     I.fromNodes
@@ -12125,7 +12125,7 @@ holidayVillage =
         ]
 
 
-{-| home -}
+{-| Home -}
 home : Icon
 home =
     I.fromNodes
@@ -12137,7 +12137,7 @@ home =
         ]
 
 
-{-| home max -}
+{-| Home Max -}
 homeMax : Icon
 homeMax =
     I.fromNodes
@@ -12149,7 +12149,7 @@ homeMax =
         ]
 
 
-{-| home mini -}
+{-| Home Mini -}
 homeMini : Icon
 homeMini =
     I.fromNodes
@@ -12161,7 +12161,7 @@ homeMini =
         ]
 
 
-{-| home repair service -}
+{-| Home Repair Service -}
 homeRepairService : Icon
 homeRepairService =
     I.fromNodes
@@ -12173,7 +12173,7 @@ homeRepairService =
         ]
 
 
-{-| home work -}
+{-| Home Work -}
 homeWork : Icon
 homeWork =
     I.fromNodes
@@ -12190,7 +12190,7 @@ homeWork =
         ]
 
 
-{-| horizontal distribute -}
+{-| Horizontal Distribute -}
 horizontalDistribute : Icon
 horizontalDistribute =
     I.fromNodes
@@ -12202,7 +12202,7 @@ horizontalDistribute =
         ]
 
 
-{-| horizontal rule -}
+{-| Horizontal Rule -}
 horizontalRule : Icon
 horizontalRule =
     I.fromNodes
@@ -12215,7 +12215,7 @@ horizontalRule =
         ]
 
 
-{-| horizontal split -}
+{-| Horizontal Split -}
 horizontalSplit : Icon
 horizontalSplit =
     I.fromNodes
@@ -12227,7 +12227,7 @@ horizontalSplit =
         ]
 
 
-{-| hot tub -}
+{-| Hot Tub -}
 hotTub : Icon
 hotTub =
     I.fromNodes
@@ -12240,7 +12240,7 @@ hotTub =
         ]
 
 
-{-| hotel -}
+{-| Hotel -}
 hotel : Icon
 hotel =
     I.fromNodes
@@ -12252,7 +12252,7 @@ hotel =
         ]
 
 
-{-| hotel class -}
+{-| Hotel Class -}
 hotelClass : Icon
 hotelClass =
     I.fromNodes
@@ -12264,7 +12264,7 @@ hotelClass =
         ]
 
 
-{-| hourglass bottom -}
+{-| Hourglass Bottom -}
 hourglassBottom : Icon
 hourglassBottom =
     I.fromNodes
@@ -12276,7 +12276,7 @@ hourglassBottom =
         ]
 
 
-{-| hourglass disabled -}
+{-| Hourglass Disabled -}
 hourglassDisabled : Icon
 hourglassDisabled =
     I.fromNodes
@@ -12288,7 +12288,7 @@ hourglassDisabled =
         ]
 
 
-{-| hourglass empty -}
+{-| Hourglass Empty -}
 hourglassEmpty : Icon
 hourglassEmpty =
     I.fromNodes
@@ -12300,7 +12300,7 @@ hourglassEmpty =
         ]
 
 
-{-| hourglass full -}
+{-| Hourglass Full -}
 hourglassFull : Icon
 hourglassFull =
     I.fromNodes
@@ -12312,7 +12312,7 @@ hourglassFull =
         ]
 
 
-{-| hourglass top -}
+{-| Hourglass Top -}
 hourglassTop : Icon
 hourglassTop =
     I.fromNodes
@@ -12324,7 +12324,7 @@ hourglassTop =
         ]
 
 
-{-| house -}
+{-| House -}
 house : Icon
 house =
     I.fromNodes
@@ -12336,7 +12336,7 @@ house =
         ]
 
 
-{-| house siding -}
+{-| House Siding -}
 houseSiding : Icon
 houseSiding =
     I.fromNodes
@@ -12348,7 +12348,7 @@ houseSiding =
         ]
 
 
-{-| houseboat -}
+{-| Houseboat -}
 houseboat : Icon
 houseboat =
     I.fromNodes
@@ -12360,7 +12360,7 @@ houseboat =
         ]
 
 
-{-| how to reg -}
+{-| How To Reg -}
 howToReg : Icon
 howToReg =
     I.fromNodes
@@ -12372,7 +12372,7 @@ howToReg =
         ]
 
 
-{-| how to vote -}
+{-| How To Vote -}
 howToVote : Icon
 howToVote =
     I.fromNodes
@@ -12389,7 +12389,7 @@ howToVote =
         ]
 
 
-{-| html -}
+{-| Html -}
 html : Icon
 html =
     I.fromNodes
@@ -12401,7 +12401,7 @@ html =
         ]
 
 
-{-| http -}
+{-| Http -}
 http : Icon
 http =
     I.fromNodes
@@ -12413,7 +12413,7 @@ http =
         ]
 
 
-{-| https -}
+{-| Https -}
 https : Icon
 https =
     I.fromNodes
@@ -12425,7 +12425,7 @@ https =
         ]
 
 
-{-| hub -}
+{-| Hub -}
 hub : Icon
 hub =
     I.fromNodes
@@ -12437,7 +12437,7 @@ hub =
         ]
 
 
-{-| hvac -}
+{-| Hvac -}
 hvac : Icon
 hvac =
     I.fromNodes
@@ -12454,7 +12454,7 @@ hvac =
         ]
 
 
-{-| ice skating -}
+{-| Ice Skating -}
 iceSkating : Icon
 iceSkating =
     I.fromNodes
@@ -12466,7 +12466,7 @@ iceSkating =
         ]
 
 
-{-| icecream -}
+{-| Icecream -}
 icecream : Icon
 icecream =
     I.fromNodes
@@ -12478,7 +12478,7 @@ icecream =
         ]
 
 
-{-| image -}
+{-| Image -}
 image : Icon
 image =
     I.fromNodes
@@ -12490,7 +12490,7 @@ image =
         ]
 
 
-{-| image aspect ratio -}
+{-| Image Aspect Ratio -}
 imageAspectRatio : Icon
 imageAspectRatio =
     I.fromNodes
@@ -12502,7 +12502,7 @@ imageAspectRatio =
         ]
 
 
-{-| image not supported -}
+{-| Image Not Supported -}
 imageNotSupported : Icon
 imageNotSupported =
     I.fromNodes
@@ -12514,7 +12514,7 @@ imageNotSupported =
         ]
 
 
-{-| image search -}
+{-| Image Search -}
 imageSearch : Icon
 imageSearch =
     I.fromNodes
@@ -12526,7 +12526,7 @@ imageSearch =
         ]
 
 
-{-| imagesearch roller -}
+{-| Imagesearch Roller -}
 imagesearchRoller : Icon
 imagesearchRoller =
     I.fromNodes
@@ -12538,7 +12538,7 @@ imagesearchRoller =
         ]
 
 
-{-| import contacts -}
+{-| Import Contacts -}
 importContacts : Icon
 importContacts =
     I.fromNodes
@@ -12550,7 +12550,7 @@ importContacts =
         ]
 
 
-{-| import export -}
+{-| Import Export -}
 importExport : Icon
 importExport =
     I.fromNodes
@@ -12562,7 +12562,7 @@ importExport =
         ]
 
 
-{-| important devices -}
+{-| Important Devices -}
 importantDevices : Icon
 importantDevices =
     I.fromNodes
@@ -12574,7 +12574,7 @@ importantDevices =
         ]
 
 
-{-| inbox -}
+{-| Inbox -}
 inbox : Icon
 inbox =
     I.fromNodes
@@ -12586,7 +12586,7 @@ inbox =
         ]
 
 
-{-| incomplete circle -}
+{-| Incomplete Circle -}
 incompleteCircle : Icon
 incompleteCircle =
     I.fromNodes
@@ -12598,7 +12598,7 @@ incompleteCircle =
         ]
 
 
-{-| indeterminate check box -}
+{-| Indeterminate Check Box -}
 indeterminateCheckBox : Icon
 indeterminateCheckBox =
     I.fromNodes
@@ -12610,7 +12610,7 @@ indeterminateCheckBox =
         ]
 
 
-{-| info -}
+{-| Info -}
 info : Icon
 info =
     I.fromNodes
@@ -12622,7 +12622,7 @@ info =
         ]
 
 
-{-| input -}
+{-| Input -}
 input : Icon
 input =
     I.fromNodes
@@ -12634,7 +12634,7 @@ input =
         ]
 
 
-{-| insert chart -}
+{-| Insert Chart -}
 insertChart : Icon
 insertChart =
     I.fromNodes
@@ -12646,7 +12646,7 @@ insertChart =
         ]
 
 
-{-| insert chart outlined -}
+{-| Insert Chart Outlined -}
 insertChartOutlined : Icon
 insertChartOutlined =
     I.fromNodes
@@ -12658,7 +12658,7 @@ insertChartOutlined =
         ]
 
 
-{-| insert comment -}
+{-| Insert Comment -}
 insertComment : Icon
 insertComment =
     I.fromNodes
@@ -12670,7 +12670,7 @@ insertComment =
         ]
 
 
-{-| insert drive file -}
+{-| Insert Drive File -}
 insertDriveFile : Icon
 insertDriveFile =
     I.fromNodes
@@ -12682,7 +12682,7 @@ insertDriveFile =
         ]
 
 
-{-| insert emoticon -}
+{-| Insert Emoticon -}
 insertEmoticon : Icon
 insertEmoticon =
     I.fromNodes
@@ -12694,7 +12694,7 @@ insertEmoticon =
         ]
 
 
-{-| insert invitation -}
+{-| Insert Invitation -}
 insertInvitation : Icon
 insertInvitation =
     I.fromNodes
@@ -12706,7 +12706,7 @@ insertInvitation =
         ]
 
 
-{-| insert link -}
+{-| Insert Link -}
 insertLink : Icon
 insertLink =
     I.fromNodes
@@ -12718,7 +12718,7 @@ insertLink =
         ]
 
 
-{-| insert page break -}
+{-| Insert Page Break -}
 insertPageBreak : Icon
 insertPageBreak =
     I.fromNodes
@@ -12730,7 +12730,7 @@ insertPageBreak =
         ]
 
 
-{-| insert photo -}
+{-| Insert Photo -}
 insertPhoto : Icon
 insertPhoto =
     I.fromNodes
@@ -12742,7 +12742,7 @@ insertPhoto =
         ]
 
 
-{-| insights -}
+{-| Insights -}
 insights : Icon
 insights =
     I.fromNodes
@@ -12759,7 +12759,7 @@ insights =
         ]
 
 
-{-| install desktop -}
+{-| Install Desktop -}
 installDesktop : Icon
 installDesktop =
     I.fromNodes
@@ -12776,7 +12776,7 @@ installDesktop =
         ]
 
 
-{-| install mobile -}
+{-| Install Mobile -}
 installMobile : Icon
 installMobile =
     I.fromNodes
@@ -12793,7 +12793,7 @@ installMobile =
         ]
 
 
-{-| integration instructions -}
+{-| Integration Instructions -}
 integrationInstructions : Icon
 integrationInstructions =
     I.fromNodes
@@ -12805,7 +12805,7 @@ integrationInstructions =
         ]
 
 
-{-| interests -}
+{-| Interests -}
 interests : Icon
 interests =
     I.fromNodes
@@ -12817,7 +12817,7 @@ interests =
         ]
 
 
-{-| interpreter mode -}
+{-| Interpreter Mode -}
 interpreterMode : Icon
 interpreterMode =
     I.fromNodes
@@ -12829,7 +12829,7 @@ interpreterMode =
         ]
 
 
-{-| inventory -}
+{-| Inventory -}
 inventory : Icon
 inventory =
     I.fromNodes
@@ -12846,7 +12846,7 @@ inventory =
         ]
 
 
-{-| inventory 2 -}
+{-| Inventory 2 -}
 inventory2 : Icon
 inventory2 =
     I.fromNodes
@@ -12858,7 +12858,7 @@ inventory2 =
         ]
 
 
-{-| invert colors -}
+{-| Invert Colors -}
 invertColors : Icon
 invertColors =
     I.fromNodes
@@ -12870,7 +12870,7 @@ invertColors =
         ]
 
 
-{-| invert colors off -}
+{-| Invert Colors Off -}
 invertColorsOff : Icon
 invertColorsOff =
     I.fromNodes
@@ -12882,7 +12882,7 @@ invertColorsOff =
         ]
 
 
-{-| ios share -}
+{-| Ios Share -}
 iosShare : Icon
 iosShare =
     I.fromNodes
@@ -12899,7 +12899,7 @@ iosShare =
         ]
 
 
-{-| iron -}
+{-| Iron -}
 iron : Icon
 iron =
     I.fromNodes
@@ -12911,7 +12911,7 @@ iron =
         ]
 
 
-{-| iso -}
+{-| Iso -}
 iso : Icon
 iso =
     I.fromNodes
@@ -12923,7 +12923,7 @@ iso =
         ]
 
 
-{-| javascript -}
+{-| Javascript -}
 javascript : Icon
 javascript =
     I.fromNodes
@@ -12935,7 +12935,7 @@ javascript =
         ]
 
 
-{-| join full -}
+{-| Join Full -}
 joinFull : Icon
 joinFull =
     I.fromNodes
@@ -12952,7 +12952,7 @@ joinFull =
         ]
 
 
-{-| join inner -}
+{-| Join Inner -}
 joinInner : Icon
 joinInner =
     I.fromNodes
@@ -12969,7 +12969,7 @@ joinInner =
         ]
 
 
-{-| join left -}
+{-| Join Left -}
 joinLeft : Icon
 joinLeft =
     I.fromNodes
@@ -12986,7 +12986,7 @@ joinLeft =
         ]
 
 
-{-| join right -}
+{-| Join Right -}
 joinRight : Icon
 joinRight =
     I.fromNodes
@@ -13003,7 +13003,7 @@ joinRight =
         ]
 
 
-{-| kayaking -}
+{-| Kayaking -}
 kayaking : Icon
 kayaking =
     I.fromNodes
@@ -13015,7 +13015,7 @@ kayaking =
         ]
 
 
-{-| kebab dining -}
+{-| Kebab Dining -}
 kebabDining : Icon
 kebabDining =
     I.fromNodes
@@ -13027,7 +13027,7 @@ kebabDining =
         ]
 
 
-{-| key -}
+{-| Key -}
 key : Icon
 key =
     I.fromNodes
@@ -13039,7 +13039,7 @@ key =
         ]
 
 
-{-| key off -}
+{-| Key Off -}
 keyOff : Icon
 keyOff =
     I.fromNodes
@@ -13051,7 +13051,7 @@ keyOff =
         ]
 
 
-{-| keyboard -}
+{-| Keyboard -}
 keyboard : Icon
 keyboard =
     I.fromNodes
@@ -13063,7 +13063,7 @@ keyboard =
         ]
 
 
-{-| keyboard alt -}
+{-| Keyboard Alt -}
 keyboardAlt : Icon
 keyboardAlt =
     I.fromNodes
@@ -13075,7 +13075,7 @@ keyboardAlt =
         ]
 
 
-{-| keyboard arrow down -}
+{-| Keyboard Arrow Down -}
 keyboardArrowDown : Icon
 keyboardArrowDown =
     I.fromNodes
@@ -13087,7 +13087,7 @@ keyboardArrowDown =
         ]
 
 
-{-| keyboard arrow left -}
+{-| Keyboard Arrow Left -}
 keyboardArrowLeft : Icon
 keyboardArrowLeft =
     I.fromNodes
@@ -13099,7 +13099,7 @@ keyboardArrowLeft =
         ]
 
 
-{-| keyboard arrow right -}
+{-| Keyboard Arrow Right -}
 keyboardArrowRight : Icon
 keyboardArrowRight =
     I.fromNodes
@@ -13111,7 +13111,7 @@ keyboardArrowRight =
         ]
 
 
-{-| keyboard arrow up -}
+{-| Keyboard Arrow Up -}
 keyboardArrowUp : Icon
 keyboardArrowUp =
     I.fromNodes
@@ -13123,7 +13123,7 @@ keyboardArrowUp =
         ]
 
 
-{-| keyboard backspace -}
+{-| Keyboard Backspace -}
 keyboardBackspace : Icon
 keyboardBackspace =
     I.fromNodes
@@ -13135,7 +13135,7 @@ keyboardBackspace =
         ]
 
 
-{-| keyboard capslock -}
+{-| Keyboard Capslock -}
 keyboardCapslock : Icon
 keyboardCapslock =
     I.fromNodes
@@ -13147,7 +13147,7 @@ keyboardCapslock =
         ]
 
 
-{-| keyboard command key -}
+{-| Keyboard Command Key -}
 keyboardCommandKey : Icon
 keyboardCommandKey =
     I.fromNodes
@@ -13159,7 +13159,7 @@ keyboardCommandKey =
         ]
 
 
-{-| keyboard control key -}
+{-| Keyboard Control Key -}
 keyboardControlKey : Icon
 keyboardControlKey =
     I.fromNodes
@@ -13171,7 +13171,7 @@ keyboardControlKey =
         ]
 
 
-{-| keyboard double arrow down -}
+{-| Keyboard Double Arrow Down -}
 keyboardDoubleArrowDown : Icon
 keyboardDoubleArrowDown =
     I.fromNodes
@@ -13188,7 +13188,7 @@ keyboardDoubleArrowDown =
         ]
 
 
-{-| keyboard double arrow left -}
+{-| Keyboard Double Arrow Left -}
 keyboardDoubleArrowLeft : Icon
 keyboardDoubleArrowLeft =
     I.fromNodes
@@ -13205,7 +13205,7 @@ keyboardDoubleArrowLeft =
         ]
 
 
-{-| keyboard double arrow right -}
+{-| Keyboard Double Arrow Right -}
 keyboardDoubleArrowRight : Icon
 keyboardDoubleArrowRight =
     I.fromNodes
@@ -13222,7 +13222,7 @@ keyboardDoubleArrowRight =
         ]
 
 
-{-| keyboard double arrow up -}
+{-| Keyboard Double Arrow Up -}
 keyboardDoubleArrowUp : Icon
 keyboardDoubleArrowUp =
     I.fromNodes
@@ -13239,7 +13239,7 @@ keyboardDoubleArrowUp =
         ]
 
 
-{-| keyboard hide -}
+{-| Keyboard Hide -}
 keyboardHide : Icon
 keyboardHide =
     I.fromNodes
@@ -13251,7 +13251,7 @@ keyboardHide =
         ]
 
 
-{-| keyboard option key -}
+{-| Keyboard Option Key -}
 keyboardOptionKey : Icon
 keyboardOptionKey =
     I.fromNodes
@@ -13263,7 +13263,7 @@ keyboardOptionKey =
         ]
 
 
-{-| keyboard return -}
+{-| Keyboard Return -}
 keyboardReturn : Icon
 keyboardReturn =
     I.fromNodes
@@ -13275,7 +13275,7 @@ keyboardReturn =
         ]
 
 
-{-| keyboard tab -}
+{-| Keyboard Tab -}
 keyboardTab : Icon
 keyboardTab =
     I.fromNodes
@@ -13287,7 +13287,7 @@ keyboardTab =
         ]
 
 
-{-| keyboard voice -}
+{-| Keyboard Voice -}
 keyboardVoice : Icon
 keyboardVoice =
     I.fromNodes
@@ -13299,7 +13299,7 @@ keyboardVoice =
         ]
 
 
-{-| king bed -}
+{-| King Bed -}
 kingBed : Icon
 kingBed =
     I.fromNodes
@@ -13311,7 +13311,7 @@ kingBed =
         ]
 
 
-{-| kitchen -}
+{-| Kitchen -}
 kitchen : Icon
 kitchen =
     I.fromNodes
@@ -13323,7 +13323,7 @@ kitchen =
         ]
 
 
-{-| kitesurfing -}
+{-| Kitesurfing -}
 kitesurfing : Icon
 kitesurfing =
     I.fromNodes
@@ -13335,7 +13335,7 @@ kitesurfing =
         ]
 
 
-{-| label -}
+{-| Label -}
 label : Icon
 label =
     I.fromNodes
@@ -13347,7 +13347,7 @@ label =
         ]
 
 
-{-| label important -}
+{-| Label Important -}
 labelImportant : Icon
 labelImportant =
     I.fromNodes
@@ -13359,7 +13359,7 @@ labelImportant =
         ]
 
 
-{-| label off -}
+{-| Label Off -}
 labelOff : Icon
 labelOff =
     I.fromNodes
@@ -13371,7 +13371,7 @@ labelOff =
         ]
 
 
-{-| lan -}
+{-| Lan -}
 lan : Icon
 lan =
     I.fromNodes
@@ -13383,7 +13383,7 @@ lan =
         ]
 
 
-{-| landscape -}
+{-| Landscape -}
 landscape : Icon
 landscape =
     I.fromNodes
@@ -13395,7 +13395,7 @@ landscape =
         ]
 
 
-{-| landslide -}
+{-| Landslide -}
 landslide : Icon
 landslide =
     I.fromNodes
@@ -13407,7 +13407,7 @@ landslide =
         ]
 
 
-{-| language -}
+{-| Language -}
 language : Icon
 language =
     I.fromNodes
@@ -13419,7 +13419,7 @@ language =
         ]
 
 
-{-| laptop -}
+{-| Laptop -}
 laptop : Icon
 laptop =
     I.fromNodes
@@ -13431,7 +13431,7 @@ laptop =
         ]
 
 
-{-| laptop chromebook -}
+{-| Laptop Chromebook -}
 laptopChromebook : Icon
 laptopChromebook =
     I.fromNodes
@@ -13443,7 +13443,7 @@ laptopChromebook =
         ]
 
 
-{-| laptop mac -}
+{-| Laptop Mac -}
 laptopMac : Icon
 laptopMac =
     I.fromNodes
@@ -13455,7 +13455,7 @@ laptopMac =
         ]
 
 
-{-| laptop windows -}
+{-| Laptop Windows -}
 laptopWindows : Icon
 laptopWindows =
     I.fromNodes
@@ -13467,7 +13467,7 @@ laptopWindows =
         ]
 
 
-{-| last page -}
+{-| Last Page -}
 lastPage : Icon
 lastPage =
     I.fromNodes
@@ -13479,7 +13479,7 @@ lastPage =
         ]
 
 
-{-| launch -}
+{-| Launch -}
 launch : Icon
 launch =
     I.fromNodes
@@ -13491,7 +13491,7 @@ launch =
         ]
 
 
-{-| layers -}
+{-| Layers -}
 layers : Icon
 layers =
     I.fromNodes
@@ -13503,7 +13503,7 @@ layers =
         ]
 
 
-{-| layers clear -}
+{-| Layers Clear -}
 layersClear : Icon
 layersClear =
     I.fromNodes
@@ -13515,7 +13515,7 @@ layersClear =
         ]
 
 
-{-| leaderboard -}
+{-| Leaderboard -}
 leaderboard : Icon
 leaderboard =
     I.fromNodes
@@ -13527,7 +13527,7 @@ leaderboard =
         ]
 
 
-{-| leak add -}
+{-| Leak Add -}
 leakAdd : Icon
 leakAdd =
     I.fromNodes
@@ -13539,7 +13539,7 @@ leakAdd =
         ]
 
 
-{-| leak remove -}
+{-| Leak Remove -}
 leakRemove : Icon
 leakRemove =
     I.fromNodes
@@ -13551,7 +13551,7 @@ leakRemove =
         ]
 
 
-{-| leave bags at home -}
+{-| Leave Bags At Home -}
 leaveBagsAtHome : Icon
 leaveBagsAtHome =
     I.fromNodes
@@ -13563,7 +13563,7 @@ leaveBagsAtHome =
         ]
 
 
-{-| legend toggle -}
+{-| Legend Toggle -}
 legendToggle : Icon
 legendToggle =
     I.fromNodes
@@ -13575,7 +13575,7 @@ legendToggle =
         ]
 
 
-{-| lens -}
+{-| Lens -}
 lens : Icon
 lens =
     I.fromNodes
@@ -13587,7 +13587,7 @@ lens =
         ]
 
 
-{-| lens blur -}
+{-| Lens Blur -}
 lensBlur : Icon
 lensBlur =
     I.fromNodes
@@ -13599,7 +13599,7 @@ lensBlur =
         ]
 
 
-{-| less than -}
+{-| Less Than -}
 lessThan : Icon
 lessThan =
     I.fromNodes
@@ -13612,7 +13612,7 @@ lessThan =
         ]
 
 
-{-| less than equal -}
+{-| Less Than Equal -}
 lessThanEqual : Icon
 lessThanEqual =
     I.fromNodes
@@ -13630,7 +13630,7 @@ lessThanEqual =
         ]
 
 
-{-| library add -}
+{-| Library Add -}
 libraryAdd : Icon
 libraryAdd =
     I.fromNodes
@@ -13642,7 +13642,7 @@ libraryAdd =
         ]
 
 
-{-| library add check -}
+{-| Library Add Check -}
 libraryAddCheck : Icon
 libraryAddCheck =
     I.fromNodes
@@ -13654,7 +13654,7 @@ libraryAddCheck =
         ]
 
 
-{-| library books -}
+{-| Library Books -}
 libraryBooks : Icon
 libraryBooks =
     I.fromNodes
@@ -13666,7 +13666,7 @@ libraryBooks =
         ]
 
 
-{-| library music -}
+{-| Library Music -}
 libraryMusic : Icon
 libraryMusic =
     I.fromNodes
@@ -13678,7 +13678,7 @@ libraryMusic =
         ]
 
 
-{-| light -}
+{-| Light -}
 light : Icon
 light =
     I.fromNodes
@@ -13690,7 +13690,7 @@ light =
         ]
 
 
-{-| light mode -}
+{-| Light Mode -}
 lightMode : Icon
 lightMode =
     I.fromNodes
@@ -13702,7 +13702,7 @@ lightMode =
         ]
 
 
-{-| lightbulb -}
+{-| Lightbulb -}
 lightbulb : Icon
 lightbulb =
     I.fromNodes
@@ -13714,7 +13714,7 @@ lightbulb =
         ]
 
 
-{-| lightbulb circle -}
+{-| Lightbulb Circle -}
 lightbulbCircle : Icon
 lightbulbCircle =
     I.fromNodes
@@ -13726,7 +13726,7 @@ lightbulbCircle =
         ]
 
 
-{-| line axis -}
+{-| Line Axis -}
 lineAxis : Icon
 lineAxis =
     I.fromNodes
@@ -13738,7 +13738,7 @@ lineAxis =
         ]
 
 
-{-| line style -}
+{-| Line Style -}
 lineStyle : Icon
 lineStyle =
     I.fromNodes
@@ -13750,7 +13750,7 @@ lineStyle =
         ]
 
 
-{-| line weight -}
+{-| Line Weight -}
 lineWeight : Icon
 lineWeight =
     I.fromNodes
@@ -13762,7 +13762,7 @@ lineWeight =
         ]
 
 
-{-| linear scale -}
+{-| Linear Scale -}
 linearScale : Icon
 linearScale =
     I.fromNodes
@@ -13774,7 +13774,7 @@ linearScale =
         ]
 
 
-{-| link -}
+{-| Link -}
 link : Icon
 link =
     I.fromNodes
@@ -13786,7 +13786,7 @@ link =
         ]
 
 
-{-| link off -}
+{-| Link Off -}
 linkOff : Icon
 linkOff =
     I.fromNodes
@@ -13798,7 +13798,7 @@ linkOff =
         ]
 
 
-{-| linked camera -}
+{-| Linked Camera -}
 linkedCamera : Icon
 linkedCamera =
     I.fromNodes
@@ -13816,7 +13816,7 @@ linkedCamera =
         ]
 
 
-{-| liquor -}
+{-| Liquor -}
 liquor : Icon
 liquor =
     I.fromNodes
@@ -13828,7 +13828,7 @@ liquor =
         ]
 
 
-{-| list -}
+{-| List -}
 list : Icon
 list =
     I.fromNodes
@@ -13840,7 +13840,7 @@ list =
         ]
 
 
-{-| list alt -}
+{-| List Alt -}
 listAlt : Icon
 listAlt =
     I.fromNodes
@@ -13852,7 +13852,7 @@ listAlt =
         ]
 
 
-{-| live help -}
+{-| Live Help -}
 liveHelp : Icon
 liveHelp =
     I.fromNodes
@@ -13864,7 +13864,7 @@ liveHelp =
         ]
 
 
-{-| live tv -}
+{-| Live Tv -}
 liveTv : Icon
 liveTv =
     I.fromNodes
@@ -13876,7 +13876,7 @@ liveTv =
         ]
 
 
-{-| living -}
+{-| Living -}
 living : Icon
 living =
     I.fromNodes
@@ -13898,7 +13898,7 @@ living =
         ]
 
 
-{-| local activity -}
+{-| Local Activity -}
 localActivity : Icon
 localActivity =
     I.fromNodes
@@ -13910,7 +13910,7 @@ localActivity =
         ]
 
 
-{-| local airport -}
+{-| Local Airport -}
 localAirport : Icon
 localAirport =
     I.fromNodes
@@ -13922,7 +13922,7 @@ localAirport =
         ]
 
 
-{-| local atm -}
+{-| Local Atm -}
 localAtm : Icon
 localAtm =
     I.fromNodes
@@ -13934,7 +13934,7 @@ localAtm =
         ]
 
 
-{-| local bar -}
+{-| Local Bar -}
 localBar : Icon
 localBar =
     I.fromNodes
@@ -13946,7 +13946,7 @@ localBar =
         ]
 
 
-{-| local cafe -}
+{-| Local Cafe -}
 localCafe : Icon
 localCafe =
     I.fromNodes
@@ -13958,7 +13958,7 @@ localCafe =
         ]
 
 
-{-| local car wash -}
+{-| Local Car Wash -}
 localCarWash : Icon
 localCarWash =
     I.fromNodes
@@ -13970,7 +13970,7 @@ localCarWash =
         ]
 
 
-{-| local convenience store -}
+{-| Local Convenience Store -}
 localConvenienceStore : Icon
 localConvenienceStore =
     I.fromNodes
@@ -13982,7 +13982,7 @@ localConvenienceStore =
         ]
 
 
-{-| local dining -}
+{-| Local Dining -}
 localDining : Icon
 localDining =
     I.fromNodes
@@ -13994,7 +13994,7 @@ localDining =
         ]
 
 
-{-| local drink -}
+{-| Local Drink -}
 localDrink : Icon
 localDrink =
     I.fromNodes
@@ -14006,7 +14006,7 @@ localDrink =
         ]
 
 
-{-| local fire department -}
+{-| Local Fire Department -}
 localFireDepartment : Icon
 localFireDepartment =
     I.fromNodes
@@ -14023,7 +14023,7 @@ localFireDepartment =
         ]
 
 
-{-| local florist -}
+{-| Local Florist -}
 localFlorist : Icon
 localFlorist =
     I.fromNodes
@@ -14035,7 +14035,7 @@ localFlorist =
         ]
 
 
-{-| local gas station -}
+{-| Local Gas Station -}
 localGasStation : Icon
 localGasStation =
     I.fromNodes
@@ -14047,7 +14047,7 @@ localGasStation =
         ]
 
 
-{-| local grocery store -}
+{-| Local Grocery Store -}
 localGroceryStore : Icon
 localGroceryStore =
     I.fromNodes
@@ -14059,7 +14059,7 @@ localGroceryStore =
         ]
 
 
-{-| local hospital -}
+{-| Local Hospital -}
 localHospital : Icon
 localHospital =
     I.fromNodes
@@ -14071,7 +14071,7 @@ localHospital =
         ]
 
 
-{-| local hotel -}
+{-| Local Hotel -}
 localHotel : Icon
 localHotel =
     I.fromNodes
@@ -14083,7 +14083,7 @@ localHotel =
         ]
 
 
-{-| local laundry service -}
+{-| Local Laundry Service -}
 localLaundryService : Icon
 localLaundryService =
     I.fromNodes
@@ -14095,7 +14095,7 @@ localLaundryService =
         ]
 
 
-{-| local library -}
+{-| Local Library -}
 localLibrary : Icon
 localLibrary =
     I.fromNodes
@@ -14107,7 +14107,7 @@ localLibrary =
         ]
 
 
-{-| local mall -}
+{-| Local Mall -}
 localMall : Icon
 localMall =
     I.fromNodes
@@ -14119,7 +14119,7 @@ localMall =
         ]
 
 
-{-| local movies -}
+{-| Local Movies -}
 localMovies : Icon
 localMovies =
     I.fromNodes
@@ -14131,7 +14131,7 @@ localMovies =
         ]
 
 
-{-| local offer -}
+{-| Local Offer -}
 localOffer : Icon
 localOffer =
     I.fromNodes
@@ -14143,7 +14143,7 @@ localOffer =
         ]
 
 
-{-| local parking -}
+{-| Local Parking -}
 localParking : Icon
 localParking =
     I.fromNodes
@@ -14155,7 +14155,7 @@ localParking =
         ]
 
 
-{-| local pharmacy -}
+{-| Local Pharmacy -}
 localPharmacy : Icon
 localPharmacy =
     I.fromNodes
@@ -14167,7 +14167,7 @@ localPharmacy =
         ]
 
 
-{-| local phone -}
+{-| Local Phone -}
 localPhone : Icon
 localPhone =
     I.fromNodes
@@ -14179,7 +14179,7 @@ localPhone =
         ]
 
 
-{-| local pizza -}
+{-| Local Pizza -}
 localPizza : Icon
 localPizza =
     I.fromNodes
@@ -14191,7 +14191,7 @@ localPizza =
         ]
 
 
-{-| local play -}
+{-| Local Play -}
 localPlay : Icon
 localPlay =
     I.fromNodes
@@ -14203,7 +14203,7 @@ localPlay =
         ]
 
 
-{-| local police -}
+{-| Local Police -}
 localPolice : Icon
 localPolice =
     I.fromNodes
@@ -14215,7 +14215,7 @@ localPolice =
         ]
 
 
-{-| local post office -}
+{-| Local Post Office -}
 localPostOffice : Icon
 localPostOffice =
     I.fromNodes
@@ -14227,7 +14227,7 @@ localPostOffice =
         ]
 
 
-{-| local printshop -}
+{-| Local Printshop -}
 localPrintshop : Icon
 localPrintshop =
     I.fromNodes
@@ -14239,7 +14239,7 @@ localPrintshop =
         ]
 
 
-{-| local see -}
+{-| Local See -}
 localSee : Icon
 localSee =
     I.fromNodes
@@ -14261,7 +14261,7 @@ localSee =
         ]
 
 
-{-| local shipping -}
+{-| Local Shipping -}
 localShipping : Icon
 localShipping =
     I.fromNodes
@@ -14273,7 +14273,7 @@ localShipping =
         ]
 
 
-{-| local taxi -}
+{-| Local Taxi -}
 localTaxi : Icon
 localTaxi =
     I.fromNodes
@@ -14285,7 +14285,7 @@ localTaxi =
         ]
 
 
-{-| location city -}
+{-| Location City -}
 locationCity : Icon
 locationCity =
     I.fromNodes
@@ -14297,7 +14297,7 @@ locationCity =
         ]
 
 
-{-| location disabled -}
+{-| Location Disabled -}
 locationDisabled : Icon
 locationDisabled =
     I.fromNodes
@@ -14309,7 +14309,7 @@ locationDisabled =
         ]
 
 
-{-| location off -}
+{-| Location Off -}
 locationOff : Icon
 locationOff =
     I.fromNodes
@@ -14321,7 +14321,7 @@ locationOff =
         ]
 
 
-{-| location on -}
+{-| Location On -}
 locationOn : Icon
 locationOn =
     I.fromNodes
@@ -14333,7 +14333,7 @@ locationOn =
         ]
 
 
-{-| location searching -}
+{-| Location Searching -}
 locationSearching : Icon
 locationSearching =
     I.fromNodes
@@ -14345,7 +14345,7 @@ locationSearching =
         ]
 
 
-{-| lock -}
+{-| Lock -}
 lock : Icon
 lock =
     I.fromNodes
@@ -14357,7 +14357,7 @@ lock =
         ]
 
 
-{-| lock clock -}
+{-| Lock Clock -}
 lockClock : Icon
 lockClock =
     I.fromNodes
@@ -14374,7 +14374,7 @@ lockClock =
         ]
 
 
-{-| lock open -}
+{-| Lock Open -}
 lockOpen : Icon
 lockOpen =
     I.fromNodes
@@ -14386,7 +14386,7 @@ lockOpen =
         ]
 
 
-{-| lock person -}
+{-| Lock Person -}
 lockPerson : Icon
 lockPerson =
     I.fromNodes
@@ -14403,7 +14403,7 @@ lockPerson =
         ]
 
 
-{-| lock reset -}
+{-| Lock Reset -}
 lockReset : Icon
 lockReset =
     I.fromNodes
@@ -14415,7 +14415,7 @@ lockReset =
         ]
 
 
-{-| log in -}
+{-| Log In -}
 logIn : Icon
 logIn =
     I.fromNodes
@@ -14432,7 +14432,7 @@ logIn =
         ]
 
 
-{-| log out -}
+{-| Log Out -}
 logOut : Icon
 logOut =
     I.fromNodes
@@ -14449,7 +14449,7 @@ logOut =
         ]
 
 
-{-| login -}
+{-| Login -}
 login : Icon
 login =
     I.fromNodes
@@ -14461,7 +14461,7 @@ login =
         ]
 
 
-{-| logo dev -}
+{-| Logo Dev -}
 logoDev : Icon
 logoDev =
     I.fromNodes
@@ -14478,7 +14478,7 @@ logoDev =
         ]
 
 
-{-| logout -}
+{-| Logout -}
 logout : Icon
 logout =
     I.fromNodes
@@ -14495,7 +14495,7 @@ logout =
         ]
 
 
-{-| looks -}
+{-| Looks -}
 looks : Icon
 looks =
     I.fromNodes
@@ -14507,7 +14507,7 @@ looks =
         ]
 
 
-{-| looks 3 -}
+{-| Looks 3 -}
 looks3 : Icon
 looks3 =
     I.fromNodes
@@ -14519,7 +14519,7 @@ looks3 =
         ]
 
 
-{-| looks 4 -}
+{-| Looks 4 -}
 looks4 : Icon
 looks4 =
     I.fromNodes
@@ -14531,7 +14531,7 @@ looks4 =
         ]
 
 
-{-| looks 5 -}
+{-| Looks 5 -}
 looks5 : Icon
 looks5 =
     I.fromNodes
@@ -14543,7 +14543,7 @@ looks5 =
         ]
 
 
-{-| looks 6 -}
+{-| Looks 6 -}
 looks6 : Icon
 looks6 =
     I.fromNodes
@@ -14555,7 +14555,7 @@ looks6 =
         ]
 
 
-{-| looks one -}
+{-| Looks One -}
 looksOne : Icon
 looksOne =
     I.fromNodes
@@ -14567,7 +14567,7 @@ looksOne =
         ]
 
 
-{-| looks two -}
+{-| Looks Two -}
 looksTwo : Icon
 looksTwo =
     I.fromNodes
@@ -14579,7 +14579,7 @@ looksTwo =
         ]
 
 
-{-| loop -}
+{-| Loop -}
 loop : Icon
 loop =
     I.fromNodes
@@ -14591,7 +14591,7 @@ loop =
         ]
 
 
-{-| loupe -}
+{-| Loupe -}
 loupe : Icon
 loupe =
     I.fromNodes
@@ -14603,7 +14603,7 @@ loupe =
         ]
 
 
-{-| low priority -}
+{-| Low Priority -}
 lowPriority : Icon
 lowPriority =
     I.fromNodes
@@ -14615,7 +14615,7 @@ lowPriority =
         ]
 
 
-{-| loyalty -}
+{-| Loyalty -}
 loyalty : Icon
 loyalty =
     I.fromNodes
@@ -14627,7 +14627,7 @@ loyalty =
         ]
 
 
-{-| lte mobiledata -}
+{-| Lte Mobiledata -}
 lteMobiledata : Icon
 lteMobiledata =
     I.fromNodes
@@ -14639,7 +14639,7 @@ lteMobiledata =
         ]
 
 
-{-| lte plus mobiledata -}
+{-| Lte Plus Mobiledata -}
 ltePlusMobiledata : Icon
 ltePlusMobiledata =
     I.fromNodes
@@ -14651,7 +14651,7 @@ ltePlusMobiledata =
         ]
 
 
-{-| luggage -}
+{-| Luggage -}
 luggage : Icon
 luggage =
     I.fromNodes
@@ -14663,7 +14663,7 @@ luggage =
         ]
 
 
-{-| lunch dining -}
+{-| Lunch Dining -}
 lunchDining : Icon
 lunchDining =
     I.fromNodes
@@ -14675,7 +14675,7 @@ lunchDining =
         ]
 
 
-{-| lyrics -}
+{-| Lyrics -}
 lyrics : Icon
 lyrics =
     I.fromNodes
@@ -14692,7 +14692,7 @@ lyrics =
         ]
 
 
-{-| macro off -}
+{-| Macro Off -}
 macroOff : Icon
 macroOff =
     I.fromNodes
@@ -14709,7 +14709,7 @@ macroOff =
         ]
 
 
-{-| mail -}
+{-| Mail -}
 mail : Icon
 mail =
     I.fromNodes
@@ -14721,7 +14721,7 @@ mail =
         ]
 
 
-{-| mail lock -}
+{-| Mail Lock -}
 mailLock : Icon
 mailLock =
     I.fromNodes
@@ -14738,7 +14738,7 @@ mailLock =
         ]
 
 
-{-| mail outline -}
+{-| Mail Outline -}
 mailOutline : Icon
 mailOutline =
     I.fromNodes
@@ -14750,7 +14750,7 @@ mailOutline =
         ]
 
 
-{-| male -}
+{-| Male -}
 male : Icon
 male =
     I.fromNodes
@@ -14762,7 +14762,7 @@ male =
         ]
 
 
-{-| man -}
+{-| Man -}
 man : Icon
 man =
     I.fromNodes
@@ -14775,7 +14775,7 @@ man =
         ]
 
 
-{-| man 2 -}
+{-| Man 2 -}
 man2 : Icon
 man2 =
     I.fromNodes
@@ -14788,7 +14788,7 @@ man2 =
         ]
 
 
-{-| man 3 -}
+{-| Man 3 -}
 man3 : Icon
 man3 =
     I.fromNodes
@@ -14800,7 +14800,7 @@ man3 =
         ]
 
 
-{-| man 4 -}
+{-| Man 4 -}
 man4 : Icon
 man4 =
     I.fromNodes
@@ -14813,7 +14813,7 @@ man4 =
         ]
 
 
-{-| manage accounts -}
+{-| Manage Accounts -}
 manageAccounts : Icon
 manageAccounts =
     I.fromNodes
@@ -14831,7 +14831,7 @@ manageAccounts =
         ]
 
 
-{-| manage history -}
+{-| Manage History -}
 manageHistory : Icon
 manageHistory =
     I.fromNodes
@@ -14843,7 +14843,7 @@ manageHistory =
         ]
 
 
-{-| manage search -}
+{-| Manage Search -}
 manageSearch : Icon
 manageSearch =
     I.fromNodes
@@ -14855,7 +14855,7 @@ manageSearch =
         ]
 
 
-{-| map -}
+{-| Map -}
 map : Icon
 map =
     I.fromNodes
@@ -14867,7 +14867,7 @@ map =
         ]
 
 
-{-| maps home work -}
+{-| Maps Home Work -}
 mapsHomeWork : Icon
 mapsHomeWork =
     I.fromNodes
@@ -14884,7 +14884,7 @@ mapsHomeWork =
         ]
 
 
-{-| maps ugc -}
+{-| Maps Ugc -}
 mapsUgc : Icon
 mapsUgc =
     I.fromNodes
@@ -14902,7 +14902,7 @@ mapsUgc =
         ]
 
 
-{-| margin -}
+{-| Margin -}
 margin : Icon
 margin =
     I.fromNodes
@@ -14914,7 +14914,7 @@ margin =
         ]
 
 
-{-| mark as unread -}
+{-| Mark As Unread -}
 markAsUnread : Icon
 markAsUnread =
     I.fromNodes
@@ -14931,7 +14931,7 @@ markAsUnread =
         ]
 
 
-{-| mark chat read -}
+{-| Mark Chat Read -}
 markChatRead : Icon
 markChatRead =
     I.fromNodes
@@ -14943,7 +14943,7 @@ markChatRead =
         ]
 
 
-{-| mark chat unread -}
+{-| Mark Chat Unread -}
 markChatUnread : Icon
 markChatUnread =
     I.fromNodes
@@ -14955,7 +14955,7 @@ markChatUnread =
         ]
 
 
-{-| mark email read -}
+{-| Mark Email Read -}
 markEmailRead : Icon
 markEmailRead =
     I.fromNodes
@@ -14967,7 +14967,7 @@ markEmailRead =
         ]
 
 
-{-| mark email unread -}
+{-| Mark Email Unread -}
 markEmailUnread : Icon
 markEmailUnread =
     I.fromNodes
@@ -14979,7 +14979,7 @@ markEmailUnread =
         ]
 
 
-{-| mark unread chat alt -}
+{-| Mark Unread Chat Alt -}
 markUnreadChatAlt : Icon
 markUnreadChatAlt =
     I.fromNodes
@@ -14992,7 +14992,7 @@ markUnreadChatAlt =
         ]
 
 
-{-| markunread -}
+{-| Markunread -}
 markunread : Icon
 markunread =
     I.fromNodes
@@ -15004,7 +15004,7 @@ markunread =
         ]
 
 
-{-| markunread mailbox -}
+{-| Markunread Mailbox -}
 markunreadMailbox : Icon
 markunreadMailbox =
     I.fromNodes
@@ -15016,7 +15016,7 @@ markunreadMailbox =
         ]
 
 
-{-| masks -}
+{-| Masks -}
 masks : Icon
 masks =
     I.fromNodes
@@ -15028,7 +15028,7 @@ masks =
         ]
 
 
-{-| maximize -}
+{-| Maximize -}
 maximize : Icon
 maximize =
     I.fromNodes
@@ -15040,7 +15040,7 @@ maximize =
         ]
 
 
-{-| media bluetooth off -}
+{-| Media Bluetooth Off -}
 mediaBluetoothOff : Icon
 mediaBluetoothOff =
     I.fromNodes
@@ -15052,7 +15052,7 @@ mediaBluetoothOff =
         ]
 
 
-{-| media bluetooth on -}
+{-| Media Bluetooth On -}
 mediaBluetoothOn : Icon
 mediaBluetoothOn =
     I.fromNodes
@@ -15064,7 +15064,7 @@ mediaBluetoothOn =
         ]
 
 
-{-| mediation -}
+{-| Mediation -}
 mediation : Icon
 mediation =
     I.fromNodes
@@ -15076,7 +15076,7 @@ mediation =
         ]
 
 
-{-| medical information -}
+{-| Medical Information -}
 medicalInformation : Icon
 medicalInformation =
     I.fromNodes
@@ -15088,7 +15088,7 @@ medicalInformation =
         ]
 
 
-{-| medical services -}
+{-| Medical Services -}
 medicalServices : Icon
 medicalServices =
     I.fromNodes
@@ -15100,7 +15100,7 @@ medicalServices =
         ]
 
 
-{-| medication -}
+{-| Medication -}
 medication : Icon
 medication =
     I.fromNodes
@@ -15112,7 +15112,7 @@ medication =
         ]
 
 
-{-| medication liquid -}
+{-| Medication Liquid -}
 medicationLiquid : Icon
 medicationLiquid =
     I.fromNodes
@@ -15124,7 +15124,7 @@ medicationLiquid =
         ]
 
 
-{-| meeting room -}
+{-| Meeting Room -}
 meetingRoom : Icon
 meetingRoom =
     I.fromNodes
@@ -15136,7 +15136,7 @@ meetingRoom =
         ]
 
 
-{-| memory -}
+{-| Memory -}
 memory : Icon
 memory =
     I.fromNodes
@@ -15148,7 +15148,7 @@ memory =
         ]
 
 
-{-| menu -}
+{-| Menu -}
 menu : Icon
 menu =
     I.fromNodes
@@ -15160,7 +15160,7 @@ menu =
         ]
 
 
-{-| menu book -}
+{-| Menu Book -}
 menuBook : Icon
 menuBook =
     I.fromNodes
@@ -15177,7 +15177,7 @@ menuBook =
         ]
 
 
-{-| menu open -}
+{-| Menu Open -}
 menuOpen : Icon
 menuOpen =
     I.fromNodes
@@ -15189,7 +15189,7 @@ menuOpen =
         ]
 
 
-{-| merge -}
+{-| Merge -}
 merge : Icon
 merge =
     I.fromNodes
@@ -15201,7 +15201,7 @@ merge =
         ]
 
 
-{-| merge type -}
+{-| Merge Type -}
 mergeType : Icon
 mergeType =
     I.fromNodes
@@ -15213,7 +15213,7 @@ mergeType =
         ]
 
 
-{-| message -}
+{-| Message -}
 message : Icon
 message =
     I.fromNodes
@@ -15225,7 +15225,7 @@ message =
         ]
 
 
-{-| mic -}
+{-| Mic -}
 mic : Icon
 mic =
     I.fromNodes
@@ -15237,7 +15237,7 @@ mic =
         ]
 
 
-{-| mic external off -}
+{-| Mic External Off -}
 micExternalOff : Icon
 micExternalOff =
     I.fromNodes
@@ -15249,7 +15249,7 @@ micExternalOff =
         ]
 
 
-{-| mic external on -}
+{-| Mic External On -}
 micExternalOn : Icon
 micExternalOn =
     I.fromNodes
@@ -15261,7 +15261,7 @@ micExternalOn =
         ]
 
 
-{-| mic none -}
+{-| Mic None -}
 micNone : Icon
 micNone =
     I.fromNodes
@@ -15273,7 +15273,7 @@ micNone =
         ]
 
 
-{-| mic off -}
+{-| Mic Off -}
 micOff : Icon
 micOff =
     I.fromNodes
@@ -15285,7 +15285,7 @@ micOff =
         ]
 
 
-{-| microwave -}
+{-| Microwave -}
 microwave : Icon
 microwave =
     I.fromNodes
@@ -15297,7 +15297,7 @@ microwave =
         ]
 
 
-{-| military tech -}
+{-| Military Tech -}
 militaryTech : Icon
 militaryTech =
     I.fromNodes
@@ -15309,7 +15309,7 @@ militaryTech =
         ]
 
 
-{-| minimize -}
+{-| Minimize -}
 minimize : Icon
 minimize =
     I.fromNodes
@@ -15321,7 +15321,7 @@ minimize =
         ]
 
 
-{-| minor crash -}
+{-| Minor Crash -}
 minorCrash : Icon
 minorCrash =
     I.fromNodes
@@ -15333,14 +15333,14 @@ minorCrash =
         ]
 
 
-{-| minus -}
+{-| Minus -}
 minus : Icon
 minus =
     I.fromNodes
         [ S.path [ SA.d "M18 12.998H6a1 1 0 0 1 0-2h12a1 1 0 0 1 0 2z" ] [] ]
 
 
-{-| miscellaneous services -}
+{-| Miscellaneous Services -}
 miscellaneousServices : Icon
 miscellaneousServices =
     I.fromNodes
@@ -15352,7 +15352,7 @@ miscellaneousServices =
         ]
 
 
-{-| missed video call -}
+{-| Missed Video Call -}
 missedVideoCall : Icon
 missedVideoCall =
     I.fromNodes
@@ -15364,7 +15364,7 @@ missedVideoCall =
         ]
 
 
-{-| mms -}
+{-| Mms -}
 mms : Icon
 mms =
     I.fromNodes
@@ -15376,7 +15376,7 @@ mms =
         ]
 
 
-{-| mobile friendly -}
+{-| Mobile Friendly -}
 mobileFriendly : Icon
 mobileFriendly =
     I.fromNodes
@@ -15388,7 +15388,7 @@ mobileFriendly =
         ]
 
 
-{-| mobile off -}
+{-| Mobile Off -}
 mobileOff : Icon
 mobileOff =
     I.fromNodes
@@ -15400,7 +15400,7 @@ mobileOff =
         ]
 
 
-{-| mobile screen share -}
+{-| Mobile Screen Share -}
 mobileScreenShare : Icon
 mobileScreenShare =
     I.fromNodes
@@ -15412,7 +15412,7 @@ mobileScreenShare =
         ]
 
 
-{-| mobiledata off -}
+{-| Mobiledata Off -}
 mobiledataOff : Icon
 mobiledataOff =
     I.fromNodes
@@ -15424,7 +15424,7 @@ mobiledataOff =
         ]
 
 
-{-| mode -}
+{-| Mode -}
 mode : Icon
 mode =
     I.fromNodes
@@ -15436,7 +15436,7 @@ mode =
         ]
 
 
-{-| mode comment -}
+{-| Mode Comment -}
 modeComment : Icon
 modeComment =
     I.fromNodes
@@ -15448,7 +15448,7 @@ modeComment =
         ]
 
 
-{-| mode edit -}
+{-| Mode Edit -}
 modeEdit : Icon
 modeEdit =
     I.fromNodes
@@ -15460,7 +15460,7 @@ modeEdit =
         ]
 
 
-{-| mode edit outline -}
+{-| Mode Edit Outline -}
 modeEditOutline : Icon
 modeEditOutline =
     I.fromNodes
@@ -15472,7 +15472,7 @@ modeEditOutline =
         ]
 
 
-{-| mode fan off -}
+{-| Mode Fan Off -}
 modeFanOff : Icon
 modeFanOff =
     I.fromNodes
@@ -15484,7 +15484,7 @@ modeFanOff =
         ]
 
 
-{-| mode night -}
+{-| Mode Night -}
 modeNight : Icon
 modeNight =
     I.fromNodes
@@ -15496,7 +15496,7 @@ modeNight =
         ]
 
 
-{-| mode of travel -}
+{-| Mode Of Travel -}
 modeOfTravel : Icon
 modeOfTravel =
     I.fromNodes
@@ -15508,7 +15508,7 @@ modeOfTravel =
         ]
 
 
-{-| mode standby -}
+{-| Mode Standby -}
 modeStandby : Icon
 modeStandby =
     I.fromNodes
@@ -15520,7 +15520,7 @@ modeStandby =
         ]
 
 
-{-| model training -}
+{-| Model Training -}
 modelTraining : Icon
 modelTraining =
     I.fromNodes
@@ -15532,7 +15532,7 @@ modelTraining =
         ]
 
 
-{-| monetization on -}
+{-| Monetization On -}
 monetizationOn : Icon
 monetizationOn =
     I.fromNodes
@@ -15544,7 +15544,7 @@ monetizationOn =
         ]
 
 
-{-| money -}
+{-| Money -}
 money : Icon
 money =
     I.fromNodes
@@ -15556,7 +15556,7 @@ money =
         ]
 
 
-{-| money off -}
+{-| Money Off -}
 moneyOff : Icon
 moneyOff =
     I.fromNodes
@@ -15568,7 +15568,7 @@ moneyOff =
         ]
 
 
-{-| money off csred -}
+{-| Money Off Csred -}
 moneyOffCsred : Icon
 moneyOffCsred =
     I.fromNodes
@@ -15580,7 +15580,7 @@ moneyOffCsred =
         ]
 
 
-{-| monitor -}
+{-| Monitor -}
 monitor : Icon
 monitor =
     I.fromNodes
@@ -15592,7 +15592,7 @@ monitor =
         ]
 
 
-{-| monitor heart -}
+{-| Monitor Heart -}
 monitorHeart : Icon
 monitorHeart =
     I.fromNodes
@@ -15609,7 +15609,7 @@ monitorHeart =
         ]
 
 
-{-| monitor weight -}
+{-| Monitor Weight -}
 monitorWeight : Icon
 monitorWeight =
     I.fromNodes
@@ -15624,7 +15624,7 @@ monitorWeight =
         ]
 
 
-{-| monochrome photos -}
+{-| Monochrome Photos -}
 monochromePhotos : Icon
 monochromePhotos =
     I.fromNodes
@@ -15636,7 +15636,7 @@ monochromePhotos =
         ]
 
 
-{-| mood -}
+{-| Mood -}
 mood : Icon
 mood =
     I.fromNodes
@@ -15648,7 +15648,7 @@ mood =
         ]
 
 
-{-| mood bad -}
+{-| Mood Bad -}
 moodBad : Icon
 moodBad =
     I.fromNodes
@@ -15660,7 +15660,7 @@ moodBad =
         ]
 
 
-{-| moped -}
+{-| Moped -}
 moped : Icon
 moped =
     I.fromNodes
@@ -15677,7 +15677,7 @@ moped =
         ]
 
 
-{-| more -}
+{-| More -}
 more : Icon
 more =
     I.fromNodes
@@ -15689,7 +15689,7 @@ more =
         ]
 
 
-{-| more horiz -}
+{-| More Horiz -}
 moreHoriz : Icon
 moreHoriz =
     I.fromNodes
@@ -15701,7 +15701,7 @@ moreHoriz =
         ]
 
 
-{-| more time -}
+{-| More Time -}
 moreTime : Icon
 moreTime =
     I.fromNodes
@@ -15723,7 +15723,7 @@ moreTime =
         ]
 
 
-{-| more vert -}
+{-| More Vert -}
 moreVert : Icon
 moreVert =
     I.fromNodes
@@ -15735,7 +15735,7 @@ moreVert =
         ]
 
 
-{-| mosque -}
+{-| Mosque -}
 mosque : Icon
 mosque =
     I.fromNodes
@@ -15752,7 +15752,7 @@ mosque =
         ]
 
 
-{-| motion photos auto -}
+{-| Motion Photos Auto -}
 motionPhotosAuto : Icon
 motionPhotosAuto =
     I.fromNodes
@@ -15764,7 +15764,7 @@ motionPhotosAuto =
         ]
 
 
-{-| motion photos off -}
+{-| Motion Photos Off -}
 motionPhotosOff : Icon
 motionPhotosOff =
     I.fromNodes
@@ -15781,7 +15781,7 @@ motionPhotosOff =
         ]
 
 
-{-| motion photos on -}
+{-| Motion Photos On -}
 motionPhotosOn : Icon
 motionPhotosOn =
     I.fromNodes
@@ -15793,7 +15793,7 @@ motionPhotosOn =
         ]
 
 
-{-| motion photos pause -}
+{-| Motion Photos Pause -}
 motionPhotosPause : Icon
 motionPhotosPause =
     I.fromNodes
@@ -15805,7 +15805,7 @@ motionPhotosPause =
         ]
 
 
-{-| motion photos paused -}
+{-| Motion Photos Paused -}
 motionPhotosPaused : Icon
 motionPhotosPaused =
     I.fromNodes
@@ -15817,7 +15817,7 @@ motionPhotosPaused =
         ]
 
 
-{-| motorcycle -}
+{-| Motorcycle -}
 motorcycle : Icon
 motorcycle =
     I.fromNodes
@@ -15829,7 +15829,7 @@ motorcycle =
         ]
 
 
-{-| mouse -}
+{-| Mouse -}
 mouse : Icon
 mouse =
     I.fromNodes
@@ -15841,7 +15841,7 @@ mouse =
         ]
 
 
-{-| move down -}
+{-| Move Down -}
 moveDown : Icon
 moveDown =
     I.fromNodes
@@ -15853,7 +15853,7 @@ moveDown =
         ]
 
 
-{-| move to inbox -}
+{-| Move To Inbox -}
 moveToInbox : Icon
 moveToInbox =
     I.fromNodes
@@ -15865,7 +15865,7 @@ moveToInbox =
         ]
 
 
-{-| move up -}
+{-| Move Up -}
 moveUp : Icon
 moveUp =
     I.fromNodes
@@ -15877,7 +15877,7 @@ moveUp =
         ]
 
 
-{-| movie -}
+{-| Movie -}
 movie : Icon
 movie =
     I.fromNodes
@@ -15889,7 +15889,7 @@ movie =
         ]
 
 
-{-| movie creation -}
+{-| Movie Creation -}
 movieCreation : Icon
 movieCreation =
     I.fromNodes
@@ -15901,7 +15901,7 @@ movieCreation =
         ]
 
 
-{-| movie filter -}
+{-| Movie Filter -}
 movieFilter : Icon
 movieFilter =
     I.fromNodes
@@ -15913,7 +15913,7 @@ movieFilter =
         ]
 
 
-{-| moving -}
+{-| Moving -}
 moving : Icon
 moving =
     I.fromNodes
@@ -15925,7 +15925,7 @@ moving =
         ]
 
 
-{-| mp -}
+{-| Mp -}
 mp : Icon
 mp =
     I.fromNodes
@@ -15937,7 +15937,7 @@ mp =
         ]
 
 
-{-| multiline chart -}
+{-| Multiline Chart -}
 multilineChart : Icon
 multilineChart =
     I.fromNodes
@@ -15949,7 +15949,7 @@ multilineChart =
         ]
 
 
-{-| multiple stop -}
+{-| Multiple Stop -}
 multipleStop : Icon
 multipleStop =
     I.fromNodes
@@ -15961,7 +15961,7 @@ multipleStop =
         ]
 
 
-{-| museum -}
+{-| Museum -}
 museum : Icon
 museum =
     I.fromNodes
@@ -15973,7 +15973,7 @@ museum =
         ]
 
 
-{-| music note -}
+{-| Music Note -}
 musicNote : Icon
 musicNote =
     I.fromNodes
@@ -15985,7 +15985,7 @@ musicNote =
         ]
 
 
-{-| music off -}
+{-| Music Off -}
 musicOff : Icon
 musicOff =
     I.fromNodes
@@ -15997,7 +15997,7 @@ musicOff =
         ]
 
 
-{-| music video -}
+{-| Music Video -}
 musicVideo : Icon
 musicVideo =
     I.fromNodes
@@ -16014,7 +16014,7 @@ musicVideo =
         ]
 
 
-{-| my location -}
+{-| My Location -}
 myLocation : Icon
 myLocation =
     I.fromNodes
@@ -16026,7 +16026,7 @@ myLocation =
         ]
 
 
-{-| nat -}
+{-| Nat -}
 nat : Icon
 nat =
     I.fromNodes
@@ -16043,7 +16043,7 @@ nat =
         ]
 
 
-{-| nature -}
+{-| Nature -}
 nature : Icon
 nature =
     I.fromNodes
@@ -16055,7 +16055,7 @@ nature =
         ]
 
 
-{-| nature people -}
+{-| Nature People -}
 naturePeople : Icon
 naturePeople =
     I.fromNodes
@@ -16068,7 +16068,7 @@ naturePeople =
         ]
 
 
-{-| navigate before -}
+{-| Navigate Before -}
 navigateBefore : Icon
 navigateBefore =
     I.fromNodes
@@ -16080,7 +16080,7 @@ navigateBefore =
         ]
 
 
-{-| navigate next -}
+{-| Navigate Next -}
 navigateNext : Icon
 navigateNext =
     I.fromNodes
@@ -16092,7 +16092,7 @@ navigateNext =
         ]
 
 
-{-| navigation -}
+{-| Navigation -}
 navigation : Icon
 navigation =
     I.fromNodes
@@ -16104,7 +16104,7 @@ navigation =
         ]
 
 
-{-| near me -}
+{-| Near Me -}
 nearMe : Icon
 nearMe =
     I.fromNodes
@@ -16116,7 +16116,7 @@ nearMe =
         ]
 
 
-{-| near me disabled -}
+{-| Near Me Disabled -}
 nearMeDisabled : Icon
 nearMeDisabled =
     I.fromNodes
@@ -16128,7 +16128,7 @@ nearMeDisabled =
         ]
 
 
-{-| nearby error -}
+{-| Nearby Error -}
 nearbyError : Icon
 nearbyError =
     I.fromNodes
@@ -16146,7 +16146,7 @@ nearbyError =
         ]
 
 
-{-| nearby off -}
+{-| Nearby Off -}
 nearbyOff : Icon
 nearbyOff =
     I.fromNodes
@@ -16158,7 +16158,7 @@ nearbyOff =
         ]
 
 
-{-| nest cam wired stand -}
+{-| Nest Cam Wired Stand -}
 nestCamWiredStand : Icon
 nestCamWiredStand =
     I.fromNodes
@@ -16170,7 +16170,7 @@ nestCamWiredStand =
         ]
 
 
-{-| network cell -}
+{-| Network Cell -}
 networkCell : Icon
 networkCell =
     I.fromNodes
@@ -16182,7 +16182,7 @@ networkCell =
         ]
 
 
-{-| network check -}
+{-| Network Check -}
 networkCheck : Icon
 networkCheck =
     I.fromNodes
@@ -16194,7 +16194,7 @@ networkCheck =
         ]
 
 
-{-| network locked -}
+{-| Network Locked -}
 networkLocked : Icon
 networkLocked =
     I.fromNodes
@@ -16206,7 +16206,7 @@ networkLocked =
         ]
 
 
-{-| network ping -}
+{-| Network Ping -}
 networkPing : Icon
 networkPing =
     I.fromNodes
@@ -16218,7 +16218,7 @@ networkPing =
         ]
 
 
-{-| network wifi -}
+{-| Network Wifi -}
 networkWifi : Icon
 networkWifi =
     I.fromNodes
@@ -16230,7 +16230,7 @@ networkWifi =
         ]
 
 
-{-| network wifi 1 bar -}
+{-| Network Wifi 1 Bar -}
 networkWifi1Bar : Icon
 networkWifi1Bar =
     I.fromNodes
@@ -16242,7 +16242,7 @@ networkWifi1Bar =
         ]
 
 
-{-| network wifi 2 bar -}
+{-| Network Wifi 2 Bar -}
 networkWifi2Bar : Icon
 networkWifi2Bar =
     I.fromNodes
@@ -16254,7 +16254,7 @@ networkWifi2Bar =
         ]
 
 
-{-| network wifi 3 bar -}
+{-| Network Wifi 3 Bar -}
 networkWifi3Bar : Icon
 networkWifi3Bar =
     I.fromNodes
@@ -16266,7 +16266,7 @@ networkWifi3Bar =
         ]
 
 
-{-| new label -}
+{-| New Label -}
 newLabel : Icon
 newLabel =
     I.fromNodes
@@ -16278,7 +16278,7 @@ newLabel =
         ]
 
 
-{-| new releases -}
+{-| New Releases -}
 newReleases : Icon
 newReleases =
     I.fromNodes
@@ -16290,7 +16290,7 @@ newReleases =
         ]
 
 
-{-| newspaper -}
+{-| Newspaper -}
 newspaper : Icon
 newspaper =
     I.fromNodes
@@ -16302,7 +16302,7 @@ newspaper =
         ]
 
 
-{-| next plan -}
+{-| Next Plan -}
 nextPlan : Icon
 nextPlan =
     I.fromNodes
@@ -16314,7 +16314,7 @@ nextPlan =
         ]
 
 
-{-| next week -}
+{-| Next Week -}
 nextWeek : Icon
 nextWeek =
     I.fromNodes
@@ -16326,7 +16326,7 @@ nextWeek =
         ]
 
 
-{-| nfc -}
+{-| Nfc -}
 nfc : Icon
 nfc =
     I.fromNodes
@@ -16338,7 +16338,7 @@ nfc =
         ]
 
 
-{-| night shelter -}
+{-| Night Shelter -}
 nightShelter : Icon
 nightShelter =
     I.fromNodes
@@ -16350,7 +16350,7 @@ nightShelter =
         ]
 
 
-{-| nightlife -}
+{-| Nightlife -}
 nightlife : Icon
 nightlife =
     I.fromNodes
@@ -16362,7 +16362,7 @@ nightlife =
         ]
 
 
-{-| nightlight -}
+{-| Nightlight -}
 nightlight : Icon
 nightlight =
     I.fromNodes
@@ -16374,7 +16374,7 @@ nightlight =
         ]
 
 
-{-| nightlight round -}
+{-| Nightlight Round -}
 nightlightRound : Icon
 nightlightRound =
     I.fromNodes
@@ -16386,7 +16386,7 @@ nightlightRound =
         ]
 
 
-{-| nights stay -}
+{-| Nights Stay -}
 nightsStay : Icon
 nightsStay =
     I.fromNodes
@@ -16403,7 +16403,7 @@ nightsStay =
         ]
 
 
-{-| no accounts -}
+{-| No Accounts -}
 noAccounts : Icon
 noAccounts =
     I.fromNodes
@@ -16420,7 +16420,7 @@ noAccounts =
         ]
 
 
-{-| no adult content -}
+{-| No Adult Content -}
 noAdultContent : Icon
 noAdultContent =
     I.fromNodes
@@ -16437,7 +16437,7 @@ noAdultContent =
         ]
 
 
-{-| no backpack -}
+{-| No Backpack -}
 noBackpack : Icon
 noBackpack =
     I.fromNodes
@@ -16449,7 +16449,7 @@ noBackpack =
         ]
 
 
-{-| no cell -}
+{-| No Cell -}
 noCell : Icon
 noCell =
     I.fromNodes
@@ -16461,7 +16461,7 @@ noCell =
         ]
 
 
-{-| no crash -}
+{-| No Crash -}
 noCrash : Icon
 noCrash =
     I.fromNodes
@@ -16473,7 +16473,7 @@ noCrash =
         ]
 
 
-{-| no drinks -}
+{-| No Drinks -}
 noDrinks : Icon
 noDrinks =
     I.fromNodes
@@ -16485,7 +16485,7 @@ noDrinks =
         ]
 
 
-{-| no encryption -}
+{-| No Encryption -}
 noEncryption : Icon
 noEncryption =
     I.fromNodes
@@ -16497,7 +16497,7 @@ noEncryption =
         ]
 
 
-{-| no encryption gmailerrorred -}
+{-| No Encryption Gmailerrorred -}
 noEncryptionGmailerrorred : Icon
 noEncryptionGmailerrorred =
     I.fromNodes
@@ -16509,7 +16509,7 @@ noEncryptionGmailerrorred =
         ]
 
 
-{-| no flash -}
+{-| No Flash -}
 noFlash : Icon
 noFlash =
     I.fromNodes
@@ -16521,7 +16521,7 @@ noFlash =
         ]
 
 
-{-| no food -}
+{-| No Food -}
 noFood : Icon
 noFood =
     I.fromNodes
@@ -16533,7 +16533,7 @@ noFood =
         ]
 
 
-{-| no luggage -}
+{-| No Luggage -}
 noLuggage : Icon
 noLuggage =
     I.fromNodes
@@ -16545,7 +16545,7 @@ noLuggage =
         ]
 
 
-{-| no meals -}
+{-| No Meals -}
 noMeals : Icon
 noMeals =
     I.fromNodes
@@ -16557,7 +16557,7 @@ noMeals =
         ]
 
 
-{-| no meeting room -}
+{-| No Meeting Room -}
 noMeetingRoom : Icon
 noMeetingRoom =
     I.fromNodes
@@ -16569,7 +16569,7 @@ noMeetingRoom =
         ]
 
 
-{-| no photography -}
+{-| No Photography -}
 noPhotography : Icon
 noPhotography =
     I.fromNodes
@@ -16581,7 +16581,7 @@ noPhotography =
         ]
 
 
-{-| no sim -}
+{-| No Sim -}
 noSim : Icon
 noSim =
     I.fromNodes
@@ -16593,7 +16593,7 @@ noSim =
         ]
 
 
-{-| no stroller -}
+{-| No Stroller -}
 noStroller : Icon
 noStroller =
     I.fromNodes
@@ -16605,7 +16605,7 @@ noStroller =
         ]
 
 
-{-| no transfer -}
+{-| No Transfer -}
 noTransfer : Icon
 noTransfer =
     I.fromNodes
@@ -16617,7 +16617,7 @@ noTransfer =
         ]
 
 
-{-| noise aware -}
+{-| Noise Aware -}
 noiseAware : Icon
 noiseAware =
     I.fromNodes
@@ -16637,7 +16637,7 @@ noiseAware =
         ]
 
 
-{-| noise control off -}
+{-| Noise Control Off -}
 noiseControlOff : Icon
 noiseControlOff =
     I.fromNodes
@@ -16650,7 +16650,7 @@ noiseControlOff =
         ]
 
 
-{-| nordic walking -}
+{-| Nordic Walking -}
 nordicWalking : Icon
 nordicWalking =
     I.fromNodes
@@ -16662,7 +16662,7 @@ nordicWalking =
         ]
 
 
-{-| north -}
+{-| North -}
 north : Icon
 north =
     I.fromNodes
@@ -16674,7 +16674,7 @@ north =
         ]
 
 
-{-| north east -}
+{-| North East -}
 northEast : Icon
 northEast =
     I.fromNodes
@@ -16686,7 +16686,7 @@ northEast =
         ]
 
 
-{-| north west -}
+{-| North West -}
 northWest : Icon
 northWest =
     I.fromNodes
@@ -16698,7 +16698,7 @@ northWest =
         ]
 
 
-{-| not accessible -}
+{-| Not Accessible -}
 notAccessible : Icon
 notAccessible =
     I.fromNodes
@@ -16710,7 +16710,7 @@ notAccessible =
         ]
 
 
-{-| not equal -}
+{-| Not Equal -}
 notEqual : Icon
 notEqual =
     I.fromNodes
@@ -16727,7 +16727,7 @@ notEqual =
         ]
 
 
-{-| not interested -}
+{-| Not Interested -}
 notInterested : Icon
 notInterested =
     I.fromNodes
@@ -16739,7 +16739,7 @@ notInterested =
         ]
 
 
-{-| not listed location -}
+{-| Not Listed Location -}
 notListedLocation : Icon
 notListedLocation =
     I.fromNodes
@@ -16751,7 +16751,7 @@ notListedLocation =
         ]
 
 
-{-| not started -}
+{-| Not Started -}
 notStarted : Icon
 notStarted =
     I.fromNodes
@@ -16763,7 +16763,7 @@ notStarted =
         ]
 
 
-{-| note -}
+{-| Note -}
 note : Icon
 note =
     I.fromNodes
@@ -16775,7 +16775,7 @@ note =
         ]
 
 
-{-| note add -}
+{-| Note Add -}
 noteAdd : Icon
 noteAdd =
     I.fromNodes
@@ -16787,7 +16787,7 @@ noteAdd =
         ]
 
 
-{-| note alt -}
+{-| Note Alt -}
 noteAlt : Icon
 noteAlt =
     I.fromNodes
@@ -16799,7 +16799,7 @@ noteAlt =
         ]
 
 
-{-| notes -}
+{-| Notes -}
 notes : Icon
 notes =
     I.fromNodes
@@ -16811,7 +16811,7 @@ notes =
         ]
 
 
-{-| notification add -}
+{-| Notification Add -}
 notificationAdd : Icon
 notificationAdd =
     I.fromNodes
@@ -16823,7 +16823,7 @@ notificationAdd =
         ]
 
 
-{-| notification important -}
+{-| Notification Important -}
 notificationImportant : Icon
 notificationImportant =
     I.fromNodes
@@ -16835,7 +16835,7 @@ notificationImportant =
         ]
 
 
-{-| notifications -}
+{-| Notifications -}
 notifications : Icon
 notifications =
     I.fromNodes
@@ -16847,7 +16847,7 @@ notifications =
         ]
 
 
-{-| notifications active -}
+{-| Notifications Active -}
 notificationsActive : Icon
 notificationsActive =
     I.fromNodes
@@ -16859,7 +16859,7 @@ notificationsActive =
         ]
 
 
-{-| notifications none -}
+{-| Notifications None -}
 notificationsNone : Icon
 notificationsNone =
     I.fromNodes
@@ -16871,7 +16871,7 @@ notificationsNone =
         ]
 
 
-{-| notifications off -}
+{-| Notifications Off -}
 notificationsOff : Icon
 notificationsOff =
     I.fromNodes
@@ -16883,7 +16883,7 @@ notificationsOff =
         ]
 
 
-{-| notifications paused -}
+{-| Notifications Paused -}
 notificationsPaused : Icon
 notificationsPaused =
     I.fromNodes
@@ -16895,7 +16895,7 @@ notificationsPaused =
         ]
 
 
-{-| numbers -}
+{-| Numbers -}
 numbers : Icon
 numbers =
     I.fromNodes
@@ -16907,7 +16907,7 @@ numbers =
         ]
 
 
-{-| offline bolt -}
+{-| Offline Bolt -}
 offlineBolt : Icon
 offlineBolt =
     I.fromNodes
@@ -16919,7 +16919,7 @@ offlineBolt =
         ]
 
 
-{-| offline pin -}
+{-| Offline Pin -}
 offlinePin : Icon
 offlinePin =
     I.fromNodes
@@ -16931,7 +16931,7 @@ offlinePin =
         ]
 
 
-{-| offline share -}
+{-| Offline Share -}
 offlineShare : Icon
 offlineShare =
     I.fromNodes
@@ -16953,7 +16953,7 @@ offlineShare =
         ]
 
 
-{-| oil barrel -}
+{-| Oil Barrel -}
 oilBarrel : Icon
 oilBarrel =
     I.fromNodes
@@ -16965,7 +16965,7 @@ oilBarrel =
         ]
 
 
-{-| on device training -}
+{-| On Device Training -}
 onDeviceTraining : Icon
 onDeviceTraining =
     I.fromNodes
@@ -16987,7 +16987,7 @@ onDeviceTraining =
         ]
 
 
-{-| ondemand video -}
+{-| Ondemand Video -}
 ondemandVideo : Icon
 ondemandVideo =
     I.fromNodes
@@ -16999,7 +16999,7 @@ ondemandVideo =
         ]
 
 
-{-| online prediction -}
+{-| Online Prediction -}
 onlinePrediction : Icon
 onlinePrediction =
     I.fromNodes
@@ -17011,7 +17011,7 @@ onlinePrediction =
         ]
 
 
-{-| opacity -}
+{-| Opacity -}
 opacity : Icon
 opacity =
     I.fromNodes
@@ -17023,7 +17023,7 @@ opacity =
         ]
 
 
-{-| open in browser -}
+{-| Open In Browser -}
 openInBrowser : Icon
 openInBrowser =
     I.fromNodes
@@ -17035,7 +17035,7 @@ openInBrowser =
         ]
 
 
-{-| open in full -}
+{-| Open In Full -}
 openInFull : Icon
 openInFull =
     I.fromNodes
@@ -17047,7 +17047,7 @@ openInFull =
         ]
 
 
-{-| open in new -}
+{-| Open In New -}
 openInNew : Icon
 openInNew =
     I.fromNodes
@@ -17059,7 +17059,7 @@ openInNew =
         ]
 
 
-{-| open in new off -}
+{-| Open In New Off -}
 openInNewOff : Icon
 openInNewOff =
     I.fromNodes
@@ -17071,7 +17071,7 @@ openInNewOff =
         ]
 
 
-{-| open with -}
+{-| Open With -}
 openWith : Icon
 openWith =
     I.fromNodes
@@ -17083,7 +17083,7 @@ openWith =
         ]
 
 
-{-| other houses -}
+{-| Other Houses -}
 otherHouses : Icon
 otherHouses =
     I.fromNodes
@@ -17095,7 +17095,7 @@ otherHouses =
         ]
 
 
-{-| outbond -}
+{-| Outbond -}
 outbond : Icon
 outbond =
     I.fromNodes
@@ -17107,7 +17107,7 @@ outbond =
         ]
 
 
-{-| outbound -}
+{-| Outbound -}
 outbound : Icon
 outbound =
     I.fromNodes
@@ -17119,7 +17119,7 @@ outbound =
         ]
 
 
-{-| outbox -}
+{-| Outbox -}
 outbox : Icon
 outbox =
     I.fromNodes
@@ -17136,7 +17136,7 @@ outbox =
         ]
 
 
-{-| outdoor grill -}
+{-| Outdoor Grill -}
 outdoorGrill : Icon
 outdoorGrill =
     I.fromNodes
@@ -17148,7 +17148,7 @@ outdoorGrill =
         ]
 
 
-{-| outlet -}
+{-| Outlet -}
 outlet : Icon
 outlet =
     I.fromNodes
@@ -17160,7 +17160,7 @@ outlet =
         ]
 
 
-{-| outlined flag -}
+{-| Outlined Flag -}
 outlinedFlag : Icon
 outlinedFlag =
     I.fromNodes
@@ -17172,7 +17172,7 @@ outlinedFlag =
         ]
 
 
-{-| output -}
+{-| Output -}
 output : Icon
 output =
     I.fromNodes
@@ -17189,7 +17189,7 @@ output =
         ]
 
 
-{-| padding -}
+{-| Padding -}
 padding : Icon
 padding =
     I.fromNodes
@@ -17201,7 +17201,7 @@ padding =
         ]
 
 
-{-| pages -}
+{-| Pages -}
 pages : Icon
 pages =
     I.fromNodes
@@ -17213,7 +17213,7 @@ pages =
         ]
 
 
-{-| pageview -}
+{-| Pageview -}
 pageview : Icon
 pageview =
     I.fromNodes
@@ -17225,7 +17225,7 @@ pageview =
         ]
 
 
-{-| paid -}
+{-| Paid -}
 paid : Icon
 paid =
     I.fromNodes
@@ -17237,7 +17237,7 @@ paid =
         ]
 
 
-{-| palette -}
+{-| Palette -}
 palette : Icon
 palette =
     I.fromNodes
@@ -17249,7 +17249,7 @@ palette =
         ]
 
 
-{-| pan tool -}
+{-| Pan Tool -}
 panTool : Icon
 panTool =
     I.fromNodes
@@ -17261,7 +17261,7 @@ panTool =
         ]
 
 
-{-| pan tool alt -}
+{-| Pan Tool Alt -}
 panToolAlt : Icon
 panToolAlt =
     I.fromNodes
@@ -17273,7 +17273,7 @@ panToolAlt =
         ]
 
 
-{-| panorama -}
+{-| Panorama -}
 panorama : Icon
 panorama =
     I.fromNodes
@@ -17285,7 +17285,7 @@ panorama =
         ]
 
 
-{-| panorama fish eye -}
+{-| Panorama Fish Eye -}
 panoramaFishEye : Icon
 panoramaFishEye =
     I.fromNodes
@@ -17297,7 +17297,7 @@ panoramaFishEye =
         ]
 
 
-{-| panorama horizontal -}
+{-| Panorama Horizontal -}
 panoramaHorizontal : Icon
 panoramaHorizontal =
     I.fromNodes
@@ -17309,7 +17309,7 @@ panoramaHorizontal =
         ]
 
 
-{-| panorama horizontal select -}
+{-| Panorama Horizontal Select -}
 panoramaHorizontalSelect : Icon
 panoramaHorizontalSelect =
     I.fromNodes
@@ -17321,7 +17321,7 @@ panoramaHorizontalSelect =
         ]
 
 
-{-| panorama photosphere -}
+{-| Panorama Photosphere -}
 panoramaPhotosphere : Icon
 panoramaPhotosphere =
     I.fromNodes
@@ -17333,7 +17333,7 @@ panoramaPhotosphere =
         ]
 
 
-{-| panorama photosphere select -}
+{-| Panorama Photosphere Select -}
 panoramaPhotosphereSelect : Icon
 panoramaPhotosphereSelect =
     I.fromNodes
@@ -17345,7 +17345,7 @@ panoramaPhotosphereSelect =
         ]
 
 
-{-| panorama vertical -}
+{-| Panorama Vertical -}
 panoramaVertical : Icon
 panoramaVertical =
     I.fromNodes
@@ -17357,7 +17357,7 @@ panoramaVertical =
         ]
 
 
-{-| panorama vertical select -}
+{-| Panorama Vertical Select -}
 panoramaVerticalSelect : Icon
 panoramaVerticalSelect =
     I.fromNodes
@@ -17369,7 +17369,7 @@ panoramaVerticalSelect =
         ]
 
 
-{-| panorama wide angle -}
+{-| Panorama Wide Angle -}
 panoramaWideAngle : Icon
 panoramaWideAngle =
     I.fromNodes
@@ -17381,7 +17381,7 @@ panoramaWideAngle =
         ]
 
 
-{-| panorama wide angle select -}
+{-| Panorama Wide Angle Select -}
 panoramaWideAngleSelect : Icon
 panoramaWideAngleSelect =
     I.fromNodes
@@ -17393,7 +17393,7 @@ panoramaWideAngleSelect =
         ]
 
 
-{-| paragliding -}
+{-| Paragliding -}
 paragliding : Icon
 paragliding =
     I.fromNodes
@@ -17405,7 +17405,7 @@ paragliding =
         ]
 
 
-{-| park -}
+{-| Park -}
 park : Icon
 park =
     I.fromNodes
@@ -17417,7 +17417,7 @@ park =
         ]
 
 
-{-| party mode -}
+{-| Party Mode -}
 partyMode : Icon
 partyMode =
     I.fromNodes
@@ -17429,7 +17429,7 @@ partyMode =
         ]
 
 
-{-| password -}
+{-| Password -}
 password : Icon
 password =
     I.fromNodes
@@ -17441,7 +17441,7 @@ password =
         ]
 
 
-{-| pattern -}
+{-| Pattern -}
 pattern : Icon
 pattern =
     I.fromNodes
@@ -17453,7 +17453,7 @@ pattern =
         ]
 
 
-{-| pause -}
+{-| Pause -}
 pause : Icon
 pause =
     I.fromNodes
@@ -17465,7 +17465,7 @@ pause =
         ]
 
 
-{-| pause circle -}
+{-| Pause Circle -}
 pauseCircle : Icon
 pauseCircle =
     I.fromNodes
@@ -17477,7 +17477,7 @@ pauseCircle =
         ]
 
 
-{-| pause circle filled -}
+{-| Pause Circle Filled -}
 pauseCircleFilled : Icon
 pauseCircleFilled =
     I.fromNodes
@@ -17489,7 +17489,7 @@ pauseCircleFilled =
         ]
 
 
-{-| pause circle outline -}
+{-| Pause Circle Outline -}
 pauseCircleOutline : Icon
 pauseCircleOutline =
     I.fromNodes
@@ -17501,7 +17501,7 @@ pauseCircleOutline =
         ]
 
 
-{-| pause presentation -}
+{-| Pause Presentation -}
 pausePresentation : Icon
 pausePresentation =
     I.fromNodes
@@ -17513,7 +17513,7 @@ pausePresentation =
         ]
 
 
-{-| payment -}
+{-| Payment -}
 payment : Icon
 payment =
     I.fromNodes
@@ -17525,7 +17525,7 @@ payment =
         ]
 
 
-{-| payments -}
+{-| Payments -}
 payments : Icon
 payments =
     I.fromNodes
@@ -17537,7 +17537,7 @@ payments =
         ]
 
 
-{-| paypal -}
+{-| Paypal -}
 paypal : Icon
 paypal =
     I.fromNodes
@@ -17554,7 +17554,7 @@ paypal =
         ]
 
 
-{-| pedal bike -}
+{-| Pedal Bike -}
 pedalBike : Icon
 pedalBike =
     I.fromNodes
@@ -17566,7 +17566,7 @@ pedalBike =
         ]
 
 
-{-| pending -}
+{-| Pending -}
 pending : Icon
 pending =
     I.fromNodes
@@ -17578,7 +17578,7 @@ pending =
         ]
 
 
-{-| pending actions -}
+{-| Pending Actions -}
 pendingActions : Icon
 pendingActions =
     I.fromNodes
@@ -17590,7 +17590,7 @@ pendingActions =
         ]
 
 
-{-| pentagon -}
+{-| Pentagon -}
 pentagon : Icon
 pentagon =
     I.fromNodes
@@ -17602,7 +17602,7 @@ pentagon =
         ]
 
 
-{-| people -}
+{-| People -}
 people : Icon
 people =
     I.fromNodes
@@ -17614,7 +17614,7 @@ people =
         ]
 
 
-{-| people alt -}
+{-| People Alt -}
 peopleAlt : Icon
 peopleAlt =
     I.fromNodes
@@ -17634,7 +17634,7 @@ peopleAlt =
         ]
 
 
-{-| people outline -}
+{-| People Outline -}
 peopleOutline : Icon
 peopleOutline =
     I.fromNodes
@@ -17646,7 +17646,7 @@ peopleOutline =
         ]
 
 
-{-| percent -}
+{-| Percent -}
 percent : Icon
 percent =
     I.fromNodes
@@ -17658,7 +17658,7 @@ percent =
         ]
 
 
-{-| percentage -}
+{-| Percentage -}
 percentage : Icon
 percentage =
     I.fromNodes
@@ -17670,7 +17670,7 @@ percentage =
         ]
 
 
-{-| perm camera mic -}
+{-| Perm Camera Mic -}
 permCameraMic : Icon
 permCameraMic =
     I.fromNodes
@@ -17682,7 +17682,7 @@ permCameraMic =
         ]
 
 
-{-| perm contact calendar -}
+{-| Perm Contact Calendar -}
 permContactCalendar : Icon
 permContactCalendar =
     I.fromNodes
@@ -17694,7 +17694,7 @@ permContactCalendar =
         ]
 
 
-{-| perm data setting -}
+{-| Perm Data Setting -}
 permDataSetting : Icon
 permDataSetting =
     I.fromNodes
@@ -17706,7 +17706,7 @@ permDataSetting =
         ]
 
 
-{-| perm device information -}
+{-| Perm Device Information -}
 permDeviceInformation : Icon
 permDeviceInformation =
     I.fromNodes
@@ -17718,7 +17718,7 @@ permDeviceInformation =
         ]
 
 
-{-| perm identity -}
+{-| Perm Identity -}
 permIdentity : Icon
 permIdentity =
     I.fromNodes
@@ -17730,7 +17730,7 @@ permIdentity =
         ]
 
 
-{-| perm media -}
+{-| Perm Media -}
 permMedia : Icon
 permMedia =
     I.fromNodes
@@ -17747,7 +17747,7 @@ permMedia =
         ]
 
 
-{-| perm phone msg -}
+{-| Perm Phone Msg -}
 permPhoneMsg : Icon
 permPhoneMsg =
     I.fromNodes
@@ -17759,7 +17759,7 @@ permPhoneMsg =
         ]
 
 
-{-| perm scan wifi -}
+{-| Perm Scan Wifi -}
 permScanWifi : Icon
 permScanWifi =
     I.fromNodes
@@ -17771,7 +17771,7 @@ permScanWifi =
         ]
 
 
-{-| person -}
+{-| Person -}
 person : Icon
 person =
     I.fromNodes
@@ -17783,7 +17783,7 @@ person =
         ]
 
 
-{-| person 2 -}
+{-| Person 2 -}
 person2 : Icon
 person2 =
     I.fromNodes
@@ -17795,7 +17795,7 @@ person2 =
         ]
 
 
-{-| person 3 -}
+{-| Person 3 -}
 person3 : Icon
 person3 =
     I.fromNodes
@@ -17807,7 +17807,7 @@ person3 =
         ]
 
 
-{-| person 4 -}
+{-| Person 4 -}
 person4 : Icon
 person4 =
     I.fromNodes
@@ -17819,7 +17819,7 @@ person4 =
         ]
 
 
-{-| person add -}
+{-| Person Add -}
 personAdd : Icon
 personAdd =
     I.fromNodes
@@ -17831,7 +17831,7 @@ personAdd =
         ]
 
 
-{-| person add alt -}
+{-| Person Add Alt -}
 personAddAlt : Icon
 personAddAlt =
     I.fromNodes
@@ -17843,7 +17843,7 @@ personAddAlt =
         ]
 
 
-{-| person add alt 1 -}
+{-| Person Add Alt 1 -}
 personAddAlt1 : Icon
 personAddAlt1 =
     I.fromNodes
@@ -17856,7 +17856,7 @@ personAddAlt1 =
         ]
 
 
-{-| person add disabled -}
+{-| Person Add Disabled -}
 personAddDisabled : Icon
 personAddDisabled =
     I.fromNodes
@@ -17868,7 +17868,7 @@ personAddDisabled =
         ]
 
 
-{-| person off -}
+{-| Person Off -}
 personOff : Icon
 personOff =
     I.fromNodes
@@ -17880,7 +17880,7 @@ personOff =
         ]
 
 
-{-| person outline -}
+{-| Person Outline -}
 personOutline : Icon
 personOutline =
     I.fromNodes
@@ -17892,7 +17892,7 @@ personOutline =
         ]
 
 
-{-| person pin -}
+{-| Person Pin -}
 personPin : Icon
 personPin =
     I.fromNodes
@@ -17904,7 +17904,7 @@ personPin =
         ]
 
 
-{-| person pin circle -}
+{-| Person Pin Circle -}
 personPinCircle : Icon
 personPinCircle =
     I.fromNodes
@@ -17916,7 +17916,7 @@ personPinCircle =
         ]
 
 
-{-| person remove -}
+{-| Person Remove -}
 personRemove : Icon
 personRemove =
     I.fromNodes
@@ -17928,7 +17928,7 @@ personRemove =
         ]
 
 
-{-| person remove alt 1 -}
+{-| Person Remove Alt 1 -}
 personRemoveAlt1 : Icon
 personRemoveAlt1 =
     I.fromNodes
@@ -17940,7 +17940,7 @@ personRemoveAlt1 =
         ]
 
 
-{-| person search -}
+{-| Person Search -}
 personSearch : Icon
 personSearch =
     I.fromNodes
@@ -17953,7 +17953,7 @@ personSearch =
         ]
 
 
-{-| personal injury -}
+{-| Personal Injury -}
 personalInjury : Icon
 personalInjury =
     I.fromNodes
@@ -17965,7 +17965,7 @@ personalInjury =
         ]
 
 
-{-| personal video -}
+{-| Personal Video -}
 personalVideo : Icon
 personalVideo =
     I.fromNodes
@@ -17977,7 +17977,7 @@ personalVideo =
         ]
 
 
-{-| pest control -}
+{-| Pest Control -}
 pestControl : Icon
 pestControl =
     I.fromNodes
@@ -17989,7 +17989,7 @@ pestControl =
         ]
 
 
-{-| pest control rodent -}
+{-| Pest Control Rodent -}
 pestControlRodent : Icon
 pestControlRodent =
     I.fromNodes
@@ -18001,7 +18001,7 @@ pestControlRodent =
         ]
 
 
-{-| pets -}
+{-| Pets -}
 pets : Icon
 pets =
     I.fromNodes
@@ -18017,7 +18017,7 @@ pets =
         ]
 
 
-{-| phishing -}
+{-| Phishing -}
 phishing : Icon
 phishing =
     I.fromNodes
@@ -18029,7 +18029,7 @@ phishing =
         ]
 
 
-{-| phone -}
+{-| Phone -}
 phone : Icon
 phone =
     I.fromNodes
@@ -18041,7 +18041,7 @@ phone =
         ]
 
 
-{-| phone android -}
+{-| Phone Android -}
 phoneAndroid : Icon
 phoneAndroid =
     I.fromNodes
@@ -18053,7 +18053,7 @@ phoneAndroid =
         ]
 
 
-{-| phone bluetooth speaker -}
+{-| Phone Bluetooth Speaker -}
 phoneBluetoothSpeaker : Icon
 phoneBluetoothSpeaker =
     I.fromNodes
@@ -18065,7 +18065,7 @@ phoneBluetoothSpeaker =
         ]
 
 
-{-| phone callback -}
+{-| Phone Callback -}
 phoneCallback : Icon
 phoneCallback =
     I.fromNodes
@@ -18077,7 +18077,7 @@ phoneCallback =
         ]
 
 
-{-| phone disabled -}
+{-| Phone Disabled -}
 phoneDisabled : Icon
 phoneDisabled =
     I.fromNodes
@@ -18089,7 +18089,7 @@ phoneDisabled =
         ]
 
 
-{-| phone enabled -}
+{-| Phone Enabled -}
 phoneEnabled : Icon
 phoneEnabled =
     I.fromNodes
@@ -18101,7 +18101,7 @@ phoneEnabled =
         ]
 
 
-{-| phone forwarded -}
+{-| Phone Forwarded -}
 phoneForwarded : Icon
 phoneForwarded =
     I.fromNodes
@@ -18113,7 +18113,7 @@ phoneForwarded =
         ]
 
 
-{-| phone in talk -}
+{-| Phone In Talk -}
 phoneInTalk : Icon
 phoneInTalk =
     I.fromNodes
@@ -18125,7 +18125,7 @@ phoneInTalk =
         ]
 
 
-{-| phone iphone -}
+{-| Phone Iphone -}
 phoneIphone : Icon
 phoneIphone =
     I.fromNodes
@@ -18137,7 +18137,7 @@ phoneIphone =
         ]
 
 
-{-| phone locked -}
+{-| Phone Locked -}
 phoneLocked : Icon
 phoneLocked =
     I.fromNodes
@@ -18154,7 +18154,7 @@ phoneLocked =
         ]
 
 
-{-| phone missed -}
+{-| Phone Missed -}
 phoneMissed : Icon
 phoneMissed =
     I.fromNodes
@@ -18166,7 +18166,7 @@ phoneMissed =
         ]
 
 
-{-| phone paused -}
+{-| Phone Paused -}
 phonePaused : Icon
 phonePaused =
     I.fromNodes
@@ -18178,7 +18178,7 @@ phonePaused =
         ]
 
 
-{-| phonelink -}
+{-| Phonelink -}
 phonelink : Icon
 phonelink =
     I.fromNodes
@@ -18190,7 +18190,7 @@ phonelink =
         ]
 
 
-{-| phonelink erase -}
+{-| Phonelink Erase -}
 phonelinkErase : Icon
 phonelinkErase =
     I.fromNodes
@@ -18202,7 +18202,7 @@ phonelinkErase =
         ]
 
 
-{-| phonelink lock -}
+{-| Phonelink Lock -}
 phonelinkLock : Icon
 phonelinkLock =
     I.fromNodes
@@ -18219,7 +18219,7 @@ phonelinkLock =
         ]
 
 
-{-| phonelink off -}
+{-| Phonelink Off -}
 phonelinkOff : Icon
 phonelinkOff =
     I.fromNodes
@@ -18231,7 +18231,7 @@ phonelinkOff =
         ]
 
 
-{-| phonelink ring -}
+{-| Phonelink Ring -}
 phonelinkRing : Icon
 phonelinkRing =
     I.fromNodes
@@ -18243,7 +18243,7 @@ phonelinkRing =
         ]
 
 
-{-| phonelink setup -}
+{-| Phonelink Setup -}
 phonelinkSetup : Icon
 phonelinkSetup =
     I.fromNodes
@@ -18255,7 +18255,7 @@ phonelinkSetup =
         ]
 
 
-{-| photo -}
+{-| Photo -}
 photo : Icon
 photo =
     I.fromNodes
@@ -18267,7 +18267,7 @@ photo =
         ]
 
 
-{-| photo album -}
+{-| Photo Album -}
 photoAlbum : Icon
 photoAlbum =
     I.fromNodes
@@ -18279,7 +18279,7 @@ photoAlbum =
         ]
 
 
-{-| photo camera -}
+{-| Photo Camera -}
 photoCamera : Icon
 photoCamera =
     I.fromNodes
@@ -18292,7 +18292,7 @@ photoCamera =
         ]
 
 
-{-| photo camera back -}
+{-| Photo Camera Back -}
 photoCameraBack : Icon
 photoCameraBack =
     I.fromNodes
@@ -18304,7 +18304,7 @@ photoCameraBack =
         ]
 
 
-{-| photo camera front -}
+{-| Photo Camera Front -}
 photoCameraFront : Icon
 photoCameraFront =
     I.fromNodes
@@ -18316,7 +18316,7 @@ photoCameraFront =
         ]
 
 
-{-| photo filter -}
+{-| Photo Filter -}
 photoFilter : Icon
 photoFilter =
     I.fromNodes
@@ -18328,7 +18328,7 @@ photoFilter =
         ]
 
 
-{-| photo library -}
+{-| Photo Library -}
 photoLibrary : Icon
 photoLibrary =
     I.fromNodes
@@ -18340,7 +18340,7 @@ photoLibrary =
         ]
 
 
-{-| photo size select actual -}
+{-| Photo Size Select Actual -}
 photoSizeSelectActual : Icon
 photoSizeSelectActual =
     I.fromNodes
@@ -18352,7 +18352,7 @@ photoSizeSelectActual =
         ]
 
 
-{-| photo size select large -}
+{-| Photo Size Select Large -}
 photoSizeSelectLarge : Icon
 photoSizeSelectLarge =
     I.fromNodes
@@ -18364,7 +18364,7 @@ photoSizeSelectLarge =
         ]
 
 
-{-| photo size select small -}
+{-| Photo Size Select Small -}
 photoSizeSelectSmall : Icon
 photoSizeSelectSmall =
     I.fromNodes
@@ -18376,7 +18376,7 @@ photoSizeSelectSmall =
         ]
 
 
-{-| php -}
+{-| Php -}
 php : Icon
 php =
     I.fromNodes
@@ -18388,7 +18388,7 @@ php =
         ]
 
 
-{-| piano -}
+{-| Piano -}
 piano : Icon
 piano =
     I.fromNodes
@@ -18400,7 +18400,7 @@ piano =
         ]
 
 
-{-| piano off -}
+{-| Piano Off -}
 pianoOff : Icon
 pianoOff =
     I.fromNodes
@@ -18412,7 +18412,7 @@ pianoOff =
         ]
 
 
-{-| picture as pdf -}
+{-| Picture As Pdf -}
 pictureAsPdf : Icon
 pictureAsPdf =
     I.fromNodes
@@ -18424,7 +18424,7 @@ pictureAsPdf =
         ]
 
 
-{-| picture in picture -}
+{-| Picture In Picture -}
 pictureInPicture : Icon
 pictureInPicture =
     I.fromNodes
@@ -18436,7 +18436,7 @@ pictureInPicture =
         ]
 
 
-{-| picture in picture alt -}
+{-| Picture In Picture Alt -}
 pictureInPictureAlt : Icon
 pictureInPictureAlt =
     I.fromNodes
@@ -18448,7 +18448,7 @@ pictureInPictureAlt =
         ]
 
 
-{-| pie chart -}
+{-| Pie Chart -}
 pieChart : Icon
 pieChart =
     I.fromNodes
@@ -18460,7 +18460,7 @@ pieChart =
         ]
 
 
-{-| pie chart outline -}
+{-| Pie Chart Outline -}
 pieChartOutline : Icon
 pieChartOutline =
     I.fromNodes
@@ -18472,7 +18472,7 @@ pieChartOutline =
         ]
 
 
-{-| pin -}
+{-| Pin -}
 pin : Icon
 pin =
     I.fromNodes
@@ -18484,7 +18484,7 @@ pin =
         ]
 
 
-{-| pin drop -}
+{-| Pin Drop -}
 pinDrop : Icon
 pinDrop =
     I.fromNodes
@@ -18496,7 +18496,7 @@ pinDrop =
         ]
 
 
-{-| pin end -}
+{-| Pin End -}
 pinEnd : Icon
 pinEnd =
     I.fromNodes
@@ -18508,7 +18508,7 @@ pinEnd =
         ]
 
 
-{-| pin invoke -}
+{-| Pin Invoke -}
 pinInvoke : Icon
 pinInvoke =
     I.fromNodes
@@ -18520,7 +18520,7 @@ pinInvoke =
         ]
 
 
-{-| pin off -}
+{-| Pin Off -}
 pinOff : Icon
 pinOff =
     I.fromNodes
@@ -18537,7 +18537,7 @@ pinOff =
         ]
 
 
-{-| pinch -}
+{-| Pinch -}
 pinch : Icon
 pinch =
     I.fromNodes
@@ -18549,7 +18549,7 @@ pinch =
         ]
 
 
-{-| pivot table chart -}
+{-| Pivot Table Chart -}
 pivotTableChart : Icon
 pivotTableChart =
     I.fromNodes
@@ -18561,7 +18561,7 @@ pivotTableChart =
         ]
 
 
-{-| pix -}
+{-| Pix -}
 pix : Icon
 pix =
     I.fromNodes
@@ -18578,7 +18578,7 @@ pix =
         ]
 
 
-{-| place -}
+{-| Place -}
 place : Icon
 place =
     I.fromNodes
@@ -18590,7 +18590,7 @@ place =
         ]
 
 
-{-| plagiarism -}
+{-| Plagiarism -}
 plagiarism : Icon
 plagiarism =
     I.fromNodes
@@ -18603,7 +18603,7 @@ plagiarism =
         ]
 
 
-{-| play arrow -}
+{-| Play Arrow -}
 playArrow : Icon
 playArrow =
     I.fromNodes
@@ -18615,7 +18615,7 @@ playArrow =
         ]
 
 
-{-| play circle -}
+{-| Play Circle -}
 playCircle : Icon
 playCircle =
     I.fromNodes
@@ -18627,7 +18627,7 @@ playCircle =
         ]
 
 
-{-| play circle filled -}
+{-| Play Circle Filled -}
 playCircleFilled : Icon
 playCircleFilled =
     I.fromNodes
@@ -18639,7 +18639,7 @@ playCircleFilled =
         ]
 
 
-{-| play circle filled white -}
+{-| Play Circle Filled White -}
 playCircleFilledWhite : Icon
 playCircleFilledWhite =
     I.fromNodes
@@ -18651,7 +18651,7 @@ playCircleFilledWhite =
         ]
 
 
-{-| play circle outline -}
+{-| Play Circle Outline -}
 playCircleOutline : Icon
 playCircleOutline =
     I.fromNodes
@@ -18663,7 +18663,7 @@ playCircleOutline =
         ]
 
 
-{-| play disabled -}
+{-| Play Disabled -}
 playDisabled : Icon
 playDisabled =
     I.fromNodes
@@ -18675,7 +18675,7 @@ playDisabled =
         ]
 
 
-{-| play for work -}
+{-| Play For Work -}
 playForWork : Icon
 playForWork =
     I.fromNodes
@@ -18687,7 +18687,7 @@ playForWork =
         ]
 
 
-{-| play lesson -}
+{-| Play Lesson -}
 playLesson : Icon
 playLesson =
     I.fromNodes
@@ -18704,7 +18704,7 @@ playLesson =
         ]
 
 
-{-| playlist add -}
+{-| Playlist Add -}
 playlistAdd : Icon
 playlistAdd =
     I.fromNodes
@@ -18716,7 +18716,7 @@ playlistAdd =
         ]
 
 
-{-| playlist add check -}
+{-| Playlist Add Check -}
 playlistAddCheck : Icon
 playlistAddCheck =
     I.fromNodes
@@ -18728,7 +18728,7 @@ playlistAddCheck =
         ]
 
 
-{-| playlist add check circle -}
+{-| Playlist Add Check Circle -}
 playlistAddCheckCircle : Icon
 playlistAddCheckCircle =
     I.fromNodes
@@ -18740,7 +18740,7 @@ playlistAddCheckCircle =
         ]
 
 
-{-| playlist add circle -}
+{-| Playlist Add Circle -}
 playlistAddCircle : Icon
 playlistAddCircle =
     I.fromNodes
@@ -18752,7 +18752,7 @@ playlistAddCircle =
         ]
 
 
-{-| playlist play -}
+{-| Playlist Play -}
 playlistPlay : Icon
 playlistPlay =
     I.fromNodes
@@ -18764,7 +18764,7 @@ playlistPlay =
         ]
 
 
-{-| playlist remove -}
+{-| Playlist Remove -}
 playlistRemove : Icon
 playlistRemove =
     I.fromNodes
@@ -18776,7 +18776,7 @@ playlistRemove =
         ]
 
 
-{-| plumbing -}
+{-| Plumbing -}
 plumbing : Icon
 plumbing =
     I.fromNodes
@@ -18793,7 +18793,7 @@ plumbing =
         ]
 
 
-{-| plus -}
+{-| Plus -}
 plus : Icon
 plus =
     I.fromNodes
@@ -18805,7 +18805,7 @@ plus =
         ]
 
 
-{-| plus minus -}
+{-| Plus Minus -}
 plusMinus : Icon
 plusMinus =
     I.fromNodes
@@ -18817,7 +18817,7 @@ plusMinus =
         ]
 
 
-{-| plus minus alt -}
+{-| Plus Minus Alt -}
 plusMinusAlt : Icon
 plusMinusAlt =
     I.fromNodes
@@ -18829,7 +18829,7 @@ plusMinusAlt =
         ]
 
 
-{-| plus one -}
+{-| Plus One -}
 plusOne : Icon
 plusOne =
     I.fromNodes
@@ -18841,7 +18841,7 @@ plusOne =
         ]
 
 
-{-| podcasts -}
+{-| Podcasts -}
 podcasts : Icon
 podcasts =
     I.fromNodes
@@ -18853,7 +18853,7 @@ podcasts =
         ]
 
 
-{-| point of sale -}
+{-| Point Of Sale -}
 pointOfSale : Icon
 pointOfSale =
     I.fromNodes
@@ -18865,7 +18865,7 @@ pointOfSale =
         ]
 
 
-{-| policy -}
+{-| Policy -}
 policy : Icon
 policy =
     I.fromNodes
@@ -18878,7 +18878,7 @@ policy =
         ]
 
 
-{-| poll -}
+{-| Poll -}
 poll : Icon
 poll =
     I.fromNodes
@@ -18890,7 +18890,7 @@ poll =
         ]
 
 
-{-| polyline -}
+{-| Polyline -}
 polyline : Icon
 polyline =
     I.fromNodes
@@ -18902,7 +18902,7 @@ polyline =
         ]
 
 
-{-| polymer -}
+{-| Polymer -}
 polymer : Icon
 polymer =
     I.fromNodes
@@ -18914,7 +18914,7 @@ polymer =
         ]
 
 
-{-| pool -}
+{-| Pool -}
 pool : Icon
 pool =
     I.fromNodes
@@ -18927,7 +18927,7 @@ pool =
         ]
 
 
-{-| portable wifi off -}
+{-| Portable Wifi Off -}
 portableWifiOff : Icon
 portableWifiOff =
     I.fromNodes
@@ -18939,7 +18939,7 @@ portableWifiOff =
         ]
 
 
-{-| portrait -}
+{-| Portrait -}
 portrait : Icon
 portrait =
     I.fromNodes
@@ -18951,7 +18951,7 @@ portrait =
         ]
 
 
-{-| post add -}
+{-| Post Add -}
 postAdd : Icon
 postAdd =
     I.fromNodes
@@ -18968,7 +18968,7 @@ postAdd =
         ]
 
 
-{-| power -}
+{-| Power -}
 power : Icon
 power =
     I.fromNodes
@@ -18980,7 +18980,7 @@ power =
         ]
 
 
-{-| power input -}
+{-| Power Input -}
 powerInput : Icon
 powerInput =
     I.fromNodes
@@ -18992,7 +18992,7 @@ powerInput =
         ]
 
 
-{-| power off -}
+{-| Power Off -}
 powerOff : Icon
 powerOff =
     I.fromNodes
@@ -19004,7 +19004,7 @@ powerOff =
         ]
 
 
-{-| power settings new -}
+{-| Power Settings New -}
 powerSettingsNew : Icon
 powerSettingsNew =
     I.fromNodes
@@ -19016,7 +19016,7 @@ powerSettingsNew =
         ]
 
 
-{-| precision manufacturing -}
+{-| Precision Manufacturing -}
 precisionManufacturing : Icon
 precisionManufacturing =
     I.fromNodes
@@ -19028,7 +19028,7 @@ precisionManufacturing =
         ]
 
 
-{-| pregnant woman -}
+{-| Pregnant Woman -}
 pregnantWoman : Icon
 pregnantWoman =
     I.fromNodes
@@ -19040,7 +19040,7 @@ pregnantWoman =
         ]
 
 
-{-| present to all -}
+{-| Present To All -}
 presentToAll : Icon
 presentToAll =
     I.fromNodes
@@ -19052,7 +19052,7 @@ presentToAll =
         ]
 
 
-{-| preview -}
+{-| Preview -}
 preview : Icon
 preview =
     I.fromNodes
@@ -19064,7 +19064,7 @@ preview =
         ]
 
 
-{-| price change -}
+{-| Price Change -}
 priceChange : Icon
 priceChange =
     I.fromNodes
@@ -19076,7 +19076,7 @@ priceChange =
         ]
 
 
-{-| price check -}
+{-| Price Check -}
 priceCheck : Icon
 priceCheck =
     I.fromNodes
@@ -19088,7 +19088,7 @@ priceCheck =
         ]
 
 
-{-| print -}
+{-| Print -}
 print : Icon
 print =
     I.fromNodes
@@ -19100,7 +19100,7 @@ print =
         ]
 
 
-{-| print disabled -}
+{-| Print Disabled -}
 printDisabled : Icon
 printDisabled =
     I.fromNodes
@@ -19112,7 +19112,7 @@ printDisabled =
         ]
 
 
-{-| priority high -}
+{-| Priority High -}
 priorityHigh : Icon
 priorityHigh =
     I.fromNodes
@@ -19125,7 +19125,7 @@ priorityHigh =
         ]
 
 
-{-| privacy tip -}
+{-| Privacy Tip -}
 privacyTip : Icon
 privacyTip =
     I.fromNodes
@@ -19137,7 +19137,7 @@ privacyTip =
         ]
 
 
-{-| private connectivity -}
+{-| Private Connectivity -}
 privateConnectivity : Icon
 privateConnectivity =
     I.fromNodes
@@ -19149,7 +19149,7 @@ privateConnectivity =
         ]
 
 
-{-| production quantity limits -}
+{-| Production Quantity Limits -}
 productionQuantityLimits : Icon
 productionQuantityLimits =
     I.fromNodes
@@ -19161,7 +19161,7 @@ productionQuantityLimits =
         ]
 
 
-{-| propane -}
+{-| Propane -}
 propane : Icon
 propane =
     I.fromNodes
@@ -19173,7 +19173,7 @@ propane =
         ]
 
 
-{-| propane tank -}
+{-| Propane Tank -}
 propaneTank : Icon
 propaneTank =
     I.fromNodes
@@ -19185,7 +19185,7 @@ propaneTank =
         ]
 
 
-{-| psychology -}
+{-| Psychology -}
 psychology : Icon
 psychology =
     I.fromNodes
@@ -19200,7 +19200,7 @@ psychology =
         ]
 
 
-{-| psychology alt -}
+{-| Psychology Alt -}
 psychologyAlt : Icon
 psychologyAlt =
     I.fromNodes
@@ -19212,7 +19212,7 @@ psychologyAlt =
         ]
 
 
-{-| public -}
+{-| Public -}
 public : Icon
 public =
     I.fromNodes
@@ -19224,7 +19224,7 @@ public =
         ]
 
 
-{-| public off -}
+{-| Public Off -}
 publicOff : Icon
 publicOff =
     I.fromNodes
@@ -19236,7 +19236,7 @@ publicOff =
         ]
 
 
-{-| publish -}
+{-| Publish -}
 publish : Icon
 publish =
     I.fromNodes
@@ -19248,7 +19248,7 @@ publish =
         ]
 
 
-{-| published with changes -}
+{-| Published With Changes -}
 publishedWithChanges : Icon
 publishedWithChanges =
     I.fromNodes
@@ -19260,7 +19260,7 @@ publishedWithChanges =
         ]
 
 
-{-| punch clock -}
+{-| Punch Clock -}
 punchClock : Icon
 punchClock =
     I.fromNodes
@@ -19277,7 +19277,7 @@ punchClock =
         ]
 
 
-{-| push pin -}
+{-| Push Pin -}
 pushPin : Icon
 pushPin =
     I.fromNodes
@@ -19290,7 +19290,7 @@ pushPin =
         ]
 
 
-{-| qr code -}
+{-| Qr Code -}
 qrCode : Icon
 qrCode =
     I.fromNodes
@@ -19302,7 +19302,7 @@ qrCode =
         ]
 
 
-{-| qr code 2 -}
+{-| Qr Code 2 -}
 qrCode2 : Icon
 qrCode2 =
     I.fromNodes
@@ -19314,7 +19314,7 @@ qrCode2 =
         ]
 
 
-{-| qr code scanner -}
+{-| Qr Code Scanner -}
 qrCodeScanner : Icon
 qrCodeScanner =
     I.fromNodes
@@ -19326,7 +19326,7 @@ qrCodeScanner =
         ]
 
 
-{-| qrcode -}
+{-| Qrcode -}
 qrcode : Icon
 qrcode =
     I.fromNodes
@@ -19360,7 +19360,7 @@ qrcode =
         ]
 
 
-{-| query builder -}
+{-| Query Builder -}
 queryBuilder : Icon
 queryBuilder =
     I.fromNodes
@@ -19372,7 +19372,7 @@ queryBuilder =
         ]
 
 
-{-| query stats -}
+{-| Query Stats -}
 queryStats : Icon
 queryStats =
     I.fromNodes
@@ -19384,7 +19384,7 @@ queryStats =
         ]
 
 
-{-| question answer -}
+{-| Question Answer -}
 questionAnswer : Icon
 questionAnswer =
     I.fromNodes
@@ -19396,7 +19396,7 @@ questionAnswer =
         ]
 
 
-{-| question mark -}
+{-| Question Mark -}
 questionMark : Icon
 questionMark =
     I.fromNodes
@@ -19408,7 +19408,7 @@ questionMark =
         ]
 
 
-{-| queue -}
+{-| Queue -}
 queue : Icon
 queue =
     I.fromNodes
@@ -19420,7 +19420,7 @@ queue =
         ]
 
 
-{-| queue music -}
+{-| Queue Music -}
 queueMusic : Icon
 queueMusic =
     I.fromNodes
@@ -19432,7 +19432,7 @@ queueMusic =
         ]
 
 
-{-| queue play next -}
+{-| Queue Play Next -}
 queuePlayNext : Icon
 queuePlayNext =
     I.fromNodes
@@ -19444,7 +19444,7 @@ queuePlayNext =
         ]
 
 
-{-| quickreply -}
+{-| Quickreply -}
 quickreply : Icon
 quickreply =
     I.fromNodes
@@ -19461,7 +19461,7 @@ quickreply =
         ]
 
 
-{-| quiz -}
+{-| Quiz -}
 quiz : Icon
 quiz =
     I.fromNodes
@@ -19478,7 +19478,7 @@ quiz =
         ]
 
 
-{-| quora -}
+{-| Quora -}
 quora : Icon
 quora =
     I.fromNodes
@@ -19490,7 +19490,7 @@ quora =
         ]
 
 
-{-| r mobiledata -}
+{-| R Mobiledata -}
 rMobiledata : Icon
 rMobiledata =
     I.fromNodes
@@ -19502,7 +19502,7 @@ rMobiledata =
         ]
 
 
-{-| radar -}
+{-| Radar -}
 radar : Icon
 radar =
     I.fromNodes
@@ -19514,7 +19514,7 @@ radar =
         ]
 
 
-{-| radio -}
+{-| Radio -}
 radio : Icon
 radio =
     I.fromNodes
@@ -19526,7 +19526,7 @@ radio =
         ]
 
 
-{-| radio button checked -}
+{-| Radio Button Checked -}
 radioButtonChecked : Icon
 radioButtonChecked =
     I.fromNodes
@@ -19539,7 +19539,7 @@ radioButtonChecked =
         ]
 
 
-{-| radio button unchecked -}
+{-| Radio Button Unchecked -}
 radioButtonUnchecked : Icon
 radioButtonUnchecked =
     I.fromNodes
@@ -19551,7 +19551,7 @@ radioButtonUnchecked =
         ]
 
 
-{-| railway alert -}
+{-| Railway Alert -}
 railwayAlert : Icon
 railwayAlert =
     I.fromNodes
@@ -19568,7 +19568,7 @@ railwayAlert =
         ]
 
 
-{-| ramen dining -}
+{-| Ramen Dining -}
 ramenDining : Icon
 ramenDining =
     I.fromNodes
@@ -19580,7 +19580,7 @@ ramenDining =
         ]
 
 
-{-| ramp left -}
+{-| Ramp Left -}
 rampLeft : Icon
 rampLeft =
     I.fromNodes
@@ -19592,7 +19592,7 @@ rampLeft =
         ]
 
 
-{-| ramp right -}
+{-| Ramp Right -}
 rampRight : Icon
 rampRight =
     I.fromNodes
@@ -19604,7 +19604,7 @@ rampRight =
         ]
 
 
-{-| rate review -}
+{-| Rate Review -}
 rateReview : Icon
 rateReview =
     I.fromNodes
@@ -19616,7 +19616,7 @@ rateReview =
         ]
 
 
-{-| raw off -}
+{-| Raw Off -}
 rawOff : Icon
 rawOff =
     I.fromNodes
@@ -19628,7 +19628,7 @@ rawOff =
         ]
 
 
-{-| raw on -}
+{-| Raw On -}
 rawOn : Icon
 rawOn =
     I.fromNodes
@@ -19640,7 +19640,7 @@ rawOn =
         ]
 
 
-{-| read more -}
+{-| Read More -}
 readMore : Icon
 readMore =
     I.fromNodes
@@ -19652,7 +19652,7 @@ readMore =
         ]
 
 
-{-| real estate agent -}
+{-| Real Estate Agent -}
 realEstateAgent : Icon
 realEstateAgent =
     I.fromNodes
@@ -19664,7 +19664,7 @@ realEstateAgent =
         ]
 
 
-{-| receipt -}
+{-| Receipt -}
 receipt : Icon
 receipt =
     I.fromNodes
@@ -19676,7 +19676,7 @@ receipt =
         ]
 
 
-{-| receipt long -}
+{-| Receipt Long -}
 receiptLong : Icon
 receiptLong =
     I.fromNodes
@@ -19695,7 +19695,7 @@ receiptLong =
         ]
 
 
-{-| recent actors -}
+{-| Recent Actors -}
 recentActors : Icon
 recentActors =
     I.fromNodes
@@ -19707,7 +19707,7 @@ recentActors =
         ]
 
 
-{-| recommend -}
+{-| Recommend -}
 recommend : Icon
 recommend =
     I.fromNodes
@@ -19719,7 +19719,7 @@ recommend =
         ]
 
 
-{-| record voice over -}
+{-| Record Voice Over -}
 recordVoiceOver : Icon
 recordVoiceOver =
     I.fromNodes
@@ -19732,7 +19732,7 @@ recordVoiceOver =
         ]
 
 
-{-| rectangle -}
+{-| Rectangle -}
 rectangle : Icon
 rectangle =
     I.fromNodes
@@ -19744,7 +19744,7 @@ rectangle =
         ]
 
 
-{-| recycling -}
+{-| Recycling -}
 recycling : Icon
 recycling =
     I.fromNodes
@@ -19756,7 +19756,7 @@ recycling =
         ]
 
 
-{-| reddit -}
+{-| Reddit -}
 reddit : Icon
 reddit =
     I.fromNodes
@@ -19773,7 +19773,7 @@ reddit =
         ]
 
 
-{-| redeem -}
+{-| Redeem -}
 redeem : Icon
 redeem =
     I.fromNodes
@@ -19785,7 +19785,7 @@ redeem =
         ]
 
 
-{-| redo -}
+{-| Redo -}
 redo : Icon
 redo =
     I.fromNodes
@@ -19797,7 +19797,7 @@ redo =
         ]
 
 
-{-| reduce capacity -}
+{-| Reduce Capacity -}
 reduceCapacity : Icon
 reduceCapacity =
     I.fromNodes
@@ -19809,7 +19809,7 @@ reduceCapacity =
         ]
 
 
-{-| refresh -}
+{-| Refresh -}
 refresh : Icon
 refresh =
     I.fromNodes
@@ -19821,7 +19821,7 @@ refresh =
         ]
 
 
-{-| remember me -}
+{-| Remember Me -}
 rememberMe : Icon
 rememberMe =
     I.fromNodes
@@ -19834,7 +19834,7 @@ rememberMe =
         ]
 
 
-{-| remove -}
+{-| Remove -}
 remove : Icon
 remove =
     I.fromNodes
@@ -19846,7 +19846,7 @@ remove =
         ]
 
 
-{-| remove circle -}
+{-| Remove Circle -}
 removeCircle : Icon
 removeCircle =
     I.fromNodes
@@ -19858,7 +19858,7 @@ removeCircle =
         ]
 
 
-{-| remove circle outline -}
+{-| Remove Circle Outline -}
 removeCircleOutline : Icon
 removeCircleOutline =
     I.fromNodes
@@ -19870,7 +19870,7 @@ removeCircleOutline =
         ]
 
 
-{-| remove done -}
+{-| Remove Done -}
 removeDone : Icon
 removeDone =
     I.fromNodes
@@ -19882,7 +19882,7 @@ removeDone =
         ]
 
 
-{-| remove from queue -}
+{-| Remove From Queue -}
 removeFromQueue : Icon
 removeFromQueue =
     I.fromNodes
@@ -19894,7 +19894,7 @@ removeFromQueue =
         ]
 
 
-{-| remove moderator -}
+{-| Remove Moderator -}
 removeModerator : Icon
 removeModerator =
     I.fromNodes
@@ -19906,7 +19906,7 @@ removeModerator =
         ]
 
 
-{-| remove red eye -}
+{-| Remove Red Eye -}
 removeRedEye : Icon
 removeRedEye =
     I.fromNodes
@@ -19918,7 +19918,7 @@ removeRedEye =
         ]
 
 
-{-| remove road -}
+{-| Remove Road -}
 removeRoad : Icon
 removeRoad =
     I.fromNodes
@@ -19930,7 +19930,7 @@ removeRoad =
         ]
 
 
-{-| remove shopping cart -}
+{-| Remove Shopping Cart -}
 removeShoppingCart : Icon
 removeShoppingCart =
     I.fromNodes
@@ -19942,7 +19942,7 @@ removeShoppingCart =
         ]
 
 
-{-| reorder -}
+{-| Reorder -}
 reorder : Icon
 reorder =
     I.fromNodes
@@ -19954,7 +19954,7 @@ reorder =
         ]
 
 
-{-| repartition -}
+{-| Repartition -}
 repartition : Icon
 repartition =
     I.fromNodes
@@ -19966,7 +19966,7 @@ repartition =
         ]
 
 
-{-| repeat -}
+{-| Repeat -}
 repeat : Icon
 repeat =
     I.fromNodes
@@ -19978,7 +19978,7 @@ repeat =
         ]
 
 
-{-| repeat on -}
+{-| Repeat On -}
 repeatOn : Icon
 repeatOn =
     I.fromNodes
@@ -19990,7 +19990,7 @@ repeatOn =
         ]
 
 
-{-| repeat one -}
+{-| Repeat One -}
 repeatOne : Icon
 repeatOne =
     I.fromNodes
@@ -20002,7 +20002,7 @@ repeatOne =
         ]
 
 
-{-| repeat one on -}
+{-| Repeat One On -}
 repeatOneOn : Icon
 repeatOneOn =
     I.fromNodes
@@ -20014,7 +20014,7 @@ repeatOneOn =
         ]
 
 
-{-| replay -}
+{-| Replay -}
 replay : Icon
 replay =
     I.fromNodes
@@ -20026,7 +20026,7 @@ replay =
         ]
 
 
-{-| replay 10 -}
+{-| Replay 10 -}
 replay10 : Icon
 replay10 =
     I.fromNodes
@@ -20038,7 +20038,7 @@ replay10 =
         ]
 
 
-{-| replay 30 -}
+{-| Replay 30 -}
 replay30 : Icon
 replay30 =
     I.fromNodes
@@ -20050,7 +20050,7 @@ replay30 =
         ]
 
 
-{-| replay 5 -}
+{-| Replay 5 -}
 replay5 : Icon
 replay5 =
     I.fromNodes
@@ -20062,7 +20062,7 @@ replay5 =
         ]
 
 
-{-| replay circle filled -}
+{-| Replay Circle Filled -}
 replayCircleFilled : Icon
 replayCircleFilled =
     I.fromNodes
@@ -20074,7 +20074,7 @@ replayCircleFilled =
         ]
 
 
-{-| reply -}
+{-| Reply -}
 reply : Icon
 reply =
     I.fromNodes
@@ -20086,7 +20086,7 @@ reply =
         ]
 
 
-{-| reply all -}
+{-| Reply All -}
 replyAll : Icon
 replyAll =
     I.fromNodes
@@ -20098,7 +20098,7 @@ replyAll =
         ]
 
 
-{-| report -}
+{-| Report -}
 report : Icon
 report =
     I.fromNodes
@@ -20110,7 +20110,7 @@ report =
         ]
 
 
-{-| report gmailerrorred -}
+{-| Report Gmailerrorred -}
 reportGmailerrorred : Icon
 reportGmailerrorred =
     I.fromNodes
@@ -20128,7 +20128,7 @@ reportGmailerrorred =
         ]
 
 
-{-| report off -}
+{-| Report Off -}
 reportOff : Icon
 reportOff =
     I.fromNodes
@@ -20140,7 +20140,7 @@ reportOff =
         ]
 
 
-{-| report problem -}
+{-| Report Problem -}
 reportProblem : Icon
 reportProblem =
     I.fromNodes
@@ -20152,7 +20152,7 @@ reportProblem =
         ]
 
 
-{-| request page -}
+{-| Request Page -}
 requestPage : Icon
 requestPage =
     I.fromNodes
@@ -20164,7 +20164,7 @@ requestPage =
         ]
 
 
-{-| request quote -}
+{-| Request Quote -}
 requestQuote : Icon
 requestQuote =
     I.fromNodes
@@ -20176,7 +20176,7 @@ requestQuote =
         ]
 
 
-{-| reset tv -}
+{-| Reset Tv -}
 resetTv : Icon
 resetTv =
     I.fromNodes
@@ -20188,7 +20188,7 @@ resetTv =
         ]
 
 
-{-| restart alt -}
+{-| Restart Alt -}
 restartAlt : Icon
 restartAlt =
     I.fromNodes
@@ -20200,7 +20200,7 @@ restartAlt =
         ]
 
 
-{-| restaurant -}
+{-| Restaurant -}
 restaurant : Icon
 restaurant =
     I.fromNodes
@@ -20212,7 +20212,7 @@ restaurant =
         ]
 
 
-{-| restaurant menu -}
+{-| Restaurant Menu -}
 restaurantMenu : Icon
 restaurantMenu =
     I.fromNodes
@@ -20224,7 +20224,7 @@ restaurantMenu =
         ]
 
 
-{-| restore -}
+{-| Restore -}
 restore : Icon
 restore =
     I.fromNodes
@@ -20236,7 +20236,7 @@ restore =
         ]
 
 
-{-| restore from trash -}
+{-| Restore From Trash -}
 restoreFromTrash : Icon
 restoreFromTrash =
     I.fromNodes
@@ -20248,7 +20248,7 @@ restoreFromTrash =
         ]
 
 
-{-| restore page -}
+{-| Restore Page -}
 restorePage : Icon
 restorePage =
     I.fromNodes
@@ -20260,7 +20260,7 @@ restorePage =
         ]
 
 
-{-| reviews -}
+{-| Reviews -}
 reviews : Icon
 reviews =
     I.fromNodes
@@ -20272,7 +20272,7 @@ reviews =
         ]
 
 
-{-| rice bowl -}
+{-| Rice Bowl -}
 riceBowl : Icon
 riceBowl =
     I.fromNodes
@@ -20284,7 +20284,7 @@ riceBowl =
         ]
 
 
-{-| ring volume -}
+{-| Ring Volume -}
 ringVolume : Icon
 ringVolume =
     I.fromNodes
@@ -20296,7 +20296,7 @@ ringVolume =
         ]
 
 
-{-| rocket -}
+{-| Rocket -}
 rocket : Icon
 rocket =
     I.fromNodes
@@ -20308,7 +20308,7 @@ rocket =
         ]
 
 
-{-| rocket launch -}
+{-| Rocket Launch -}
 rocketLaunch : Icon
 rocketLaunch =
     I.fromNodes
@@ -20320,7 +20320,7 @@ rocketLaunch =
         ]
 
 
-{-| roller shades -}
+{-| Roller Shades -}
 rollerShades : Icon
 rollerShades =
     I.fromNodes
@@ -20332,7 +20332,7 @@ rollerShades =
         ]
 
 
-{-| roller shades closed -}
+{-| Roller Shades Closed -}
 rollerShadesClosed : Icon
 rollerShadesClosed =
     I.fromNodes
@@ -20344,7 +20344,7 @@ rollerShadesClosed =
         ]
 
 
-{-| roller skating -}
+{-| Roller Skating -}
 rollerSkating : Icon
 rollerSkating =
     I.fromNodes
@@ -20356,7 +20356,7 @@ rollerSkating =
         ]
 
 
-{-| roofing -}
+{-| Roofing -}
 roofing : Icon
 roofing =
     I.fromNodes
@@ -20368,7 +20368,7 @@ roofing =
         ]
 
 
-{-| room -}
+{-| Room -}
 room : Icon
 room =
     I.fromNodes
@@ -20380,7 +20380,7 @@ room =
         ]
 
 
-{-| room preferences -}
+{-| Room Preferences -}
 roomPreferences : Icon
 roomPreferences =
     I.fromNodes
@@ -20392,7 +20392,7 @@ roomPreferences =
         ]
 
 
-{-| room service -}
+{-| Room Service -}
 roomService : Icon
 roomService =
     I.fromNodes
@@ -20404,7 +20404,7 @@ roomService =
         ]
 
 
-{-| rotate 90 degrees ccw -}
+{-| Rotate 90 Degrees Ccw -}
 rotate90DegreesCcw : Icon
 rotate90DegreesCcw =
     I.fromNodes
@@ -20416,7 +20416,7 @@ rotate90DegreesCcw =
         ]
 
 
-{-| rotate 90 degrees cw -}
+{-| Rotate 90 Degrees Cw -}
 rotate90DegreesCw : Icon
 rotate90DegreesCw =
     I.fromNodes
@@ -20433,7 +20433,7 @@ rotate90DegreesCw =
         ]
 
 
-{-| rotate left -}
+{-| Rotate Left -}
 rotateLeft : Icon
 rotateLeft =
     I.fromNodes
@@ -20445,7 +20445,7 @@ rotateLeft =
         ]
 
 
-{-| rotate right -}
+{-| Rotate Right -}
 rotateRight : Icon
 rotateRight =
     I.fromNodes
@@ -20457,7 +20457,7 @@ rotateRight =
         ]
 
 
-{-| roundabout left -}
+{-| Roundabout Left -}
 roundaboutLeft : Icon
 roundaboutLeft =
     I.fromNodes
@@ -20469,7 +20469,7 @@ roundaboutLeft =
         ]
 
 
-{-| roundabout right -}
+{-| Roundabout Right -}
 roundaboutRight : Icon
 roundaboutRight =
     I.fromNodes
@@ -20481,7 +20481,7 @@ roundaboutRight =
         ]
 
 
-{-| rounded corner -}
+{-| Rounded Corner -}
 roundedCorner : Icon
 roundedCorner =
     I.fromNodes
@@ -20493,7 +20493,7 @@ roundedCorner =
         ]
 
 
-{-| route -}
+{-| Route -}
 route : Icon
 route =
     I.fromNodes
@@ -20505,7 +20505,7 @@ route =
         ]
 
 
-{-| router -}
+{-| Router -}
 router : Icon
 router =
     I.fromNodes
@@ -20517,7 +20517,7 @@ router =
         ]
 
 
-{-| rowing -}
+{-| Rowing -}
 rowing : Icon
 rowing =
     I.fromNodes
@@ -20529,7 +20529,7 @@ rowing =
         ]
 
 
-{-| rss feed -}
+{-| Rss Feed -}
 rssFeed : Icon
 rssFeed =
     I.fromNodes
@@ -20542,7 +20542,7 @@ rssFeed =
         ]
 
 
-{-| rsvp -}
+{-| Rsvp -}
 rsvp : Icon
 rsvp =
     I.fromNodes
@@ -20554,7 +20554,7 @@ rsvp =
         ]
 
 
-{-| rtt -}
+{-| Rtt -}
 rtt : Icon
 rtt =
     I.fromNodes
@@ -20566,7 +20566,7 @@ rtt =
         ]
 
 
-{-| rule -}
+{-| Rule -}
 rule : Icon
 rule =
     I.fromNodes
@@ -20578,7 +20578,7 @@ rule =
         ]
 
 
-{-| rule folder -}
+{-| Rule Folder -}
 ruleFolder : Icon
 ruleFolder =
     I.fromNodes
@@ -20590,7 +20590,7 @@ ruleFolder =
         ]
 
 
-{-| run circle -}
+{-| Run Circle -}
 runCircle : Icon
 runCircle =
     I.fromNodes
@@ -20602,7 +20602,7 @@ runCircle =
         ]
 
 
-{-| running with errors -}
+{-| Running With Errors -}
 runningWithErrors : Icon
 runningWithErrors =
     I.fromNodes
@@ -20614,7 +20614,7 @@ runningWithErrors =
         ]
 
 
-{-| rv hookup -}
+{-| Rv Hookup -}
 rvHookup : Icon
 rvHookup =
     I.fromNodes
@@ -20626,7 +20626,7 @@ rvHookup =
         ]
 
 
-{-| safety check -}
+{-| Safety Check -}
 safetyCheck : Icon
 safetyCheck =
     I.fromNodes
@@ -20638,7 +20638,7 @@ safetyCheck =
         ]
 
 
-{-| safety divider -}
+{-| Safety Divider -}
 safetyDivider : Icon
 safetyDivider =
     I.fromNodes
@@ -20650,7 +20650,7 @@ safetyDivider =
         ]
 
 
-{-| sailing -}
+{-| Sailing -}
 sailing : Icon
 sailing =
     I.fromNodes
@@ -20662,7 +20662,7 @@ sailing =
         ]
 
 
-{-| sanitizer -}
+{-| Sanitizer -}
 sanitizer : Icon
 sanitizer =
     I.fromNodes
@@ -20674,7 +20674,7 @@ sanitizer =
         ]
 
 
-{-| satellite -}
+{-| Satellite -}
 satellite : Icon
 satellite =
     I.fromNodes
@@ -20686,7 +20686,7 @@ satellite =
         ]
 
 
-{-| satellite alt -}
+{-| Satellite Alt -}
 satelliteAlt : Icon
 satelliteAlt =
     I.fromNodes
@@ -20698,7 +20698,7 @@ satelliteAlt =
         ]
 
 
-{-| save -}
+{-| Save -}
 save : Icon
 save =
     I.fromNodes
@@ -20710,7 +20710,7 @@ save =
         ]
 
 
-{-| save all -}
+{-| Save All -}
 saveAll : Icon
 saveAll =
     I.fromNodes
@@ -20729,7 +20729,7 @@ saveAll =
         ]
 
 
-{-| save alt -}
+{-| Save Alt -}
 saveAlt : Icon
 saveAlt =
     I.fromNodes
@@ -20741,7 +20741,7 @@ saveAlt =
         ]
 
 
-{-| save as -}
+{-| Save As -}
 saveAs : Icon
 saveAs =
     I.fromNodes
@@ -20753,7 +20753,7 @@ saveAs =
         ]
 
 
-{-| saved search -}
+{-| Saved Search -}
 savedSearch : Icon
 savedSearch =
     I.fromNodes
@@ -20770,7 +20770,7 @@ savedSearch =
         ]
 
 
-{-| savings -}
+{-| Savings -}
 savings : Icon
 savings =
     I.fromNodes
@@ -20782,7 +20782,7 @@ savings =
         ]
 
 
-{-| scale -}
+{-| Scale -}
 scale : Icon
 scale =
     I.fromNodes
@@ -20794,7 +20794,7 @@ scale =
         ]
 
 
-{-| scanner -}
+{-| Scanner -}
 scanner : Icon
 scanner =
     I.fromNodes
@@ -20806,7 +20806,7 @@ scanner =
         ]
 
 
-{-| scatter plot -}
+{-| Scatter Plot -}
 scatterPlot : Icon
 scatterPlot =
     I.fromNodes
@@ -20816,7 +20816,7 @@ scatterPlot =
         ]
 
 
-{-| schedule -}
+{-| Schedule -}
 schedule : Icon
 schedule =
     I.fromNodes
@@ -20828,7 +20828,7 @@ schedule =
         ]
 
 
-{-| schedule send -}
+{-| Schedule Send -}
 scheduleSend : Icon
 scheduleSend =
     I.fromNodes
@@ -20845,7 +20845,7 @@ scheduleSend =
         ]
 
 
-{-| schema -}
+{-| Schema -}
 schema : Icon
 schema =
     I.fromNodes
@@ -20857,7 +20857,7 @@ schema =
         ]
 
 
-{-| school -}
+{-| School -}
 school : Icon
 school =
     I.fromNodes
@@ -20869,7 +20869,7 @@ school =
         ]
 
 
-{-| science -}
+{-| Science -}
 science : Icon
 science =
     I.fromNodes
@@ -20881,7 +20881,7 @@ science =
         ]
 
 
-{-| score -}
+{-| Score -}
 score : Icon
 score =
     I.fromNodes
@@ -20893,7 +20893,7 @@ score =
         ]
 
 
-{-| scoreboard -}
+{-| Scoreboard -}
 scoreboard : Icon
 scoreboard =
     I.fromNodes
@@ -20905,7 +20905,7 @@ scoreboard =
         ]
 
 
-{-| screen lock landscape -}
+{-| Screen Lock Landscape -}
 screenLockLandscape : Icon
 screenLockLandscape =
     I.fromNodes
@@ -20917,7 +20917,7 @@ screenLockLandscape =
         ]
 
 
-{-| screen lock portrait -}
+{-| Screen Lock Portrait -}
 screenLockPortrait : Icon
 screenLockPortrait =
     I.fromNodes
@@ -20934,7 +20934,7 @@ screenLockPortrait =
         ]
 
 
-{-| screen lock rotation -}
+{-| Screen Lock Rotation -}
 screenLockRotation : Icon
 screenLockRotation =
     I.fromNodes
@@ -20951,7 +20951,7 @@ screenLockRotation =
         ]
 
 
-{-| screen rotation -}
+{-| Screen Rotation -}
 screenRotation : Icon
 screenRotation =
     I.fromNodes
@@ -20963,7 +20963,7 @@ screenRotation =
         ]
 
 
-{-| screen rotation alt -}
+{-| Screen Rotation Alt -}
 screenRotationAlt : Icon
 screenRotationAlt =
     I.fromNodes
@@ -20975,7 +20975,7 @@ screenRotationAlt =
         ]
 
 
-{-| screen search desktop -}
+{-| Screen Search Desktop -}
 screenSearchDesktop : Icon
 screenSearchDesktop =
     I.fromNodes
@@ -20988,7 +20988,7 @@ screenSearchDesktop =
         ]
 
 
-{-| screen share -}
+{-| Screen Share -}
 screenShare : Icon
 screenShare =
     I.fromNodes
@@ -21000,7 +21000,7 @@ screenShare =
         ]
 
 
-{-| screenshot -}
+{-| Screenshot -}
 screenshot : Icon
 screenshot =
     I.fromNodes
@@ -21012,7 +21012,7 @@ screenshot =
         ]
 
 
-{-| screenshot monitor -}
+{-| Screenshot Monitor -}
 screenshotMonitor : Icon
 screenshotMonitor =
     I.fromNodes
@@ -21029,7 +21029,7 @@ screenshotMonitor =
         ]
 
 
-{-| scuba diving -}
+{-| Scuba Diving -}
 scubaDiving : Icon
 scubaDiving =
     I.fromNodes
@@ -21041,7 +21041,7 @@ scubaDiving =
         ]
 
 
-{-| sd -}
+{-| Sd -}
 sd : Icon
 sd =
     I.fromNodes
@@ -21053,7 +21053,7 @@ sd =
         ]
 
 
-{-| sd card -}
+{-| Sd Card -}
 sdCard : Icon
 sdCard =
     I.fromNodes
@@ -21065,7 +21065,7 @@ sdCard =
         ]
 
 
-{-| sd card alert -}
+{-| Sd Card Alert -}
 sdCardAlert : Icon
 sdCardAlert =
     I.fromNodes
@@ -21077,7 +21077,7 @@ sdCardAlert =
         ]
 
 
-{-| sd storage -}
+{-| Sd Storage -}
 sdStorage : Icon
 sdStorage =
     I.fromNodes
@@ -21089,7 +21089,7 @@ sdStorage =
         ]
 
 
-{-| search -}
+{-| Search -}
 search : Icon
 search =
     I.fromNodes
@@ -21101,7 +21101,7 @@ search =
         ]
 
 
-{-| search off -}
+{-| Search Off -}
 searchOff : Icon
 searchOff =
     I.fromNodes
@@ -21118,7 +21118,7 @@ searchOff =
         ]
 
 
-{-| security -}
+{-| Security -}
 security : Icon
 security =
     I.fromNodes
@@ -21130,7 +21130,7 @@ security =
         ]
 
 
-{-| security update -}
+{-| Security Update -}
 securityUpdate : Icon
 securityUpdate =
     I.fromNodes
@@ -21142,7 +21142,7 @@ securityUpdate =
         ]
 
 
-{-| security update good -}
+{-| Security Update Good -}
 securityUpdateGood : Icon
 securityUpdateGood =
     I.fromNodes
@@ -21154,7 +21154,7 @@ securityUpdateGood =
         ]
 
 
-{-| security update warning -}
+{-| Security Update Warning -}
 securityUpdateWarning : Icon
 securityUpdateWarning =
     I.fromNodes
@@ -21172,7 +21172,7 @@ securityUpdateWarning =
         ]
 
 
-{-| segment -}
+{-| Segment -}
 segment : Icon
 segment =
     I.fromNodes
@@ -21184,7 +21184,7 @@ segment =
         ]
 
 
-{-| select all -}
+{-| Select All -}
 selectAll : Icon
 selectAll =
     I.fromNodes
@@ -21196,7 +21196,7 @@ selectAll =
         ]
 
 
-{-| self improvement -}
+{-| Self Improvement -}
 selfImprovement : Icon
 selfImprovement =
     I.fromNodes
@@ -21209,7 +21209,7 @@ selfImprovement =
         ]
 
 
-{-| sell -}
+{-| Sell -}
 sell : Icon
 sell =
     I.fromNodes
@@ -21221,7 +21221,7 @@ sell =
         ]
 
 
-{-| send -}
+{-| Send -}
 send : Icon
 send =
     I.fromNodes
@@ -21233,7 +21233,7 @@ send =
         ]
 
 
-{-| send and archive -}
+{-| Send And Archive -}
 sendAndArchive : Icon
 sendAndArchive =
     I.fromNodes
@@ -21250,7 +21250,7 @@ sendAndArchive =
         ]
 
 
-{-| send time extension -}
+{-| Send Time Extension -}
 sendTimeExtension : Icon
 sendTimeExtension =
     I.fromNodes
@@ -21263,7 +21263,7 @@ sendTimeExtension =
         ]
 
 
-{-| send to mobile -}
+{-| Send To Mobile -}
 sendToMobile : Icon
 sendToMobile =
     I.fromNodes
@@ -21280,7 +21280,7 @@ sendToMobile =
         ]
 
 
-{-| sensor door -}
+{-| Sensor Door -}
 sensorDoor : Icon
 sensorDoor =
     I.fromNodes
@@ -21292,7 +21292,7 @@ sensorDoor =
         ]
 
 
-{-| sensor occupied -}
+{-| Sensor Occupied -}
 sensorOccupied : Icon
 sensorOccupied =
     I.fromNodes
@@ -21304,7 +21304,7 @@ sensorOccupied =
         ]
 
 
-{-| sensor window -}
+{-| Sensor Window -}
 sensorWindow : Icon
 sensorWindow =
     I.fromNodes
@@ -21316,7 +21316,7 @@ sensorWindow =
         ]
 
 
-{-| sensors -}
+{-| Sensors -}
 sensors : Icon
 sensors =
     I.fromNodes
@@ -21328,7 +21328,7 @@ sensors =
         ]
 
 
-{-| sensors off -}
+{-| Sensors Off -}
 sensorsOff : Icon
 sensorsOff =
     I.fromNodes
@@ -21340,7 +21340,7 @@ sensorsOff =
         ]
 
 
-{-| sentiment dissatisfied -}
+{-| Sentiment Dissatisfied -}
 sentimentDissatisfied : Icon
 sentimentDissatisfied =
     I.fromNodes
@@ -21354,7 +21354,7 @@ sentimentDissatisfied =
         ]
 
 
-{-| sentiment neutral -}
+{-| Sentiment Neutral -}
 sentimentNeutral : Icon
 sentimentNeutral =
     I.fromNodes
@@ -21373,7 +21373,7 @@ sentimentNeutral =
         ]
 
 
-{-| sentiment satisfied -}
+{-| Sentiment Satisfied -}
 sentimentSatisfied : Icon
 sentimentSatisfied =
     I.fromNodes
@@ -21387,7 +21387,7 @@ sentimentSatisfied =
         ]
 
 
-{-| sentiment satisfied alt -}
+{-| Sentiment Satisfied Alt -}
 sentimentSatisfiedAlt : Icon
 sentimentSatisfiedAlt =
     I.fromNodes
@@ -21401,7 +21401,7 @@ sentimentSatisfiedAlt =
         ]
 
 
-{-| sentiment slightly dissatisfied -}
+{-| Sentiment Slightly Dissatisfied -}
 sentimentSlightlyDissatisfied : Icon
 sentimentSlightlyDissatisfied =
     I.fromNodes
@@ -21415,7 +21415,7 @@ sentimentSlightlyDissatisfied =
         ]
 
 
-{-| sentiment very dissatisfied -}
+{-| Sentiment Very Dissatisfied -}
 sentimentVeryDissatisfied : Icon
 sentimentVeryDissatisfied =
     I.fromNodes
@@ -21427,7 +21427,7 @@ sentimentVeryDissatisfied =
         ]
 
 
-{-| sentiment very satisfied -}
+{-| Sentiment Very Satisfied -}
 sentimentVerySatisfied : Icon
 sentimentVerySatisfied =
     I.fromNodes
@@ -21439,7 +21439,7 @@ sentimentVerySatisfied =
         ]
 
 
-{-| set meal -}
+{-| Set Meal -}
 setMeal : Icon
 setMeal =
     I.fromNodes
@@ -21451,7 +21451,7 @@ setMeal =
         ]
 
 
-{-| settings -}
+{-| Settings -}
 settings : Icon
 settings =
     I.fromNodes
@@ -21463,7 +21463,7 @@ settings =
         ]
 
 
-{-| settings accessibility -}
+{-| Settings Accessibility -}
 settingsAccessibility : Icon
 settingsAccessibility =
     I.fromNodes
@@ -21475,7 +21475,7 @@ settingsAccessibility =
         ]
 
 
-{-| settings applications -}
+{-| Settings Applications -}
 settingsApplications : Icon
 settingsApplications =
     I.fromNodes
@@ -21488,7 +21488,7 @@ settingsApplications =
         ]
 
 
-{-| settings backup restore -}
+{-| Settings Backup Restore -}
 settingsBackupRestore : Icon
 settingsBackupRestore =
     I.fromNodes
@@ -21500,7 +21500,7 @@ settingsBackupRestore =
         ]
 
 
-{-| settings bluetooth -}
+{-| Settings Bluetooth -}
 settingsBluetooth : Icon
 settingsBluetooth =
     I.fromNodes
@@ -21515,7 +21515,7 @@ settingsBluetooth =
         ]
 
 
-{-| settings brightness -}
+{-| Settings Brightness -}
 settingsBrightness : Icon
 settingsBrightness =
     I.fromNodes
@@ -21527,7 +21527,7 @@ settingsBrightness =
         ]
 
 
-{-| settings cell -}
+{-| Settings Cell -}
 settingsCell : Icon
 settingsCell =
     I.fromNodes
@@ -21539,7 +21539,7 @@ settingsCell =
         ]
 
 
-{-| settings ethernet -}
+{-| Settings Ethernet -}
 settingsEthernet : Icon
 settingsEthernet =
     I.fromNodes
@@ -21551,7 +21551,7 @@ settingsEthernet =
         ]
 
 
-{-| settings input antenna -}
+{-| Settings Input Antenna -}
 settingsInputAntenna : Icon
 settingsInputAntenna =
     I.fromNodes
@@ -21563,7 +21563,7 @@ settingsInputAntenna =
         ]
 
 
-{-| settings input component -}
+{-| Settings Input Component -}
 settingsInputComponent : Icon
 settingsInputComponent =
     I.fromNodes
@@ -21575,7 +21575,7 @@ settingsInputComponent =
         ]
 
 
-{-| settings input composite -}
+{-| Settings Input Composite -}
 settingsInputComposite : Icon
 settingsInputComposite =
     I.fromNodes
@@ -21587,7 +21587,7 @@ settingsInputComposite =
         ]
 
 
-{-| settings input hdmi -}
+{-| Settings Input Hdmi -}
 settingsInputHdmi : Icon
 settingsInputHdmi =
     I.fromNodes
@@ -21599,7 +21599,7 @@ settingsInputHdmi =
         ]
 
 
-{-| settings input svideo -}
+{-| Settings Input Svideo -}
 settingsInputSvideo : Icon
 settingsInputSvideo =
     I.fromNodes
@@ -21620,7 +21620,7 @@ settingsInputSvideo =
         ]
 
 
-{-| settings overscan -}
+{-| Settings Overscan -}
 settingsOverscan : Icon
 settingsOverscan =
     I.fromNodes
@@ -21632,7 +21632,7 @@ settingsOverscan =
         ]
 
 
-{-| settings phone -}
+{-| Settings Phone -}
 settingsPhone : Icon
 settingsPhone =
     I.fromNodes
@@ -21647,7 +21647,7 @@ settingsPhone =
         ]
 
 
-{-| settings power -}
+{-| Settings Power -}
 settingsPower : Icon
 settingsPower =
     I.fromNodes
@@ -21659,7 +21659,7 @@ settingsPower =
         ]
 
 
-{-| settings remote -}
+{-| Settings Remote -}
 settingsRemote : Icon
 settingsRemote =
     I.fromNodes
@@ -21676,7 +21676,7 @@ settingsRemote =
         ]
 
 
-{-| settings suggest -}
+{-| Settings Suggest -}
 settingsSuggest : Icon
 settingsSuggest =
     I.fromNodes
@@ -21688,7 +21688,7 @@ settingsSuggest =
         ]
 
 
-{-| settings system daydream -}
+{-| Settings System Daydream -}
 settingsSystemDaydream : Icon
 settingsSystemDaydream =
     I.fromNodes
@@ -21700,7 +21700,7 @@ settingsSystemDaydream =
         ]
 
 
-{-| settings voice -}
+{-| Settings Voice -}
 settingsVoice : Icon
 settingsVoice =
     I.fromNodes
@@ -21712,7 +21712,7 @@ settingsVoice =
         ]
 
 
-{-| severe cold -}
+{-| Severe Cold -}
 severeCold : Icon
 severeCold =
     I.fromNodes
@@ -21730,7 +21730,7 @@ severeCold =
         ]
 
 
-{-| shape line -}
+{-| Shape Line -}
 shapeLine : Icon
 shapeLine =
     I.fromNodes
@@ -21747,7 +21747,7 @@ shapeLine =
         ]
 
 
-{-| share -}
+{-| Share -}
 share : Icon
 share =
     I.fromNodes
@@ -21759,7 +21759,7 @@ share =
         ]
 
 
-{-| share arrival time -}
+{-| Share Arrival Time -}
 shareArrivalTime : Icon
 shareArrivalTime =
     I.fromNodes
@@ -21771,7 +21771,7 @@ shareArrivalTime =
         ]
 
 
-{-| share location -}
+{-| Share Location -}
 shareLocation : Icon
 shareLocation =
     I.fromNodes
@@ -21788,7 +21788,7 @@ shareLocation =
         ]
 
 
-{-| shield -}
+{-| Shield -}
 shield : Icon
 shield =
     I.fromNodes
@@ -21800,7 +21800,7 @@ shield =
         ]
 
 
-{-| shield moon -}
+{-| Shield Moon -}
 shieldMoon : Icon
 shieldMoon =
     I.fromNodes
@@ -21812,7 +21812,7 @@ shieldMoon =
         ]
 
 
-{-| shop -}
+{-| Shop -}
 shop : Icon
 shop =
     I.fromNodes
@@ -21824,7 +21824,7 @@ shop =
         ]
 
 
-{-| shop 2 -}
+{-| Shop 2 -}
 shop2 : Icon
 shop2 =
     I.fromNodes
@@ -21841,7 +21841,7 @@ shop2 =
         ]
 
 
-{-| shop two -}
+{-| Shop Two -}
 shopTwo : Icon
 shopTwo =
     I.fromNodes
@@ -21853,7 +21853,7 @@ shopTwo =
         ]
 
 
-{-| shopify -}
+{-| Shopify -}
 shopify : Icon
 shopify =
     I.fromNodes
@@ -21865,7 +21865,7 @@ shopify =
         ]
 
 
-{-| shopping bag -}
+{-| Shopping Bag -}
 shoppingBag : Icon
 shoppingBag =
     I.fromNodes
@@ -21877,7 +21877,7 @@ shoppingBag =
         ]
 
 
-{-| shopping basket -}
+{-| Shopping Basket -}
 shoppingBasket : Icon
 shoppingBasket =
     I.fromNodes
@@ -21889,7 +21889,7 @@ shoppingBasket =
         ]
 
 
-{-| shopping cart -}
+{-| Shopping Cart -}
 shoppingCart : Icon
 shoppingCart =
     I.fromNodes
@@ -21901,7 +21901,7 @@ shoppingCart =
         ]
 
 
-{-| shopping cart checkout -}
+{-| Shopping Cart Checkout -}
 shoppingCartCheckout : Icon
 shoppingCartCheckout =
     I.fromNodes
@@ -21913,7 +21913,7 @@ shoppingCartCheckout =
         ]
 
 
-{-| short text -}
+{-| Short Text -}
 shortText : Icon
 shortText =
     I.fromNodes
@@ -21925,7 +21925,7 @@ shortText =
         ]
 
 
-{-| shortcut -}
+{-| Shortcut -}
 shortcut : Icon
 shortcut =
     I.fromNodes
@@ -21937,7 +21937,7 @@ shortcut =
         ]
 
 
-{-| show chart -}
+{-| Show Chart -}
 showChart : Icon
 showChart =
     I.fromNodes
@@ -21949,7 +21949,7 @@ showChart =
         ]
 
 
-{-| shower -}
+{-| Shower -}
 shower : Icon
 shower =
     I.fromNodes
@@ -21967,7 +21967,7 @@ shower =
         ]
 
 
-{-| shuffle -}
+{-| Shuffle -}
 shuffle : Icon
 shuffle =
     I.fromNodes
@@ -21979,7 +21979,7 @@ shuffle =
         ]
 
 
-{-| shuffle on -}
+{-| Shuffle On -}
 shuffleOn : Icon
 shuffleOn =
     I.fromNodes
@@ -21991,7 +21991,7 @@ shuffleOn =
         ]
 
 
-{-| shutter speed -}
+{-| Shutter Speed -}
 shutterSpeed : Icon
 shutterSpeed =
     I.fromNodes
@@ -22003,7 +22003,7 @@ shutterSpeed =
         ]
 
 
-{-| sick -}
+{-| Sick -}
 sick : Icon
 sick =
     I.fromNodes
@@ -22015,7 +22015,7 @@ sick =
         ]
 
 
-{-| sign language -}
+{-| Sign Language -}
 signLanguage : Icon
 signLanguage =
     I.fromNodes
@@ -22027,7 +22027,7 @@ signLanguage =
         ]
 
 
-{-| signal cellular 0 bar -}
+{-| Signal Cellular 0 Bar -}
 signalCellular0Bar : Icon
 signalCellular0Bar =
     I.fromNodes
@@ -22039,7 +22039,7 @@ signalCellular0Bar =
         ]
 
 
-{-| signal cellular 1 bar -}
+{-| Signal Cellular 1 Bar -}
 signalCellular1Bar : Icon
 signalCellular1Bar =
     I.fromNodes
@@ -22053,7 +22053,7 @@ signalCellular1Bar =
         ]
 
 
-{-| signal cellular 2 bar -}
+{-| Signal Cellular 2 Bar -}
 signalCellular2Bar : Icon
 signalCellular2Bar =
     I.fromNodes
@@ -22067,7 +22067,7 @@ signalCellular2Bar =
         ]
 
 
-{-| signal cellular 3 bar -}
+{-| Signal Cellular 3 Bar -}
 signalCellular3Bar : Icon
 signalCellular3Bar =
     I.fromNodes
@@ -22081,7 +22081,7 @@ signalCellular3Bar =
         ]
 
 
-{-| signal cellular 4 bar -}
+{-| Signal Cellular 4 Bar -}
 signalCellular4Bar : Icon
 signalCellular4Bar =
     I.fromNodes
@@ -22093,7 +22093,7 @@ signalCellular4Bar =
         ]
 
 
-{-| signal cellular alt -}
+{-| Signal Cellular Alt -}
 signalCellularAlt : Icon
 signalCellularAlt =
     I.fromNodes
@@ -22105,7 +22105,7 @@ signalCellularAlt =
         ]
 
 
-{-| signal cellular alt 1 bar -}
+{-| Signal Cellular Alt 1 Bar -}
 signalCellularAlt1Bar : Icon
 signalCellularAlt1Bar =
     I.fromNodes
@@ -22117,7 +22117,7 @@ signalCellularAlt1Bar =
         ]
 
 
-{-| signal cellular alt 2 bar -}
+{-| Signal Cellular Alt 2 Bar -}
 signalCellularAlt2Bar : Icon
 signalCellularAlt2Bar =
     I.fromNodes
@@ -22129,7 +22129,7 @@ signalCellularAlt2Bar =
         ]
 
 
-{-| signal cellular connected no internet 0 bar -}
+{-| Signal Cellular Connected No Internet 0 Bar -}
 signalCellularConnectedNoInternet0Bar : Icon
 signalCellularConnectedNoInternet0Bar =
     I.fromNodes
@@ -22141,7 +22141,7 @@ signalCellularConnectedNoInternet0Bar =
         ]
 
 
-{-| signal cellular connected no internet 1 bar -}
+{-| Signal Cellular Connected No Internet 1 Bar -}
 signalCellularConnectedNoInternet1Bar : Icon
 signalCellularConnectedNoInternet1Bar =
     I.fromNodes
@@ -22159,7 +22159,7 @@ signalCellularConnectedNoInternet1Bar =
         ]
 
 
-{-| signal cellular connected no internet 2 bar -}
+{-| Signal Cellular Connected No Internet 2 Bar -}
 signalCellularConnectedNoInternet2Bar : Icon
 signalCellularConnectedNoInternet2Bar =
     I.fromNodes
@@ -22177,7 +22177,7 @@ signalCellularConnectedNoInternet2Bar =
         ]
 
 
-{-| signal cellular connected no internet 3 bar -}
+{-| Signal Cellular Connected No Internet 3 Bar -}
 signalCellularConnectedNoInternet3Bar : Icon
 signalCellularConnectedNoInternet3Bar =
     I.fromNodes
@@ -22195,7 +22195,7 @@ signalCellularConnectedNoInternet3Bar =
         ]
 
 
-{-| signal cellular connected no internet 4 bar -}
+{-| Signal Cellular Connected No Internet 4 Bar -}
 signalCellularConnectedNoInternet4Bar : Icon
 signalCellularConnectedNoInternet4Bar =
     I.fromNodes
@@ -22207,7 +22207,7 @@ signalCellularConnectedNoInternet4Bar =
         ]
 
 
-{-| signal cellular no sim -}
+{-| Signal Cellular No Sim -}
 signalCellularNoSim : Icon
 signalCellularNoSim =
     I.fromNodes
@@ -22219,7 +22219,7 @@ signalCellularNoSim =
         ]
 
 
-{-| signal cellular nodata -}
+{-| Signal Cellular Nodata -}
 signalCellularNodata : Icon
 signalCellularNodata =
     I.fromNodes
@@ -22231,7 +22231,7 @@ signalCellularNodata =
         ]
 
 
-{-| signal cellular null -}
+{-| Signal Cellular Null -}
 signalCellularNull : Icon
 signalCellularNull =
     I.fromNodes
@@ -22243,7 +22243,7 @@ signalCellularNull =
         ]
 
 
-{-| signal cellular off -}
+{-| Signal Cellular Off -}
 signalCellularOff : Icon
 signalCellularOff =
     I.fromNodes
@@ -22255,7 +22255,7 @@ signalCellularOff =
         ]
 
 
-{-| signal wifi 0 bar -}
+{-| Signal Wifi 0 Bar -}
 signalWifi0Bar : Icon
 signalWifi0Bar =
     I.fromNodes
@@ -22267,7 +22267,7 @@ signalWifi0Bar =
         ]
 
 
-{-| signal wifi 1 bar -}
+{-| Signal Wifi 1 Bar -}
 signalWifi1Bar : Icon
 signalWifi1Bar =
     I.fromNodes
@@ -22285,7 +22285,7 @@ signalWifi1Bar =
         ]
 
 
-{-| signal wifi 1 bar lock -}
+{-| Signal Wifi 1 Bar Lock -}
 signalWifi1BarLock : Icon
 signalWifi1BarLock =
     I.fromNodes
@@ -22303,7 +22303,7 @@ signalWifi1BarLock =
         ]
 
 
-{-| signal wifi 2 bar -}
+{-| Signal Wifi 2 Bar -}
 signalWifi2Bar : Icon
 signalWifi2Bar =
     I.fromNodes
@@ -22321,7 +22321,7 @@ signalWifi2Bar =
         ]
 
 
-{-| signal wifi 2 bar lock -}
+{-| Signal Wifi 2 Bar Lock -}
 signalWifi2BarLock : Icon
 signalWifi2BarLock =
     I.fromNodes
@@ -22339,7 +22339,7 @@ signalWifi2BarLock =
         ]
 
 
-{-| signal wifi 3 bar -}
+{-| Signal Wifi 3 Bar -}
 signalWifi3Bar : Icon
 signalWifi3Bar =
     I.fromNodes
@@ -22357,7 +22357,7 @@ signalWifi3Bar =
         ]
 
 
-{-| signal wifi 3 bar lock -}
+{-| Signal Wifi 3 Bar Lock -}
 signalWifi3BarLock : Icon
 signalWifi3BarLock =
     I.fromNodes
@@ -22375,7 +22375,7 @@ signalWifi3BarLock =
         ]
 
 
-{-| signal wifi 4 bar -}
+{-| Signal Wifi 4 Bar -}
 signalWifi4Bar : Icon
 signalWifi4Bar =
     I.fromNodes
@@ -22387,7 +22387,7 @@ signalWifi4Bar =
         ]
 
 
-{-| signal wifi 4 bar lock -}
+{-| Signal Wifi 4 Bar Lock -}
 signalWifi4BarLock : Icon
 signalWifi4BarLock =
     I.fromNodes
@@ -22404,7 +22404,7 @@ signalWifi4BarLock =
         ]
 
 
-{-| signal wifi bad -}
+{-| Signal Wifi Bad -}
 signalWifiBad : Icon
 signalWifiBad =
     I.fromNodes
@@ -22421,7 +22421,7 @@ signalWifiBad =
         ]
 
 
-{-| signal wifi connected no internet 4 -}
+{-| Signal Wifi Connected No Internet 4 -}
 signalWifiConnectedNoInternet4 : Icon
 signalWifiConnectedNoInternet4 =
     I.fromNodes
@@ -22438,7 +22438,7 @@ signalWifiConnectedNoInternet4 =
         ]
 
 
-{-| signal wifi off -}
+{-| Signal Wifi Off -}
 signalWifiOff : Icon
 signalWifiOff =
     I.fromNodes
@@ -22450,7 +22450,7 @@ signalWifiOff =
         ]
 
 
-{-| signal wifi statusbar 4 bar -}
+{-| Signal Wifi Statusbar 4 Bar -}
 signalWifiStatusbar4Bar : Icon
 signalWifiStatusbar4Bar =
     I.fromNodes
@@ -22462,7 +22462,7 @@ signalWifiStatusbar4Bar =
         ]
 
 
-{-| signal wifi statusbar connected no internet 4 -}
+{-| Signal Wifi Statusbar Connected No Internet 4 -}
 signalWifiStatusbarConnectedNoInternet4 : Icon
 signalWifiStatusbarConnectedNoInternet4 =
     I.fromNodes
@@ -22474,7 +22474,7 @@ signalWifiStatusbarConnectedNoInternet4 =
         ]
 
 
-{-| signal wifi statusbar null -}
+{-| Signal Wifi Statusbar Null -}
 signalWifiStatusbarNull : Icon
 signalWifiStatusbarNull =
     I.fromNodes
@@ -22486,7 +22486,7 @@ signalWifiStatusbarNull =
         ]
 
 
-{-| signpost -}
+{-| Signpost -}
 signpost : Icon
 signpost =
     I.fromNodes
@@ -22498,7 +22498,7 @@ signpost =
         ]
 
 
-{-| sim card -}
+{-| Sim Card -}
 simCard : Icon
 simCard =
     I.fromNodes
@@ -22510,7 +22510,7 @@ simCard =
         ]
 
 
-{-| sim card alert -}
+{-| Sim Card Alert -}
 simCardAlert : Icon
 simCardAlert =
     I.fromNodes
@@ -22522,7 +22522,7 @@ simCardAlert =
         ]
 
 
-{-| sim card download -}
+{-| Sim Card Download -}
 simCardDownload : Icon
 simCardDownload =
     I.fromNodes
@@ -22534,7 +22534,7 @@ simCardDownload =
         ]
 
 
-{-| single bed -}
+{-| Single Bed -}
 singleBed : Icon
 singleBed =
     I.fromNodes
@@ -22546,7 +22546,7 @@ singleBed =
         ]
 
 
-{-| sip -}
+{-| Sip -}
 sip : Icon
 sip =
     I.fromNodes
@@ -22559,7 +22559,7 @@ sip =
         ]
 
 
-{-| skateboarding -}
+{-| Skateboarding -}
 skateboarding : Icon
 skateboarding =
     I.fromNodes
@@ -22571,7 +22571,7 @@ skateboarding =
         ]
 
 
-{-| skip next -}
+{-| Skip Next -}
 skipNext : Icon
 skipNext =
     I.fromNodes
@@ -22583,7 +22583,7 @@ skipNext =
         ]
 
 
-{-| skip previous -}
+{-| Skip Previous -}
 skipPrevious : Icon
 skipPrevious =
     I.fromNodes
@@ -22595,7 +22595,7 @@ skipPrevious =
         ]
 
 
-{-| sledding -}
+{-| Sledding -}
 sledding : Icon
 sledding =
     I.fromNodes
@@ -22607,7 +22607,7 @@ sledding =
         ]
 
 
-{-| slideshow -}
+{-| Slideshow -}
 slideshow : Icon
 slideshow =
     I.fromNodes
@@ -22619,7 +22619,7 @@ slideshow =
         ]
 
 
-{-| slow motion video -}
+{-| Slow Motion Video -}
 slowMotionVideo : Icon
 slowMotionVideo =
     I.fromNodes
@@ -22631,7 +22631,7 @@ slowMotionVideo =
         ]
 
 
-{-| smart button -}
+{-| Smart Button -}
 smartButton : Icon
 smartButton =
     I.fromNodes
@@ -22643,7 +22643,7 @@ smartButton =
         ]
 
 
-{-| smart display -}
+{-| Smart Display -}
 smartDisplay : Icon
 smartDisplay =
     I.fromNodes
@@ -22655,7 +22655,7 @@ smartDisplay =
         ]
 
 
-{-| smart screen -}
+{-| Smart Screen -}
 smartScreen : Icon
 smartScreen =
     I.fromNodes
@@ -22667,7 +22667,7 @@ smartScreen =
         ]
 
 
-{-| smart toy -}
+{-| Smart Toy -}
 smartToy : Icon
 smartToy =
     I.fromNodes
@@ -22679,7 +22679,7 @@ smartToy =
         ]
 
 
-{-| smartphone -}
+{-| Smartphone -}
 smartphone : Icon
 smartphone =
     I.fromNodes
@@ -22691,7 +22691,7 @@ smartphone =
         ]
 
 
-{-| smoke free -}
+{-| Smoke Free -}
 smokeFree : Icon
 smokeFree =
     I.fromNodes
@@ -22703,7 +22703,7 @@ smokeFree =
         ]
 
 
-{-| smoking rooms -}
+{-| Smoking Rooms -}
 smokingRooms : Icon
 smokingRooms =
     I.fromNodes
@@ -22715,7 +22715,7 @@ smokingRooms =
         ]
 
 
-{-| sms -}
+{-| Sms -}
 sms : Icon
 sms =
     I.fromNodes
@@ -22727,7 +22727,7 @@ sms =
         ]
 
 
-{-| sms failed -}
+{-| Sms Failed -}
 smsFailed : Icon
 smsFailed =
     I.fromNodes
@@ -22739,7 +22739,7 @@ smsFailed =
         ]
 
 
-{-| snapchat -}
+{-| Snapchat -}
 snapchat : Icon
 snapchat =
     I.fromNodes
@@ -22751,7 +22751,7 @@ snapchat =
         ]
 
 
-{-| snippet folder -}
+{-| Snippet Folder -}
 snippetFolder : Icon
 snippetFolder =
     I.fromNodes
@@ -22763,7 +22763,7 @@ snippetFolder =
         ]
 
 
-{-| snooze -}
+{-| Snooze -}
 snooze : Icon
 snooze =
     I.fromNodes
@@ -22775,7 +22775,7 @@ snooze =
         ]
 
 
-{-| snowboarding -}
+{-| Snowboarding -}
 snowboarding : Icon
 snowboarding =
     I.fromNodes
@@ -22787,7 +22787,7 @@ snowboarding =
         ]
 
 
-{-| snowmobile -}
+{-| Snowmobile -}
 snowmobile : Icon
 snowmobile =
     I.fromNodes
@@ -22799,7 +22799,7 @@ snowmobile =
         ]
 
 
-{-| snowshoeing -}
+{-| Snowshoeing -}
 snowshoeing : Icon
 snowshoeing =
     I.fromNodes
@@ -22811,7 +22811,7 @@ snowshoeing =
         ]
 
 
-{-| soap -}
+{-| Soap -}
 soap : Icon
 soap =
     I.fromNodes
@@ -22823,7 +22823,7 @@ soap =
         ]
 
 
-{-| social distance -}
+{-| Social Distance -}
 socialDistance : Icon
 socialDistance =
     I.fromNodes
@@ -22835,7 +22835,7 @@ socialDistance =
         ]
 
 
-{-| solar power -}
+{-| Solar Power -}
 solarPower : Icon
 solarPower =
     I.fromNodes
@@ -22847,7 +22847,7 @@ solarPower =
         ]
 
 
-{-| sort -}
+{-| Sort -}
 sort : Icon
 sort =
     I.fromNodes
@@ -22859,7 +22859,7 @@ sort =
         ]
 
 
-{-| sort by alpha -}
+{-| Sort By Alpha -}
 sortByAlpha : Icon
 sortByAlpha =
     I.fromNodes
@@ -22871,7 +22871,7 @@ sortByAlpha =
         ]
 
 
-{-| sos -}
+{-| Sos -}
 sos : Icon
 sos =
     I.fromNodes
@@ -22883,7 +22883,7 @@ sos =
         ]
 
 
-{-| soup kitchen -}
+{-| Soup Kitchen -}
 soupKitchen : Icon
 soupKitchen =
     I.fromNodes
@@ -22895,7 +22895,7 @@ soupKitchen =
         ]
 
 
-{-| source -}
+{-| Source -}
 source : Icon
 source =
     I.fromNodes
@@ -22907,7 +22907,7 @@ source =
         ]
 
 
-{-| south -}
+{-| South -}
 south : Icon
 south =
     I.fromNodes
@@ -22919,7 +22919,7 @@ south =
         ]
 
 
-{-| south america -}
+{-| South America -}
 southAmerica : Icon
 southAmerica =
     I.fromNodes
@@ -22931,7 +22931,7 @@ southAmerica =
         ]
 
 
-{-| south east -}
+{-| South East -}
 southEast : Icon
 southEast =
     I.fromNodes
@@ -22943,7 +22943,7 @@ southEast =
         ]
 
 
-{-| south west -}
+{-| South West -}
 southWest : Icon
 southWest =
     I.fromNodes
@@ -22955,7 +22955,7 @@ southWest =
         ]
 
 
-{-| spa -}
+{-| Spa -}
 spa : Icon
 spa =
     I.fromNodes
@@ -22967,7 +22967,7 @@ spa =
         ]
 
 
-{-| space bar -}
+{-| Space Bar -}
 spaceBar : Icon
 spaceBar =
     I.fromNodes
@@ -22979,7 +22979,7 @@ spaceBar =
         ]
 
 
-{-| space dashboard -}
+{-| Space Dashboard -}
 spaceDashboard : Icon
 spaceDashboard =
     I.fromNodes
@@ -22991,7 +22991,7 @@ spaceDashboard =
         ]
 
 
-{-| spatial audio -}
+{-| Spatial Audio -}
 spatialAudio : Icon
 spatialAudio =
     I.fromNodes
@@ -23009,7 +23009,7 @@ spatialAudio =
         ]
 
 
-{-| spatial audio off -}
+{-| Spatial Audio Off -}
 spatialAudioOff : Icon
 spatialAudioOff =
     I.fromNodes
@@ -23022,7 +23022,7 @@ spatialAudioOff =
         ]
 
 
-{-| spatial tracking -}
+{-| Spatial Tracking -}
 spatialTracking : Icon
 spatialTracking =
     I.fromNodes
@@ -23035,7 +23035,7 @@ spatialTracking =
         ]
 
 
-{-| speaker -}
+{-| Speaker -}
 speaker : Icon
 speaker =
     I.fromNodes
@@ -23047,7 +23047,7 @@ speaker =
         ]
 
 
-{-| speaker group -}
+{-| Speaker Group -}
 speakerGroup : Icon
 speakerGroup =
     I.fromNodes
@@ -23065,7 +23065,7 @@ speakerGroup =
         ]
 
 
-{-| speaker notes -}
+{-| Speaker Notes -}
 speakerNotes : Icon
 speakerNotes =
     I.fromNodes
@@ -23077,7 +23077,7 @@ speakerNotes =
         ]
 
 
-{-| speaker notes off -}
+{-| Speaker Notes Off -}
 speakerNotesOff : Icon
 speakerNotesOff =
     I.fromNodes
@@ -23089,7 +23089,7 @@ speakerNotesOff =
         ]
 
 
-{-| speaker phone -}
+{-| Speaker Phone -}
 speakerPhone : Icon
 speakerPhone =
     I.fromNodes
@@ -23106,7 +23106,7 @@ speakerPhone =
         ]
 
 
-{-| speed -}
+{-| Speed -}
 speed : Icon
 speed =
     I.fromNodes
@@ -23119,7 +23119,7 @@ speed =
         ]
 
 
-{-| spellcheck -}
+{-| Spellcheck -}
 spellcheck : Icon
 spellcheck =
     I.fromNodes
@@ -23131,7 +23131,7 @@ spellcheck =
         ]
 
 
-{-| splitscreen -}
+{-| Splitscreen -}
 splitscreen : Icon
 splitscreen =
     I.fromNodes
@@ -23143,7 +23143,7 @@ splitscreen =
         ]
 
 
-{-| spoke -}
+{-| Spoke -}
 spoke : Icon
 spoke =
     I.fromNodes
@@ -23155,7 +23155,7 @@ spoke =
         ]
 
 
-{-| sports -}
+{-| Sports -}
 sports : Icon
 sports =
     I.fromNodes
@@ -23168,7 +23168,7 @@ sports =
         ]
 
 
-{-| sports bar -}
+{-| Sports Bar -}
 sportsBar : Icon
 sportsBar =
     I.fromNodes
@@ -23180,7 +23180,7 @@ sportsBar =
         ]
 
 
-{-| sports baseball -}
+{-| Sports Baseball -}
 sportsBaseball : Icon
 sportsBaseball =
     I.fromNodes
@@ -23197,7 +23197,7 @@ sportsBaseball =
         ]
 
 
-{-| sports basketball -}
+{-| Sports Basketball -}
 sportsBasketball : Icon
 sportsBasketball =
     I.fromNodes
@@ -23209,7 +23209,7 @@ sportsBasketball =
         ]
 
 
-{-| sports cricket -}
+{-| Sports Cricket -}
 sportsCricket : Icon
 sportsCricket =
     I.fromNodes
@@ -23222,7 +23222,7 @@ sportsCricket =
         ]
 
 
-{-| sports esports -}
+{-| Sports Esports -}
 sportsEsports : Icon
 sportsEsports =
     I.fromNodes
@@ -23234,7 +23234,7 @@ sportsEsports =
         ]
 
 
-{-| sports football -}
+{-| Sports Football -}
 sportsFootball : Icon
 sportsFootball =
     I.fromNodes
@@ -23246,7 +23246,7 @@ sportsFootball =
         ]
 
 
-{-| sports golf -}
+{-| Sports Golf -}
 sportsGolf : Icon
 sportsGolf =
     I.fromNodes
@@ -23266,7 +23266,7 @@ sportsGolf =
         ]
 
 
-{-| sports gymnastics -}
+{-| Sports Gymnastics -}
 sportsGymnastics : Icon
 sportsGymnastics =
     I.fromNodes
@@ -23278,7 +23278,7 @@ sportsGymnastics =
         ]
 
 
-{-| sports handball -}
+{-| Sports Handball -}
 sportsHandball : Icon
 sportsHandball =
     I.fromNodes
@@ -23295,7 +23295,7 @@ sportsHandball =
         ]
 
 
-{-| sports hockey -}
+{-| Sports Hockey -}
 sportsHockey : Icon
 sportsHockey =
     I.fromNodes
@@ -23307,7 +23307,7 @@ sportsHockey =
         ]
 
 
-{-| sports kabaddi -}
+{-| Sports Kabaddi -}
 sportsKabaddi : Icon
 sportsKabaddi =
     I.fromNodes
@@ -23325,7 +23325,7 @@ sportsKabaddi =
         ]
 
 
-{-| sports martial arts -}
+{-| Sports Martial Arts -}
 sportsMartialArts : Icon
 sportsMartialArts =
     I.fromNodes
@@ -23338,7 +23338,7 @@ sportsMartialArts =
         ]
 
 
-{-| sports mma -}
+{-| Sports Mma -}
 sportsMma : Icon
 sportsMma =
     I.fromNodes
@@ -23350,7 +23350,7 @@ sportsMma =
         ]
 
 
-{-| sports motorsports -}
+{-| Sports Motorsports -}
 sportsMotorsports : Icon
 sportsMotorsports =
     I.fromNodes
@@ -23367,7 +23367,7 @@ sportsMotorsports =
         ]
 
 
-{-| sports rugby -}
+{-| Sports Rugby -}
 sportsRugby : Icon
 sportsRugby =
     I.fromNodes
@@ -23379,7 +23379,7 @@ sportsRugby =
         ]
 
 
-{-| sports score -}
+{-| Sports Score -}
 sportsScore : Icon
 sportsScore =
     I.fromNodes
@@ -23391,7 +23391,7 @@ sportsScore =
         ]
 
 
-{-| sports soccer -}
+{-| Sports Soccer -}
 sportsSoccer : Icon
 sportsSoccer =
     I.fromNodes
@@ -23403,7 +23403,7 @@ sportsSoccer =
         ]
 
 
-{-| sports tennis -}
+{-| Sports Tennis -}
 sportsTennis : Icon
 sportsTennis =
     I.fromNodes
@@ -23415,7 +23415,7 @@ sportsTennis =
         ]
 
 
-{-| sports volleyball -}
+{-| Sports Volleyball -}
 sportsVolleyball : Icon
 sportsVolleyball =
     I.fromNodes
@@ -23427,7 +23427,7 @@ sportsVolleyball =
         ]
 
 
-{-| square -}
+{-| Square -}
 square : Icon
 square =
     I.fromNodes
@@ -23439,7 +23439,7 @@ square =
         ]
 
 
-{-| square foot -}
+{-| Square Foot -}
 squareFoot : Icon
 squareFoot =
     I.fromNodes
@@ -23451,7 +23451,7 @@ squareFoot =
         ]
 
 
-{-| ssid chart -}
+{-| Ssid Chart -}
 ssidChart : Icon
 ssidChart =
     I.fromNodes
@@ -23463,7 +23463,7 @@ ssidChart =
         ]
 
 
-{-| stacked bar chart -}
+{-| Stacked Bar Chart -}
 stackedBarChart : Icon
 stackedBarChart =
     I.fromNodes
@@ -23475,7 +23475,7 @@ stackedBarChart =
         ]
 
 
-{-| stacked line chart -}
+{-| Stacked Line Chart -}
 stackedLineChart : Icon
 stackedLineChart =
     I.fromNodes
@@ -23487,7 +23487,7 @@ stackedLineChart =
         ]
 
 
-{-| stadium -}
+{-| Stadium -}
 stadium : Icon
 stadium =
     I.fromNodes
@@ -23499,7 +23499,7 @@ stadium =
         ]
 
 
-{-| stairs -}
+{-| Stairs -}
 stairs : Icon
 stairs =
     I.fromNodes
@@ -23511,7 +23511,7 @@ stairs =
         ]
 
 
-{-| star -}
+{-| Star -}
 star : Icon
 star =
     I.fromNodes
@@ -23523,7 +23523,7 @@ star =
         ]
 
 
-{-| star border -}
+{-| Star Border -}
 starBorder : Icon
 starBorder =
     I.fromNodes
@@ -23535,7 +23535,7 @@ starBorder =
         ]
 
 
-{-| star border purple500 -}
+{-| Star Border Purple500 -}
 starBorderPurple500 : Icon
 starBorderPurple500 =
     I.fromNodes
@@ -23547,7 +23547,7 @@ starBorderPurple500 =
         ]
 
 
-{-| star half -}
+{-| Star Half -}
 starHalf : Icon
 starHalf =
     I.fromNodes
@@ -23559,7 +23559,7 @@ starHalf =
         ]
 
 
-{-| star outline -}
+{-| Star Outline -}
 starOutline : Icon
 starOutline =
     I.fromNodes
@@ -23571,7 +23571,7 @@ starOutline =
         ]
 
 
-{-| star purple500 -}
+{-| Star Purple500 -}
 starPurple500 : Icon
 starPurple500 =
     I.fromNodes
@@ -23583,7 +23583,7 @@ starPurple500 =
         ]
 
 
-{-| star rate -}
+{-| Star Rate -}
 starRate : Icon
 starRate =
     I.fromNodes
@@ -23595,7 +23595,7 @@ starRate =
         ]
 
 
-{-| stars -}
+{-| Stars -}
 stars : Icon
 stars =
     I.fromNodes
@@ -23607,7 +23607,7 @@ stars =
         ]
 
 
-{-| start -}
+{-| Start -}
 start : Icon
 start =
     I.fromNodes
@@ -23619,7 +23619,7 @@ start =
         ]
 
 
-{-| stay current landscape -}
+{-| Stay Current Landscape -}
 stayCurrentLandscape : Icon
 stayCurrentLandscape =
     I.fromNodes
@@ -23631,7 +23631,7 @@ stayCurrentLandscape =
         ]
 
 
-{-| stay current portrait -}
+{-| Stay Current Portrait -}
 stayCurrentPortrait : Icon
 stayCurrentPortrait =
     I.fromNodes
@@ -23643,7 +23643,7 @@ stayCurrentPortrait =
         ]
 
 
-{-| stay primary landscape -}
+{-| Stay Primary Landscape -}
 stayPrimaryLandscape : Icon
 stayPrimaryLandscape =
     I.fromNodes
@@ -23655,7 +23655,7 @@ stayPrimaryLandscape =
         ]
 
 
-{-| stay primary portrait -}
+{-| Stay Primary Portrait -}
 stayPrimaryPortrait : Icon
 stayPrimaryPortrait =
     I.fromNodes
@@ -23667,7 +23667,7 @@ stayPrimaryPortrait =
         ]
 
 
-{-| sticky note 2 -}
+{-| Sticky Note 2 -}
 stickyNote2 : Icon
 stickyNote2 =
     I.fromNodes
@@ -23679,7 +23679,7 @@ stickyNote2 =
         ]
 
 
-{-| stop -}
+{-| Stop -}
 stop : Icon
 stop =
     I.fromNodes
@@ -23691,7 +23691,7 @@ stop =
         ]
 
 
-{-| stop circle -}
+{-| Stop Circle -}
 stopCircle : Icon
 stopCircle =
     I.fromNodes
@@ -23703,7 +23703,7 @@ stopCircle =
         ]
 
 
-{-| stop screen share -}
+{-| Stop Screen Share -}
 stopScreenShare : Icon
 stopScreenShare =
     I.fromNodes
@@ -23715,7 +23715,7 @@ stopScreenShare =
         ]
 
 
-{-| storage -}
+{-| Storage -}
 storage : Icon
 storage =
     I.fromNodes
@@ -23727,7 +23727,7 @@ storage =
         ]
 
 
-{-| store -}
+{-| Store -}
 store : Icon
 store =
     I.fromNodes
@@ -23739,7 +23739,7 @@ store =
         ]
 
 
-{-| store mall directory -}
+{-| Store Mall Directory -}
 storeMallDirectory : Icon
 storeMallDirectory =
     I.fromNodes
@@ -23751,7 +23751,7 @@ storeMallDirectory =
         ]
 
 
-{-| storefront -}
+{-| Storefront -}
 storefront : Icon
 storefront =
     I.fromNodes
@@ -23763,7 +23763,7 @@ storefront =
         ]
 
 
-{-| storm -}
+{-| Storm -}
 storm : Icon
 storm =
     I.fromNodes
@@ -23775,7 +23775,7 @@ storm =
         ]
 
 
-{-| straight -}
+{-| Straight -}
 straight : Icon
 straight =
     I.fromNodes
@@ -23787,7 +23787,7 @@ straight =
         ]
 
 
-{-| straighten -}
+{-| Straighten -}
 straighten : Icon
 straighten =
     I.fromNodes
@@ -23799,7 +23799,7 @@ straighten =
         ]
 
 
-{-| stream -}
+{-| Stream -}
 stream : Icon
 stream =
     I.fromNodes
@@ -23815,7 +23815,7 @@ stream =
         ]
 
 
-{-| streetview -}
+{-| Streetview -}
 streetview : Icon
 streetview =
     I.fromNodes
@@ -23833,7 +23833,7 @@ streetview =
         ]
 
 
-{-| strikethrough s -}
+{-| Strikethrough S -}
 strikethroughS : Icon
 strikethroughS =
     I.fromNodes
@@ -23845,7 +23845,7 @@ strikethroughS =
         ]
 
 
-{-| stroller -}
+{-| Stroller -}
 stroller : Icon
 stroller =
     I.fromNodes
@@ -23857,7 +23857,7 @@ stroller =
         ]
 
 
-{-| style -}
+{-| Style -}
 style : Icon
 style =
     I.fromNodes
@@ -23869,7 +23869,7 @@ style =
         ]
 
 
-{-| subdirectory arrow left -}
+{-| Subdirectory Arrow Left -}
 subdirectoryArrowLeft : Icon
 subdirectoryArrowLeft =
     I.fromNodes
@@ -23881,7 +23881,7 @@ subdirectoryArrowLeft =
         ]
 
 
-{-| subdirectory arrow right -}
+{-| Subdirectory Arrow Right -}
 subdirectoryArrowRight : Icon
 subdirectoryArrowRight =
     I.fromNodes
@@ -23893,7 +23893,7 @@ subdirectoryArrowRight =
         ]
 
 
-{-| subject -}
+{-| Subject -}
 subject : Icon
 subject =
     I.fromNodes
@@ -23905,7 +23905,7 @@ subject =
         ]
 
 
-{-| subscript -}
+{-| Subscript -}
 subscript : Icon
 subscript =
     I.fromNodes
@@ -23917,7 +23917,7 @@ subscript =
         ]
 
 
-{-| subscriptions -}
+{-| Subscriptions -}
 subscriptions : Icon
 subscriptions =
     I.fromNodes
@@ -23929,7 +23929,7 @@ subscriptions =
         ]
 
 
-{-| subtitles -}
+{-| Subtitles -}
 subtitles : Icon
 subtitles =
     I.fromNodes
@@ -23941,7 +23941,7 @@ subtitles =
         ]
 
 
-{-| subtitles off -}
+{-| Subtitles Off -}
 subtitlesOff : Icon
 subtitlesOff =
     I.fromNodes
@@ -23953,7 +23953,7 @@ subtitlesOff =
         ]
 
 
-{-| subway -}
+{-| Subway -}
 subway : Icon
 subway =
     I.fromNodes
@@ -23967,7 +23967,7 @@ subway =
         ]
 
 
-{-| summarize -}
+{-| Summarize -}
 summarize : Icon
 summarize =
     I.fromNodes
@@ -23979,7 +23979,7 @@ summarize =
         ]
 
 
-{-| superscript -}
+{-| Superscript -}
 superscript : Icon
 superscript =
     I.fromNodes
@@ -23991,7 +23991,7 @@ superscript =
         ]
 
 
-{-| supervised user circle -}
+{-| Supervised User Circle -}
 supervisedUserCircle : Icon
 supervisedUserCircle =
     I.fromNodes
@@ -24003,7 +24003,7 @@ supervisedUserCircle =
         ]
 
 
-{-| supervisor account -}
+{-| Supervisor Account -}
 supervisorAccount : Icon
 supervisorAccount =
     I.fromNodes
@@ -24015,7 +24015,7 @@ supervisorAccount =
         ]
 
 
-{-| support -}
+{-| Support -}
 support : Icon
 support =
     I.fromNodes
@@ -24027,7 +24027,7 @@ support =
         ]
 
 
-{-| support agent -}
+{-| Support Agent -}
 supportAgent : Icon
 supportAgent =
     I.fromNodes
@@ -24046,7 +24046,7 @@ supportAgent =
         ]
 
 
-{-| surfing -}
+{-| Surfing -}
 surfing : Icon
 surfing =
     I.fromNodes
@@ -24058,7 +24058,7 @@ surfing =
         ]
 
 
-{-| surround sound -}
+{-| Surround Sound -}
 surroundSound : Icon
 surroundSound =
     I.fromNodes
@@ -24070,7 +24070,7 @@ surroundSound =
         ]
 
 
-{-| swap calls -}
+{-| Swap Calls -}
 swapCalls : Icon
 swapCalls =
     I.fromNodes
@@ -24082,7 +24082,7 @@ swapCalls =
         ]
 
 
-{-| swap horiz -}
+{-| Swap Horiz -}
 swapHoriz : Icon
 swapHoriz =
     I.fromNodes
@@ -24094,7 +24094,7 @@ swapHoriz =
         ]
 
 
-{-| swap horizontal circle -}
+{-| Swap Horizontal Circle -}
 swapHorizontalCircle : Icon
 swapHorizontalCircle =
     I.fromNodes
@@ -24106,7 +24106,7 @@ swapHorizontalCircle =
         ]
 
 
-{-| swap vert -}
+{-| Swap Vert -}
 swapVert : Icon
 swapVert =
     I.fromNodes
@@ -24118,7 +24118,7 @@ swapVert =
         ]
 
 
-{-| swap vertical circle -}
+{-| Swap Vertical Circle -}
 swapVerticalCircle : Icon
 swapVerticalCircle =
     I.fromNodes
@@ -24130,7 +24130,7 @@ swapVerticalCircle =
         ]
 
 
-{-| swipe -}
+{-| Swipe -}
 swipe : Icon
 swipe =
     I.fromNodes
@@ -24147,7 +24147,7 @@ swipe =
         ]
 
 
-{-| swipe down -}
+{-| Swipe Down -}
 swipeDown : Icon
 swipeDown =
     I.fromNodes
@@ -24159,7 +24159,7 @@ swipeDown =
         ]
 
 
-{-| swipe down alt -}
+{-| Swipe Down Alt -}
 swipeDownAlt : Icon
 swipeDownAlt =
     I.fromNodes
@@ -24171,7 +24171,7 @@ swipeDownAlt =
         ]
 
 
-{-| swipe left -}
+{-| Swipe Left -}
 swipeLeft : Icon
 swipeLeft =
     I.fromNodes
@@ -24183,7 +24183,7 @@ swipeLeft =
         ]
 
 
-{-| swipe left alt -}
+{-| Swipe Left Alt -}
 swipeLeftAlt : Icon
 swipeLeftAlt =
     I.fromNodes
@@ -24195,7 +24195,7 @@ swipeLeftAlt =
         ]
 
 
-{-| swipe right -}
+{-| Swipe Right -}
 swipeRight : Icon
 swipeRight =
     I.fromNodes
@@ -24207,7 +24207,7 @@ swipeRight =
         ]
 
 
-{-| swipe right alt -}
+{-| Swipe Right Alt -}
 swipeRightAlt : Icon
 swipeRightAlt =
     I.fromNodes
@@ -24219,7 +24219,7 @@ swipeRightAlt =
         ]
 
 
-{-| swipe up -}
+{-| Swipe Up -}
 swipeUp : Icon
 swipeUp =
     I.fromNodes
@@ -24231,7 +24231,7 @@ swipeUp =
         ]
 
 
-{-| swipe up alt -}
+{-| Swipe Up Alt -}
 swipeUpAlt : Icon
 swipeUpAlt =
     I.fromNodes
@@ -24243,7 +24243,7 @@ swipeUpAlt =
         ]
 
 
-{-| swipe vertical -}
+{-| Swipe Vertical -}
 swipeVertical : Icon
 swipeVertical =
     I.fromNodes
@@ -24255,7 +24255,7 @@ swipeVertical =
         ]
 
 
-{-| switch access shortcut -}
+{-| Switch Access Shortcut -}
 switchAccessShortcut : Icon
 switchAccessShortcut =
     I.fromNodes
@@ -24267,7 +24267,7 @@ switchAccessShortcut =
         ]
 
 
-{-| switch access shortcut add -}
+{-| Switch Access Shortcut Add -}
 switchAccessShortcutAdd : Icon
 switchAccessShortcutAdd =
     I.fromNodes
@@ -24279,7 +24279,7 @@ switchAccessShortcutAdd =
         ]
 
 
-{-| switch account -}
+{-| Switch Account -}
 switchAccount : Icon
 switchAccount =
     I.fromNodes
@@ -24291,7 +24291,7 @@ switchAccount =
         ]
 
 
-{-| switch camera -}
+{-| Switch Camera -}
 switchCamera : Icon
 switchCamera =
     I.fromNodes
@@ -24303,7 +24303,7 @@ switchCamera =
         ]
 
 
-{-| switch left -}
+{-| Switch Left -}
 switchLeft : Icon
 switchLeft =
     I.fromNodes
@@ -24315,7 +24315,7 @@ switchLeft =
         ]
 
 
-{-| switch right -}
+{-| Switch Right -}
 switchRight : Icon
 switchRight =
     I.fromNodes
@@ -24327,7 +24327,7 @@ switchRight =
         ]
 
 
-{-| switch video -}
+{-| Switch Video -}
 switchVideo : Icon
 switchVideo =
     I.fromNodes
@@ -24339,7 +24339,7 @@ switchVideo =
         ]
 
 
-{-| synagogue -}
+{-| Synagogue -}
 synagogue : Icon
 synagogue =
     I.fromNodes
@@ -24351,7 +24351,7 @@ synagogue =
         ]
 
 
-{-| sync -}
+{-| Sync -}
 sync : Icon
 sync =
     I.fromNodes
@@ -24363,7 +24363,7 @@ sync =
         ]
 
 
-{-| sync alt -}
+{-| Sync Alt -}
 syncAlt : Icon
 syncAlt =
     I.fromNodes
@@ -24375,7 +24375,7 @@ syncAlt =
         ]
 
 
-{-| sync disabled -}
+{-| Sync Disabled -}
 syncDisabled : Icon
 syncDisabled =
     I.fromNodes
@@ -24387,7 +24387,7 @@ syncDisabled =
         ]
 
 
-{-| sync lock -}
+{-| Sync Lock -}
 syncLock : Icon
 syncLock =
     I.fromNodes
@@ -24399,7 +24399,7 @@ syncLock =
         ]
 
 
-{-| sync problem -}
+{-| Sync Problem -}
 syncProblem : Icon
 syncProblem =
     I.fromNodes
@@ -24411,7 +24411,7 @@ syncProblem =
         ]
 
 
-{-| system security update -}
+{-| System Security Update -}
 systemSecurityUpdate : Icon
 systemSecurityUpdate =
     I.fromNodes
@@ -24423,7 +24423,7 @@ systemSecurityUpdate =
         ]
 
 
-{-| system security update good -}
+{-| System Security Update Good -}
 systemSecurityUpdateGood : Icon
 systemSecurityUpdateGood =
     I.fromNodes
@@ -24435,7 +24435,7 @@ systemSecurityUpdateGood =
         ]
 
 
-{-| system security update warning -}
+{-| System Security Update Warning -}
 systemSecurityUpdateWarning : Icon
 systemSecurityUpdateWarning =
     I.fromNodes
@@ -24453,7 +24453,7 @@ systemSecurityUpdateWarning =
         ]
 
 
-{-| system update -}
+{-| System Update -}
 systemUpdate : Icon
 systemUpdate =
     I.fromNodes
@@ -24465,7 +24465,7 @@ systemUpdate =
         ]
 
 
-{-| system update alt -}
+{-| System Update Alt -}
 systemUpdateAlt : Icon
 systemUpdateAlt =
     I.fromNodes
@@ -24477,7 +24477,7 @@ systemUpdateAlt =
         ]
 
 
-{-| tab -}
+{-| Tab -}
 tab : Icon
 tab =
     I.fromNodes
@@ -24489,7 +24489,7 @@ tab =
         ]
 
 
-{-| tab unselected -}
+{-| Tab Unselected -}
 tabUnselected : Icon
 tabUnselected =
     I.fromNodes
@@ -24501,7 +24501,7 @@ tabUnselected =
         ]
 
 
-{-| table bar -}
+{-| Table Bar -}
 tableBar : Icon
 tableBar =
     I.fromNodes
@@ -24513,7 +24513,7 @@ tableBar =
         ]
 
 
-{-| table chart -}
+{-| Table Chart -}
 tableChart : Icon
 tableChart =
     I.fromNodes
@@ -24525,7 +24525,7 @@ tableChart =
         ]
 
 
-{-| table restaurant -}
+{-| Table Restaurant -}
 tableRestaurant : Icon
 tableRestaurant =
     I.fromNodes
@@ -24537,7 +24537,7 @@ tableRestaurant =
         ]
 
 
-{-| table rows -}
+{-| Table Rows -}
 tableRows : Icon
 tableRows =
     I.fromNodes
@@ -24549,7 +24549,7 @@ tableRows =
         ]
 
 
-{-| table view -}
+{-| Table View -}
 tableView : Icon
 tableView =
     I.fromNodes
@@ -24561,7 +24561,7 @@ tableView =
         ]
 
 
-{-| tablet -}
+{-| Tablet -}
 tablet : Icon
 tablet =
     I.fromNodes
@@ -24573,7 +24573,7 @@ tablet =
         ]
 
 
-{-| tablet android -}
+{-| Tablet Android -}
 tabletAndroid : Icon
 tabletAndroid =
     I.fromNodes
@@ -24585,7 +24585,7 @@ tabletAndroid =
         ]
 
 
-{-| tablet mac -}
+{-| Tablet Mac -}
 tabletMac : Icon
 tabletMac =
     I.fromNodes
@@ -24597,7 +24597,7 @@ tabletMac =
         ]
 
 
-{-| tag -}
+{-| Tag -}
 tag : Icon
 tag =
     I.fromNodes
@@ -24609,7 +24609,7 @@ tag =
         ]
 
 
-{-| tag faces -}
+{-| Tag Faces -}
 tagFaces : Icon
 tagFaces =
     I.fromNodes
@@ -24621,7 +24621,7 @@ tagFaces =
         ]
 
 
-{-| takeout dining -}
+{-| Takeout Dining -}
 takeoutDining : Icon
 takeoutDining =
     I.fromNodes
@@ -24633,7 +24633,7 @@ takeoutDining =
         ]
 
 
-{-| tap and play -}
+{-| Tap And Play -}
 tapAndPlay : Icon
 tapAndPlay =
     I.fromNodes
@@ -24645,7 +24645,7 @@ tapAndPlay =
         ]
 
 
-{-| tapas -}
+{-| Tapas -}
 tapas : Icon
 tapas =
     I.fromNodes
@@ -24657,7 +24657,7 @@ tapas =
         ]
 
 
-{-| task -}
+{-| Task -}
 task : Icon
 task =
     I.fromNodes
@@ -24669,7 +24669,7 @@ task =
         ]
 
 
-{-| task alt -}
+{-| Task Alt -}
 taskAlt : Icon
 taskAlt =
     I.fromNodes
@@ -24681,7 +24681,7 @@ taskAlt =
         ]
 
 
-{-| taxi alert -}
+{-| Taxi Alert -}
 taxiAlert : Icon
 taxiAlert =
     I.fromNodes
@@ -24698,7 +24698,7 @@ taxiAlert =
         ]
 
 
-{-| telegram -}
+{-| Telegram -}
 telegram : Icon
 telegram =
     I.fromNodes
@@ -24710,7 +24710,7 @@ telegram =
         ]
 
 
-{-| temple buddhist -}
+{-| Temple Buddhist -}
 templeBuddhist : Icon
 templeBuddhist =
     I.fromNodes
@@ -24730,7 +24730,7 @@ templeBuddhist =
         ]
 
 
-{-| temple hindu -}
+{-| Temple Hindu -}
 templeHindu : Icon
 templeHindu =
     I.fromNodes
@@ -24742,7 +24742,7 @@ templeHindu =
         ]
 
 
-{-| terminal -}
+{-| Terminal -}
 terminal : Icon
 terminal =
     I.fromNodes
@@ -24754,7 +24754,7 @@ terminal =
         ]
 
 
-{-| terrain -}
+{-| Terrain -}
 terrain : Icon
 terrain =
     I.fromNodes
@@ -24766,7 +24766,7 @@ terrain =
         ]
 
 
-{-| text decrease -}
+{-| Text Decrease -}
 textDecrease : Icon
 textDecrease =
     I.fromNodes
@@ -24778,7 +24778,7 @@ textDecrease =
         ]
 
 
-{-| text fields -}
+{-| Text Fields -}
 textFields : Icon
 textFields =
     I.fromNodes
@@ -24790,7 +24790,7 @@ textFields =
         ]
 
 
-{-| text format -}
+{-| Text Format -}
 textFormat : Icon
 textFormat =
     I.fromNodes
@@ -24802,7 +24802,7 @@ textFormat =
         ]
 
 
-{-| text increase -}
+{-| Text Increase -}
 textIncrease : Icon
 textIncrease =
     I.fromNodes
@@ -24814,7 +24814,7 @@ textIncrease =
         ]
 
 
-{-| text rotate up -}
+{-| Text Rotate Up -}
 textRotateUp : Icon
 textRotateUp =
     I.fromNodes
@@ -24826,7 +24826,7 @@ textRotateUp =
         ]
 
 
-{-| text rotate vertical -}
+{-| Text Rotate Vertical -}
 textRotateVertical : Icon
 textRotateVertical =
     I.fromNodes
@@ -24838,7 +24838,7 @@ textRotateVertical =
         ]
 
 
-{-| text rotation angledown -}
+{-| Text Rotation Angledown -}
 textRotationAngledown : Icon
 textRotationAngledown =
     I.fromNodes
@@ -24850,7 +24850,7 @@ textRotationAngledown =
         ]
 
 
-{-| text rotation angleup -}
+{-| Text Rotation Angleup -}
 textRotationAngleup : Icon
 textRotationAngleup =
     I.fromNodes
@@ -24862,7 +24862,7 @@ textRotationAngleup =
         ]
 
 
-{-| text rotation down -}
+{-| Text Rotation Down -}
 textRotationDown : Icon
 textRotationDown =
     I.fromNodes
@@ -24874,7 +24874,7 @@ textRotationDown =
         ]
 
 
-{-| text rotation none -}
+{-| Text Rotation None -}
 textRotationNone : Icon
 textRotationNone =
     I.fromNodes
@@ -24886,7 +24886,7 @@ textRotationNone =
         ]
 
 
-{-| text snippet -}
+{-| Text Snippet -}
 textSnippet : Icon
 textSnippet =
     I.fromNodes
@@ -24898,7 +24898,7 @@ textSnippet =
         ]
 
 
-{-| textsms -}
+{-| Textsms -}
 textsms : Icon
 textsms =
     I.fromNodes
@@ -24910,7 +24910,7 @@ textsms =
         ]
 
 
-{-| texture -}
+{-| Texture -}
 texture : Icon
 texture =
     I.fromNodes
@@ -24922,7 +24922,7 @@ texture =
         ]
 
 
-{-| theater comedy -}
+{-| Theater Comedy -}
 theaterComedy : Icon
 theaterComedy =
     I.fromNodes
@@ -24939,7 +24939,7 @@ theaterComedy =
         ]
 
 
-{-| theaters -}
+{-| Theaters -}
 theaters : Icon
 theaters =
     I.fromNodes
@@ -24951,7 +24951,7 @@ theaters =
         ]
 
 
-{-| thermostat -}
+{-| Thermostat -}
 thermostat : Icon
 thermostat =
     I.fromNodes
@@ -24963,7 +24963,7 @@ thermostat =
         ]
 
 
-{-| thermostat auto -}
+{-| Thermostat Auto -}
 thermostatAuto : Icon
 thermostatAuto =
     I.fromNodes
@@ -24975,7 +24975,7 @@ thermostatAuto =
         ]
 
 
-{-| thumb down -}
+{-| Thumb Down -}
 thumbDown : Icon
 thumbDown =
     I.fromNodes
@@ -24987,7 +24987,7 @@ thumbDown =
         ]
 
 
-{-| thumb down alt -}
+{-| Thumb Down Alt -}
 thumbDownAlt : Icon
 thumbDownAlt =
     I.fromNodes
@@ -24999,7 +24999,7 @@ thumbDownAlt =
         ]
 
 
-{-| thumb down off alt -}
+{-| Thumb Down Off Alt -}
 thumbDownOffAlt : Icon
 thumbDownOffAlt =
     I.fromNodes
@@ -25011,7 +25011,7 @@ thumbDownOffAlt =
         ]
 
 
-{-| thumb up -}
+{-| Thumb Up -}
 thumbUp : Icon
 thumbUp =
     I.fromNodes
@@ -25023,7 +25023,7 @@ thumbUp =
         ]
 
 
-{-| thumb up alt -}
+{-| Thumb Up Alt -}
 thumbUpAlt : Icon
 thumbUpAlt =
     I.fromNodes
@@ -25035,7 +25035,7 @@ thumbUpAlt =
         ]
 
 
-{-| thumb up off alt -}
+{-| Thumb Up Off Alt -}
 thumbUpOffAlt : Icon
 thumbUpOffAlt =
     I.fromNodes
@@ -25047,7 +25047,7 @@ thumbUpOffAlt =
         ]
 
 
-{-| thumbs up down -}
+{-| Thumbs Up Down -}
 thumbsUpDown : Icon
 thumbsUpDown =
     I.fromNodes
@@ -25059,7 +25059,7 @@ thumbsUpDown =
         ]
 
 
-{-| thunderstorm -}
+{-| Thunderstorm -}
 thunderstorm : Icon
 thunderstorm =
     I.fromNodes
@@ -25071,7 +25071,7 @@ thunderstorm =
         ]
 
 
-{-| tiktok -}
+{-| Tiktok -}
 tiktok : Icon
 tiktok =
     I.fromNodes
@@ -25083,7 +25083,7 @@ tiktok =
         ]
 
 
-{-| time to leave -}
+{-| Time To Leave -}
 timeToLeave : Icon
 timeToLeave =
     I.fromNodes
@@ -25095,7 +25095,7 @@ timeToLeave =
         ]
 
 
-{-| timelapse -}
+{-| Timelapse -}
 timelapse : Icon
 timelapse =
     I.fromNodes
@@ -25107,7 +25107,7 @@ timelapse =
         ]
 
 
-{-| timeline -}
+{-| Timeline -}
 timeline : Icon
 timeline =
     I.fromNodes
@@ -25119,7 +25119,7 @@ timeline =
         ]
 
 
-{-| timer -}
+{-| Timer -}
 timer : Icon
 timer =
     I.fromNodes
@@ -25131,7 +25131,7 @@ timer =
         ]
 
 
-{-| timer 10 -}
+{-| Timer 10 -}
 timer10 : Icon
 timer10 =
     I.fromNodes
@@ -25143,7 +25143,7 @@ timer10 =
         ]
 
 
-{-| timer 10 select -}
+{-| Timer 10 Select -}
 timer10Select : Icon
 timer10Select =
     I.fromNodes
@@ -25155,7 +25155,7 @@ timer10Select =
         ]
 
 
-{-| timer 3 -}
+{-| Timer 3 -}
 timer3 : Icon
 timer3 =
     I.fromNodes
@@ -25167,7 +25167,7 @@ timer3 =
         ]
 
 
-{-| timer 3 select -}
+{-| Timer 3 Select -}
 timer3Select : Icon
 timer3Select =
     I.fromNodes
@@ -25179,7 +25179,7 @@ timer3Select =
         ]
 
 
-{-| timer off -}
+{-| Timer Off -}
 timerOff : Icon
 timerOff =
     I.fromNodes
@@ -25191,7 +25191,7 @@ timerOff =
         ]
 
 
-{-| tips and updates -}
+{-| Tips And Updates -}
 tipsAndUpdates : Icon
 tipsAndUpdates =
     I.fromNodes
@@ -25203,7 +25203,7 @@ tipsAndUpdates =
         ]
 
 
-{-| tire repair -}
+{-| Tire Repair -}
 tireRepair : Icon
 tireRepair =
     I.fromNodes
@@ -25220,7 +25220,7 @@ tireRepair =
         ]
 
 
-{-| title -}
+{-| Title -}
 title : Icon
 title =
     I.fromNodes
@@ -25232,7 +25232,7 @@ title =
         ]
 
 
-{-| toc -}
+{-| Toc -}
 toc : Icon
 toc =
     I.fromNodes
@@ -25244,7 +25244,7 @@ toc =
         ]
 
 
-{-| today -}
+{-| Today -}
 today : Icon
 today =
     I.fromNodes
@@ -25256,7 +25256,7 @@ today =
         ]
 
 
-{-| toggle off -}
+{-| Toggle Off -}
 toggleOff : Icon
 toggleOff =
     I.fromNodes
@@ -25268,7 +25268,7 @@ toggleOff =
         ]
 
 
-{-| toggle on -}
+{-| Toggle On -}
 toggleOn : Icon
 toggleOn =
     I.fromNodes
@@ -25280,7 +25280,7 @@ toggleOn =
         ]
 
 
-{-| token -}
+{-| Token -}
 token : Icon
 token =
     I.fromNodes
@@ -25292,7 +25292,7 @@ token =
         ]
 
 
-{-| toll -}
+{-| Toll -}
 toll : Icon
 toll =
     I.fromNodes
@@ -25304,7 +25304,7 @@ toll =
         ]
 
 
-{-| tonality -}
+{-| Tonality -}
 tonality : Icon
 tonality =
     I.fromNodes
@@ -25316,7 +25316,7 @@ tonality =
         ]
 
 
-{-| topic -}
+{-| Topic -}
 topic : Icon
 topic =
     I.fromNodes
@@ -25328,7 +25328,7 @@ topic =
         ]
 
 
-{-| tornado -}
+{-| Tornado -}
 tornado : Icon
 tornado =
     I.fromNodes
@@ -25340,7 +25340,7 @@ tornado =
         ]
 
 
-{-| touch app -}
+{-| Touch App -}
 touchApp : Icon
 touchApp =
     I.fromNodes
@@ -25352,7 +25352,7 @@ touchApp =
         ]
 
 
-{-| tour -}
+{-| Tour -}
 tour : Icon
 tour =
     I.fromNodes
@@ -25364,7 +25364,7 @@ tour =
         ]
 
 
-{-| toys -}
+{-| Toys -}
 toys : Icon
 toys =
     I.fromNodes
@@ -25376,7 +25376,7 @@ toys =
         ]
 
 
-{-| track changes -}
+{-| Track Changes -}
 trackChanges : Icon
 trackChanges =
     I.fromNodes
@@ -25388,7 +25388,7 @@ trackChanges =
         ]
 
 
-{-| traffic -}
+{-| Traffic -}
 traffic : Icon
 traffic =
     I.fromNodes
@@ -25400,7 +25400,7 @@ traffic =
         ]
 
 
-{-| train -}
+{-| Train -}
 train : Icon
 train =
     I.fromNodes
@@ -25412,7 +25412,7 @@ train =
         ]
 
 
-{-| tram -}
+{-| Tram -}
 tram : Icon
 tram =
     I.fromNodes
@@ -25424,7 +25424,7 @@ tram =
         ]
 
 
-{-| transcribe -}
+{-| Transcribe -}
 transcribe : Icon
 transcribe =
     I.fromNodes
@@ -25436,7 +25436,7 @@ transcribe =
         ]
 
 
-{-| transfer within a station -}
+{-| Transfer Within A Station -}
 transferWithinAStation : Icon
 transferWithinAStation =
     I.fromNodes
@@ -25448,7 +25448,7 @@ transferWithinAStation =
         ]
 
 
-{-| transform -}
+{-| Transform -}
 transform : Icon
 transform =
     I.fromNodes
@@ -25460,7 +25460,7 @@ transform =
         ]
 
 
-{-| transgender -}
+{-| Transgender -}
 transgender : Icon
 transgender =
     I.fromNodes
@@ -25472,7 +25472,7 @@ transgender =
         ]
 
 
-{-| transit enterexit -}
+{-| Transit Enterexit -}
 transitEnterexit : Icon
 transitEnterexit =
     I.fromNodes
@@ -25484,7 +25484,7 @@ transitEnterexit =
         ]
 
 
-{-| translate -}
+{-| Translate -}
 translate : Icon
 translate =
     I.fromNodes
@@ -25496,7 +25496,7 @@ translate =
         ]
 
 
-{-| travel explore -}
+{-| Travel Explore -}
 travelExplore : Icon
 travelExplore =
     I.fromNodes
@@ -25508,7 +25508,7 @@ travelExplore =
         ]
 
 
-{-| trending down -}
+{-| Trending Down -}
 trendingDown : Icon
 trendingDown =
     I.fromNodes
@@ -25520,7 +25520,7 @@ trendingDown =
         ]
 
 
-{-| trending flat -}
+{-| Trending Flat -}
 trendingFlat : Icon
 trendingFlat =
     I.fromNodes
@@ -25532,7 +25532,7 @@ trendingFlat =
         ]
 
 
-{-| trending up -}
+{-| Trending Up -}
 trendingUp : Icon
 trendingUp =
     I.fromNodes
@@ -25544,7 +25544,7 @@ trendingUp =
         ]
 
 
-{-| trip origin -}
+{-| Trip Origin -}
 tripOrigin : Icon
 tripOrigin =
     I.fromNodes
@@ -25556,7 +25556,7 @@ tripOrigin =
         ]
 
 
-{-| troubleshoot -}
+{-| Troubleshoot -}
 troubleshoot : Icon
 troubleshoot =
     I.fromNodes
@@ -25573,7 +25573,7 @@ troubleshoot =
         ]
 
 
-{-| try -}
+{-| Try -}
 try : Icon
 try =
     I.fromNodes
@@ -25585,7 +25585,7 @@ try =
         ]
 
 
-{-| tsunami -}
+{-| Tsunami -}
 tsunami : Icon
 tsunami =
     I.fromNodes
@@ -25597,7 +25597,7 @@ tsunami =
         ]
 
 
-{-| tty -}
+{-| Tty -}
 tty : Icon
 tty =
     I.fromNodes
@@ -25609,7 +25609,7 @@ tty =
         ]
 
 
-{-| tune -}
+{-| Tune -}
 tune : Icon
 tune =
     I.fromNodes
@@ -25621,7 +25621,7 @@ tune =
         ]
 
 
-{-| tungsten -}
+{-| Tungsten -}
 tungsten : Icon
 tungsten =
     I.fromNodes
@@ -25633,7 +25633,7 @@ tungsten =
         ]
 
 
-{-| turn left -}
+{-| Turn Left -}
 turnLeft : Icon
 turnLeft =
     I.fromNodes
@@ -25645,7 +25645,7 @@ turnLeft =
         ]
 
 
-{-| turn right -}
+{-| Turn Right -}
 turnRight : Icon
 turnRight =
     I.fromNodes
@@ -25657,7 +25657,7 @@ turnRight =
         ]
 
 
-{-| turn sharp left -}
+{-| Turn Sharp Left -}
 turnSharpLeft : Icon
 turnSharpLeft =
     I.fromNodes
@@ -25669,7 +25669,7 @@ turnSharpLeft =
         ]
 
 
-{-| turn sharp right -}
+{-| Turn Sharp Right -}
 turnSharpRight : Icon
 turnSharpRight =
     I.fromNodes
@@ -25681,7 +25681,7 @@ turnSharpRight =
         ]
 
 
-{-| turn slight left -}
+{-| Turn Slight Left -}
 turnSlightLeft : Icon
 turnSlightLeft =
     I.fromNodes
@@ -25693,7 +25693,7 @@ turnSlightLeft =
         ]
 
 
-{-| turn slight right -}
+{-| Turn Slight Right -}
 turnSlightRight : Icon
 turnSlightRight =
     I.fromNodes
@@ -25705,7 +25705,7 @@ turnSlightRight =
         ]
 
 
-{-| turned in -}
+{-| Turned In -}
 turnedIn : Icon
 turnedIn =
     I.fromNodes
@@ -25716,7 +25716,7 @@ turnedIn =
         ]
 
 
-{-| turned in not -}
+{-| Turned In Not -}
 turnedInNot : Icon
 turnedInNot =
     I.fromNodes
@@ -25728,7 +25728,7 @@ turnedInNot =
         ]
 
 
-{-| tv -}
+{-| Tv -}
 tv : Icon
 tv =
     I.fromNodes
@@ -25740,7 +25740,7 @@ tv =
         ]
 
 
-{-| tv off -}
+{-| Tv Off -}
 tvOff : Icon
 tvOff =
     I.fromNodes
@@ -25752,7 +25752,7 @@ tvOff =
         ]
 
 
-{-| two wheeler -}
+{-| Two Wheeler -}
 twoWheeler : Icon
 twoWheeler =
     I.fromNodes
@@ -25764,7 +25764,7 @@ twoWheeler =
         ]
 
 
-{-| type specimen -}
+{-| Type Specimen -}
 typeSpecimen : Icon
 typeSpecimen =
     I.fromNodes
@@ -25782,7 +25782,7 @@ typeSpecimen =
         ]
 
 
-{-| u turn left -}
+{-| U Turn Left -}
 uTurnLeft : Icon
 uTurnLeft =
     I.fromNodes
@@ -25794,7 +25794,7 @@ uTurnLeft =
         ]
 
 
-{-| u turn right -}
+{-| U Turn Right -}
 uTurnRight : Icon
 uTurnRight =
     I.fromNodes
@@ -25806,7 +25806,7 @@ uTurnRight =
         ]
 
 
-{-| umbrella -}
+{-| Umbrella -}
 umbrella : Icon
 umbrella =
     I.fromNodes
@@ -25818,7 +25818,7 @@ umbrella =
         ]
 
 
-{-| unarchive -}
+{-| Unarchive -}
 unarchive : Icon
 unarchive =
     I.fromNodes
@@ -25830,7 +25830,7 @@ unarchive =
         ]
 
 
-{-| undo -}
+{-| Undo -}
 undo : Icon
 undo =
     I.fromNodes
@@ -25842,7 +25842,7 @@ undo =
         ]
 
 
-{-| unfold less -}
+{-| Unfold Less -}
 unfoldLess : Icon
 unfoldLess =
     I.fromNodes
@@ -25854,7 +25854,7 @@ unfoldLess =
         ]
 
 
-{-| unfold less double -}
+{-| Unfold Less Double -}
 unfoldLessDouble : Icon
 unfoldLessDouble =
     I.fromNodes
@@ -25876,7 +25876,7 @@ unfoldLessDouble =
         ]
 
 
-{-| unfold more -}
+{-| Unfold More -}
 unfoldMore : Icon
 unfoldMore =
     I.fromNodes
@@ -25888,7 +25888,7 @@ unfoldMore =
         ]
 
 
-{-| unfold more double -}
+{-| Unfold More Double -}
 unfoldMoreDouble : Icon
 unfoldMoreDouble =
     I.fromNodes
@@ -25910,7 +25910,7 @@ unfoldMoreDouble =
         ]
 
 
-{-| unpublished -}
+{-| Unpublished -}
 unpublished : Icon
 unpublished =
     I.fromNodes
@@ -25922,7 +25922,7 @@ unpublished =
         ]
 
 
-{-| unsubscribe -}
+{-| Unsubscribe -}
 unsubscribe : Icon
 unsubscribe =
     I.fromNodes
@@ -25934,7 +25934,7 @@ unsubscribe =
         ]
 
 
-{-| upcoming -}
+{-| Upcoming -}
 upcoming : Icon
 upcoming =
     I.fromNodes
@@ -25946,7 +25946,7 @@ upcoming =
         ]
 
 
-{-| update -}
+{-| Update -}
 update : Icon
 update =
     I.fromNodes
@@ -25958,7 +25958,7 @@ update =
         ]
 
 
-{-| update disabled -}
+{-| Update Disabled -}
 updateDisabled : Icon
 updateDisabled =
     I.fromNodes
@@ -25970,7 +25970,7 @@ updateDisabled =
         ]
 
 
-{-| upgrade -}
+{-| Upgrade -}
 upgrade : Icon
 upgrade =
     I.fromNodes
@@ -25982,7 +25982,7 @@ upgrade =
         ]
 
 
-{-| upload -}
+{-| Upload -}
 upload : Icon
 upload =
     I.fromNodes
@@ -25994,7 +25994,7 @@ upload =
         ]
 
 
-{-| upload file -}
+{-| Upload File -}
 uploadFile : Icon
 uploadFile =
     I.fromNodes
@@ -26006,7 +26006,7 @@ uploadFile =
         ]
 
 
-{-| usb -}
+{-| Usb -}
 usb : Icon
 usb =
     I.fromNodes
@@ -26018,7 +26018,7 @@ usb =
         ]
 
 
-{-| usb off -}
+{-| Usb Off -}
 usbOff : Icon
 usbOff =
     I.fromNodes
@@ -26030,7 +26030,7 @@ usbOff =
         ]
 
 
-{-| vaccines -}
+{-| Vaccines -}
 vaccines : Icon
 vaccines =
     I.fromNodes
@@ -26042,7 +26042,7 @@ vaccines =
         ]
 
 
-{-| vape free -}
+{-| Vape Free -}
 vapeFree : Icon
 vapeFree =
     I.fromNodes
@@ -26054,7 +26054,7 @@ vapeFree =
         ]
 
 
-{-| vaping rooms -}
+{-| Vaping Rooms -}
 vapingRooms : Icon
 vapingRooms =
     I.fromNodes
@@ -26066,7 +26066,7 @@ vapingRooms =
         ]
 
 
-{-| verified -}
+{-| Verified -}
 verified : Icon
 verified =
     I.fromNodes
@@ -26078,7 +26078,7 @@ verified =
         ]
 
 
-{-| verified user -}
+{-| Verified User -}
 verifiedUser : Icon
 verifiedUser =
     I.fromNodes
@@ -26090,7 +26090,7 @@ verifiedUser =
         ]
 
 
-{-| vertical align bottom -}
+{-| Vertical Align Bottom -}
 verticalAlignBottom : Icon
 verticalAlignBottom =
     I.fromNodes
@@ -26102,7 +26102,7 @@ verticalAlignBottom =
         ]
 
 
-{-| vertical align center -}
+{-| Vertical Align Center -}
 verticalAlignCenter : Icon
 verticalAlignCenter =
     I.fromNodes
@@ -26114,7 +26114,7 @@ verticalAlignCenter =
         ]
 
 
-{-| vertical align top -}
+{-| Vertical Align Top -}
 verticalAlignTop : Icon
 verticalAlignTop =
     I.fromNodes
@@ -26126,7 +26126,7 @@ verticalAlignTop =
         ]
 
 
-{-| vertical distribute -}
+{-| Vertical Distribute -}
 verticalDistribute : Icon
 verticalDistribute =
     I.fromNodes
@@ -26138,7 +26138,7 @@ verticalDistribute =
         ]
 
 
-{-| vertical shades -}
+{-| Vertical Shades -}
 verticalShades : Icon
 verticalShades =
     I.fromNodes
@@ -26150,7 +26150,7 @@ verticalShades =
         ]
 
 
-{-| vertical shades closed -}
+{-| Vertical Shades Closed -}
 verticalShadesClosed : Icon
 verticalShadesClosed =
     I.fromNodes
@@ -26162,7 +26162,7 @@ verticalShadesClosed =
         ]
 
 
-{-| vertical split -}
+{-| Vertical Split -}
 verticalSplit : Icon
 verticalSplit =
     I.fromNodes
@@ -26174,7 +26174,7 @@ verticalSplit =
         ]
 
 
-{-| vibration -}
+{-| Vibration -}
 vibration : Icon
 vibration =
     I.fromNodes
@@ -26186,7 +26186,7 @@ vibration =
         ]
 
 
-{-| video call -}
+{-| Video Call -}
 videoCall : Icon
 videoCall =
     I.fromNodes
@@ -26198,7 +26198,7 @@ videoCall =
         ]
 
 
-{-| video camera back -}
+{-| Video Camera Back -}
 videoCameraBack : Icon
 videoCameraBack =
     I.fromNodes
@@ -26210,7 +26210,7 @@ videoCameraBack =
         ]
 
 
-{-| video camera front -}
+{-| Video Camera Front -}
 videoCameraFront : Icon
 videoCameraFront =
     I.fromNodes
@@ -26222,7 +26222,7 @@ videoCameraFront =
         ]
 
 
-{-| video chat -}
+{-| Video Chat -}
 videoChat : Icon
 videoChat =
     I.fromNodes
@@ -26234,7 +26234,7 @@ videoChat =
         ]
 
 
-{-| video file -}
+{-| Video File -}
 videoFile : Icon
 videoFile =
     I.fromNodes
@@ -26246,7 +26246,7 @@ videoFile =
         ]
 
 
-{-| video label -}
+{-| Video Label -}
 videoLabel : Icon
 videoLabel =
     I.fromNodes
@@ -26258,7 +26258,7 @@ videoLabel =
         ]
 
 
-{-| video library -}
+{-| Video Library -}
 videoLibrary : Icon
 videoLibrary =
     I.fromNodes
@@ -26270,7 +26270,7 @@ videoLibrary =
         ]
 
 
-{-| video settings -}
+{-| Video Settings -}
 videoSettings : Icon
 videoSettings =
     I.fromNodes
@@ -26287,7 +26287,7 @@ videoSettings =
         ]
 
 
-{-| video stable -}
+{-| Video Stable -}
 videoStable : Icon
 videoStable =
     I.fromNodes
@@ -26304,7 +26304,7 @@ videoStable =
         ]
 
 
-{-| videocam -}
+{-| Videocam -}
 videocam : Icon
 videocam =
     I.fromNodes
@@ -26316,7 +26316,7 @@ videocam =
         ]
 
 
-{-| videocam off -}
+{-| Videocam Off -}
 videocamOff : Icon
 videocamOff =
     I.fromNodes
@@ -26328,7 +26328,7 @@ videocamOff =
         ]
 
 
-{-| videogame asset -}
+{-| Videogame Asset -}
 videogameAsset : Icon
 videogameAsset =
     I.fromNodes
@@ -26340,7 +26340,7 @@ videogameAsset =
         ]
 
 
-{-| videogame asset off -}
+{-| Videogame Asset Off -}
 videogameAssetOff : Icon
 videogameAssetOff =
     I.fromNodes
@@ -26352,7 +26352,7 @@ videogameAssetOff =
         ]
 
 
-{-| view agenda -}
+{-| View Agenda -}
 viewAgenda : Icon
 viewAgenda =
     I.fromNodes
@@ -26364,7 +26364,7 @@ viewAgenda =
         ]
 
 
-{-| view array -}
+{-| View Array -}
 viewArray : Icon
 viewArray =
     I.fromNodes
@@ -26376,7 +26376,7 @@ viewArray =
         ]
 
 
-{-| view carousel -}
+{-| View Carousel -}
 viewCarousel : Icon
 viewCarousel =
     I.fromNodes
@@ -26388,7 +26388,7 @@ viewCarousel =
         ]
 
 
-{-| view column -}
+{-| View Column -}
 viewColumn : Icon
 viewColumn =
     I.fromNodes
@@ -26400,7 +26400,7 @@ viewColumn =
         ]
 
 
-{-| view comfy -}
+{-| View Comfy -}
 viewComfy : Icon
 viewComfy =
     I.fromNodes
@@ -26412,7 +26412,7 @@ viewComfy =
         ]
 
 
-{-| view comfy alt -}
+{-| View Comfy Alt -}
 viewComfyAlt : Icon
 viewComfyAlt =
     I.fromNodes
@@ -26424,7 +26424,7 @@ viewComfyAlt =
         ]
 
 
-{-| view compact -}
+{-| View Compact -}
 viewCompact : Icon
 viewCompact =
     I.fromNodes
@@ -26436,7 +26436,7 @@ viewCompact =
         ]
 
 
-{-| view compact alt -}
+{-| View Compact Alt -}
 viewCompactAlt : Icon
 viewCompactAlt =
     I.fromNodes
@@ -26448,7 +26448,7 @@ viewCompactAlt =
         ]
 
 
-{-| view cozy -}
+{-| View Cozy -}
 viewCozy : Icon
 viewCozy =
     I.fromNodes
@@ -26460,7 +26460,7 @@ viewCozy =
         ]
 
 
-{-| view day -}
+{-| View Day -}
 viewDay : Icon
 viewDay =
     I.fromNodes
@@ -26472,7 +26472,7 @@ viewDay =
         ]
 
 
-{-| view headline -}
+{-| View Headline -}
 viewHeadline : Icon
 viewHeadline =
     I.fromNodes
@@ -26484,7 +26484,7 @@ viewHeadline =
         ]
 
 
-{-| view in ar -}
+{-| View In Ar -}
 viewInAr : Icon
 viewInAr =
     I.fromNodes
@@ -26496,7 +26496,7 @@ viewInAr =
         ]
 
 
-{-| view kanban -}
+{-| View Kanban -}
 viewKanban : Icon
 viewKanban =
     I.fromNodes
@@ -26508,7 +26508,7 @@ viewKanban =
         ]
 
 
-{-| view list -}
+{-| View List -}
 viewList : Icon
 viewList =
     I.fromNodes
@@ -26520,7 +26520,7 @@ viewList =
         ]
 
 
-{-| view module -}
+{-| View Module -}
 viewModule : Icon
 viewModule =
     I.fromNodes
@@ -26532,7 +26532,7 @@ viewModule =
         ]
 
 
-{-| view quilt -}
+{-| View Quilt -}
 viewQuilt : Icon
 viewQuilt =
     I.fromNodes
@@ -26544,7 +26544,7 @@ viewQuilt =
         ]
 
 
-{-| view sidebar -}
+{-| View Sidebar -}
 viewSidebar : Icon
 viewSidebar =
     I.fromNodes
@@ -26556,7 +26556,7 @@ viewSidebar =
         ]
 
 
-{-| view stream -}
+{-| View Stream -}
 viewStream : Icon
 viewStream =
     I.fromNodes
@@ -26568,7 +26568,7 @@ viewStream =
         ]
 
 
-{-| view timeline -}
+{-| View Timeline -}
 viewTimeline : Icon
 viewTimeline =
     I.fromNodes
@@ -26580,7 +26580,7 @@ viewTimeline =
         ]
 
 
-{-| view week -}
+{-| View Week -}
 viewWeek : Icon
 viewWeek =
     I.fromNodes
@@ -26592,7 +26592,7 @@ viewWeek =
         ]
 
 
-{-| vignette -}
+{-| Vignette -}
 vignette : Icon
 vignette =
     I.fromNodes
@@ -26604,7 +26604,7 @@ vignette =
         ]
 
 
-{-| villa -}
+{-| Villa -}
 villa : Icon
 villa =
     I.fromNodes
@@ -26616,7 +26616,7 @@ villa =
         ]
 
 
-{-| visibility -}
+{-| Visibility -}
 visibility : Icon
 visibility =
     I.fromNodes
@@ -26628,7 +26628,7 @@ visibility =
         ]
 
 
-{-| visibility off -}
+{-| Visibility Off -}
 visibilityOff : Icon
 visibilityOff =
     I.fromNodes
@@ -26640,7 +26640,7 @@ visibilityOff =
         ]
 
 
-{-| voice chat -}
+{-| Voice Chat -}
 voiceChat : Icon
 voiceChat =
     I.fromNodes
@@ -26652,7 +26652,7 @@ voiceChat =
         ]
 
 
-{-| voice over off -}
+{-| Voice Over Off -}
 voiceOverOff : Icon
 voiceOverOff =
     I.fromNodes
@@ -26664,7 +26664,7 @@ voiceOverOff =
         ]
 
 
-{-| voicemail -}
+{-| Voicemail -}
 voicemail : Icon
 voicemail =
     I.fromNodes
@@ -26676,7 +26676,7 @@ voicemail =
         ]
 
 
-{-| volcano -}
+{-| Volcano -}
 volcano : Icon
 volcano =
     I.fromNodes
@@ -26688,7 +26688,7 @@ volcano =
         ]
 
 
-{-| volume down -}
+{-| Volume Down -}
 volumeDown : Icon
 volumeDown =
     I.fromNodes
@@ -26700,7 +26700,7 @@ volumeDown =
         ]
 
 
-{-| volume mute -}
+{-| Volume Mute -}
 volumeMute : Icon
 volumeMute =
     I.fromNodes
@@ -26712,7 +26712,7 @@ volumeMute =
         ]
 
 
-{-| volume off -}
+{-| Volume Off -}
 volumeOff : Icon
 volumeOff =
     I.fromNodes
@@ -26724,7 +26724,7 @@ volumeOff =
         ]
 
 
-{-| volume up -}
+{-| Volume Up -}
 volumeUp : Icon
 volumeUp =
     I.fromNodes
@@ -26736,7 +26736,7 @@ volumeUp =
         ]
 
 
-{-| volunteer activism -}
+{-| Volunteer Activism -}
 volunteerActivism : Icon
 volunteerActivism =
     I.fromNodes
@@ -26748,7 +26748,7 @@ volunteerActivism =
         ]
 
 
-{-| vpn key -}
+{-| Vpn Key -}
 vpnKey : Icon
 vpnKey =
     I.fromNodes
@@ -26760,7 +26760,7 @@ vpnKey =
         ]
 
 
-{-| vpn key off -}
+{-| Vpn Key Off -}
 vpnKeyOff : Icon
 vpnKeyOff =
     I.fromNodes
@@ -26772,7 +26772,7 @@ vpnKeyOff =
         ]
 
 
-{-| vpn lock -}
+{-| Vpn Lock -}
 vpnLock : Icon
 vpnLock =
     I.fromNodes
@@ -26784,7 +26784,7 @@ vpnLock =
         ]
 
 
-{-| vrpano -}
+{-| Vrpano -}
 vrpano : Icon
 vrpano =
     I.fromNodes
@@ -26796,7 +26796,7 @@ vrpano =
         ]
 
 
-{-| wallet -}
+{-| Wallet -}
 wallet : Icon
 wallet =
     I.fromNodes
@@ -26808,7 +26808,7 @@ wallet =
         ]
 
 
-{-| wallpaper -}
+{-| Wallpaper -}
 wallpaper : Icon
 wallpaper =
     I.fromNodes
@@ -26820,7 +26820,7 @@ wallpaper =
         ]
 
 
-{-| warehouse -}
+{-| Warehouse -}
 warehouse : Icon
 warehouse =
     I.fromNodes
@@ -26832,7 +26832,7 @@ warehouse =
         ]
 
 
-{-| warning -}
+{-| Warning -}
 warning : Icon
 warning =
     I.fromNodes
@@ -26844,7 +26844,7 @@ warning =
         ]
 
 
-{-| warning amber -}
+{-| Warning Amber -}
 warningAmber : Icon
 warningAmber =
     I.fromNodes
@@ -26856,7 +26856,7 @@ warningAmber =
         ]
 
 
-{-| wash -}
+{-| Wash -}
 wash : Icon
 wash =
     I.fromNodes
@@ -26868,7 +26868,7 @@ wash =
         ]
 
 
-{-| watch -}
+{-| Watch -}
 watch : Icon
 watch =
     I.fromNodes
@@ -26880,7 +26880,7 @@ watch =
         ]
 
 
-{-| watch later -}
+{-| Watch Later -}
 watchLater : Icon
 watchLater =
     I.fromNodes
@@ -26892,7 +26892,7 @@ watchLater =
         ]
 
 
-{-| watch off -}
+{-| Watch Off -}
 watchOff : Icon
 watchOff =
     I.fromNodes
@@ -26904,7 +26904,7 @@ watchOff =
         ]
 
 
-{-| water -}
+{-| Water -}
 water : Icon
 water =
     I.fromNodes
@@ -26916,7 +26916,7 @@ water =
         ]
 
 
-{-| water damage -}
+{-| Water Damage -}
 waterDamage : Icon
 waterDamage =
     I.fromNodes
@@ -26928,7 +26928,7 @@ waterDamage =
         ]
 
 
-{-| water drop -}
+{-| Water Drop -}
 waterDrop : Icon
 waterDrop =
     I.fromNodes
@@ -26940,7 +26940,7 @@ waterDrop =
         ]
 
 
-{-| waterfall chart -}
+{-| Waterfall Chart -}
 waterfallChart : Icon
 waterfallChart =
     I.fromNodes
@@ -26952,7 +26952,7 @@ waterfallChart =
         ]
 
 
-{-| waves -}
+{-| Waves -}
 waves : Icon
 waves =
     I.fromNodes
@@ -26964,7 +26964,7 @@ waves =
         ]
 
 
-{-| waving hand -}
+{-| Waving Hand -}
 wavingHand : Icon
 wavingHand =
     I.fromNodes
@@ -26976,7 +26976,7 @@ wavingHand =
         ]
 
 
-{-| wb auto -}
+{-| Wb Auto -}
 wbAuto : Icon
 wbAuto =
     I.fromNodes
@@ -26988,7 +26988,7 @@ wbAuto =
         ]
 
 
-{-| wb cloudy -}
+{-| Wb Cloudy -}
 wbCloudy : Icon
 wbCloudy =
     I.fromNodes
@@ -27000,7 +27000,7 @@ wbCloudy =
         ]
 
 
-{-| wb incandescent -}
+{-| Wb Incandescent -}
 wbIncandescent : Icon
 wbIncandescent =
     I.fromNodes
@@ -27012,7 +27012,7 @@ wbIncandescent =
         ]
 
 
-{-| wb iridescent -}
+{-| Wb Iridescent -}
 wbIridescent : Icon
 wbIridescent =
     I.fromNodes
@@ -27024,7 +27024,7 @@ wbIridescent =
         ]
 
 
-{-| wb shade -}
+{-| Wb Shade -}
 wbShade : Icon
 wbShade =
     I.fromNodes
@@ -27036,7 +27036,7 @@ wbShade =
         ]
 
 
-{-| wb sunny -}
+{-| Wb Sunny -}
 wbSunny : Icon
 wbSunny =
     I.fromNodes
@@ -27048,7 +27048,7 @@ wbSunny =
         ]
 
 
-{-| wb twilight -}
+{-| Wb Twilight -}
 wbTwilight : Icon
 wbTwilight =
     I.fromNodes
@@ -27060,7 +27060,7 @@ wbTwilight =
         ]
 
 
-{-| wc -}
+{-| Wc -}
 wc : Icon
 wc =
     I.fromNodes
@@ -27072,7 +27072,7 @@ wc =
         ]
 
 
-{-| web -}
+{-| Web -}
 web : Icon
 web =
     I.fromNodes
@@ -27084,7 +27084,7 @@ web =
         ]
 
 
-{-| web asset -}
+{-| Web Asset -}
 webAsset : Icon
 webAsset =
     I.fromNodes
@@ -27096,7 +27096,7 @@ webAsset =
         ]
 
 
-{-| web asset off -}
+{-| Web Asset Off -}
 webAssetOff : Icon
 webAssetOff =
     I.fromNodes
@@ -27108,7 +27108,7 @@ webAssetOff =
         ]
 
 
-{-| web stories -}
+{-| Web Stories -}
 webStories : Icon
 webStories =
     I.fromNodes
@@ -27120,7 +27120,7 @@ webStories =
         ]
 
 
-{-| webhook -}
+{-| Webhook -}
 webhook : Icon
 webhook =
     I.fromNodes
@@ -27132,7 +27132,7 @@ webhook =
         ]
 
 
-{-| wechat -}
+{-| Wechat -}
 wechat : Icon
 wechat =
     I.fromNodes
@@ -27149,7 +27149,7 @@ wechat =
         ]
 
 
-{-| weekend -}
+{-| Weekend -}
 weekend : Icon
 weekend =
     I.fromNodes
@@ -27161,7 +27161,7 @@ weekend =
         ]
 
 
-{-| west -}
+{-| West -}
 west : Icon
 west =
     I.fromNodes
@@ -27173,7 +27173,7 @@ west =
         ]
 
 
-{-| whatsapp -}
+{-| Whatsapp -}
 whatsapp : Icon
 whatsapp =
     I.fromNodes
@@ -27185,7 +27185,7 @@ whatsapp =
         ]
 
 
-{-| whatshot -}
+{-| Whatshot -}
 whatshot : Icon
 whatshot =
     I.fromNodes
@@ -27197,7 +27197,7 @@ whatshot =
         ]
 
 
-{-| wheelchair pickup -}
+{-| Wheelchair Pickup -}
 wheelchairPickup : Icon
 wheelchairPickup =
     I.fromNodes
@@ -27209,7 +27209,7 @@ wheelchairPickup =
         ]
 
 
-{-| where to vote -}
+{-| Where To Vote -}
 whereToVote : Icon
 whereToVote =
     I.fromNodes
@@ -27221,7 +27221,7 @@ whereToVote =
         ]
 
 
-{-| widgets -}
+{-| Widgets -}
 widgets : Icon
 widgets =
     I.fromNodes
@@ -27233,7 +27233,7 @@ widgets =
         ]
 
 
-{-| width full -}
+{-| Width Full -}
 widthFull : Icon
 widthFull =
     I.fromNodes
@@ -27245,7 +27245,7 @@ widthFull =
         ]
 
 
-{-| width normal -}
+{-| Width Normal -}
 widthNormal : Icon
 widthNormal =
     I.fromNodes
@@ -27257,7 +27257,7 @@ widthNormal =
         ]
 
 
-{-| width wide -}
+{-| Width Wide -}
 widthWide : Icon
 widthWide =
     I.fromNodes
@@ -27269,7 +27269,7 @@ widthWide =
         ]
 
 
-{-| wifi -}
+{-| Wifi -}
 wifi : Icon
 wifi =
     I.fromNodes
@@ -27281,13 +27281,13 @@ wifi =
         ]
 
 
-{-| wifi 1 bar -}
+{-| Wifi 1 Bar -}
 wifi1Bar : Icon
 wifi1Bar =
     I.fromNodes [ S.circle [ SA.cx "12", SA.cy "18", SA.r "2" ] [] ]
 
 
-{-| wifi 2 bar -}
+{-| Wifi 2 Bar -}
 wifi2Bar : Icon
 wifi2Bar =
     I.fromNodes
@@ -27299,7 +27299,7 @@ wifi2Bar =
         ]
 
 
-{-| wifi calling -}
+{-| Wifi Calling -}
 wifiCalling : Icon
 wifiCalling =
     I.fromNodes
@@ -27316,7 +27316,7 @@ wifiCalling =
         ]
 
 
-{-| wifi calling 3 -}
+{-| Wifi Calling 3 -}
 wifiCalling3 : Icon
 wifiCalling3 =
     I.fromNodes
@@ -27338,7 +27338,7 @@ wifiCalling3 =
         ]
 
 
-{-| wifi channel -}
+{-| Wifi Channel -}
 wifiChannel : Icon
 wifiChannel =
     I.fromNodes
@@ -27350,7 +27350,7 @@ wifiChannel =
         ]
 
 
-{-| wifi find -}
+{-| Wifi Find -}
 wifiFind : Icon
 wifiFind =
     I.fromNodes
@@ -27367,7 +27367,7 @@ wifiFind =
         ]
 
 
-{-| wifi lock -}
+{-| Wifi Lock -}
 wifiLock : Icon
 wifiLock =
     I.fromNodes
@@ -27384,7 +27384,7 @@ wifiLock =
         ]
 
 
-{-| wifi off -}
+{-| Wifi Off -}
 wifiOff : Icon
 wifiOff =
     I.fromNodes
@@ -27396,7 +27396,7 @@ wifiOff =
         ]
 
 
-{-| wifi password -}
+{-| Wifi Password -}
 wifiPassword : Icon
 wifiPassword =
     I.fromNodes
@@ -27408,7 +27408,7 @@ wifiPassword =
         ]
 
 
-{-| wifi protected setup -}
+{-| Wifi Protected Setup -}
 wifiProtectedSetup : Icon
 wifiProtectedSetup =
     I.fromNodes
@@ -27420,7 +27420,7 @@ wifiProtectedSetup =
         ]
 
 
-{-| wifi tethering -}
+{-| Wifi Tethering -}
 wifiTethering : Icon
 wifiTethering =
     I.fromNodes
@@ -27432,7 +27432,7 @@ wifiTethering =
         ]
 
 
-{-| wifi tethering error -}
+{-| Wifi Tethering Error -}
 wifiTetheringError : Icon
 wifiTetheringError =
     I.fromNodes
@@ -27444,7 +27444,7 @@ wifiTetheringError =
         ]
 
 
-{-| wifi tethering error rounded -}
+{-| Wifi Tethering Error Rounded -}
 wifiTetheringErrorRounded : Icon
 wifiTetheringErrorRounded =
     I.fromNodes
@@ -27456,7 +27456,7 @@ wifiTetheringErrorRounded =
         ]
 
 
-{-| wifi tethering off -}
+{-| Wifi Tethering Off -}
 wifiTetheringOff : Icon
 wifiTetheringOff =
     I.fromNodes
@@ -27468,7 +27468,7 @@ wifiTetheringOff =
         ]
 
 
-{-| wind power -}
+{-| Wind Power -}
 windPower : Icon
 windPower =
     I.fromNodes
@@ -27485,7 +27485,7 @@ windPower =
         ]
 
 
-{-| window -}
+{-| Window -}
 window : Icon
 window =
     I.fromNodes
@@ -27497,7 +27497,7 @@ window =
         ]
 
 
-{-| wine bar -}
+{-| Wine Bar -}
 wineBar : Icon
 wineBar =
     I.fromNodes
@@ -27509,7 +27509,7 @@ wineBar =
         ]
 
 
-{-| woman -}
+{-| Woman -}
 woman : Icon
 woman =
     I.fromNodes
@@ -27522,7 +27522,7 @@ woman =
         ]
 
 
-{-| woman 2 -}
+{-| Woman 2 -}
 woman2 : Icon
 woman2 =
     I.fromNodes
@@ -27535,7 +27535,7 @@ woman2 =
         ]
 
 
-{-| woo commerce -}
+{-| Woo Commerce -}
 wooCommerce : Icon
 wooCommerce =
     I.fromNodes
@@ -27547,7 +27547,7 @@ wooCommerce =
         ]
 
 
-{-| wordpress -}
+{-| Wordpress -}
 wordpress : Icon
 wordpress =
     I.fromNodes
@@ -27559,7 +27559,7 @@ wordpress =
         ]
 
 
-{-| work -}
+{-| Work -}
 work : Icon
 work =
     I.fromNodes
@@ -27571,7 +27571,7 @@ work =
         ]
 
 
-{-| work history -}
+{-| Work History -}
 workHistory : Icon
 workHistory =
     I.fromNodes
@@ -27588,7 +27588,7 @@ workHistory =
         ]
 
 
-{-| work off -}
+{-| Work Off -}
 workOff : Icon
 workOff =
     I.fromNodes
@@ -27600,7 +27600,7 @@ workOff =
         ]
 
 
-{-| work outline -}
+{-| Work Outline -}
 workOutline : Icon
 workOutline =
     I.fromNodes
@@ -27612,7 +27612,7 @@ workOutline =
         ]
 
 
-{-| workspace premium -}
+{-| Workspace Premium -}
 workspacePremium : Icon
 workspacePremium =
     I.fromNodes
@@ -27624,7 +27624,7 @@ workspacePremium =
         ]
 
 
-{-| workspaces -}
+{-| Workspaces -}
 workspaces : Icon
 workspaces =
     I.fromNodes
@@ -27636,7 +27636,7 @@ workspaces =
         ]
 
 
-{-| wrap text -}
+{-| Wrap Text -}
 wrapText : Icon
 wrapText =
     I.fromNodes
@@ -27648,7 +27648,7 @@ wrapText =
         ]
 
 
-{-| wrong location -}
+{-| Wrong Location -}
 wrongLocation : Icon
 wrongLocation =
     I.fromNodes
@@ -27665,7 +27665,7 @@ wrongLocation =
         ]
 
 
-{-| wysiwyg -}
+{-| Wysiwyg -}
 wysiwyg : Icon
 wysiwyg =
     I.fromNodes
@@ -27677,7 +27677,7 @@ wysiwyg =
         ]
 
 
-{-| yard -}
+{-| Yard -}
 yard : Icon
 yard =
     I.fromNodes
@@ -27690,7 +27690,7 @@ yard =
         ]
 
 
-{-| youtube searched for -}
+{-| Youtube Searched For -}
 youtubeSearchedFor : Icon
 youtubeSearchedFor =
     I.fromNodes
@@ -27702,7 +27702,7 @@ youtubeSearchedFor =
         ]
 
 
-{-| zoom in -}
+{-| Zoom In -}
 zoomIn : Icon
 zoomIn =
     I.fromNodes
@@ -27714,7 +27714,7 @@ zoomIn =
         ]
 
 
-{-| zoom in map -}
+{-| Zoom In Map -}
 zoomInMap : Icon
 zoomInMap =
     I.fromNodes
@@ -27726,7 +27726,7 @@ zoomInMap =
         ]
 
 
-{-| zoom out -}
+{-| Zoom Out -}
 zoomOut : Icon
 zoomOut =
     I.fromNodes
@@ -27738,7 +27738,7 @@ zoomOut =
         ]
 
 
-{-| zoom out map -}
+{-| Zoom Out Map -}
 zoomOutMap : Icon
 zoomOutMap =
     I.fromNodes
