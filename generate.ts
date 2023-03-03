@@ -1,5 +1,4 @@
 import * as CodeGen from "elm-codegen";
-import { globby } from "globby";
 import fs from "fs";
 import { createRequire } from "node:module";
 const require = createRequire(import.meta.url);
@@ -9,7 +8,6 @@ import path from "path";
 const __dirname = path.resolve();
 
 generate();
-removeImports();
 
 type Icon = {
   name: string;
@@ -26,8 +24,8 @@ function generate(): void {
       icons: icons.map((icon): Icon => {
         try {
           const data = fs.readFileSync(
-            __dirname +
-              "/node_modules/@material-icons/svg/svg/" +
+            //__dirname +
+            "node_modules/@material-icons/svg/svg/" +
               asset_url_pattern
                 .replace("{icon}", icon.name)
                 .replace("{family}", family),
@@ -50,22 +48,5 @@ function generate(): void {
     output: "generated",
     flags: result,
     cwd: "./codegen",
-  });
-}
-
-async function removeImports(): Promise<void> {
-  const paths = await globby(__dirname + "/generated/**/*.elm");
-  paths.forEach((file) => {
-    fs.readFile(file, "utf8", function (err, data) {
-      if (err) {
-        return console.log(err);
-      }
-      var result = data.replace("import Html", "");
-      fs.writeFile(file, result, "utf8", function (err) {
-        if (err) {
-          return console.log(err);
-        }
-      });
-    });
   });
 }
