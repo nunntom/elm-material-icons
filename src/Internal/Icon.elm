@@ -17,9 +17,15 @@ fromNodes =
 
 toHtml : Icon -> Html msg
 toHtml icon =
-    toHtmlWith [ Svg.Attributes.fill "currentColor" ] icon
+    toHtmlWith [] icon
 
 
 toHtmlWith : List (Html.Attribute msg) -> Icon -> Html msg
 toHtmlWith attrs (Icon nodes) =
-    Svg.svg (Svg.Attributes.viewBox "0 0 24 24" :: attrs) (List.map (VirtualDom.map never) nodes)
+    Svg.svg
+        ([ Svg.Attributes.viewBox "0 0 24 24"
+         , Svg.Attributes.fill "currentColor"
+         ]
+            ++ attrs
+        )
+        (List.map (VirtualDom.map never) nodes)
