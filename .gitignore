@@ -2,3 +2,4 @@ node_modules
 elm-stuff
 codegen/Gen
 generated
+tests/*Test.elm
