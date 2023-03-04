@@ -2,6 +2,7 @@ module Generate exposing (main)
 
 {-| -}
 
+import Dict exposing (Dict)
 import Elm exposing (Expression)
 import Elm.Annotation as Type exposing (Annotation)
 import Gen.Basics
@@ -23,7 +24,21 @@ main =
                 (Decode.field "family" Decode.string)
                 (Decode.field "icons" <| Decode.list iconDecoder)
         )
-        (\files -> List.map file files ++ List.map tests files)
+        (\files ->
+            let
+                baselineDict_ =
+                    List.find (\( family, _ ) -> variantModule_ family == Nothing) files
+                        |> Maybe.map (Tuple.second >> baselineDict)
+                        |> Maybe.withDefault Dict.empty
+            in
+            List.map (file baselineDict_) files ++ List.map tests files
+        )
+
+
+baselineDict : List Icon -> Dict String String
+baselineDict =
+    List.map (\{ name, svg } -> ( name, svg ))
+        >> Dict.fromList
 
 
 type alias Icon =
@@ -70,8 +85,8 @@ variantModule_ s =
             Just (String.Extra.toTitleCase s)
 
 
-file : ( String, List Icon ) -> Elm.File
-file ( variant, icons ) =
+file : Dict String String -> ( String, List Icon ) -> Elm.File
+file baselineDict_ ( variant, icons ) =
     Elm.fileWith (variantModule variant)
         { docs =
             \docs ->
@@ -111,7 +126,15 @@ file ( variant, icons ) =
                         Elm.exposeWith { exposeConstructor = False, group = Just (String.Extra.toTitleCase category ++ " Icons") } <|
                             Elm.declaration (functionName name) <|
                                 Elm.withType annotation <|
-                                    Maybe.withDefault (Elm.val "") (makeIcon svg)
+                                    if variantModule_ variant /= Nothing && Dict.get name baselineDict_ == Just svg then
+                                        Elm.value
+                                            { importFrom = [ "Material", "Icons" ]
+                                            , name = functionName name
+                                            , annotation = Just annotation
+                                            }
+
+                                    else
+                                        Maybe.withDefault (Elm.val "") (makeIcon svg)
                 )
                 icons
             ]
@@ -339,26 +362,20 @@ fromNodes nodesArg =
 
 toHtmlExpression : List String -> Elm.Expression
 toHtmlExpression mod =
-    Elm.apply
-        (Elm.value
-            { importFrom = mod
-            , name = "toHtml"
-            , annotation = Nothing
-            }
-        )
-        []
+    Elm.value
+        { importFrom = mod
+        , name = "toHtml"
+        , annotation = Nothing
+        }
 
 
 iconExpression : List String -> String -> Expression
 iconExpression mod name =
-    Elm.apply
-        (Elm.value
-            { importFrom = mod
-            , name = name
-            , annotation = Just annotation
-            }
-        )
-        []
+    Elm.value
+        { importFrom = mod
+        , name = name
+        , annotation = Just annotation
+        }
 
 
 test : Elm.Expression -> Elm.Expression -> Elm.Expression -> Elm.Expression

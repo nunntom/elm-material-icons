@@ -9,7 +9,16 @@ import path from "path";
 const __dirname = path.resolve();
 
 generate();
-removeImports();
+
+// elm-codegen adds `import Html` even though it's not used, and elm-review --fix-all prompts to fix it
+replaceInFiles(__dirname + "/generated/tests/**/*.elm", "import Html", "");
+
+// make the svgs all on one line to make the filesize a bit smaller
+replaceInFiles(
+  __dirname + "/generated/Material/**/*.elm",
+  /I\.fromNodes[^{]+/g,
+  (match) => match.replace(/\s+/g, " ") + "\n\n\n"
+);
 
 type Icon = {
   name: string;
@@ -53,15 +62,14 @@ function generate(): void {
   });
 }
 
-// elm-codegen adds `import Html` even though it's not used, and elm-review --fix-all prompts to fix it
-async function removeImports(): Promise<void> {
-  const paths = await globby(__dirname + "/generated/tests/**/*.elm");
+async function replaceInFiles(glob, find, replace): Promise<void> {
+  const paths = await globby(glob);
   paths.forEach((file) => {
     fs.readFile(file, "utf8", function (err, data) {
       if (err) {
         return console.error(err);
       }
-      var result = data.replace("import Html", "");
+      var result = data.replace(find, replace);
       fs.writeFile(file, result, "utf8", function (err) {
         if (err) {
           return console.error(err);
