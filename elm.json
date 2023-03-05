@@ -5,7 +5,8 @@
   "license": "BSD-3-Clause",
   "version": "1.0.0",
   "exposed-modules": [
-    "Material.Icons",
+    "Material.Icon",
+    "Material.Icons.Filled",
     "Material.Icons.Outlined",
     "Material.Icons.Round",
     "Material.Icons.Sharp",

@@ -1,4 +1,4 @@
-module TestHelper exposing (toHtmlTest)
+module TestHelper exposing (toSvgTest)
 
 import Html exposing (Html)
 import Internal.Icon exposing (Icon)
@@ -7,10 +7,10 @@ import Test.Html.Query as Query
 import Test.Html.Selector as Selector
 
 
-toHtmlTest : String -> (Icon -> Html msg) -> Icon -> Test
-toHtmlTest name toHtml icon =
+toSvgTest : String -> (Icon a -> Html msg) -> Icon a -> Test
+toSvgTest name toSvg icon =
     Test.test name <|
         \_ ->
-            toHtml icon
+            toSvg icon
                 |> Query.fromHtml
                 |> Query.has [ Selector.tag "svg" ]

@@ -1,13 +1,13 @@
-module Material.Icons.Sharp exposing (Icon, abc, acUnit, accessAlarm, accessAlarms, accessTime, accessTimeFilled, accessibility, accessibilityNew, accessible, accessibleForward, accountBalance, accountBalanceWallet, accountBox, accountCircle, accountTree, adUnits, adb, add, addAPhoto, addAlarm, addAlert, addBox, addBusiness, addCard, addChart, addCircle, addCircleOutline, addComment, addHome, addHomeWork, addIcCall, addLink, addLocation, addLocationAlt, addModerator, addPhotoAlternate, addReaction, addRoad, addShoppingCart, addTask, addToDrive, addToHomeScreen, addToPhotos, addToQueue, addchart, adfScanner, adjust, adminPanelSettings, adobe, adsClick, agriculture, air, airlineSeatFlat, airlineSeatFlatAngled, airlineSeatIndividualSuite, airlineSeatLegroomExtra, airlineSeatLegroomNormal, airlineSeatLegroomReduced, airlineSeatReclineExtra, airlineSeatReclineNormal, airlineStops, airlines, airplaneTicket, airplanemodeActive, airplanemodeInactive, airplay, airportShuttle, alarm, alarmAdd, alarmOff, alarmOn, album, alignHorizontalCenter, alignHorizontalLeft, alignHorizontalRight, alignVerticalBottom, alignVerticalCenter, alignVerticalTop, allInbox, allInclusive, allOut, altRoute, alternateEmail, ampStories, analytics, anchor, android, animation, announcement, aod, apartment, api, appBlocking, appRegistration, appSettingsAlt, appShortcut, apple, approval, apps, appsOutage, architecture, archive, areaChart, arrowBack, arrowBackIos, arrowBackIosNew, arrowCircleDown, arrowCircleLeft, arrowCircleRight, arrowCircleUp, arrowDownward, arrowDropDown, arrowDropDownCircle, arrowDropUp, arrowForward, arrowForwardIos, arrowLeft, arrowOutward, arrowRight, arrowRightAlt, arrowUpward, artTrack, article, aspectRatio, assessment, assignment, assignmentInd, assignmentLate, assignmentReturn, assignmentReturned, assignmentTurnedIn, assistWalker, assistant, assistantDirection, assistantPhoto, assuredWorkload, atm, attachEmail, attachFile, attachMoney, attachment, attractions, attribution, audioFile, audiotrack, autoAwesome, autoAwesomeMosaic, autoAwesomeMotion, autoDelete, autoFixHigh, autoFixNormal, autoFixOff, autoGraph, autoMode, autoStories, autofpsSelect, autorenew, avTimer, babyChangingStation, backHand, backpack, backspace, backup, backupTable, badge, bakeryDining, balance, balcony, ballot, barChart, barcode, batchPrediction, bathroom, bathtub, battery0Bar, battery1Bar, battery20, battery2Bar, battery30, battery3Bar, battery4Bar, battery50, battery5Bar, battery60, battery6Bar, battery80, battery90, batteryAlert, batteryCharging20, batteryCharging30, batteryCharging50, batteryCharging60, batteryCharging80, batteryCharging90, batteryChargingFull, batteryFull, batterySaver, batteryStd, batteryUnknown, beachAccess, bed, bedroomBaby, bedroomChild, bedroomParent, bedtime, bedtimeOff, beenhere, bento, bikeScooter, biotech, blender, blind, blinds, blindsClosed, block, bloodtype, bluetooth, bluetoothAudio, bluetoothConnected, bluetoothDisabled, bluetoothDrive, bluetoothSearching, blurCircular, blurLinear, blurOff, blurOn, bolt, book, bookOnline, bookmark, bookmarkAdd, bookmarkAdded, bookmarkBorder, bookmarkRemove, bookmarks, borderAll, borderBottom, borderClear, borderColor, borderHorizontal, borderInner, borderLeft, borderOuter, borderRight, borderStyle, borderTop, borderVertical, boy, brandingWatermark, breakfastDining, brightness1, brightness2, brightness3, brightness4, brightness5, brightness6, brightness7, brightnessAuto, brightnessHigh, brightnessLow, brightnessMedium, broadcastOnHome, broadcastOnPersonal, brokenImage, browseGallery, browserNotSupported, browserUpdated, brunchDining, brush, bubbleChart, bugReport, build, buildCircle, bungalow, burstMode, busAlert, business, businessCenter, cabin, cable, cached, cake, calculate, calendarMonth, calendarToday, calendarViewDay, calendarViewMonth, calendarViewWeek, call, callEnd, callMade, callMerge, callMissed, callMissedOutgoing, callReceived, callSplit, callToAction, camera, cameraAlt, cameraEnhance, cameraFront, cameraIndoor, cameraOutdoor, cameraRear, cameraRoll, cameraswitch, campaign, cancel, cancelPresentation, cancelScheduleSend, candlestickChart, carCrash, carRental, carRepair, cardGiftcard, cardMembership, cardTravel, carpenter, cases, casino, cast, castConnected, castForEducation, castle, catchingPokemon, category, celebration, cellTower, cellWifi, centerFocusStrong, centerFocusWeak, chair, chairAlt, chalet, changeCircle, changeHistory, chargingStation, chat, chatBubble, chatBubbleOutline, check, checkBox, checkBoxOutlineBlank, checkCircle, checkCircleOutline, checklist, checklistRtl, checkroom, chevronLeft, chevronRight, childCare, childFriendly, chromeReaderMode, church, circle, circleNotifications, class, cleanHands, cleaningServices, clear, clearAll, close, closeFullscreen, closedCaption, closedCaptionDisabled, closedCaptionOff, cloud, cloudCircle, cloudDone, cloudDownload, cloudOff, cloudQueue, cloudSync, cloudUpload, co2, coPresent, code, codeOff, coffee, coffeeMaker, collections, collectionsBookmark, colorLens, colorize, comment, commentBank, commentsDisabled, commit, commute, compare, compareArrows, compassCalibration, compost, compress, computer, confirmationNumber, connectWithoutContact, connectedTv, connectingAirports, construction, contactEmergency, contactMail, contactPage, contactPhone, contactSupport, contactless, contacts, contentCopy, contentCut, contentPaste, contentPasteGo, contentPasteOff, contentPasteSearch, contrast, controlCamera, controlPoint, controlPointDuplicate, cookie, copyAll, copyright, coronavirus, corporateFare, cottage, countertops, create, createNewFolder, creditCard, creditCardOff, creditScore, crib, crisisAlert, crop, crop169, crop32, crop54, crop75, cropDin, cropFree, cropLandscape, cropOriginal, cropPortrait, cropRotate, cropSquare, crueltyFree, css, currencyBitcoin, currencyExchange, currencyFranc, currencyLira, currencyPound, currencyRuble, currencyRupee, currencyYen, currencyYuan, curtains, curtainsClosed, cyclone, dangerous, darkMode, dashboard, dashboardCustomize, dataArray, dataExploration, dataObject, dataSaverOff, dataSaverOn, dataThresholding, dataUsage, dataset, datasetLinked, dateRange, deblur, deck, dehaze, delete, deleteForever, deleteOutline, deleteSweep, deliveryDining, densityLarge, densityMedium, densitySmall, departureBoard, description, deselect, designServices, desk, desktopAccessDisabled, desktopMac, desktopWindows, details, developerBoard, developerBoardOff, developerMode, deviceHub, deviceThermostat, deviceUnknown, devices, devicesFold, devicesOther, dialerSip, dialpad, diamond, difference, dining, dinnerDining, directions, directionsBike, directionsBoat, directionsBoatFilled, directionsBus, directionsBusFilled, directionsCar, directionsCarFilled, directionsOff, directionsRailway, directionsRailwayFilled, directionsRun, directionsSubway, directionsSubwayFilled, directionsTransit, directionsTransitFilled, directionsWalk, dirtyLens, disabledByDefault, disabledVisible, discFull, discord, discount, displaySettings, diversity1, diversity2, diversity3, divide, dns, doDisturb, doDisturbAlt, doDisturbOff, doDisturbOn, doNotDisturb, doNotDisturbAlt, doNotDisturbOff, doNotDisturbOn, doNotDisturbOnTotalSilence, doNotStep, doNotTouch, dock, documentScanner, domain, domainAdd, domainDisabled, domainVerification, done, doneAll, doneOutline, donutLarge, donutSmall, doorBack, doorFront, doorSliding, doorbell, doubleArrow, downhillSkiing, download, downloadDone, downloadForOffline, downloading, drafts, dragHandle, dragIndicator, draw, driveEta, driveFileMove, driveFileMoveRtl, driveFileRenameOutline, driveFolderUpload, dry, dryCleaning, duo, dvr, dynamicFeed, dynamicForm, eMobiledata, earbuds, earbudsBattery, east, eco, edgesensorHigh, edgesensorLow, edit, editAttributes, editCalendar, editLocation, editLocationAlt, editNote, editNotifications, editOff, editRoad, egg, eggAlt, eightK, eightKPlus, eightMp, eighteenMp, eighteenUpRating, eject, elderly, elderlyWoman, electricBike, electricBolt, electricCar, electricMeter, electricMoped, electricRickshaw, electricScooter, electricalServices, elevator, elevenMp, email, emergency, emergencyRecording, emergencyShare, emojiEmotions, emojiEvents, emojiFlags, emojiFoodBeverage, emojiNature, emojiObjects, emojiPeople, emojiSymbols, emojiTransportation, energySavingsLeaf, engineering, enhancedEncryption, equalizer, equals, error, errorOutline, escalator, escalatorWarning, euro, euroSymbol, evStation, event, eventAvailable, eventBusy, eventNote, eventRepeat, eventSeat, exitToApp, expand, expandCircleDown, expandLess, expandMore, explicit, explore, exploreOff, exposure, exposureNeg1, exposureNeg2, exposurePlus1, exposurePlus2, exposureZero, extension, extensionOff, face, face2, face3, face4, face5, face6, faceRetouchingNatural, faceRetouchingOff, facebook, factCheck, factory, familyRestroom, fastForward, fastRewind, fastfood, favorite, favoriteBorder, fax, featuredPlayList, featuredVideo, feed, feedback, female, fence, festival, fiberDvr, fiberManualRecord, fiberNew, fiberPin, fiberSmartRecord, fifteenMp, fileCopy, fileDownload, fileDownloadDone, fileDownloadOff, fileOpen, filePresent, fileUpload, filter, filter1, filter2, filter3, filter4, filter5, filter6, filter7, filter8, filter9, filter9Plus, filterAlt, filterAltOff, filterBAndW, filterCenterFocus, filterDrama, filterFrames, filterHdr, filterList, filterListOff, filterNone, filterTiltShift, filterVintage, findInPage, findReplace, fingerprint, fireExtinguisher, fireHydrantAlt, fireTruck, fireplace, firstPage, fitScreen, fitbit, fitnessCenter, fiveG, fiveK, fiveKPlus, fiveMp, flag, flagCircle, flaky, flare, flashAuto, flashOff, flashOn, flashlightOff, flashlightOn, flatware, flight, flightClass, flightLand, flightTakeoff, flip, flipCameraAndroid, flipCameraIos, flipToBack, flipToFront, flood, flourescent, fluorescent, flutterDash, fmdBad, fmdGood, folder, folderCopy, folderDelete, folderOff, folderOpen, folderShared, folderSpecial, folderZip, followTheSigns, fontDownload, fontDownloadOff, foodBank, forest, forkLeft, forkRight, formatAlignCenter, formatAlignJustify, formatAlignLeft, formatAlignRight, formatBold, formatClear, formatColorFill, formatColorReset, formatColorText, formatIndentDecrease, formatIndentIncrease, formatItalic, formatLineSpacing, formatListBulleted, formatListNumbered, formatListNumberedRtl, formatOverline, formatPaint, formatQuote, formatShapes, formatSize, formatStrikethrough, formatTextdirectionLToR, formatTextdirectionRToL, formatUnderlined, fort, forum, forward, forward10, forward30, forward5, forwardToInbox, foundation, fourGMobiledata, fourGPlusMobiledata, fourK, fourKPlus, fourMp, fourteenMp, freeBreakfast, freeCancellation, frontHand, fullscreen, fullscreenExit, functions, gMobiledata, gTranslate, gamepad, games, garage, gasMeter, gavel, generatingTokens, gesture, getApp, gif, gifBox, girl, gite, golfCourse, gppBad, gppGood, gppMaybe, gpsFixed, gpsNotFixed, gpsOff, grade, gradient, grading, grain, graphicEq, grass, greaterThan, greaterThanEqual, grid3x3, grid4x4, gridGoldenratio, gridOff, gridOn, gridView, group, groupAdd, groupOff, groupRemove, groupWork, groups, groups2, groups3, hMobiledata, hPlusMobiledata, hail, handshake, handyman, hardware, hd, hdrAuto, hdrAutoSelect, hdrEnhancedSelect, hdrOff, hdrOffSelect, hdrOn, hdrOnSelect, hdrPlus, hdrStrong, hdrWeak, headphones, headphonesBattery, headset, headsetMic, headsetOff, healing, healthAndSafety, hearing, hearingDisabled, heartBroken, heatPump, height, help, helpCenter, helpOutline, hevc, hexagon, hideImage, hideSource, highQuality, highlight, highlightAlt, highlightOff, hiking, history, historyEdu, historyToggleOff, hive, hls, hlsOff, holidayVillage, home, homeMax, homeMini, homeRepairService, homeWork, horizontalDistribute, horizontalRule, horizontalSplit, hotTub, hotel, hotelClass, hourglassBottom, hourglassDisabled, hourglassEmpty, hourglassFull, hourglassTop, house, houseSiding, houseboat, howToReg, howToVote, html, http, https, hub, hvac, iceSkating, icecream, image, imageAspectRatio, imageNotSupported, imageSearch, imagesearchRoller, importContacts, importExport, importantDevices, inbox, incompleteCircle, indeterminateCheckBox, info, input, insertChart, insertChartOutlined, insertComment, insertDriveFile, insertEmoticon, insertInvitation, insertLink, insertPageBreak, insertPhoto, insights, installDesktop, installMobile, integrationInstructions, interests, interpreterMode, inventory, inventory2, invertColors, invertColorsOff, iosShare, iron, iso, javascript, joinFull, joinInner, joinLeft, joinRight, kayaking, kebabDining, key, keyOff, keyboard, keyboardAlt, keyboardArrowDown, keyboardArrowLeft, keyboardArrowRight, keyboardArrowUp, keyboardBackspace, keyboardCapslock, keyboardCommandKey, keyboardControlKey, keyboardDoubleArrowDown, keyboardDoubleArrowLeft, keyboardDoubleArrowRight, keyboardDoubleArrowUp, keyboardHide, keyboardOptionKey, keyboardReturn, keyboardTab, keyboardVoice, kingBed, kitchen, kitesurfing, label, labelImportant, labelOff, lan, landscape, landslide, language, laptop, laptopChromebook, laptopMac, laptopWindows, lastPage, launch, layers, layersClear, leaderboard, leakAdd, leakRemove, leaveBagsAtHome, legendToggle, lens, lensBlur, lessThan, lessThanEqual, libraryAdd, libraryAddCheck, libraryBooks, libraryMusic, light, lightMode, lightbulb, lightbulbCircle, lineAxis, lineStyle, lineWeight, linearScale, link, linkOff, linkedCamera, liquor, list, listAlt, liveHelp, liveTv, living, localActivity, localAirport, localAtm, localBar, localCafe, localCarWash, localConvenienceStore, localDining, localDrink, localFireDepartment, localFlorist, localGasStation, localGroceryStore, localHospital, localHotel, localLaundryService, localLibrary, localMall, localMovies, localOffer, localParking, localPharmacy, localPhone, localPizza, localPlay, localPolice, localPostOffice, localPrintshop, localSee, localShipping, localTaxi, locationCity, locationDisabled, locationOff, locationOn, locationSearching, lock, lockClock, lockOpen, lockPerson, lockReset, logIn, logOut, login, logoDev, logout, looks, looks3, looks4, looks5, looks6, looksOne, looksTwo, loop, loupe, lowPriority, loyalty, lteMobiledata, ltePlusMobiledata, luggage, lunchDining, lyrics, macroOff, mail, mailLock, mailOutline, male, man, man2, man3, man4, manageAccounts, manageHistory, manageSearch, map, mapsHomeWork, mapsUgc, margin, markAsUnread, markChatRead, markChatUnread, markEmailRead, markEmailUnread, markUnreadChatAlt, markunread, markunreadMailbox, masks, maximize, mediaBluetoothOff, mediaBluetoothOn, mediation, medicalInformation, medicalServices, medication, medicationLiquid, meetingRoom, memory, menu, menuBook, menuOpen, merge, mergeType, message, mic, micExternalOff, micExternalOn, micNone, micOff, microwave, militaryTech, minimize, minorCrash, minus, miscellaneousServices, missedVideoCall, mms, mobileFriendly, mobileOff, mobileScreenShare, mobiledataOff, mode, modeComment, modeEdit, modeEditOutline, modeFanOff, modeNight, modeOfTravel, modeStandby, modelTraining, monetizationOn, money, moneyOff, moneyOffCsred, monitor, monitorHeart, monitorWeight, monochromePhotos, mood, moodBad, moped, more, moreHoriz, moreTime, moreVert, mosque, motionPhotosAuto, motionPhotosOff, motionPhotosOn, motionPhotosPause, motionPhotosPaused, motorcycle, mouse, moveDown, moveToInbox, moveUp, movie, movieCreation, movieFilter, moving, mp, multilineChart, multipleStop, museum, musicNote, musicOff, musicVideo, myLocation, nat, nature, naturePeople, navigateBefore, navigateNext, navigation, nearMe, nearMeDisabled, nearbyError, nearbyOff, nestCamWiredStand, networkCell, networkCheck, networkLocked, networkPing, networkWifi, networkWifi1Bar, networkWifi2Bar, networkWifi3Bar, newLabel, newReleases, newspaper, nextPlan, nextWeek, nfc, nightShelter, nightlife, nightlight, nightlightRound, nightsStay, nineK, nineKPlus, nineMp, nineteenMp, noAccounts, noAdultContent, noBackpack, noCell, noCrash, noDrinks, noEncryption, noEncryptionGmailerrorred, noFlash, noFood, noLuggage, noMeals, noMeetingRoom, noPhotography, noSim, noStroller, noTransfer, noiseAware, noiseControlOff, nordicWalking, north, northEast, northWest, notAccessible, notEqual, notInterested, notListedLocation, notStarted, note, noteAdd, noteAlt, notes, notificationAdd, notificationImportant, notifications, notificationsActive, notificationsNone, notificationsOff, notificationsPaused, numbers, offlineBolt, offlinePin, offlineShare, oilBarrel, onDeviceTraining, ondemandVideo, oneK, oneKPlus, oneTwoThree, oneXMobiledata, onlinePrediction, opacity, openInBrowser, openInFull, openInNew, openInNewOff, openWith, otherHouses, outbond, outbound, outbox, outdoorGrill, outlet, outlinedFlag, output, padding, pages, pageview, paid, palette, panTool, panToolAlt, panorama, panoramaFishEye, panoramaHorizontal, panoramaHorizontalSelect, panoramaPhotosphere, panoramaPhotosphereSelect, panoramaVertical, panoramaVerticalSelect, panoramaWideAngle, panoramaWideAngleSelect, paragliding, park, partyMode, password, pattern, pause, pauseCircle, pauseCircleFilled, pauseCircleOutline, pausePresentation, payment, payments, paypal, pedalBike, pending, pendingActions, pentagon, people, peopleAlt, peopleOutline, percent, percentage, permCameraMic, permContactCalendar, permDataSetting, permDeviceInformation, permIdentity, permMedia, permPhoneMsg, permScanWifi, person, person2, person3, person4, personAdd, personAddAlt, personAddAlt1, personAddDisabled, personOff, personOutline, personPin, personPinCircle, personRemove, personRemoveAlt1, personSearch, personalInjury, personalVideo, pestControl, pestControlRodent, pets, phishing, phone, phoneAndroid, phoneBluetoothSpeaker, phoneCallback, phoneDisabled, phoneEnabled, phoneForwarded, phoneInTalk, phoneIphone, phoneLocked, phoneMissed, phonePaused, phonelink, phonelinkErase, phonelinkLock, phonelinkOff, phonelinkRing, phonelinkSetup, photo, photoAlbum, photoCamera, photoCameraBack, photoCameraFront, photoFilter, photoLibrary, photoSizeSelectActual, photoSizeSelectLarge, photoSizeSelectSmall, php, piano, pianoOff, pictureAsPdf, pictureInPicture, pictureInPictureAlt, pieChart, pieChartOutline, pin, pinDrop, pinEnd, pinInvoke, pinOff, pinch, pivotTableChart, pix, place, plagiarism, playArrow, playCircle, playCircleFilled, playCircleFilledWhite, playCircleOutline, playDisabled, playForWork, playLesson, playlistAdd, playlistAddCheck, playlistAddCheckCircle, playlistAddCircle, playlistPlay, playlistRemove, plumbing, plus, plusMinus, plusMinusAlt, plusOne, podcasts, pointOfSale, policy, poll, polyline, polymer, pool, portableWifiOff, portrait, postAdd, power, powerInput, powerOff, powerSettingsNew, precisionManufacturing, pregnantWoman, presentToAll, preview, priceChange, priceCheck, print, printDisabled, priorityHigh, privacyTip, privateConnectivity, productionQuantityLimits, propane, propaneTank, psychology, psychologyAlt, public, publicOff, publish, publishedWithChanges, punchClock, pushPin, qrCode, qrCode2, qrCodeScanner, qrcode, queryBuilder, queryStats, questionAnswer, questionMark, queue, queueMusic, queuePlayNext, quickreply, quiz, quora, rMobiledata, radar, radio, radioButtonChecked, radioButtonUnchecked, railwayAlert, ramenDining, rampLeft, rampRight, rateReview, rawOff, rawOn, readMore, realEstateAgent, receipt, receiptLong, recentActors, recommend, recordVoiceOver, rectangle, recycling, reddit, redeem, redo, reduceCapacity, refresh, rememberMe, remove, removeCircle, removeCircleOutline, removeDone, removeFromQueue, removeModerator, removeRedEye, removeRoad, removeShoppingCart, reorder, repartition, repeat, repeatOn, repeatOne, repeatOneOn, replay, replay10, replay30, replay5, replayCircleFilled, reply, replyAll, report, reportGmailerrorred, reportOff, reportProblem, requestPage, requestQuote, resetTv, restartAlt, restaurant, restaurantMenu, restore, restoreFromTrash, restorePage, reviews, riceBowl, ringVolume, rocket, rocketLaunch, rollerShades, rollerShadesClosed, rollerSkating, roofing, room, roomPreferences, roomService, rotate90DegreesCcw, rotate90DegreesCw, rotateLeft, rotateRight, roundaboutLeft, roundaboutRight, roundedCorner, route, router, rowing, rssFeed, rsvp, rtt, rule, ruleFolder, runCircle, runningWithErrors, rvHookup, safetyCheck, safetyDivider, sailing, sanitizer, satellite, satelliteAlt, save, saveAll, saveAlt, saveAs, savedSearch, savings, scale, scanner, scatterPlot, schedule, scheduleSend, schema, school, science, score, scoreboard, screenLockLandscape, screenLockPortrait, screenLockRotation, screenRotation, screenRotationAlt, screenSearchDesktop, screenShare, screenshot, screenshotMonitor, scubaDiving, sd, sdCard, sdCardAlert, sdStorage, search, searchOff, security, securityUpdate, securityUpdateGood, securityUpdateWarning, segment, selectAll, selfImprovement, sell, send, sendAndArchive, sendTimeExtension, sendToMobile, sensorDoor, sensorOccupied, sensorWindow, sensors, sensorsOff, sentimentDissatisfied, sentimentNeutral, sentimentSatisfied, sentimentSatisfiedAlt, sentimentSlightlyDissatisfied, sentimentVeryDissatisfied, sentimentVerySatisfied, setMeal, settings, settingsAccessibility, settingsApplications, settingsBackupRestore, settingsBluetooth, settingsBrightness, settingsCell, settingsEthernet, settingsInputAntenna, settingsInputComponent, settingsInputComposite, settingsInputHdmi, settingsInputSvideo, settingsOverscan, settingsPhone, settingsPower, settingsRemote, settingsSuggest, settingsSystemDaydream, settingsVoice, sevenK, sevenKPlus, sevenMp, seventeenMp, severeCold, shapeLine, share, shareArrivalTime, shareLocation, shield, shieldMoon, shop, shop2, shopTwo, shopify, shoppingBag, shoppingBasket, shoppingCart, shoppingCartCheckout, shortText, shortcut, showChart, shower, shuffle, shuffleOn, shutterSpeed, sick, signLanguage, signalCellular0Bar, signalCellular1Bar, signalCellular2Bar, signalCellular3Bar, signalCellular4Bar, signalCellularAlt, signalCellularAlt1Bar, signalCellularAlt2Bar, signalCellularConnectedNoInternet0Bar, signalCellularConnectedNoInternet1Bar, signalCellularConnectedNoInternet2Bar, signalCellularConnectedNoInternet3Bar, signalCellularConnectedNoInternet4Bar, signalCellularNoSim, signalCellularNodata, signalCellularNull, signalCellularOff, signalWifi0Bar, signalWifi1Bar, signalWifi1BarLock, signalWifi2Bar, signalWifi2BarLock, signalWifi3Bar, signalWifi3BarLock, signalWifi4Bar, signalWifi4BarLock, signalWifiBad, signalWifiConnectedNoInternet4, signalWifiOff, signalWifiStatusbar4Bar, signalWifiStatusbarConnectedNoInternet4, signalWifiStatusbarNull, signpost, simCard, simCardAlert, simCardDownload, singleBed, sip, sixFtApart, sixK, sixKPlus, sixMp, sixteenMp, sixtyFps, sixtyFpsSelect, skateboarding, skipNext, skipPrevious, sledding, slideshow, slowMotionVideo, smartButton, smartDisplay, smartScreen, smartToy, smartphone, smokeFree, smokingRooms, sms, smsFailed, snapchat, snippetFolder, snooze, snowboarding, snowmobile, snowshoeing, soap, socialDistance, solarPower, sort, sortByAlpha, sos, soupKitchen, source, south, southAmerica, southEast, southWest, spa, spaceBar, spaceDashboard, spatialAudio, spatialAudioOff, spatialTracking, speaker, speakerGroup, speakerNotes, speakerNotesOff, speakerPhone, speed, spellcheck, splitscreen, spoke, sports, sportsBar, sportsBaseball, sportsBasketball, sportsCricket, sportsEsports, sportsFootball, sportsGolf, sportsGymnastics, sportsHandball, sportsHockey, sportsKabaddi, sportsMartialArts, sportsMma, sportsMotorsports, sportsRugby, sportsScore, sportsSoccer, sportsTennis, sportsVolleyball, square, squareFoot, ssidChart, stackedBarChart, stackedLineChart, stadium, stairs, star, starBorder, starBorderPurple500, starHalf, starOutline, starPurple500, starRate, stars, start, stayCurrentLandscape, stayCurrentPortrait, stayPrimaryLandscape, stayPrimaryPortrait, stickyNote2, stop, stopCircle, stopScreenShare, storage, store, storeMallDirectory, storefront, storm, straight, straighten, stream, streetview, strikethroughS, stroller, style, subdirectoryArrowLeft, subdirectoryArrowRight, subject, subscript, subscriptions, subtitles, subtitlesOff, subway, summarize, superscript, supervisedUserCircle, supervisorAccount, support, supportAgent, surfing, surroundSound, swapCalls, swapHoriz, swapHorizontalCircle, swapVert, swapVerticalCircle, swipe, swipeDown, swipeDownAlt, swipeLeft, swipeLeftAlt, swipeRight, swipeRightAlt, swipeUp, swipeUpAlt, swipeVertical, switchAccessShortcut, switchAccessShortcutAdd, switchAccount, switchCamera, switchLeft, switchRight, switchVideo, synagogue, sync, syncAlt, syncDisabled, syncLock, syncProblem, systemSecurityUpdate, systemSecurityUpdateGood, systemSecurityUpdateWarning, systemUpdate, systemUpdateAlt, tab, tabUnselected, tableBar, tableChart, tableRestaurant, tableRows, tableView, tablet, tabletAndroid, tabletMac, tag, tagFaces, takeoutDining, tapAndPlay, tapas, task, taskAlt, taxiAlert, telegram, templeBuddhist, templeHindu, tenK, tenMp, terminal, terrain, textDecrease, textFields, textFormat, textIncrease, textRotateUp, textRotateVertical, textRotationAngledown, textRotationAngleup, textRotationDown, textRotationNone, textSnippet, textsms, texture, theaterComedy, theaters, thermostat, thermostatAuto, thirteenMp, thirtyFps, thirtyFpsSelect, threeDRotation, threeGMobiledata, threeK, threeKPlus, threeMp, threeP, threeSixty, thumbDown, thumbDownAlt, thumbDownOffAlt, thumbUp, thumbUpAlt, thumbUpOffAlt, thumbsUpDown, thunderstorm, tiktok, timeToLeave, timelapse, timeline, timer, timer10, timer10Select, timer3, timer3Select, timerOff, tipsAndUpdates, tireRepair, title, toHtml, toHtmlWith, toc, today, toggleOff, toggleOn, token, toll, tonality, topic, tornado, touchApp, tour, toys, trackChanges, traffic, train, tram, transcribe, transferWithinAStation, transform, transgender, transitEnterexit, translate, travelExplore, trendingDown, trendingFlat, trendingUp, tripOrigin, troubleshoot, try, tsunami, tty, tune, tungsten, turnLeft, turnRight, turnSharpLeft, turnSharpRight, turnSlightLeft, turnSlightRight, turnedIn, turnedInNot, tv, tvOff, twelveMp, twentyFourMp, twentyMp, twentyOneMp, twentyThreeMp, twentyTwoMp, twoK, twoKPlus, twoMp, twoWheeler, typeSpecimen, uTurnLeft, uTurnRight, umbrella, unarchive, undo, unfoldLess, unfoldLessDouble, unfoldMore, unfoldMoreDouble, unpublished, unsubscribe, upcoming, update, updateDisabled, upgrade, upload, uploadFile, usb, usbOff, vaccines, vapeFree, vapingRooms, verified, verifiedUser, verticalAlignBottom, verticalAlignCenter, verticalAlignTop, verticalDistribute, verticalShades, verticalShadesClosed, verticalSplit, vibration, videoCall, videoCameraBack, videoCameraFront, videoChat, videoFile, videoLabel, videoLibrary, videoSettings, videoStable, videocam, videocamOff, videogameAsset, videogameAssetOff, viewAgenda, viewArray, viewCarousel, viewColumn, viewComfy, viewComfyAlt, viewCompact, viewCompactAlt, viewCozy, viewDay, viewHeadline, viewInAr, viewKanban, viewList, viewModule, viewQuilt, viewSidebar, viewStream, viewTimeline, viewWeek, vignette, villa, visibility, visibilityOff, voiceChat, voiceOverOff, voicemail, volcano, volumeDown, volumeMute, volumeOff, volumeUp, volunteerActivism, vpnKey, vpnKeyOff, vpnLock, vrpano, wallet, wallpaper, warehouse, warning, warningAmber, wash, watch, watchLater, watchOff, water, waterDamage, waterDrop, waterfallChart, waves, wavingHand, wbAuto, wbCloudy, wbIncandescent, wbIridescent, wbShade, wbSunny, wbTwilight, wc, web, webAsset, webAssetOff, webStories, webhook, wechat, weekend, west, whatsapp, whatshot, wheelchairPickup, whereToVote, widgets, widthFull, widthNormal, widthWide, wifi, wifi1Bar, wifi2Bar, wifiCalling, wifiCalling3, wifiChannel, wifiFind, wifiLock, wifiOff, wifiPassword, wifiProtectedSetup, wifiTethering, wifiTetheringError, wifiTetheringErrorRounded, wifiTetheringOff, windPower, window, wineBar, woman, woman2, wooCommerce, wordpress, work, workHistory, workOff, workOutline, workspacePremium, workspaces, wrapText, wrongLocation, wysiwyg, yard, youtubeSearchedFor, zoomIn, zoomInMap, zoomOut, zoomOutMap)
+module Material.Icons.Sharp exposing (Icon, Sharp, abc, acUnit, accessAlarm, accessAlarms, accessTime, accessTimeFilled, accessibility, accessibilityNew, accessible, accessibleForward, accountBalance, accountBalanceWallet, accountBox, accountCircle, accountTree, adUnits, adb, add, addAPhoto, addAlarm, addAlert, addBox, addBusiness, addCard, addChart, addCircle, addCircleOutline, addComment, addHome, addHomeWork, addIcCall, addLink, addLocation, addLocationAlt, addModerator, addPhotoAlternate, addReaction, addRoad, addShoppingCart, addTask, addToDrive, addToHomeScreen, addToPhotos, addToQueue, addchart, adfScanner, adjust, adminPanelSettings, adobe, adsClick, agriculture, air, airlineSeatFlat, airlineSeatFlatAngled, airlineSeatIndividualSuite, airlineSeatLegroomExtra, airlineSeatLegroomNormal, airlineSeatLegroomReduced, airlineSeatReclineExtra, airlineSeatReclineNormal, airlineStops, airlines, airplaneTicket, airplanemodeActive, airplanemodeInactive, airplay, airportShuttle, alarm, alarmAdd, alarmOff, alarmOn, album, alignHorizontalCenter, alignHorizontalLeft, alignHorizontalRight, alignVerticalBottom, alignVerticalCenter, alignVerticalTop, allInbox, allInclusive, allOut, altRoute, alternateEmail, ampStories, analytics, anchor, android, animation, announcement, aod, apartment, api, appBlocking, appRegistration, appSettingsAlt, appShortcut, apple, approval, apps, appsOutage, architecture, archive, areaChart, arrowBack, arrowBackIos, arrowBackIosNew, arrowCircleDown, arrowCircleLeft, arrowCircleRight, arrowCircleUp, arrowDownward, arrowDropDown, arrowDropDownCircle, arrowDropUp, arrowForward, arrowForwardIos, arrowLeft, arrowOutward, arrowRight, arrowRightAlt, arrowUpward, artTrack, article, aspectRatio, assessment, assignment, assignmentInd, assignmentLate, assignmentReturn, assignmentReturned, assignmentTurnedIn, assistWalker, assistant, assistantDirection, assistantPhoto, assuredWorkload, atm, attachEmail, attachFile, attachMoney, attachment, attractions, attribution, audioFile, audiotrack, autoAwesome, autoAwesomeMosaic, autoAwesomeMotion, autoDelete, autoFixHigh, autoFixNormal, autoFixOff, autoGraph, autoMode, autoStories, autofpsSelect, autorenew, avTimer, babyChangingStation, backHand, backpack, backspace, backup, backupTable, badge, bakeryDining, balance, balcony, ballot, barChart, barcode, batchPrediction, bathroom, bathtub, battery0Bar, battery1Bar, battery20, battery2Bar, battery30, battery3Bar, battery4Bar, battery50, battery5Bar, battery60, battery6Bar, battery80, battery90, batteryAlert, batteryCharging20, batteryCharging30, batteryCharging50, batteryCharging60, batteryCharging80, batteryCharging90, batteryChargingFull, batteryFull, batterySaver, batteryStd, batteryUnknown, beachAccess, bed, bedroomBaby, bedroomChild, bedroomParent, bedtime, bedtimeOff, beenhere, bento, bikeScooter, biotech, blender, blind, blinds, blindsClosed, block, bloodtype, bluetooth, bluetoothAudio, bluetoothConnected, bluetoothDisabled, bluetoothDrive, bluetoothSearching, blurCircular, blurLinear, blurOff, blurOn, bolt, book, bookOnline, bookmark, bookmarkAdd, bookmarkAdded, bookmarkBorder, bookmarkRemove, bookmarks, borderAll, borderBottom, borderClear, borderColor, borderHorizontal, borderInner, borderLeft, borderOuter, borderRight, borderStyle, borderTop, borderVertical, boy, brandingWatermark, breakfastDining, brightness1, brightness2, brightness3, brightness4, brightness5, brightness6, brightness7, brightnessAuto, brightnessHigh, brightnessLow, brightnessMedium, broadcastOnHome, broadcastOnPersonal, brokenImage, browseGallery, browserNotSupported, browserUpdated, brunchDining, brush, bubbleChart, bugReport, build, buildCircle, bungalow, burstMode, busAlert, business, businessCenter, cabin, cable, cached, cake, calculate, calendarMonth, calendarToday, calendarViewDay, calendarViewMonth, calendarViewWeek, call, callEnd, callMade, callMerge, callMissed, callMissedOutgoing, callReceived, callSplit, callToAction, camera, cameraAlt, cameraEnhance, cameraFront, cameraIndoor, cameraOutdoor, cameraRear, cameraRoll, cameraswitch, campaign, cancel, cancelPresentation, cancelScheduleSend, candlestickChart, carCrash, carRental, carRepair, cardGiftcard, cardMembership, cardTravel, carpenter, cases, casino, cast, castConnected, castForEducation, castle, catchingPokemon, category, celebration, cellTower, cellWifi, centerFocusStrong, centerFocusWeak, chair, chairAlt, chalet, changeCircle, changeHistory, chargingStation, chat, chatBubble, chatBubbleOutline, check, checkBox, checkBoxOutlineBlank, checkCircle, checkCircleOutline, checklist, checklistRtl, checkroom, chevronLeft, chevronRight, childCare, childFriendly, chromeReaderMode, church, circle, circleNotifications, class, cleanHands, cleaningServices, clear, clearAll, close, closeFullscreen, closedCaption, closedCaptionDisabled, closedCaptionOff, cloud, cloudCircle, cloudDone, cloudDownload, cloudOff, cloudQueue, cloudSync, cloudUpload, co2, coPresent, code, codeOff, coffee, coffeeMaker, collections, collectionsBookmark, colorLens, colorize, comment, commentBank, commentsDisabled, commit, commute, compare, compareArrows, compassCalibration, compost, compress, computer, confirmationNumber, connectWithoutContact, connectedTv, connectingAirports, construction, contactEmergency, contactMail, contactPage, contactPhone, contactSupport, contactless, contacts, contentCopy, contentCut, contentPaste, contentPasteGo, contentPasteOff, contentPasteSearch, contrast, controlCamera, controlPoint, controlPointDuplicate, cookie, copyAll, copyright, coronavirus, corporateFare, cottage, countertops, create, createNewFolder, creditCard, creditCardOff, creditScore, crib, crisisAlert, crop, crop169, crop32, crop54, crop75, cropDin, cropFree, cropLandscape, cropOriginal, cropPortrait, cropRotate, cropSquare, crueltyFree, css, currencyBitcoin, currencyExchange, currencyFranc, currencyLira, currencyPound, currencyRuble, currencyRupee, currencyYen, currencyYuan, curtains, curtainsClosed, cyclone, dangerous, darkMode, dashboard, dashboardCustomize, dataArray, dataExploration, dataObject, dataSaverOff, dataSaverOn, dataThresholding, dataUsage, dataset, datasetLinked, dateRange, deblur, deck, dehaze, delete, deleteForever, deleteOutline, deleteSweep, deliveryDining, densityLarge, densityMedium, densitySmall, departureBoard, description, deselect, designServices, desk, desktopAccessDisabled, desktopMac, desktopWindows, details, developerBoard, developerBoardOff, developerMode, deviceHub, deviceThermostat, deviceUnknown, devices, devicesFold, devicesOther, dialerSip, dialpad, diamond, difference, dining, dinnerDining, directions, directionsBike, directionsBoat, directionsBoatFilled, directionsBus, directionsBusFilled, directionsCar, directionsCarFilled, directionsOff, directionsRailway, directionsRailwayFilled, directionsRun, directionsSubway, directionsSubwayFilled, directionsTransit, directionsTransitFilled, directionsWalk, dirtyLens, disabledByDefault, disabledVisible, discFull, discord, discount, displaySettings, diversity1, diversity2, diversity3, divide, dns, doDisturb, doDisturbAlt, doDisturbOff, doDisturbOn, doNotDisturb, doNotDisturbAlt, doNotDisturbOff, doNotDisturbOn, doNotDisturbOnTotalSilence, doNotStep, doNotTouch, dock, documentScanner, domain, domainAdd, domainDisabled, domainVerification, done, doneAll, doneOutline, donutLarge, donutSmall, doorBack, doorFront, doorSliding, doorbell, doubleArrow, downhillSkiing, download, downloadDone, downloadForOffline, downloading, drafts, dragHandle, dragIndicator, draw, driveEta, driveFileMove, driveFileMoveRtl, driveFileRenameOutline, driveFolderUpload, dry, dryCleaning, duo, dvr, dynamicFeed, dynamicForm, eMobiledata, earbuds, earbudsBattery, east, eco, edgesensorHigh, edgesensorLow, edit, editAttributes, editCalendar, editLocation, editLocationAlt, editNote, editNotifications, editOff, editRoad, egg, eggAlt, eightK, eightKPlus, eightMp, eighteenMp, eighteenUpRating, eject, elderly, elderlyWoman, electricBike, electricBolt, electricCar, electricMeter, electricMoped, electricRickshaw, electricScooter, electricalServices, elevator, elevenMp, email, emergency, emergencyRecording, emergencyShare, emojiEmotions, emojiEvents, emojiFlags, emojiFoodBeverage, emojiNature, emojiObjects, emojiPeople, emojiSymbols, emojiTransportation, energySavingsLeaf, engineering, enhancedEncryption, equalizer, equals, error, errorOutline, escalator, escalatorWarning, euro, euroSymbol, evStation, event, eventAvailable, eventBusy, eventNote, eventRepeat, eventSeat, exitToApp, expand, expandCircleDown, expandLess, expandMore, explicit, explore, exploreOff, exposure, exposureNeg1, exposureNeg2, exposurePlus1, exposurePlus2, exposureZero, extension, extensionOff, face, face2, face3, face4, face5, face6, faceRetouchingNatural, faceRetouchingOff, facebook, factCheck, factory, familyRestroom, fastForward, fastRewind, fastfood, favorite, favoriteBorder, fax, featuredPlayList, featuredVideo, feed, feedback, female, fence, festival, fiberDvr, fiberManualRecord, fiberNew, fiberPin, fiberSmartRecord, fifteenMp, fileCopy, fileDownload, fileDownloadDone, fileDownloadOff, fileOpen, filePresent, fileUpload, filter, filter1, filter2, filter3, filter4, filter5, filter6, filter7, filter8, filter9, filter9Plus, filterAlt, filterAltOff, filterBAndW, filterCenterFocus, filterDrama, filterFrames, filterHdr, filterList, filterListOff, filterNone, filterTiltShift, filterVintage, findInPage, findReplace, fingerprint, fireExtinguisher, fireHydrantAlt, fireTruck, fireplace, firstPage, fitScreen, fitbit, fitnessCenter, fiveG, fiveK, fiveKPlus, fiveMp, flag, flagCircle, flaky, flare, flashAuto, flashOff, flashOn, flashlightOff, flashlightOn, flatware, flight, flightClass, flightLand, flightTakeoff, flip, flipCameraAndroid, flipCameraIos, flipToBack, flipToFront, flood, flourescent, fluorescent, flutterDash, fmdBad, fmdGood, folder, folderCopy, folderDelete, folderOff, folderOpen, folderShared, folderSpecial, folderZip, followTheSigns, fontDownload, fontDownloadOff, foodBank, forest, forkLeft, forkRight, formatAlignCenter, formatAlignJustify, formatAlignLeft, formatAlignRight, formatBold, formatClear, formatColorFill, formatColorReset, formatColorText, formatIndentDecrease, formatIndentIncrease, formatItalic, formatLineSpacing, formatListBulleted, formatListNumbered, formatListNumberedRtl, formatOverline, formatPaint, formatQuote, formatShapes, formatSize, formatStrikethrough, formatTextdirectionLToR, formatTextdirectionRToL, formatUnderlined, fort, forum, forward, forward10, forward30, forward5, forwardToInbox, foundation, fourGMobiledata, fourGPlusMobiledata, fourK, fourKPlus, fourMp, fourteenMp, freeBreakfast, freeCancellation, frontHand, fullscreen, fullscreenExit, functions, gMobiledata, gTranslate, gamepad, games, garage, gasMeter, gavel, generatingTokens, gesture, getApp, gif, gifBox, girl, gite, golfCourse, gppBad, gppGood, gppMaybe, gpsFixed, gpsNotFixed, gpsOff, grade, gradient, grading, grain, graphicEq, grass, greaterThan, greaterThanEqual, grid3x3, grid4x4, gridGoldenratio, gridOff, gridOn, gridView, group, groupAdd, groupOff, groupRemove, groupWork, groups, groups2, groups3, hMobiledata, hPlusMobiledata, hail, handshake, handyman, hardware, hd, hdrAuto, hdrAutoSelect, hdrEnhancedSelect, hdrOff, hdrOffSelect, hdrOn, hdrOnSelect, hdrPlus, hdrStrong, hdrWeak, headphones, headphonesBattery, headset, headsetMic, headsetOff, healing, healthAndSafety, hearing, hearingDisabled, heartBroken, heatPump, height, help, helpCenter, helpOutline, hevc, hexagon, hideImage, hideSource, highQuality, highlight, highlightAlt, highlightOff, hiking, history, historyEdu, historyToggleOff, hive, hls, hlsOff, holidayVillage, home, homeMax, homeMini, homeRepairService, homeWork, horizontalDistribute, horizontalRule, horizontalSplit, hotTub, hotel, hotelClass, hourglassBottom, hourglassDisabled, hourglassEmpty, hourglassFull, hourglassTop, house, houseSiding, houseboat, howToReg, howToVote, html, http, https, hub, hvac, iceSkating, icecream, image, imageAspectRatio, imageNotSupported, imageSearch, imagesearchRoller, importContacts, importExport, importantDevices, inbox, incompleteCircle, indeterminateCheckBox, info, input, insertChart, insertChartOutlined, insertComment, insertDriveFile, insertEmoticon, insertInvitation, insertLink, insertPageBreak, insertPhoto, insights, installDesktop, installMobile, integrationInstructions, interests, interpreterMode, inventory, inventory2, invertColors, invertColorsOff, iosShare, iron, iso, javascript, joinFull, joinInner, joinLeft, joinRight, kayaking, kebabDining, key, keyOff, keyboard, keyboardAlt, keyboardArrowDown, keyboardArrowLeft, keyboardArrowRight, keyboardArrowUp, keyboardBackspace, keyboardCapslock, keyboardCommandKey, keyboardControlKey, keyboardDoubleArrowDown, keyboardDoubleArrowLeft, keyboardDoubleArrowRight, keyboardDoubleArrowUp, keyboardHide, keyboardOptionKey, keyboardReturn, keyboardTab, keyboardVoice, kingBed, kitchen, kitesurfing, label, labelImportant, labelOff, lan, landscape, landslide, language, laptop, laptopChromebook, laptopMac, laptopWindows, lastPage, launch, layers, layersClear, leaderboard, leakAdd, leakRemove, leaveBagsAtHome, legendToggle, lens, lensBlur, lessThan, lessThanEqual, libraryAdd, libraryAddCheck, libraryBooks, libraryMusic, light, lightMode, lightbulb, lightbulbCircle, lineAxis, lineStyle, lineWeight, linearScale, link, linkOff, linkedCamera, liquor, list, listAlt, liveHelp, liveTv, living, localActivity, localAirport, localAtm, localBar, localCafe, localCarWash, localConvenienceStore, localDining, localDrink, localFireDepartment, localFlorist, localGasStation, localGroceryStore, localHospital, localHotel, localLaundryService, localLibrary, localMall, localMovies, localOffer, localParking, localPharmacy, localPhone, localPizza, localPlay, localPolice, localPostOffice, localPrintshop, localSee, localShipping, localTaxi, locationCity, locationDisabled, locationOff, locationOn, locationSearching, lock, lockClock, lockOpen, lockPerson, lockReset, logIn, logOut, login, logoDev, logout, looks, looks3, looks4, looks5, looks6, looksOne, looksTwo, loop, loupe, lowPriority, loyalty, lteMobiledata, ltePlusMobiledata, luggage, lunchDining, lyrics, macroOff, mail, mailLock, mailOutline, male, man, man2, man3, man4, manageAccounts, manageHistory, manageSearch, map, mapsHomeWork, mapsUgc, margin, markAsUnread, markChatRead, markChatUnread, markEmailRead, markEmailUnread, markUnreadChatAlt, markunread, markunreadMailbox, masks, maximize, mediaBluetoothOff, mediaBluetoothOn, mediation, medicalInformation, medicalServices, medication, medicationLiquid, meetingRoom, memory, menu, menuBook, menuOpen, merge, mergeType, message, mic, micExternalOff, micExternalOn, micNone, micOff, microwave, militaryTech, minimize, minorCrash, minus, miscellaneousServices, missedVideoCall, mms, mobileFriendly, mobileOff, mobileScreenShare, mobiledataOff, mode, modeComment, modeEdit, modeEditOutline, modeFanOff, modeNight, modeOfTravel, modeStandby, modelTraining, monetizationOn, money, moneyOff, moneyOffCsred, monitor, monitorHeart, monitorWeight, monochromePhotos, mood, moodBad, moped, more, moreHoriz, moreTime, moreVert, mosque, motionPhotosAuto, motionPhotosOff, motionPhotosOn, motionPhotosPause, motionPhotosPaused, motorcycle, mouse, moveDown, moveToInbox, moveUp, movie, movieCreation, movieFilter, moving, mp, multilineChart, multipleStop, museum, musicNote, musicOff, musicVideo, myLocation, nat, nature, naturePeople, navigateBefore, navigateNext, navigation, nearMe, nearMeDisabled, nearbyError, nearbyOff, nestCamWiredStand, networkCell, networkCheck, networkLocked, networkPing, networkWifi, networkWifi1Bar, networkWifi2Bar, networkWifi3Bar, newLabel, newReleases, newspaper, nextPlan, nextWeek, nfc, nightShelter, nightlife, nightlight, nightlightRound, nightsStay, nineK, nineKPlus, nineMp, nineteenMp, noAccounts, noAdultContent, noBackpack, noCell, noCrash, noDrinks, noEncryption, noEncryptionGmailerrorred, noFlash, noFood, noLuggage, noMeals, noMeetingRoom, noPhotography, noSim, noStroller, noTransfer, noiseAware, noiseControlOff, nordicWalking, north, northEast, northWest, notAccessible, notEqual, notInterested, notListedLocation, notStarted, note, noteAdd, noteAlt, notes, notificationAdd, notificationImportant, notifications, notificationsActive, notificationsNone, notificationsOff, notificationsPaused, numbers, offlineBolt, offlinePin, offlineShare, oilBarrel, onDeviceTraining, ondemandVideo, oneK, oneKPlus, oneTwoThree, oneXMobiledata, onlinePrediction, opacity, openInBrowser, openInFull, openInNew, openInNewOff, openWith, otherHouses, outbond, outbound, outbox, outdoorGrill, outlet, outlinedFlag, output, padding, pages, pageview, paid, palette, panTool, panToolAlt, panorama, panoramaFishEye, panoramaHorizontal, panoramaHorizontalSelect, panoramaPhotosphere, panoramaPhotosphereSelect, panoramaVertical, panoramaVerticalSelect, panoramaWideAngle, panoramaWideAngleSelect, paragliding, park, partyMode, password, pattern, pause, pauseCircle, pauseCircleFilled, pauseCircleOutline, pausePresentation, payment, payments, paypal, pedalBike, pending, pendingActions, pentagon, people, peopleAlt, peopleOutline, percent, percentage, permCameraMic, permContactCalendar, permDataSetting, permDeviceInformation, permIdentity, permMedia, permPhoneMsg, permScanWifi, person, person2, person3, person4, personAdd, personAddAlt, personAddAlt1, personAddDisabled, personOff, personOutline, personPin, personPinCircle, personRemove, personRemoveAlt1, personSearch, personalInjury, personalVideo, pestControl, pestControlRodent, pets, phishing, phone, phoneAndroid, phoneBluetoothSpeaker, phoneCallback, phoneDisabled, phoneEnabled, phoneForwarded, phoneInTalk, phoneIphone, phoneLocked, phoneMissed, phonePaused, phonelink, phonelinkErase, phonelinkLock, phonelinkOff, phonelinkRing, phonelinkSetup, photo, photoAlbum, photoCamera, photoCameraBack, photoCameraFront, photoFilter, photoLibrary, photoSizeSelectActual, photoSizeSelectLarge, photoSizeSelectSmall, php, piano, pianoOff, pictureAsPdf, pictureInPicture, pictureInPictureAlt, pieChart, pieChartOutline, pin, pinDrop, pinEnd, pinInvoke, pinOff, pinch, pivotTableChart, pix, place, plagiarism, playArrow, playCircle, playCircleFilled, playCircleFilledWhite, playCircleOutline, playDisabled, playForWork, playLesson, playlistAdd, playlistAddCheck, playlistAddCheckCircle, playlistAddCircle, playlistPlay, playlistRemove, plumbing, plus, plusMinus, plusMinusAlt, plusOne, podcasts, pointOfSale, policy, poll, polyline, polymer, pool, portableWifiOff, portrait, postAdd, power, powerInput, powerOff, powerSettingsNew, precisionManufacturing, pregnantWoman, presentToAll, preview, priceChange, priceCheck, print, printDisabled, priorityHigh, privacyTip, privateConnectivity, productionQuantityLimits, propane, propaneTank, psychology, psychologyAlt, public, publicOff, publish, publishedWithChanges, punchClock, pushPin, qrCode, qrCode2, qrCodeScanner, qrcode, queryBuilder, queryStats, questionAnswer, questionMark, queue, queueMusic, queuePlayNext, quickreply, quiz, quora, rMobiledata, radar, radio, radioButtonChecked, radioButtonUnchecked, railwayAlert, ramenDining, rampLeft, rampRight, rateReview, rawOff, rawOn, readMore, realEstateAgent, receipt, receiptLong, recentActors, recommend, recordVoiceOver, rectangle, recycling, reddit, redeem, redo, reduceCapacity, refresh, rememberMe, remove, removeCircle, removeCircleOutline, removeDone, removeFromQueue, removeModerator, removeRedEye, removeRoad, removeShoppingCart, reorder, repartition, repeat, repeatOn, repeatOne, repeatOneOn, replay, replay10, replay30, replay5, replayCircleFilled, reply, replyAll, report, reportGmailerrorred, reportOff, reportProblem, requestPage, requestQuote, resetTv, restartAlt, restaurant, restaurantMenu, restore, restoreFromTrash, restorePage, reviews, riceBowl, ringVolume, rocket, rocketLaunch, rollerShades, rollerShadesClosed, rollerSkating, roofing, room, roomPreferences, roomService, rotate90DegreesCcw, rotate90DegreesCw, rotateLeft, rotateRight, roundaboutLeft, roundaboutRight, roundedCorner, route, router, rowing, rssFeed, rsvp, rtt, rule, ruleFolder, runCircle, runningWithErrors, rvHookup, safetyCheck, safetyDivider, sailing, sanitizer, satellite, satelliteAlt, save, saveAll, saveAlt, saveAs, savedSearch, savings, scale, scanner, scatterPlot, schedule, scheduleSend, schema, school, science, score, scoreboard, screenLockLandscape, screenLockPortrait, screenLockRotation, screenRotation, screenRotationAlt, screenSearchDesktop, screenShare, screenshot, screenshotMonitor, scubaDiving, sd, sdCard, sdCardAlert, sdStorage, search, searchOff, security, securityUpdate, securityUpdateGood, securityUpdateWarning, segment, selectAll, selfImprovement, sell, send, sendAndArchive, sendTimeExtension, sendToMobile, sensorDoor, sensorOccupied, sensorWindow, sensors, sensorsOff, sentimentDissatisfied, sentimentNeutral, sentimentSatisfied, sentimentSatisfiedAlt, sentimentSlightlyDissatisfied, sentimentVeryDissatisfied, sentimentVerySatisfied, setMeal, settings, settingsAccessibility, settingsApplications, settingsBackupRestore, settingsBluetooth, settingsBrightness, settingsCell, settingsEthernet, settingsInputAntenna, settingsInputComponent, settingsInputComposite, settingsInputHdmi, settingsInputSvideo, settingsOverscan, settingsPhone, settingsPower, settingsRemote, settingsSuggest, settingsSystemDaydream, settingsVoice, sevenK, sevenKPlus, sevenMp, seventeenMp, severeCold, shapeLine, share, shareArrivalTime, shareLocation, shield, shieldMoon, shop, shop2, shopTwo, shopify, shoppingBag, shoppingBasket, shoppingCart, shoppingCartCheckout, shortText, shortcut, showChart, shower, shuffle, shuffleOn, shutterSpeed, sick, signLanguage, signalCellular0Bar, signalCellular1Bar, signalCellular2Bar, signalCellular3Bar, signalCellular4Bar, signalCellularAlt, signalCellularAlt1Bar, signalCellularAlt2Bar, signalCellularConnectedNoInternet0Bar, signalCellularConnectedNoInternet1Bar, signalCellularConnectedNoInternet2Bar, signalCellularConnectedNoInternet3Bar, signalCellularConnectedNoInternet4Bar, signalCellularNoSim, signalCellularNodata, signalCellularNull, signalCellularOff, signalWifi0Bar, signalWifi1Bar, signalWifi1BarLock, signalWifi2Bar, signalWifi2BarLock, signalWifi3Bar, signalWifi3BarLock, signalWifi4Bar, signalWifi4BarLock, signalWifiBad, signalWifiConnectedNoInternet4, signalWifiOff, signalWifiStatusbar4Bar, signalWifiStatusbarConnectedNoInternet4, signalWifiStatusbarNull, signpost, simCard, simCardAlert, simCardDownload, singleBed, sip, sixFtApart, sixK, sixKPlus, sixMp, sixteenMp, sixtyFps, sixtyFpsSelect, skateboarding, skipNext, skipPrevious, sledding, slideshow, slowMotionVideo, smartButton, smartDisplay, smartScreen, smartToy, smartphone, smokeFree, smokingRooms, sms, smsFailed, snapchat, snippetFolder, snooze, snowboarding, snowmobile, snowshoeing, soap, socialDistance, solarPower, sort, sortByAlpha, sos, soupKitchen, source, south, southAmerica, southEast, southWest, spa, spaceBar, spaceDashboard, spatialAudio, spatialAudioOff, spatialTracking, speaker, speakerGroup, speakerNotes, speakerNotesOff, speakerPhone, speed, spellcheck, splitscreen, spoke, sports, sportsBar, sportsBaseball, sportsBasketball, sportsCricket, sportsEsports, sportsFootball, sportsGolf, sportsGymnastics, sportsHandball, sportsHockey, sportsKabaddi, sportsMartialArts, sportsMma, sportsMotorsports, sportsRugby, sportsScore, sportsSoccer, sportsTennis, sportsVolleyball, square, squareFoot, ssidChart, stackedBarChart, stackedLineChart, stadium, stairs, star, starBorder, starBorderPurple500, starHalf, starOutline, starPurple500, starRate, stars, start, stayCurrentLandscape, stayCurrentPortrait, stayPrimaryLandscape, stayPrimaryPortrait, stickyNote2, stop, stopCircle, stopScreenShare, storage, store, storeMallDirectory, storefront, storm, straight, straighten, stream, streetview, strikethroughS, stroller, style, subdirectoryArrowLeft, subdirectoryArrowRight, subject, subscript, subscriptions, subtitles, subtitlesOff, subway, summarize, superscript, supervisedUserCircle, supervisorAccount, support, supportAgent, surfing, surroundSound, swapCalls, swapHoriz, swapHorizontalCircle, swapVert, swapVerticalCircle, swipe, swipeDown, swipeDownAlt, swipeLeft, swipeLeftAlt, swipeRight, swipeRightAlt, swipeUp, swipeUpAlt, swipeVertical, switchAccessShortcut, switchAccessShortcutAdd, switchAccount, switchCamera, switchLeft, switchRight, switchVideo, synagogue, sync, syncAlt, syncDisabled, syncLock, syncProblem, systemSecurityUpdate, systemSecurityUpdateGood, systemSecurityUpdateWarning, systemUpdate, systemUpdateAlt, tab, tabUnselected, tableBar, tableChart, tableRestaurant, tableRows, tableView, tablet, tabletAndroid, tabletMac, tag, tagFaces, takeoutDining, tapAndPlay, tapas, task, taskAlt, taxiAlert, telegram, templeBuddhist, templeHindu, tenK, tenMp, terminal, terrain, textDecrease, textFields, textFormat, textIncrease, textRotateUp, textRotateVertical, textRotationAngledown, textRotationAngleup, textRotationDown, textRotationNone, textSnippet, textsms, texture, theaterComedy, theaters, thermostat, thermostatAuto, thirteenMp, thirtyFps, thirtyFpsSelect, threeDRotation, threeGMobiledata, threeK, threeKPlus, threeMp, threeP, threeSixty, thumbDown, thumbDownAlt, thumbDownOffAlt, thumbUp, thumbUpAlt, thumbUpOffAlt, thumbsUpDown, thunderstorm, tiktok, timeToLeave, timelapse, timeline, timer, timer10, timer10Select, timer3, timer3Select, timerOff, tipsAndUpdates, tireRepair, title, toSvg, toSvgWith, toc, today, toggleOff, toggleOn, token, toll, tonality, topic, tornado, touchApp, tour, toys, trackChanges, traffic, train, tram, transcribe, transferWithinAStation, transform, transgender, transitEnterexit, translate, travelExplore, trendingDown, trendingFlat, trendingUp, tripOrigin, troubleshoot, try, tsunami, tty, tune, tungsten, turnLeft, turnRight, turnSharpLeft, turnSharpRight, turnSlightLeft, turnSlightRight, turnedIn, turnedInNot, tv, tvOff, twelveMp, twentyFourMp, twentyMp, twentyOneMp, twentyThreeMp, twentyTwoMp, twoK, twoKPlus, twoMp, twoWheeler, typeSpecimen, uTurnLeft, uTurnRight, umbrella, unarchive, undo, unfoldLess, unfoldLessDouble, unfoldMore, unfoldMoreDouble, unpublished, unsubscribe, upcoming, update, updateDisabled, upgrade, upload, uploadFile, usb, usbOff, vaccines, vapeFree, vapingRooms, verified, verifiedUser, verticalAlignBottom, verticalAlignCenter, verticalAlignTop, verticalDistribute, verticalShades, verticalShadesClosed, verticalSplit, vibration, videoCall, videoCameraBack, videoCameraFront, videoChat, videoFile, videoLabel, videoLibrary, videoSettings, videoStable, videocam, videocamOff, videogameAsset, videogameAssetOff, viewAgenda, viewArray, viewCarousel, viewColumn, viewComfy, viewComfyAlt, viewCompact, viewCompactAlt, viewCozy, viewDay, viewHeadline, viewInAr, viewKanban, viewList, viewModule, viewQuilt, viewSidebar, viewStream, viewTimeline, viewWeek, vignette, villa, visibility, visibilityOff, voiceChat, voiceOverOff, voicemail, volcano, volumeDown, volumeMute, volumeOff, volumeUp, volunteerActivism, vpnKey, vpnKeyOff, vpnLock, vrpano, wallet, wallpaper, warehouse, warning, warningAmber, wash, watch, watchLater, watchOff, water, waterDamage, waterDrop, waterfallChart, waves, wavingHand, wbAuto, wbCloudy, wbIncandescent, wbIridescent, wbShade, wbSunny, wbTwilight, wc, web, webAsset, webAssetOff, webStories, webhook, wechat, weekend, west, whatsapp, whatshot, wheelchairPickup, whereToVote, widgets, widthFull, widthNormal, widthWide, wifi, wifi1Bar, wifi2Bar, wifiCalling, wifiCalling3, wifiChannel, wifiFind, wifiLock, wifiOff, wifiPassword, wifiProtectedSetup, wifiTethering, wifiTetheringError, wifiTetheringErrorRounded, wifiTetheringOff, windPower, window, wineBar, woman, woman2, wooCommerce, wordpress, work, workHistory, workOff, workOutline, workspacePremium, workspaces, wrapText, wrongLocation, wysiwyg, yard, youtubeSearchedFor, zoomIn, zoomInMap, zoomOut, zoomOutMap)
 
 {-| 
 ## Type
 
-@docs Icon
+@docs Icon, Sharp
 
 ## Conversions
 
-@docs toHtmlWith, toHtml
+@docs toSvgWith, toSvg
 
 ## Action Icons
 
@@ -93,26 +93,32 @@ module Material.Icons.Sharp exposing (Icon, abc, acUnit, accessAlarm, accessAlar
 
 import Html
 import Internal.Icon as I
-import Material.Icons
+import Material.Icon as Icon
+import Material.Icons.Filled as F
 import Svg as S
 import Svg.Attributes as SA
 
 
+{-| The variant -}
+type alias Sharp =
+    Icon.Sharp
+
+
 {-| The main icon type -}
 type alias Icon =
-    I.Icon
+    Icon.Icon Sharp
 
 
 {-| Convert the icon to an SVG node -}
-toHtml : Icon -> Html.Html msg
-toHtml icon =
-    I.toHtml icon
+toSvg : Icon.Icon Sharp -> Html.Html msg
+toSvg icon =
+    I.toSvg icon
 
 
 {-| Convert the icon to an SVG with attributes -}
-toHtmlWith : List (Html.Attribute msg) -> Icon -> Html.Html msg
-toHtmlWith attrs icon =
-    I.toHtmlWith attrs icon
+toSvgWith : List (Html.Attribute msg) -> Icon.Icon Sharp -> Html.Html msg
+toSvgWith attrs icon =
+    I.toSvgWith attrs icon
 
 
 {-| 10k -}
@@ -208,7 +214,7 @@ oneKPlus =
 {-| 1x Mobiledata -}
 oneXMobiledata : Icon
 oneXMobiledata =
-    Material.Icons.oneXMobiledata
+    I.map F.oneXMobiledata
 
 
 {-| 20mp -}
@@ -274,7 +280,7 @@ thirtyFpsSelect =
 {-| 360 -}
 threeSixty : Icon
 threeSixty =
-    Material.Icons.threeSixty
+    I.map F.threeSixty
 
 
 {-| 3d Rotation -}
@@ -472,13 +478,13 @@ acUnit =
 {-| Access Alarm -}
 accessAlarm : Icon
 accessAlarm =
-    Material.Icons.accessAlarm
+    I.map F.accessAlarm
 
 
 {-| Access Alarms -}
 accessAlarms : Icon
 accessAlarms =
-    Material.Icons.accessAlarms
+    I.map F.accessAlarms
 
 
 {-| Access Time -}
@@ -490,19 +496,19 @@ accessTime =
 {-| Access Time Filled -}
 accessTimeFilled : Icon
 accessTimeFilled =
-    Material.Icons.accessTimeFilled
+    I.map F.accessTimeFilled
 
 
 {-| Accessibility -}
 accessibility : Icon
 accessibility =
-    Material.Icons.accessibility
+    I.map F.accessibility
 
 
 {-| Accessibility New -}
 accessibilityNew : Icon
 accessibilityNew =
-    Material.Icons.accessibilityNew
+    I.map F.accessibilityNew
 
 
 {-| Accessible -}
@@ -538,13 +544,13 @@ accountBox =
 {-| Account Circle -}
 accountCircle : Icon
 accountCircle =
-    Material.Icons.accountCircle
+    I.map F.accountCircle
 
 
 {-| Account Tree -}
 accountTree : Icon
 accountTree =
-    Material.Icons.accountTree
+    I.map F.accountTree
 
 
 {-| Ad Units -}
@@ -556,13 +562,13 @@ adUnits =
 {-| Adb -}
 adb : Icon
 adb =
-    Material.Icons.adb
+    I.map F.adb
 
 
 {-| Add -}
 add : Icon
 add =
-    Material.Icons.add
+    I.map F.add
 
 
 {-| Add A Photo -}
@@ -574,7 +580,7 @@ addAPhoto =
 {-| Add Alarm -}
 addAlarm : Icon
 addAlarm =
-    Material.Icons.addAlarm
+    I.map F.addAlarm
 
 
 {-| Add Alert -}
@@ -592,7 +598,7 @@ addBox =
 {-| Add Business -}
 addBusiness : Icon
 addBusiness =
-    Material.Icons.addBusiness
+    I.map F.addBusiness
 
 
 {-| Add Card -}
@@ -610,13 +616,13 @@ addChart =
 {-| Add Circle -}
 addCircle : Icon
 addCircle =
-    Material.Icons.addCircle
+    I.map F.addCircle
 
 
 {-| Add Circle Outline -}
 addCircleOutline : Icon
 addCircleOutline =
-    Material.Icons.addCircleOutline
+    I.map F.addCircleOutline
 
 
 {-| Add Comment -}
@@ -628,13 +634,13 @@ addComment =
 {-| Add Home -}
 addHome : Icon
 addHome =
-    Material.Icons.addHome
+    I.map F.addHome
 
 
 {-| Add Home Work -}
 addHomeWork : Icon
 addHomeWork =
-    Material.Icons.addHomeWork
+    I.map F.addHomeWork
 
 
 {-| Add Ic Call -}
@@ -658,7 +664,7 @@ addLocation =
 {-| Add Location Alt -}
 addLocationAlt : Icon
 addLocationAlt =
-    Material.Icons.addLocationAlt
+    I.map F.addLocationAlt
 
 
 {-| Add Moderator -}
@@ -676,13 +682,13 @@ addPhotoAlternate =
 {-| Add Reaction -}
 addReaction : Icon
 addReaction =
-    Material.Icons.addReaction
+    I.map F.addReaction
 
 
 {-| Add Road -}
 addRoad : Icon
 addRoad =
-    Material.Icons.addRoad
+    I.map F.addRoad
 
 
 {-| Add Shopping Cart -}
@@ -694,7 +700,7 @@ addShoppingCart =
 {-| Add Task -}
 addTask : Icon
 addTask =
-    Material.Icons.addTask
+    I.map F.addTask
 
 
 {-| Add To Drive -}
@@ -736,37 +742,37 @@ adfScanner =
 {-| Adjust -}
 adjust : Icon
 adjust =
-    Material.Icons.adjust
+    I.map F.adjust
 
 
 {-| Admin Panel Settings -}
 adminPanelSettings : Icon
 adminPanelSettings =
-    Material.Icons.adminPanelSettings
+    I.map F.adminPanelSettings
 
 
 {-| Adobe -}
 adobe : Icon
 adobe =
-    Material.Icons.adobe
+    I.map F.adobe
 
 
 {-| Ads Click -}
 adsClick : Icon
 adsClick =
-    Material.Icons.adsClick
+    I.map F.adsClick
 
 
 {-| Agriculture -}
 agriculture : Icon
 agriculture =
-    Material.Icons.agriculture
+    I.map F.agriculture
 
 
 {-| Air -}
 air : Icon
 air =
-    Material.Icons.air
+    I.map F.air
 
 
 {-| Airline Seat Flat -}
@@ -820,13 +826,13 @@ airlineSeatReclineNormal =
 {-| Airline Stops -}
 airlineStops : Icon
 airlineStops =
-    Material.Icons.airlineStops
+    I.map F.airlineStops
 
 
 {-| Airlines -}
 airlines : Icon
 airlines =
-    Material.Icons.airlines
+    I.map F.airlines
 
 
 {-| Airplane Ticket -}
@@ -838,13 +844,13 @@ airplaneTicket =
 {-| Airplanemode Active -}
 airplanemodeActive : Icon
 airplanemodeActive =
-    Material.Icons.airplanemodeActive
+    I.map F.airplanemodeActive
 
 
 {-| Airplanemode Inactive -}
 airplanemodeInactive : Icon
 airplanemodeInactive =
-    Material.Icons.airplanemodeInactive
+    I.map F.airplanemodeInactive
 
 
 {-| Airplay -}
@@ -886,43 +892,43 @@ alarmOn =
 {-| Album -}
 album : Icon
 album =
-    Material.Icons.album
+    I.map F.album
 
 
 {-| Align Horizontal Center -}
 alignHorizontalCenter : Icon
 alignHorizontalCenter =
-    Material.Icons.alignHorizontalCenter
+    I.map F.alignHorizontalCenter
 
 
 {-| Align Horizontal Left -}
 alignHorizontalLeft : Icon
 alignHorizontalLeft =
-    Material.Icons.alignHorizontalLeft
+    I.map F.alignHorizontalLeft
 
 
 {-| Align Horizontal Right -}
 alignHorizontalRight : Icon
 alignHorizontalRight =
-    Material.Icons.alignHorizontalRight
+    I.map F.alignHorizontalRight
 
 
 {-| Align Vertical Bottom -}
 alignVerticalBottom : Icon
 alignVerticalBottom =
-    Material.Icons.alignVerticalBottom
+    I.map F.alignVerticalBottom
 
 
 {-| Align Vertical Center -}
 alignVerticalCenter : Icon
 alignVerticalCenter =
-    Material.Icons.alignVerticalCenter
+    I.map F.alignVerticalCenter
 
 
 {-| Align Vertical Top -}
 alignVerticalTop : Icon
 alignVerticalTop =
-    Material.Icons.alignVerticalTop
+    I.map F.alignVerticalTop
 
 
 {-| All Inbox -}
@@ -946,19 +952,19 @@ allOut =
 {-| Alt Route -}
 altRoute : Icon
 altRoute =
-    Material.Icons.altRoute
+    I.map F.altRoute
 
 
 {-| Alternate Email -}
 alternateEmail : Icon
 alternateEmail =
-    Material.Icons.alternateEmail
+    I.map F.alternateEmail
 
 
 {-| Amp Stories -}
 ampStories : Icon
 ampStories =
-    Material.Icons.ampStories
+    I.map F.ampStories
 
 
 {-| Analytics -}
@@ -970,19 +976,19 @@ analytics =
 {-| Anchor -}
 anchor : Icon
 anchor =
-    Material.Icons.anchor
+    I.map F.anchor
 
 
 {-| Android -}
 android : Icon
 android =
-    Material.Icons.android
+    I.map F.android
 
 
 {-| Animation -}
 animation : Icon
 animation =
-    Material.Icons.animation
+    I.map F.animation
 
 
 {-| Announcement -}
@@ -1000,13 +1006,13 @@ aod =
 {-| Apartment -}
 apartment : Icon
 apartment =
-    Material.Icons.apartment
+    I.map F.apartment
 
 
 {-| Api -}
 api : Icon
 api =
-    Material.Icons.api
+    I.map F.api
 
 
 {-| App Blocking -}
@@ -1036,7 +1042,7 @@ appShortcut =
 {-| Apple -}
 apple : Icon
 apple =
-    Material.Icons.apple
+    I.map F.apple
 
 
 {-| Approval -}
@@ -1048,19 +1054,19 @@ approval =
 {-| Apps -}
 apps : Icon
 apps =
-    Material.Icons.apps
+    I.map F.apps
 
 
 {-| Apps Outage -}
 appsOutage : Icon
 appsOutage =
-    Material.Icons.appsOutage
+    I.map F.appsOutage
 
 
 {-| Architecture -}
 architecture : Icon
 architecture =
-    Material.Icons.architecture
+    I.map F.architecture
 
 
 {-| Archive -}
@@ -1072,13 +1078,13 @@ archive =
 {-| Area Chart -}
 areaChart : Icon
 areaChart =
-    Material.Icons.areaChart
+    I.map F.areaChart
 
 
 {-| Arrow Back -}
 arrowBack : Icon
 arrowBack =
-    Material.Icons.arrowBack
+    I.map F.arrowBack
 
 
 {-| Arrow Back Ios -}
@@ -1090,37 +1096,37 @@ arrowBackIos =
 {-| Arrow Back Ios New -}
 arrowBackIosNew : Icon
 arrowBackIosNew =
-    Material.Icons.arrowBackIosNew
+    I.map F.arrowBackIosNew
 
 
 {-| Arrow Circle Down -}
 arrowCircleDown : Icon
 arrowCircleDown =
-    Material.Icons.arrowCircleDown
+    I.map F.arrowCircleDown
 
 
 {-| Arrow Circle Left -}
 arrowCircleLeft : Icon
 arrowCircleLeft =
-    Material.Icons.arrowCircleLeft
+    I.map F.arrowCircleLeft
 
 
 {-| Arrow Circle Right -}
 arrowCircleRight : Icon
 arrowCircleRight =
-    Material.Icons.arrowCircleRight
+    I.map F.arrowCircleRight
 
 
 {-| Arrow Circle Up -}
 arrowCircleUp : Icon
 arrowCircleUp =
-    Material.Icons.arrowCircleUp
+    I.map F.arrowCircleUp
 
 
 {-| Arrow Downward -}
 arrowDownward : Icon
 arrowDownward =
-    Material.Icons.arrowDownward
+    I.map F.arrowDownward
 
 
 {-| Arrow Drop Down -}
@@ -1150,25 +1156,25 @@ arrowForward =
 {-| Arrow Forward Ios -}
 arrowForwardIos : Icon
 arrowForwardIos =
-    Material.Icons.arrowForwardIos
+    I.map F.arrowForwardIos
 
 
 {-| Arrow Left -}
 arrowLeft : Icon
 arrowLeft =
-    Material.Icons.arrowLeft
+    I.map F.arrowLeft
 
 
 {-| Arrow Outward -}
 arrowOutward : Icon
 arrowOutward =
-    Material.Icons.arrowOutward
+    I.map F.arrowOutward
 
 
 {-| Arrow Right -}
 arrowRight : Icon
 arrowRight =
-    Material.Icons.arrowRight
+    I.map F.arrowRight
 
 
 {-| Arrow Right Alt -}
@@ -1180,7 +1186,7 @@ arrowRightAlt =
 {-| Arrow Upward -}
 arrowUpward : Icon
 arrowUpward =
-    Material.Icons.arrowUpward
+    I.map F.arrowUpward
 
 
 {-| Art Track -}
@@ -1270,7 +1276,7 @@ assistantPhoto =
 {-| Assured Workload -}
 assuredWorkload : Icon
 assuredWorkload =
-    Material.Icons.assuredWorkload
+    I.map F.assuredWorkload
 
 
 {-| Atm -}
@@ -1288,13 +1294,13 @@ attachEmail =
 {-| Attach File -}
 attachFile : Icon
 attachFile =
-    Material.Icons.attachFile
+    I.map F.attachFile
 
 
 {-| Attach Money -}
 attachMoney : Icon
 attachMoney =
-    Material.Icons.attachMoney
+    I.map F.attachMoney
 
 
 {-| Attachment -}
@@ -1330,7 +1336,7 @@ audiotrack =
 {-| Auto Awesome -}
 autoAwesome : Icon
 autoAwesome =
-    Material.Icons.autoAwesome
+    I.map F.autoAwesome
 
 
 {-| Auto Awesome Mosaic -}
@@ -1372,13 +1378,13 @@ autoFixOff =
 {-| Auto Graph -}
 autoGraph : Icon
 autoGraph =
-    Material.Icons.autoGraph
+    I.map F.autoGraph
 
 
 {-| Auto Mode -}
 autoMode : Icon
 autoMode =
-    Material.Icons.autoMode
+    I.map F.autoMode
 
 
 {-| Auto Stories -}
@@ -1390,19 +1396,19 @@ autoStories =
 {-| Autofps Select -}
 autofpsSelect : Icon
 autofpsSelect =
-    Material.Icons.autofpsSelect
+    I.map F.autofpsSelect
 
 
 {-| Autorenew -}
 autorenew : Icon
 autorenew =
-    Material.Icons.autorenew
+    I.map F.autorenew
 
 
 {-| Av Timer -}
 avTimer : Icon
 avTimer =
-    Material.Icons.avTimer
+    I.map F.avTimer
 
 
 {-| Baby Changing Station -}
@@ -1432,7 +1438,7 @@ backspace =
 {-| Backup -}
 backup : Icon
 backup =
-    Material.Icons.backup
+    I.map F.backup
 
 
 {-| Backup Table -}
@@ -1456,13 +1462,13 @@ bakeryDining =
 {-| Balance -}
 balance : Icon
 balance =
-    Material.Icons.balance
+    I.map F.balance
 
 
 {-| Balcony -}
 balcony : Icon
 balcony =
-    Material.Icons.balcony
+    I.map F.balcony
 
 
 {-| Ballot -}
@@ -1474,13 +1480,13 @@ ballot =
 {-| Bar Chart -}
 barChart : Icon
 barChart =
-    Material.Icons.barChart
+    I.map F.barChart
 
 
 {-| Barcode -}
 barcode : Icon
 barcode =
-    Material.Icons.barcode
+    I.map F.barcode
 
 
 {-| Batch Prediction -}
@@ -1684,13 +1690,13 @@ bedroomParent =
 {-| Bedtime -}
 bedtime : Icon
 bedtime =
-    Material.Icons.bedtime
+    I.map F.bedtime
 
 
 {-| Bedtime Off -}
 bedtimeOff : Icon
 bedtimeOff =
-    Material.Icons.bedtimeOff
+    I.map F.bedtimeOff
 
 
 {-| Beenhere -}
@@ -1726,37 +1732,37 @@ blender =
 {-| Blind -}
 blind : Icon
 blind =
-    Material.Icons.blind
+    I.map F.blind
 
 
 {-| Blinds -}
 blinds : Icon
 blinds =
-    Material.Icons.blinds
+    I.map F.blinds
 
 
 {-| Blinds Closed -}
 blindsClosed : Icon
 blindsClosed =
-    Material.Icons.blindsClosed
+    I.map F.blindsClosed
 
 
 {-| Block -}
 block : Icon
 block =
-    Material.Icons.block
+    I.map F.block
 
 
 {-| Bloodtype -}
 bloodtype : Icon
 bloodtype =
-    Material.Icons.bloodtype
+    I.map F.bloodtype
 
 
 {-| Bluetooth -}
 bluetooth : Icon
 bluetooth =
-    Material.Icons.bluetooth
+    I.map F.bluetooth
 
 
 {-| Bluetooth Audio -}
@@ -1768,13 +1774,13 @@ bluetoothAudio =
 {-| Bluetooth Connected -}
 bluetoothConnected : Icon
 bluetoothConnected =
-    Material.Icons.bluetoothConnected
+    I.map F.bluetoothConnected
 
 
 {-| Bluetooth Disabled -}
 bluetoothDisabled : Icon
 bluetoothDisabled =
-    Material.Icons.bluetoothDisabled
+    I.map F.bluetoothDisabled
 
 
 {-| Bluetooth Drive -}
@@ -1792,13 +1798,13 @@ bluetoothSearching =
 {-| Blur Circular -}
 blurCircular : Icon
 blurCircular =
-    Material.Icons.blurCircular
+    I.map F.blurCircular
 
 
 {-| Blur Linear -}
 blurLinear : Icon
 blurLinear =
-    Material.Icons.blurLinear
+    I.map F.blurLinear
 
 
 {-| Blur Off -}
@@ -1810,7 +1816,7 @@ blurOff =
 {-| Blur On -}
 blurOn : Icon
 blurOn =
-    Material.Icons.blurOn
+    I.map F.blurOn
 
 
 {-| Bolt -}
@@ -1870,19 +1876,19 @@ bookmarks =
 {-| Border All -}
 borderAll : Icon
 borderAll =
-    Material.Icons.borderAll
+    I.map F.borderAll
 
 
 {-| Border Bottom -}
 borderBottom : Icon
 borderBottom =
-    Material.Icons.borderBottom
+    I.map F.borderBottom
 
 
 {-| Border Clear -}
 borderClear : Icon
 borderClear =
-    Material.Icons.borderClear
+    I.map F.borderClear
 
 
 {-| Border Color -}
@@ -1894,55 +1900,55 @@ borderColor =
 {-| Border Horizontal -}
 borderHorizontal : Icon
 borderHorizontal =
-    Material.Icons.borderHorizontal
+    I.map F.borderHorizontal
 
 
 {-| Border Inner -}
 borderInner : Icon
 borderInner =
-    Material.Icons.borderInner
+    I.map F.borderInner
 
 
 {-| Border Left -}
 borderLeft : Icon
 borderLeft =
-    Material.Icons.borderLeft
+    I.map F.borderLeft
 
 
 {-| Border Outer -}
 borderOuter : Icon
 borderOuter =
-    Material.Icons.borderOuter
+    I.map F.borderOuter
 
 
 {-| Border Right -}
 borderRight : Icon
 borderRight =
-    Material.Icons.borderRight
+    I.map F.borderRight
 
 
 {-| Border Style -}
 borderStyle : Icon
 borderStyle =
-    Material.Icons.borderStyle
+    I.map F.borderStyle
 
 
 {-| Border Top -}
 borderTop : Icon
 borderTop =
-    Material.Icons.borderTop
+    I.map F.borderTop
 
 
 {-| Border Vertical -}
 borderVertical : Icon
 borderVertical =
-    Material.Icons.borderVertical
+    I.map F.borderVertical
 
 
 {-| Boy -}
 boy : Icon
 boy =
-    Material.Icons.boy
+    I.map F.boy
 
 
 {-| Branding Watermark -}
@@ -1960,13 +1966,13 @@ breakfastDining =
 {-| Brightness 1 -}
 brightness1 : Icon
 brightness1 =
-    Material.Icons.brightness1
+    I.map F.brightness1
 
 
 {-| Brightness 2 -}
 brightness2 : Icon
 brightness2 =
-    Material.Icons.brightness2
+    I.map F.brightness2
 
 
 {-| Brightness 3 -}
@@ -1978,49 +1984,49 @@ brightness3 =
 {-| Brightness 4 -}
 brightness4 : Icon
 brightness4 =
-    Material.Icons.brightness4
+    I.map F.brightness4
 
 
 {-| Brightness 5 -}
 brightness5 : Icon
 brightness5 =
-    Material.Icons.brightness5
+    I.map F.brightness5
 
 
 {-| Brightness 6 -}
 brightness6 : Icon
 brightness6 =
-    Material.Icons.brightness6
+    I.map F.brightness6
 
 
 {-| Brightness 7 -}
 brightness7 : Icon
 brightness7 =
-    Material.Icons.brightness7
+    I.map F.brightness7
 
 
 {-| Brightness Auto -}
 brightnessAuto : Icon
 brightnessAuto =
-    Material.Icons.brightnessAuto
+    I.map F.brightnessAuto
 
 
 {-| Brightness High -}
 brightnessHigh : Icon
 brightnessHigh =
-    Material.Icons.brightnessHigh
+    I.map F.brightnessHigh
 
 
 {-| Brightness Low -}
 brightnessLow : Icon
 brightnessLow =
-    Material.Icons.brightnessLow
+    I.map F.brightnessLow
 
 
 {-| Brightness Medium -}
 brightnessMedium : Icon
 brightnessMedium =
-    Material.Icons.brightnessMedium
+    I.map F.brightnessMedium
 
 
 {-| Broadcast On Home -}
@@ -2032,7 +2038,7 @@ broadcastOnHome =
 {-| Broadcast On Personal -}
 broadcastOnPersonal : Icon
 broadcastOnPersonal =
-    Material.Icons.broadcastOnPersonal
+    I.map F.broadcastOnPersonal
 
 
 {-| Broken Image -}
@@ -2044,7 +2050,7 @@ brokenImage =
 {-| Browse Gallery -}
 browseGallery : Icon
 browseGallery =
-    Material.Icons.browseGallery
+    I.map F.browseGallery
 
 
 {-| Browser Not Supported -}
@@ -2074,7 +2080,7 @@ brush =
 {-| Bubble Chart -}
 bubbleChart : Icon
 bubbleChart =
-    Material.Icons.bubbleChart
+    I.map F.bubbleChart
 
 
 {-| Bug Report -}
@@ -2098,7 +2104,7 @@ buildCircle =
 {-| Bungalow -}
 bungalow : Icon
 bungalow =
-    Material.Icons.bungalow
+    I.map F.bungalow
 
 
 {-| Burst Mode -}
@@ -2116,7 +2122,7 @@ busAlert =
 {-| Business -}
 business : Icon
 business =
-    Material.Icons.business
+    I.map F.business
 
 
 {-| Business Center -}
@@ -2128,7 +2134,7 @@ businessCenter =
 {-| Cabin -}
 cabin : Icon
 cabin =
-    Material.Icons.cabin
+    I.map F.cabin
 
 
 {-| Cable -}
@@ -2140,7 +2146,7 @@ cable =
 {-| Cached -}
 cached : Icon
 cached =
-    Material.Icons.cached
+    I.map F.cached
 
 
 {-| Cake -}
@@ -2158,7 +2164,7 @@ calculate =
 {-| Calendar Month -}
 calendarMonth : Icon
 calendarMonth =
-    Material.Icons.calendarMonth
+    I.map F.calendarMonth
 
 
 {-| Calendar Today -}
@@ -2206,7 +2212,7 @@ callMade =
 {-| Call Merge -}
 callMerge : Icon
 callMerge =
-    Material.Icons.callMerge
+    I.map F.callMerge
 
 
 {-| Call Missed -}
@@ -2218,7 +2224,7 @@ callMissed =
 {-| Call Missed Outgoing -}
 callMissedOutgoing : Icon
 callMissedOutgoing =
-    Material.Icons.callMissedOutgoing
+    I.map F.callMissedOutgoing
 
 
 {-| Call Received -}
@@ -2242,7 +2248,7 @@ callToAction =
 {-| Camera -}
 camera : Icon
 camera =
-    Material.Icons.camera
+    I.map F.camera
 
 
 {-| Camera Alt -}
@@ -2302,7 +2308,7 @@ campaign =
 {-| Cancel -}
 cancel : Icon
 cancel =
-    Material.Icons.cancel
+    I.map F.cancel
 
 
 {-| Cancel Presentation -}
@@ -2314,13 +2320,13 @@ cancelPresentation =
 {-| Cancel Schedule Send -}
 cancelScheduleSend : Icon
 cancelScheduleSend =
-    Material.Icons.cancelScheduleSend
+    I.map F.cancelScheduleSend
 
 
 {-| Candlestick Chart -}
 candlestickChart : Icon
 candlestickChart =
-    Material.Icons.candlestickChart
+    I.map F.candlestickChart
 
 
 {-| Car Crash -}
@@ -2404,13 +2410,13 @@ castle =
 {-| Catching Pokemon -}
 catchingPokemon : Icon
 catchingPokemon =
-    Material.Icons.catchingPokemon
+    I.map F.catchingPokemon
 
 
 {-| Category -}
 category : Icon
 category =
-    Material.Icons.category
+    I.map F.category
 
 
 {-| Celebration -}
@@ -2422,7 +2428,7 @@ celebration =
 {-| Cell Tower -}
 cellTower : Icon
 cellTower =
-    Material.Icons.cellTower
+    I.map F.cellTower
 
 
 {-| Cell Wifi -}
@@ -2458,19 +2464,19 @@ chairAlt =
 {-| Chalet -}
 chalet : Icon
 chalet =
-    Material.Icons.chalet
+    I.map F.chalet
 
 
 {-| Change Circle -}
 changeCircle : Icon
 changeCircle =
-    Material.Icons.changeCircle
+    I.map F.changeCircle
 
 
 {-| Change History -}
 changeHistory : Icon
 changeHistory =
-    Material.Icons.changeHistory
+    I.map F.changeHistory
 
 
 {-| Charging Station -}
@@ -2518,7 +2524,7 @@ checkBoxOutlineBlank =
 {-| Check Circle -}
 checkCircle : Icon
 checkCircle =
-    Material.Icons.checkCircle
+    I.map F.checkCircle
 
 
 {-| Check Circle Outline -}
@@ -2530,13 +2536,13 @@ checkCircleOutline =
 {-| Checklist -}
 checklist : Icon
 checklist =
-    Material.Icons.checklist
+    I.map F.checklist
 
 
 {-| Checklist Rtl -}
 checklistRtl : Icon
 checklistRtl =
-    Material.Icons.checklistRtl
+    I.map F.checklistRtl
 
 
 {-| Checkroom -}
@@ -2566,7 +2572,7 @@ childCare =
 {-| Child Friendly -}
 childFriendly : Icon
 childFriendly =
-    Material.Icons.childFriendly
+    I.map F.childFriendly
 
 
 {-| Chrome Reader Mode -}
@@ -2584,7 +2590,7 @@ church =
 {-| Circle -}
 circle : Icon
 circle =
-    Material.Icons.circle
+    I.map F.circle
 
 
 {-| Circle Notifications -}
@@ -2620,7 +2626,7 @@ clear =
 {-| Clear All -}
 clearAll : Icon
 clearAll =
-    Material.Icons.clearAll
+    I.map F.clearAll
 
 
 {-| Close -}
@@ -2632,7 +2638,7 @@ close =
 {-| Close Fullscreen -}
 closeFullscreen : Icon
 closeFullscreen =
-    Material.Icons.closeFullscreen
+    I.map F.closeFullscreen
 
 
 {-| Closed Caption -}
@@ -2656,7 +2662,7 @@ closedCaptionOff =
 {-| Cloud -}
 cloud : Icon
 cloud =
-    Material.Icons.cloud
+    I.map F.cloud
 
 
 {-| Cloud Circle -}
@@ -2674,7 +2680,7 @@ cloudDone =
 {-| Cloud Download -}
 cloudDownload : Icon
 cloudDownload =
-    Material.Icons.cloudDownload
+    I.map F.cloudDownload
 
 
 {-| Cloud Off -}
@@ -2686,19 +2692,19 @@ cloudOff =
 {-| Cloud Queue -}
 cloudQueue : Icon
 cloudQueue =
-    Material.Icons.cloudQueue
+    I.map F.cloudQueue
 
 
 {-| Cloud Sync -}
 cloudSync : Icon
 cloudSync =
-    Material.Icons.cloudSync
+    I.map F.cloudSync
 
 
 {-| Cloud Upload -}
 cloudUpload : Icon
 cloudUpload =
-    Material.Icons.cloudUpload
+    I.map F.cloudUpload
 
 
 {-| Co Present -}
@@ -2716,13 +2722,13 @@ co2 =
 {-| Code -}
 code : Icon
 code =
-    Material.Icons.code
+    I.map F.code
 
 
 {-| Code Off -}
 codeOff : Icon
 codeOff =
-    Material.Icons.codeOff
+    I.map F.codeOff
 
 
 {-| Coffee -}
@@ -2752,7 +2758,7 @@ collectionsBookmark =
 {-| Color Lens -}
 colorLens : Icon
 colorLens =
-    Material.Icons.colorLens
+    I.map F.colorLens
 
 
 {-| Colorize -}
@@ -2782,7 +2788,7 @@ commentsDisabled =
 {-| Commit -}
 commit : Icon
 commit =
-    Material.Icons.commit
+    I.map F.commit
 
 
 {-| Commute -}
@@ -2800,7 +2806,7 @@ compare =
 {-| Compare Arrows -}
 compareArrows : Icon
 compareArrows =
-    Material.Icons.compareArrows
+    I.map F.compareArrows
 
 
 {-| Compass Calibration -}
@@ -2812,7 +2818,7 @@ compassCalibration =
 {-| Compost -}
 compost : Icon
 compost =
-    Material.Icons.compost
+    I.map F.compost
 
 
 {-| Compress -}
@@ -2848,13 +2854,13 @@ connectedTv =
 {-| Connecting Airports -}
 connectingAirports : Icon
 connectingAirports =
-    Material.Icons.connectingAirports
+    I.map F.connectingAirports
 
 
 {-| Construction -}
 construction : Icon
 construction =
-    Material.Icons.construction
+    I.map F.construction
 
 
 {-| Contact Emergency -}
@@ -2884,13 +2890,13 @@ contactPhone =
 {-| Contact Support -}
 contactSupport : Icon
 contactSupport =
-    Material.Icons.contactSupport
+    I.map F.contactSupport
 
 
 {-| Contactless -}
 contactless : Icon
 contactless =
-    Material.Icons.contactless
+    I.map F.contactless
 
 
 {-| Contacts -}
@@ -2938,7 +2944,7 @@ contentPasteSearch =
 {-| Contrast -}
 contrast : Icon
 contrast =
-    Material.Icons.contrast
+    I.map F.contrast
 
 
 {-| Control Camera -}
@@ -2950,7 +2956,7 @@ controlCamera =
 {-| Control Point -}
 controlPoint : Icon
 controlPoint =
-    Material.Icons.controlPoint
+    I.map F.controlPoint
 
 
 {-| Control Point Duplicate -}
@@ -2962,7 +2968,7 @@ controlPointDuplicate =
 {-| Cookie -}
 cookie : Icon
 cookie =
-    Material.Icons.cookie
+    I.map F.cookie
 
 
 {-| Copy All -}
@@ -2986,19 +2992,19 @@ coronavirus =
 {-| Corporate Fare -}
 corporateFare : Icon
 corporateFare =
-    Material.Icons.corporateFare
+    I.map F.corporateFare
 
 
 {-| Cottage -}
 cottage : Icon
 cottage =
-    Material.Icons.cottage
+    I.map F.cottage
 
 
 {-| Countertops -}
 countertops : Icon
 countertops =
-    Material.Icons.countertops
+    I.map F.countertops
 
 
 {-| Create -}
@@ -3118,7 +3124,7 @@ cropSquare =
 {-| Cruelty Free -}
 crueltyFree : Icon
 crueltyFree =
-    Material.Icons.crueltyFree
+    I.map F.crueltyFree
 
 
 {-| Css -}
@@ -3130,73 +3136,73 @@ css =
 {-| Currency Bitcoin -}
 currencyBitcoin : Icon
 currencyBitcoin =
-    Material.Icons.currencyBitcoin
+    I.map F.currencyBitcoin
 
 
 {-| Currency Exchange -}
 currencyExchange : Icon
 currencyExchange =
-    Material.Icons.currencyExchange
+    I.map F.currencyExchange
 
 
 {-| Currency Franc -}
 currencyFranc : Icon
 currencyFranc =
-    Material.Icons.currencyFranc
+    I.map F.currencyFranc
 
 
 {-| Currency Lira -}
 currencyLira : Icon
 currencyLira =
-    Material.Icons.currencyLira
+    I.map F.currencyLira
 
 
 {-| Currency Pound -}
 currencyPound : Icon
 currencyPound =
-    Material.Icons.currencyPound
+    I.map F.currencyPound
 
 
 {-| Currency Ruble -}
 currencyRuble : Icon
 currencyRuble =
-    Material.Icons.currencyRuble
+    I.map F.currencyRuble
 
 
 {-| Currency Rupee -}
 currencyRupee : Icon
 currencyRupee =
-    Material.Icons.currencyRupee
+    I.map F.currencyRupee
 
 
 {-| Currency Yen -}
 currencyYen : Icon
 currencyYen =
-    Material.Icons.currencyYen
+    I.map F.currencyYen
 
 
 {-| Currency Yuan -}
 currencyYuan : Icon
 currencyYuan =
-    Material.Icons.currencyYuan
+    I.map F.currencyYuan
 
 
 {-| Curtains -}
 curtains : Icon
 curtains =
-    Material.Icons.curtains
+    I.map F.curtains
 
 
 {-| Curtains Closed -}
 curtainsClosed : Icon
 curtainsClosed =
-    Material.Icons.curtainsClosed
+    I.map F.curtainsClosed
 
 
 {-| Cyclone -}
 cyclone : Icon
 cyclone =
-    Material.Icons.cyclone
+    I.map F.cyclone
 
 
 {-| Dangerous -}
@@ -3208,13 +3214,13 @@ dangerous =
 {-| Dark Mode -}
 darkMode : Icon
 darkMode =
-    Material.Icons.darkMode
+    I.map F.darkMode
 
 
 {-| Dashboard -}
 dashboard : Icon
 dashboard =
-    Material.Icons.dashboard
+    I.map F.dashboard
 
 
 {-| Dashboard Customize -}
@@ -3226,7 +3232,7 @@ dashboardCustomize =
 {-| Data Array -}
 dataArray : Icon
 dataArray =
-    Material.Icons.dataArray
+    I.map F.dataArray
 
 
 {-| Data Exploration -}
@@ -3244,13 +3250,13 @@ dataObject =
 {-| Data Saver Off -}
 dataSaverOff : Icon
 dataSaverOff =
-    Material.Icons.dataSaverOff
+    I.map F.dataSaverOff
 
 
 {-| Data Saver On -}
 dataSaverOn : Icon
 dataSaverOn =
-    Material.Icons.dataSaverOn
+    I.map F.dataSaverOn
 
 
 {-| Data Thresholding -}
@@ -3262,7 +3268,7 @@ dataThresholding =
 {-| Data Usage -}
 dataUsage : Icon
 dataUsage =
-    Material.Icons.dataUsage
+    I.map F.dataUsage
 
 
 {-| Dataset -}
@@ -3286,13 +3292,13 @@ dateRange =
 {-| Deblur -}
 deblur : Icon
 deblur =
-    Material.Icons.deblur
+    I.map F.deblur
 
 
 {-| Deck -}
 deck : Icon
 deck =
-    Material.Icons.deck
+    I.map F.deck
 
 
 {-| Dehaze -}
@@ -3334,19 +3340,19 @@ deliveryDining =
 {-| Density Large -}
 densityLarge : Icon
 densityLarge =
-    Material.Icons.densityLarge
+    I.map F.densityLarge
 
 
 {-| Density Medium -}
 densityMedium : Icon
 densityMedium =
-    Material.Icons.densityMedium
+    I.map F.densityMedium
 
 
 {-| Density Small -}
 densitySmall : Icon
 densitySmall =
-    Material.Icons.densitySmall
+    I.map F.densitySmall
 
 
 {-| Departure Board -}
@@ -3376,7 +3382,7 @@ designServices =
 {-| Desk -}
 desk : Icon
 desk =
-    Material.Icons.desk
+    I.map F.desk
 
 
 {-| Desktop Access Disabled -}
@@ -3400,7 +3406,7 @@ desktopWindows =
 {-| Details -}
 details : Icon
 details =
-    Material.Icons.details
+    I.map F.details
 
 
 {-| Developer Board -}
@@ -3424,7 +3430,7 @@ developerMode =
 {-| Device Hub -}
 deviceHub : Icon
 deviceHub =
-    Material.Icons.deviceHub
+    I.map F.deviceHub
 
 
 {-| Device Thermostat -}
@@ -3466,13 +3472,13 @@ dialerSip =
 {-| Dialpad -}
 dialpad : Icon
 dialpad =
-    Material.Icons.dialpad
+    I.map F.dialpad
 
 
 {-| Diamond -}
 diamond : Icon
 diamond =
-    Material.Icons.diamond
+    I.map F.diamond
 
 
 {-| Difference -}
@@ -3550,43 +3556,43 @@ directionsOff =
 {-| Directions Railway -}
 directionsRailway : Icon
 directionsRailway =
-    Material.Icons.directionsRailway
+    I.map F.directionsRailway
 
 
 {-| Directions Railway Filled -}
 directionsRailwayFilled : Icon
 directionsRailwayFilled =
-    Material.Icons.directionsRailwayFilled
+    I.map F.directionsRailwayFilled
 
 
 {-| Directions Run -}
 directionsRun : Icon
 directionsRun =
-    Material.Icons.directionsRun
+    I.map F.directionsRun
 
 
 {-| Directions Subway -}
 directionsSubway : Icon
 directionsSubway =
-    Material.Icons.directionsSubway
+    I.map F.directionsSubway
 
 
 {-| Directions Subway Filled -}
 directionsSubwayFilled : Icon
 directionsSubwayFilled =
-    Material.Icons.directionsSubwayFilled
+    I.map F.directionsSubwayFilled
 
 
 {-| Directions Transit -}
 directionsTransit : Icon
 directionsTransit =
-    Material.Icons.directionsTransit
+    I.map F.directionsTransit
 
 
 {-| Directions Transit Filled -}
 directionsTransitFilled : Icon
 directionsTransitFilled =
-    Material.Icons.directionsTransitFilled
+    I.map F.directionsTransitFilled
 
 
 {-| Directions Walk -}
@@ -3604,25 +3610,25 @@ dirtyLens =
 {-| Disabled By Default -}
 disabledByDefault : Icon
 disabledByDefault =
-    Material.Icons.disabledByDefault
+    I.map F.disabledByDefault
 
 
 {-| Disabled Visible -}
 disabledVisible : Icon
 disabledVisible =
-    Material.Icons.disabledVisible
+    I.map F.disabledVisible
 
 
 {-| Disc Full -}
 discFull : Icon
 discFull =
-    Material.Icons.discFull
+    I.map F.discFull
 
 
 {-| Discord -}
 discord : Icon
 discord =
-    Material.Icons.discord
+    I.map F.discord
 
 
 {-| Discount -}
@@ -3640,25 +3646,25 @@ displaySettings =
 {-| Diversity 1 -}
 diversity1 : Icon
 diversity1 =
-    Material.Icons.diversity1
+    I.map F.diversity1
 
 
 {-| Diversity 2 -}
 diversity2 : Icon
 diversity2 =
-    Material.Icons.diversity2
+    I.map F.diversity2
 
 
 {-| Diversity 3 -}
 diversity3 : Icon
 diversity3 =
-    Material.Icons.diversity3
+    I.map F.diversity3
 
 
 {-| Divide -}
 divide : Icon
 divide =
-    Material.Icons.divide
+    I.map F.divide
 
 
 {-| Dns -}
@@ -3688,19 +3694,19 @@ doDisturbOff =
 {-| Do Disturb On -}
 doDisturbOn : Icon
 doDisturbOn =
-    Material.Icons.doDisturbOn
+    I.map F.doDisturbOn
 
 
 {-| Do Not Disturb -}
 doNotDisturb : Icon
 doNotDisturb =
-    Material.Icons.doNotDisturb
+    I.map F.doNotDisturb
 
 
 {-| Do Not Disturb Alt -}
 doNotDisturbAlt : Icon
 doNotDisturbAlt =
-    Material.Icons.doNotDisturbAlt
+    I.map F.doNotDisturbAlt
 
 
 {-| Do Not Disturb Off -}
@@ -3712,13 +3718,13 @@ doNotDisturbOff =
 {-| Do Not Disturb On -}
 doNotDisturbOn : Icon
 doNotDisturbOn =
-    Material.Icons.doNotDisturbOn
+    I.map F.doNotDisturbOn
 
 
 {-| Do Not Disturb On Total Silence -}
 doNotDisturbOnTotalSilence : Icon
 doNotDisturbOnTotalSilence =
-    Material.Icons.doNotDisturbOnTotalSilence
+    I.map F.doNotDisturbOnTotalSilence
 
 
 {-| Do Not Step -}
@@ -3748,13 +3754,13 @@ documentScanner =
 {-| Domain -}
 domain : Icon
 domain =
-    Material.Icons.domain
+    I.map F.domain
 
 
 {-| Domain Add -}
 domainAdd : Icon
 domainAdd =
-    Material.Icons.domainAdd
+    I.map F.domainAdd
 
 
 {-| Domain Disabled -}
@@ -3772,13 +3778,13 @@ domainVerification =
 {-| Done -}
 done : Icon
 done =
-    Material.Icons.done
+    I.map F.done
 
 
 {-| Done All -}
 doneAll : Icon
 doneAll =
-    Material.Icons.doneAll
+    I.map F.doneAll
 
 
 {-| Done Outline -}
@@ -3826,13 +3832,13 @@ doorbell =
 {-| Double Arrow -}
 doubleArrow : Icon
 doubleArrow =
-    Material.Icons.doubleArrow
+    I.map F.doubleArrow
 
 
 {-| Downhill Skiing -}
 downhillSkiing : Icon
 downhillSkiing =
-    Material.Icons.downhillSkiing
+    I.map F.downhillSkiing
 
 
 {-| Download -}
@@ -3850,13 +3856,13 @@ downloadDone =
 {-| Download For Offline -}
 downloadForOffline : Icon
 downloadForOffline =
-    Material.Icons.downloadForOffline
+    I.map F.downloadForOffline
 
 
 {-| Downloading -}
 downloading : Icon
 downloading =
-    Material.Icons.downloading
+    I.map F.downloading
 
 
 {-| Drafts -}
@@ -3868,13 +3874,13 @@ drafts =
 {-| Drag Handle -}
 dragHandle : Icon
 dragHandle =
-    Material.Icons.dragHandle
+    I.map F.dragHandle
 
 
 {-| Drag Indicator -}
 dragIndicator : Icon
 dragIndicator =
-    Material.Icons.dragIndicator
+    I.map F.dragIndicator
 
 
 {-| Draw -}
@@ -3928,7 +3934,7 @@ dryCleaning =
 {-| Duo -}
 duo : Icon
 duo =
-    Material.Icons.duo
+    I.map F.duo
 
 
 {-| Dvr -}
@@ -3952,7 +3958,7 @@ dynamicForm =
 {-| E Mobiledata -}
 eMobiledata : Icon
 eMobiledata =
-    Material.Icons.eMobiledata
+    I.map F.eMobiledata
 
 
 {-| Earbuds -}
@@ -3970,13 +3976,13 @@ earbudsBattery =
 {-| East -}
 east : Icon
 east =
-    Material.Icons.east
+    I.map F.east
 
 
 {-| Eco -}
 eco : Icon
 eco =
-    Material.Icons.eco
+    I.map F.eco
 
 
 {-| Edgesensor High -}
@@ -4000,7 +4006,7 @@ edit =
 {-| Edit Attributes -}
 editAttributes : Icon
 editAttributes =
-    Material.Icons.editAttributes
+    I.map F.editAttributes
 
 
 {-| Edit Calendar -}
@@ -4042,7 +4048,7 @@ editOff =
 {-| Edit Road -}
 editRoad : Icon
 editRoad =
-    Material.Icons.editRoad
+    I.map F.editRoad
 
 
 {-| Egg -}
@@ -4054,7 +4060,7 @@ egg =
 {-| Egg Alt -}
 eggAlt : Icon
 eggAlt =
-    Material.Icons.eggAlt
+    I.map F.eggAlt
 
 
 {-| Eject -}
@@ -4066,13 +4072,13 @@ eject =
 {-| Elderly -}
 elderly : Icon
 elderly =
-    Material.Icons.elderly
+    I.map F.elderly
 
 
 {-| Elderly Woman -}
 elderlyWoman : Icon
 elderlyWoman =
-    Material.Icons.elderlyWoman
+    I.map F.elderlyWoman
 
 
 {-| Electric Bike -}
@@ -4096,7 +4102,7 @@ electricCar =
 {-| Electric Meter -}
 electricMeter : Icon
 electricMeter =
-    Material.Icons.electricMeter
+    I.map F.electricMeter
 
 
 {-| Electric Moped -}
@@ -4138,7 +4144,7 @@ email =
 {-| Emergency -}
 emergency : Icon
 emergency =
-    Material.Icons.emergency
+    I.map F.emergency
 
 
 {-| Emergency Recording -}
@@ -4150,25 +4156,25 @@ emergencyRecording =
 {-| Emergency Share -}
 emergencyShare : Icon
 emergencyShare =
-    Material.Icons.emergencyShare
+    I.map F.emergencyShare
 
 
 {-| Emoji Emotions -}
 emojiEmotions : Icon
 emojiEmotions =
-    Material.Icons.emojiEmotions
+    I.map F.emojiEmotions
 
 
 {-| Emoji Events -}
 emojiEvents : Icon
 emojiEvents =
-    Material.Icons.emojiEvents
+    I.map F.emojiEvents
 
 
 {-| Emoji Flags -}
 emojiFlags : Icon
 emojiFlags =
-    Material.Icons.emojiFlags
+    I.map F.emojiFlags
 
 
 {-| Emoji Food Beverage -}
@@ -4180,7 +4186,7 @@ emojiFoodBeverage =
 {-| Emoji Nature -}
 emojiNature : Icon
 emojiNature =
-    Material.Icons.emojiNature
+    I.map F.emojiNature
 
 
 {-| Emoji Objects -}
@@ -4192,19 +4198,19 @@ emojiObjects =
 {-| Emoji People -}
 emojiPeople : Icon
 emojiPeople =
-    Material.Icons.emojiPeople
+    I.map F.emojiPeople
 
 
 {-| Emoji Symbols -}
 emojiSymbols : Icon
 emojiSymbols =
-    Material.Icons.emojiSymbols
+    I.map F.emojiSymbols
 
 
 {-| Emoji Transportation -}
 emojiTransportation : Icon
 emojiTransportation =
-    Material.Icons.emojiTransportation
+    I.map F.emojiTransportation
 
 
 {-| Energy Savings Leaf -}
@@ -4228,19 +4234,19 @@ enhancedEncryption =
 {-| Equalizer -}
 equalizer : Icon
 equalizer =
-    Material.Icons.equalizer
+    I.map F.equalizer
 
 
 {-| Equals -}
 equals : Icon
 equals =
-    Material.Icons.equals
+    I.map F.equals
 
 
 {-| Error -}
 error : Icon
 error =
-    Material.Icons.error
+    I.map F.error
 
 
 {-| Error Outline -}
@@ -4264,13 +4270,13 @@ escalatorWarning =
 {-| Euro -}
 euro : Icon
 euro =
-    Material.Icons.euro
+    I.map F.euro
 
 
 {-| Euro Symbol -}
 euroSymbol : Icon
 euroSymbol =
-    Material.Icons.euroSymbol
+    I.map F.euroSymbol
 
 
 {-| Ev Station -}
@@ -4330,7 +4336,7 @@ expand =
 {-| Expand Circle Down -}
 expandCircleDown : Icon
 expandCircleDown =
-    Material.Icons.expandCircleDown
+    I.map F.expandCircleDown
 
 
 {-| Expand Less -}
@@ -4354,7 +4360,7 @@ explicit =
 {-| Explore -}
 explore : Icon
 explore =
-    Material.Icons.explore
+    I.map F.explore
 
 
 {-| Explore Off -}
@@ -4372,7 +4378,7 @@ exposure =
 {-| Exposure Neg 1 -}
 exposureNeg1 : Icon
 exposureNeg1 =
-    Material.Icons.exposureNeg1
+    I.map F.exposureNeg1
 
 
 {-| Exposure Neg 2 -}
@@ -4384,7 +4390,7 @@ exposureNeg2 =
 {-| Exposure Plus 1 -}
 exposurePlus1 : Icon
 exposurePlus1 =
-    Material.Icons.exposurePlus1
+    I.map F.exposurePlus1
 
 
 {-| Exposure Plus 2 -}
@@ -4414,13 +4420,13 @@ extensionOff =
 {-| Face -}
 face : Icon
 face =
-    Material.Icons.face
+    I.map F.face
 
 
 {-| Face 2 -}
 face2 : Icon
 face2 =
-    Material.Icons.face2
+    I.map F.face2
 
 
 {-| Face 3 -}
@@ -4432,13 +4438,13 @@ face3 =
 {-| Face 4 -}
 face4 : Icon
 face4 =
-    Material.Icons.face4
+    I.map F.face4
 
 
 {-| Face 5 -}
 face5 : Icon
 face5 =
-    Material.Icons.face5
+    I.map F.face5
 
 
 {-| Face 6 -}
@@ -4456,13 +4462,13 @@ faceRetouchingNatural =
 {-| Face Retouching Off -}
 faceRetouchingOff : Icon
 faceRetouchingOff =
-    Material.Icons.faceRetouchingOff
+    I.map F.faceRetouchingOff
 
 
 {-| Facebook -}
 facebook : Icon
 facebook =
-    Material.Icons.facebook
+    I.map F.facebook
 
 
 {-| Fact Check -}
@@ -4474,7 +4480,7 @@ factCheck =
 {-| Factory -}
 factory : Icon
 factory =
-    Material.Icons.factory
+    I.map F.factory
 
 
 {-| Family Restroom -}
@@ -4486,13 +4492,13 @@ familyRestroom =
 {-| Fast Forward -}
 fastForward : Icon
 fastForward =
-    Material.Icons.fastForward
+    I.map F.fastForward
 
 
 {-| Fast Rewind -}
 fastRewind : Icon
 fastRewind =
-    Material.Icons.fastRewind
+    I.map F.fastRewind
 
 
 {-| Fastfood -}
@@ -4504,13 +4510,13 @@ fastfood =
 {-| Favorite -}
 favorite : Icon
 favorite =
-    Material.Icons.favorite
+    I.map F.favorite
 
 
 {-| Favorite Border -}
 favoriteBorder : Icon
 favoriteBorder =
-    Material.Icons.favoriteBorder
+    I.map F.favoriteBorder
 
 
 {-| Fax -}
@@ -4546,13 +4552,13 @@ feedback =
 {-| Female -}
 female : Icon
 female =
-    Material.Icons.female
+    I.map F.female
 
 
 {-| Fence -}
 fence : Icon
 fence =
-    Material.Icons.fence
+    I.map F.fence
 
 
 {-| Festival -}
@@ -4570,7 +4576,7 @@ fiberDvr =
 {-| Fiber Manual Record -}
 fiberManualRecord : Icon
 fiberManualRecord =
-    Material.Icons.fiberManualRecord
+    I.map F.fiberManualRecord
 
 
 {-| Fiber New -}
@@ -4588,7 +4594,7 @@ fiberPin =
 {-| Fiber Smart Record -}
 fiberSmartRecord : Icon
 fiberSmartRecord =
-    Material.Icons.fiberSmartRecord
+    I.map F.fiberSmartRecord
 
 
 {-| File Copy -}
@@ -4600,7 +4606,7 @@ fileCopy =
 {-| File Download -}
 fileDownload : Icon
 fileDownload =
-    Material.Icons.fileDownload
+    I.map F.fileDownload
 
 
 {-| File Download Done -}
@@ -4612,7 +4618,7 @@ fileDownloadDone =
 {-| File Download Off -}
 fileDownloadOff : Icon
 fileDownloadOff =
-    Material.Icons.fileDownloadOff
+    I.map F.fileDownloadOff
 
 
 {-| File Open -}
@@ -4726,7 +4732,7 @@ filterCenterFocus =
 {-| Filter Drama -}
 filterDrama : Icon
 filterDrama =
-    Material.Icons.filterDrama
+    I.map F.filterDrama
 
 
 {-| Filter Frames -}
@@ -4738,19 +4744,19 @@ filterFrames =
 {-| Filter Hdr -}
 filterHdr : Icon
 filterHdr =
-    Material.Icons.filterHdr
+    I.map F.filterHdr
 
 
 {-| Filter List -}
 filterList : Icon
 filterList =
-    Material.Icons.filterList
+    I.map F.filterList
 
 
 {-| Filter List Off -}
 filterListOff : Icon
 filterListOff =
-    Material.Icons.filterListOff
+    I.map F.filterListOff
 
 
 {-| Filter None -}
@@ -4762,13 +4768,13 @@ filterNone =
 {-| Filter Tilt Shift -}
 filterTiltShift : Icon
 filterTiltShift =
-    Material.Icons.filterTiltShift
+    I.map F.filterTiltShift
 
 
 {-| Filter Vintage -}
 filterVintage : Icon
 filterVintage =
-    Material.Icons.filterVintage
+    I.map F.filterVintage
 
 
 {-| Find In Page -}
@@ -4780,7 +4786,7 @@ findInPage =
 {-| Find Replace -}
 findReplace : Icon
 findReplace =
-    Material.Icons.findReplace
+    I.map F.findReplace
 
 
 {-| Fingerprint -}
@@ -4828,7 +4834,7 @@ fitScreen =
 {-| Fitbit -}
 fitbit : Icon
 fitbit =
-    Material.Icons.fitbit
+    I.map F.fitbit
 
 
 {-| Fitness Center -}
@@ -4846,25 +4852,25 @@ flag =
 {-| Flag Circle -}
 flagCircle : Icon
 flagCircle =
-    Material.Icons.flagCircle
+    I.map F.flagCircle
 
 
 {-| Flaky -}
 flaky : Icon
 flaky =
-    Material.Icons.flaky
+    I.map F.flaky
 
 
 {-| Flare -}
 flare : Icon
 flare =
-    Material.Icons.flare
+    I.map F.flare
 
 
 {-| Flash Auto -}
 flashAuto : Icon
 flashAuto =
-    Material.Icons.flashAuto
+    I.map F.flashAuto
 
 
 {-| Flash Off -}
@@ -4882,13 +4888,13 @@ flashOn =
 {-| Flashlight Off -}
 flashlightOff : Icon
 flashlightOff =
-    Material.Icons.flashlightOff
+    I.map F.flashlightOff
 
 
 {-| Flashlight On -}
 flashlightOn : Icon
 flashlightOn =
-    Material.Icons.flashlightOn
+    I.map F.flashlightOn
 
 
 {-| Flatware -}
@@ -4900,7 +4906,7 @@ flatware =
 {-| Flight -}
 flight : Icon
 flight =
-    Material.Icons.flight
+    I.map F.flight
 
 
 {-| Flight Class -}
@@ -4912,7 +4918,7 @@ flightClass =
 {-| Flight Land -}
 flightLand : Icon
 flightLand =
-    Material.Icons.flightLand
+    I.map F.flightLand
 
 
 {-| Flight Takeoff -}
@@ -4930,7 +4936,7 @@ flip =
 {-| Flip Camera Android -}
 flipCameraAndroid : Icon
 flipCameraAndroid =
-    Material.Icons.flipCameraAndroid
+    I.map F.flipCameraAndroid
 
 
 {-| Flip Camera Ios -}
@@ -4954,37 +4960,37 @@ flipToFront =
 {-| Flood -}
 flood : Icon
 flood =
-    Material.Icons.flood
+    I.map F.flood
 
 
 {-| Flourescent -}
 flourescent : Icon
 flourescent =
-    Material.Icons.flourescent
+    I.map F.flourescent
 
 
 {-| Fluorescent -}
 fluorescent : Icon
 fluorescent =
-    Material.Icons.fluorescent
+    I.map F.fluorescent
 
 
 {-| Flutter Dash -}
 flutterDash : Icon
 flutterDash =
-    Material.Icons.flutterDash
+    I.map F.flutterDash
 
 
 {-| Fmd Bad -}
 fmdBad : Icon
 fmdBad =
-    Material.Icons.fmdBad
+    I.map F.fmdBad
 
 
 {-| Fmd Good -}
 fmdGood : Icon
 fmdGood =
-    Material.Icons.fmdGood
+    I.map F.fmdGood
 
 
 {-| Folder -}
@@ -5038,7 +5044,7 @@ folderZip =
 {-| Follow The Signs -}
 followTheSigns : Icon
 followTheSigns =
-    Material.Icons.followTheSigns
+    I.map F.followTheSigns
 
 
 {-| Font Download -}
@@ -5056,55 +5062,55 @@ fontDownloadOff =
 {-| Food Bank -}
 foodBank : Icon
 foodBank =
-    Material.Icons.foodBank
+    I.map F.foodBank
 
 
 {-| Forest -}
 forest : Icon
 forest =
-    Material.Icons.forest
+    I.map F.forest
 
 
 {-| Fork Left -}
 forkLeft : Icon
 forkLeft =
-    Material.Icons.forkLeft
+    I.map F.forkLeft
 
 
 {-| Fork Right -}
 forkRight : Icon
 forkRight =
-    Material.Icons.forkRight
+    I.map F.forkRight
 
 
 {-| Format Align Center -}
 formatAlignCenter : Icon
 formatAlignCenter =
-    Material.Icons.formatAlignCenter
+    I.map F.formatAlignCenter
 
 
 {-| Format Align Justify -}
 formatAlignJustify : Icon
 formatAlignJustify =
-    Material.Icons.formatAlignJustify
+    I.map F.formatAlignJustify
 
 
 {-| Format Align Left -}
 formatAlignLeft : Icon
 formatAlignLeft =
-    Material.Icons.formatAlignLeft
+    I.map F.formatAlignLeft
 
 
 {-| Format Align Right -}
 formatAlignRight : Icon
 formatAlignRight =
-    Material.Icons.formatAlignRight
+    I.map F.formatAlignRight
 
 
 {-| Format Bold -}
 formatBold : Icon
 formatBold =
-    Material.Icons.formatBold
+    I.map F.formatBold
 
 
 {-| Format Clear -}
@@ -5128,19 +5134,19 @@ formatColorReset =
 {-| Format Color Text -}
 formatColorText : Icon
 formatColorText =
-    Material.Icons.formatColorText
+    I.map F.formatColorText
 
 
 {-| Format Indent Decrease -}
 formatIndentDecrease : Icon
 formatIndentDecrease =
-    Material.Icons.formatIndentDecrease
+    I.map F.formatIndentDecrease
 
 
 {-| Format Indent Increase -}
 formatIndentIncrease : Icon
 formatIndentIncrease =
-    Material.Icons.formatIndentIncrease
+    I.map F.formatIndentIncrease
 
 
 {-| Format Italic -}
@@ -5152,19 +5158,19 @@ formatItalic =
 {-| Format Line Spacing -}
 formatLineSpacing : Icon
 formatLineSpacing =
-    Material.Icons.formatLineSpacing
+    I.map F.formatLineSpacing
 
 
 {-| Format List Bulleted -}
 formatListBulleted : Icon
 formatListBulleted =
-    Material.Icons.formatListBulleted
+    I.map F.formatListBulleted
 
 
 {-| Format List Numbered -}
 formatListNumbered : Icon
 formatListNumbered =
-    Material.Icons.formatListNumbered
+    I.map F.formatListNumbered
 
 
 {-| Format List Numbered Rtl -}
@@ -5176,7 +5182,7 @@ formatListNumberedRtl =
 {-| Format Overline -}
 formatOverline : Icon
 formatOverline =
-    Material.Icons.formatOverline
+    I.map F.formatOverline
 
 
 {-| Format Paint -}
@@ -5194,37 +5200,37 @@ formatQuote =
 {-| Format Shapes -}
 formatShapes : Icon
 formatShapes =
-    Material.Icons.formatShapes
+    I.map F.formatShapes
 
 
 {-| Format Size -}
 formatSize : Icon
 formatSize =
-    Material.Icons.formatSize
+    I.map F.formatSize
 
 
 {-| Format Strikethrough -}
 formatStrikethrough : Icon
 formatStrikethrough =
-    Material.Icons.formatStrikethrough
+    I.map F.formatStrikethrough
 
 
 {-| Format Textdirection L To R -}
 formatTextdirectionLToR : Icon
 formatTextdirectionLToR =
-    Material.Icons.formatTextdirectionLToR
+    I.map F.formatTextdirectionLToR
 
 
 {-| Format Textdirection R To L -}
 formatTextdirectionRToL : Icon
 formatTextdirectionRToL =
-    Material.Icons.formatTextdirectionRToL
+    I.map F.formatTextdirectionRToL
 
 
 {-| Format Underlined -}
 formatUnderlined : Icon
 formatUnderlined =
-    Material.Icons.formatUnderlined
+    I.map F.formatUnderlined
 
 
 {-| Fort -}
@@ -5272,7 +5278,7 @@ forwardToInbox =
 {-| Foundation -}
 foundation : Icon
 foundation =
-    Material.Icons.foundation
+    I.map F.foundation
 
 
 {-| Free Breakfast -}
@@ -5296,13 +5302,13 @@ frontHand =
 {-| Fullscreen -}
 fullscreen : Icon
 fullscreen =
-    Material.Icons.fullscreen
+    I.map F.fullscreen
 
 
 {-| Fullscreen Exit -}
 fullscreenExit : Icon
 fullscreenExit =
-    Material.Icons.fullscreenExit
+    I.map F.fullscreenExit
 
 
 {-| Functions -}
@@ -5326,13 +5332,13 @@ gTranslate =
 {-| Gamepad -}
 gamepad : Icon
 gamepad =
-    Material.Icons.gamepad
+    I.map F.gamepad
 
 
 {-| Games -}
 games : Icon
 games =
-    Material.Icons.games
+    I.map F.games
 
 
 {-| Garage -}
@@ -5356,19 +5362,19 @@ gavel =
 {-| Generating Tokens -}
 generatingTokens : Icon
 generatingTokens =
-    Material.Icons.generatingTokens
+    I.map F.generatingTokens
 
 
 {-| Gesture -}
 gesture : Icon
 gesture =
-    Material.Icons.gesture
+    I.map F.gesture
 
 
 {-| Get App -}
 getApp : Icon
 getApp =
-    Material.Icons.getApp
+    I.map F.getApp
 
 
 {-| Gif -}
@@ -5386,49 +5392,49 @@ gifBox =
 {-| Girl -}
 girl : Icon
 girl =
-    Material.Icons.girl
+    I.map F.girl
 
 
 {-| Gite -}
 gite : Icon
 gite =
-    Material.Icons.gite
+    I.map F.gite
 
 
 {-| Golf Course -}
 golfCourse : Icon
 golfCourse =
-    Material.Icons.golfCourse
+    I.map F.golfCourse
 
 
 {-| Gpp Bad -}
 gppBad : Icon
 gppBad =
-    Material.Icons.gppBad
+    I.map F.gppBad
 
 
 {-| Gpp Good -}
 gppGood : Icon
 gppGood =
-    Material.Icons.gppGood
+    I.map F.gppGood
 
 
 {-| Gpp Maybe -}
 gppMaybe : Icon
 gppMaybe =
-    Material.Icons.gppMaybe
+    I.map F.gppMaybe
 
 
 {-| Gps Fixed -}
 gpsFixed : Icon
 gpsFixed =
-    Material.Icons.gpsFixed
+    I.map F.gpsFixed
 
 
 {-| Gps Not Fixed -}
 gpsNotFixed : Icon
 gpsNotFixed =
-    Material.Icons.gpsNotFixed
+    I.map F.gpsNotFixed
 
 
 {-| Gps Off -}
@@ -5452,55 +5458,55 @@ gradient =
 {-| Grading -}
 grading : Icon
 grading =
-    Material.Icons.grading
+    I.map F.grading
 
 
 {-| Grain -}
 grain : Icon
 grain =
-    Material.Icons.grain
+    I.map F.grain
 
 
 {-| Graphic Eq -}
 graphicEq : Icon
 graphicEq =
-    Material.Icons.graphicEq
+    I.map F.graphicEq
 
 
 {-| Grass -}
 grass : Icon
 grass =
-    Material.Icons.grass
+    I.map F.grass
 
 
 {-| Greater Than -}
 greaterThan : Icon
 greaterThan =
-    Material.Icons.greaterThan
+    I.map F.greaterThan
 
 
 {-| Greater Than Equal -}
 greaterThanEqual : Icon
 greaterThanEqual =
-    Material.Icons.greaterThanEqual
+    I.map F.greaterThanEqual
 
 
 {-| Grid 3x3 -}
 grid3x3 : Icon
 grid3x3 =
-    Material.Icons.grid3x3
+    I.map F.grid3x3
 
 
 {-| Grid 4x4 -}
 grid4x4 : Icon
 grid4x4 =
-    Material.Icons.grid4x4
+    I.map F.grid4x4
 
 
 {-| Grid Goldenratio -}
 gridGoldenratio : Icon
 gridGoldenratio =
-    Material.Icons.gridGoldenratio
+    I.map F.gridGoldenratio
 
 
 {-| Grid Off -}
@@ -5530,55 +5536,55 @@ group =
 {-| Group Add -}
 groupAdd : Icon
 groupAdd =
-    Material.Icons.groupAdd
+    I.map F.groupAdd
 
 
 {-| Group Off -}
 groupOff : Icon
 groupOff =
-    Material.Icons.groupOff
+    I.map F.groupOff
 
 
 {-| Group Remove -}
 groupRemove : Icon
 groupRemove =
-    Material.Icons.groupRemove
+    I.map F.groupRemove
 
 
 {-| Group Work -}
 groupWork : Icon
 groupWork =
-    Material.Icons.groupWork
+    I.map F.groupWork
 
 
 {-| Groups -}
 groups : Icon
 groups =
-    Material.Icons.groups
+    I.map F.groups
 
 
 {-| Groups 2 -}
 groups2 : Icon
 groups2 =
-    Material.Icons.groups2
+    I.map F.groups2
 
 
 {-| Groups 3 -}
 groups3 : Icon
 groups3 =
-    Material.Icons.groups3
+    I.map F.groups3
 
 
 {-| H Mobiledata -}
 hMobiledata : Icon
 hMobiledata =
-    Material.Icons.hMobiledata
+    I.map F.hMobiledata
 
 
 {-| H Plus Mobiledata -}
 hPlusMobiledata : Icon
 hPlusMobiledata =
-    Material.Icons.hPlusMobiledata
+    I.map F.hPlusMobiledata
 
 
 {-| Hail -}
@@ -5614,7 +5620,7 @@ hd =
 {-| Hdr Auto -}
 hdrAuto : Icon
 hdrAuto =
-    Material.Icons.hdrAuto
+    I.map F.hdrAuto
 
 
 {-| Hdr Auto Select -}
@@ -5662,13 +5668,13 @@ hdrPlus =
 {-| Hdr Strong -}
 hdrStrong : Icon
 hdrStrong =
-    Material.Icons.hdrStrong
+    I.map F.hdrStrong
 
 
 {-| Hdr Weak -}
 hdrWeak : Icon
 hdrWeak =
-    Material.Icons.hdrWeak
+    I.map F.hdrWeak
 
 
 {-| Headphones -}
@@ -5710,25 +5716,25 @@ healing =
 {-| Health And Safety -}
 healthAndSafety : Icon
 healthAndSafety =
-    Material.Icons.healthAndSafety
+    I.map F.healthAndSafety
 
 
 {-| Hearing -}
 hearing : Icon
 hearing =
-    Material.Icons.hearing
+    I.map F.hearing
 
 
 {-| Hearing Disabled -}
 hearingDisabled : Icon
 hearingDisabled =
-    Material.Icons.hearingDisabled
+    I.map F.hearingDisabled
 
 
 {-| Heart Broken -}
 heartBroken : Icon
 heartBroken =
-    Material.Icons.heartBroken
+    I.map F.heartBroken
 
 
 {-| Heat Pump -}
@@ -5740,13 +5746,13 @@ heatPump =
 {-| Height -}
 height : Icon
 height =
-    Material.Icons.height
+    I.map F.height
 
 
 {-| Help -}
 help : Icon
 help =
-    Material.Icons.help
+    I.map F.help
 
 
 {-| Help Center -}
@@ -5758,7 +5764,7 @@ helpCenter =
 {-| Help Outline -}
 helpOutline : Icon
 helpOutline =
-    Material.Icons.helpOutline
+    I.map F.helpOutline
 
 
 {-| Hevc -}
@@ -5770,7 +5776,7 @@ hevc =
 {-| Hexagon -}
 hexagon : Icon
 hexagon =
-    Material.Icons.hexagon
+    I.map F.hexagon
 
 
 {-| Hide Image -}
@@ -5782,7 +5788,7 @@ hideImage =
 {-| Hide Source -}
 hideSource : Icon
 hideSource =
-    Material.Icons.hideSource
+    I.map F.hideSource
 
 
 {-| High Quality -}
@@ -5794,7 +5800,7 @@ highQuality =
 {-| Highlight -}
 highlight : Icon
 highlight =
-    Material.Icons.highlight
+    I.map F.highlight
 
 
 {-| Highlight Alt -}
@@ -5806,7 +5812,7 @@ highlightAlt =
 {-| Highlight Off -}
 highlightOff : Icon
 highlightOff =
-    Material.Icons.highlightOff
+    I.map F.highlightOff
 
 
 {-| Hiking -}
@@ -5824,19 +5830,19 @@ history =
 {-| History Edu -}
 historyEdu : Icon
 historyEdu =
-    Material.Icons.historyEdu
+    I.map F.historyEdu
 
 
 {-| History Toggle Off -}
 historyToggleOff : Icon
 historyToggleOff =
-    Material.Icons.historyToggleOff
+    I.map F.historyToggleOff
 
 
 {-| Hive -}
 hive : Icon
 hive =
-    Material.Icons.hive
+    I.map F.hive
 
 
 {-| Hls -}
@@ -5854,7 +5860,7 @@ hlsOff =
 {-| Holiday Village -}
 holidayVillage : Icon
 holidayVillage =
-    Material.Icons.holidayVillage
+    I.map F.holidayVillage
 
 
 {-| Home -}
@@ -5866,13 +5872,13 @@ home =
 {-| Home Max -}
 homeMax : Icon
 homeMax =
-    Material.Icons.homeMax
+    I.map F.homeMax
 
 
 {-| Home Mini -}
 homeMini : Icon
 homeMini =
-    Material.Icons.homeMini
+    I.map F.homeMini
 
 
 {-| Home Repair Service -}
@@ -5884,25 +5890,25 @@ homeRepairService =
 {-| Home Work -}
 homeWork : Icon
 homeWork =
-    Material.Icons.homeWork
+    I.map F.homeWork
 
 
 {-| Horizontal Distribute -}
 horizontalDistribute : Icon
 horizontalDistribute =
-    Material.Icons.horizontalDistribute
+    I.map F.horizontalDistribute
 
 
 {-| Horizontal Rule -}
 horizontalRule : Icon
 horizontalRule =
-    Material.Icons.horizontalRule
+    I.map F.horizontalRule
 
 
 {-| Horizontal Split -}
 horizontalSplit : Icon
 horizontalSplit =
-    Material.Icons.horizontalSplit
+    I.map F.horizontalSplit
 
 
 {-| Hot Tub -}
@@ -5920,49 +5926,49 @@ hotel =
 {-| Hotel Class -}
 hotelClass : Icon
 hotelClass =
-    Material.Icons.hotelClass
+    I.map F.hotelClass
 
 
 {-| Hourglass Bottom -}
 hourglassBottom : Icon
 hourglassBottom =
-    Material.Icons.hourglassBottom
+    I.map F.hourglassBottom
 
 
 {-| Hourglass Disabled -}
 hourglassDisabled : Icon
 hourglassDisabled =
-    Material.Icons.hourglassDisabled
+    I.map F.hourglassDisabled
 
 
 {-| Hourglass Empty -}
 hourglassEmpty : Icon
 hourglassEmpty =
-    Material.Icons.hourglassEmpty
+    I.map F.hourglassEmpty
 
 
 {-| Hourglass Full -}
 hourglassFull : Icon
 hourglassFull =
-    Material.Icons.hourglassFull
+    I.map F.hourglassFull
 
 
 {-| Hourglass Top -}
 hourglassTop : Icon
 hourglassTop =
-    Material.Icons.hourglassTop
+    I.map F.hourglassTop
 
 
 {-| House -}
 house : Icon
 house =
-    Material.Icons.house
+    I.map F.house
 
 
 {-| House Siding -}
 houseSiding : Icon
 houseSiding =
-    Material.Icons.houseSiding
+    I.map F.houseSiding
 
 
 {-| Houseboat -}
@@ -6004,7 +6010,7 @@ https =
 {-| Hub -}
 hub : Icon
 hub =
-    Material.Icons.hub
+    I.map F.hub
 
 
 {-| Hvac -}
@@ -6064,7 +6070,7 @@ importContacts =
 {-| Import Export -}
 importExport : Icon
 importExport =
-    Material.Icons.importExport
+    I.map F.importExport
 
 
 {-| Important Devices -}
@@ -6082,7 +6088,7 @@ inbox =
 {-| Incomplete Circle -}
 incompleteCircle : Icon
 incompleteCircle =
-    Material.Icons.incompleteCircle
+    I.map F.incompleteCircle
 
 
 {-| Indeterminate Check Box -}
@@ -6094,7 +6100,7 @@ indeterminateCheckBox =
 {-| Info -}
 info : Icon
 info =
-    Material.Icons.info
+    I.map F.info
 
 
 {-| Input -}
@@ -6130,7 +6136,7 @@ insertDriveFile =
 {-| Insert Emoticon -}
 insertEmoticon : Icon
 insertEmoticon =
-    Material.Icons.insertEmoticon
+    I.map F.insertEmoticon
 
 
 {-| Insert Invitation -}
@@ -6142,7 +6148,7 @@ insertInvitation =
 {-| Insert Link -}
 insertLink : Icon
 insertLink =
-    Material.Icons.insertLink
+    I.map F.insertLink
 
 
 {-| Insert Page Break -}
@@ -6160,7 +6166,7 @@ insertPhoto =
 {-| Insights -}
 insights : Icon
 insights =
-    Material.Icons.insights
+    I.map F.insights
 
 
 {-| Install Desktop -}
@@ -6184,13 +6190,13 @@ integrationInstructions =
 {-| Interests -}
 interests : Icon
 interests =
-    Material.Icons.interests
+    I.map F.interests
 
 
 {-| Interpreter Mode -}
 interpreterMode : Icon
 interpreterMode =
-    Material.Icons.interpreterMode
+    I.map F.interpreterMode
 
 
 {-| Inventory -}
@@ -6208,13 +6214,13 @@ inventory2 =
 {-| Invert Colors -}
 invertColors : Icon
 invertColors =
-    Material.Icons.invertColors
+    I.map F.invertColors
 
 
 {-| Invert Colors Off -}
 invertColorsOff : Icon
 invertColorsOff =
-    Material.Icons.invertColorsOff
+    I.map F.invertColorsOff
 
 
 {-| Ios Share -}
@@ -6244,49 +6250,49 @@ javascript =
 {-| Join Full -}
 joinFull : Icon
 joinFull =
-    Material.Icons.joinFull
+    I.map F.joinFull
 
 
 {-| Join Inner -}
 joinInner : Icon
 joinInner =
-    Material.Icons.joinInner
+    I.map F.joinInner
 
 
 {-| Join Left -}
 joinLeft : Icon
 joinLeft =
-    Material.Icons.joinLeft
+    I.map F.joinLeft
 
 
 {-| Join Right -}
 joinRight : Icon
 joinRight =
-    Material.Icons.joinRight
+    I.map F.joinRight
 
 
 {-| Kayaking -}
 kayaking : Icon
 kayaking =
-    Material.Icons.kayaking
+    I.map F.kayaking
 
 
 {-| Kebab Dining -}
 kebabDining : Icon
 kebabDining =
-    Material.Icons.kebabDining
+    I.map F.kebabDining
 
 
 {-| Key -}
 key : Icon
 key =
-    Material.Icons.key
+    I.map F.key
 
 
 {-| Key Off -}
 keyOff : Icon
 keyOff =
-    Material.Icons.keyOff
+    I.map F.keyOff
 
 
 {-| Keyboard -}
@@ -6304,19 +6310,19 @@ keyboardAlt =
 {-| Keyboard Arrow Down -}
 keyboardArrowDown : Icon
 keyboardArrowDown =
-    Material.Icons.keyboardArrowDown
+    I.map F.keyboardArrowDown
 
 
 {-| Keyboard Arrow Left -}
 keyboardArrowLeft : Icon
 keyboardArrowLeft =
-    Material.Icons.keyboardArrowLeft
+    I.map F.keyboardArrowLeft
 
 
 {-| Keyboard Arrow Right -}
 keyboardArrowRight : Icon
 keyboardArrowRight =
-    Material.Icons.keyboardArrowRight
+    I.map F.keyboardArrowRight
 
 
 {-| Keyboard Arrow Up -}
@@ -6334,43 +6340,43 @@ keyboardBackspace =
 {-| Keyboard Capslock -}
 keyboardCapslock : Icon
 keyboardCapslock =
-    Material.Icons.keyboardCapslock
+    I.map F.keyboardCapslock
 
 
 {-| Keyboard Command Key -}
 keyboardCommandKey : Icon
 keyboardCommandKey =
-    Material.Icons.keyboardCommandKey
+    I.map F.keyboardCommandKey
 
 
 {-| Keyboard Control Key -}
 keyboardControlKey : Icon
 keyboardControlKey =
-    Material.Icons.keyboardControlKey
+    I.map F.keyboardControlKey
 
 
 {-| Keyboard Double Arrow Down -}
 keyboardDoubleArrowDown : Icon
 keyboardDoubleArrowDown =
-    Material.Icons.keyboardDoubleArrowDown
+    I.map F.keyboardDoubleArrowDown
 
 
 {-| Keyboard Double Arrow Left -}
 keyboardDoubleArrowLeft : Icon
 keyboardDoubleArrowLeft =
-    Material.Icons.keyboardDoubleArrowLeft
+    I.map F.keyboardDoubleArrowLeft
 
 
 {-| Keyboard Double Arrow Right -}
 keyboardDoubleArrowRight : Icon
 keyboardDoubleArrowRight =
-    Material.Icons.keyboardDoubleArrowRight
+    I.map F.keyboardDoubleArrowRight
 
 
 {-| Keyboard Double Arrow Up -}
 keyboardDoubleArrowUp : Icon
 keyboardDoubleArrowUp =
-    Material.Icons.keyboardDoubleArrowUp
+    I.map F.keyboardDoubleArrowUp
 
 
 {-| Keyboard Hide -}
@@ -6382,7 +6388,7 @@ keyboardHide =
 {-| Keyboard Option Key -}
 keyboardOptionKey : Icon
 keyboardOptionKey =
-    Material.Icons.keyboardOptionKey
+    I.map F.keyboardOptionKey
 
 
 {-| Keyboard Return -}
@@ -6394,13 +6400,13 @@ keyboardReturn =
 {-| Keyboard Tab -}
 keyboardTab : Icon
 keyboardTab =
-    Material.Icons.keyboardTab
+    I.map F.keyboardTab
 
 
 {-| Keyboard Voice -}
 keyboardVoice : Icon
 keyboardVoice =
-    Material.Icons.keyboardVoice
+    I.map F.keyboardVoice
 
 
 {-| King Bed -}
@@ -6442,19 +6448,19 @@ labelOff =
 {-| Lan -}
 lan : Icon
 lan =
-    Material.Icons.lan
+    I.map F.lan
 
 
 {-| Landscape -}
 landscape : Icon
 landscape =
-    Material.Icons.landscape
+    I.map F.landscape
 
 
 {-| Landslide -}
 landslide : Icon
 landslide =
-    Material.Icons.landslide
+    I.map F.landslide
 
 
 {-| Language -}
@@ -6472,7 +6478,7 @@ laptop =
 {-| Laptop Chromebook -}
 laptopChromebook : Icon
 laptopChromebook =
-    Material.Icons.laptopChromebook
+    I.map F.laptopChromebook
 
 
 {-| Laptop Mac -}
@@ -6502,7 +6508,7 @@ launch =
 {-| Layers -}
 layers : Icon
 layers =
-    Material.Icons.layers
+    I.map F.layers
 
 
 {-| Layers Clear -}
@@ -6514,13 +6520,13 @@ layersClear =
 {-| Leaderboard -}
 leaderboard : Icon
 leaderboard =
-    Material.Icons.leaderboard
+    I.map F.leaderboard
 
 
 {-| Leak Add -}
 leakAdd : Icon
 leakAdd =
-    Material.Icons.leakAdd
+    I.map F.leakAdd
 
 
 {-| Leak Remove -}
@@ -6538,31 +6544,31 @@ leaveBagsAtHome =
 {-| Legend Toggle -}
 legendToggle : Icon
 legendToggle =
-    Material.Icons.legendToggle
+    I.map F.legendToggle
 
 
 {-| Lens -}
 lens : Icon
 lens =
-    Material.Icons.lens
+    I.map F.lens
 
 
 {-| Lens Blur -}
 lensBlur : Icon
 lensBlur =
-    Material.Icons.lensBlur
+    I.map F.lensBlur
 
 
 {-| Less Than -}
 lessThan : Icon
 lessThan =
-    Material.Icons.lessThan
+    I.map F.lessThan
 
 
 {-| Less Than Equal -}
 lessThanEqual : Icon
 lessThanEqual =
-    Material.Icons.lessThanEqual
+    I.map F.lessThanEqual
 
 
 {-| Library Add -}
@@ -6610,31 +6616,31 @@ lightbulb =
 {-| Lightbulb Circle -}
 lightbulbCircle : Icon
 lightbulbCircle =
-    Material.Icons.lightbulbCircle
+    I.map F.lightbulbCircle
 
 
 {-| Line Axis -}
 lineAxis : Icon
 lineAxis =
-    Material.Icons.lineAxis
+    I.map F.lineAxis
 
 
 {-| Line Style -}
 lineStyle : Icon
 lineStyle =
-    Material.Icons.lineStyle
+    I.map F.lineStyle
 
 
 {-| Line Weight -}
 lineWeight : Icon
 lineWeight =
-    Material.Icons.lineWeight
+    I.map F.lineWeight
 
 
 {-| Linear Scale -}
 linearScale : Icon
 linearScale =
-    Material.Icons.linearScale
+    I.map F.linearScale
 
 
 {-| Link -}
@@ -6700,7 +6706,7 @@ localActivity =
 {-| Local Airport -}
 localAirport : Icon
 localAirport =
-    Material.Icons.localAirport
+    I.map F.localAirport
 
 
 {-| Local Atm -}
@@ -6712,7 +6718,7 @@ localAtm =
 {-| Local Bar -}
 localBar : Icon
 localBar =
-    Material.Icons.localBar
+    I.map F.localBar
 
 
 {-| Local Cafe -}
@@ -6730,13 +6736,13 @@ localCarWash =
 {-| Local Convenience Store -}
 localConvenienceStore : Icon
 localConvenienceStore =
-    Material.Icons.localConvenienceStore
+    I.map F.localConvenienceStore
 
 
 {-| Local Dining -}
 localDining : Icon
 localDining =
-    Material.Icons.localDining
+    I.map F.localDining
 
 
 {-| Local Drink -}
@@ -6748,13 +6754,13 @@ localDrink =
 {-| Local Fire Department -}
 localFireDepartment : Icon
 localFireDepartment =
-    Material.Icons.localFireDepartment
+    I.map F.localFireDepartment
 
 
 {-| Local Florist -}
 localFlorist : Icon
 localFlorist =
-    Material.Icons.localFlorist
+    I.map F.localFlorist
 
 
 {-| Local Gas Station -}
@@ -6790,7 +6796,7 @@ localLaundryService =
 {-| Local Library -}
 localLibrary : Icon
 localLibrary =
-    Material.Icons.localLibrary
+    I.map F.localLibrary
 
 
 {-| Local Mall -}
@@ -6802,7 +6808,7 @@ localMall =
 {-| Local Movies -}
 localMovies : Icon
 localMovies =
-    Material.Icons.localMovies
+    I.map F.localMovies
 
 
 {-| Local Offer -}
@@ -6814,13 +6820,13 @@ localOffer =
 {-| Local Parking -}
 localParking : Icon
 localParking =
-    Material.Icons.localParking
+    I.map F.localParking
 
 
 {-| Local Pharmacy -}
 localPharmacy : Icon
 localPharmacy =
-    Material.Icons.localPharmacy
+    I.map F.localPharmacy
 
 
 {-| Local Phone -}
@@ -6832,7 +6838,7 @@ localPhone =
 {-| Local Pizza -}
 localPizza : Icon
 localPizza =
-    Material.Icons.localPizza
+    I.map F.localPizza
 
 
 {-| Local Play -}
@@ -6880,7 +6886,7 @@ localTaxi =
 {-| Location City -}
 locationCity : Icon
 locationCity =
-    Material.Icons.locationCity
+    I.map F.locationCity
 
 
 {-| Location Disabled -}
@@ -6898,13 +6904,13 @@ locationOff =
 {-| Location On -}
 locationOn : Icon
 locationOn =
-    Material.Icons.locationOn
+    I.map F.locationOn
 
 
 {-| Location Searching -}
 locationSearching : Icon
 locationSearching =
-    Material.Icons.locationSearching
+    I.map F.locationSearching
 
 
 {-| Lock -}
@@ -6940,13 +6946,13 @@ lockReset =
 {-| Log In -}
 logIn : Icon
 logIn =
-    Material.Icons.logIn
+    I.map F.logIn
 
 
 {-| Log Out -}
 logOut : Icon
 logOut =
-    Material.Icons.logOut
+    I.map F.logOut
 
 
 {-| Login -}
@@ -6958,7 +6964,7 @@ login =
 {-| Logo Dev -}
 logoDev : Icon
 logoDev =
-    Material.Icons.logoDev
+    I.map F.logoDev
 
 
 {-| Logout -}
@@ -6970,7 +6976,7 @@ logout =
 {-| Looks -}
 looks : Icon
 looks =
-    Material.Icons.looks
+    I.map F.looks
 
 
 {-| Looks 3 -}
@@ -7012,7 +7018,7 @@ looksTwo =
 {-| Loop -}
 loop : Icon
 loop =
-    Material.Icons.loop
+    I.map F.loop
 
 
 {-| Loupe -}
@@ -7036,13 +7042,13 @@ loyalty =
 {-| Lte Mobiledata -}
 lteMobiledata : Icon
 lteMobiledata =
-    Material.Icons.lteMobiledata
+    I.map F.lteMobiledata
 
 
 {-| Lte Plus Mobiledata -}
 ltePlusMobiledata : Icon
 ltePlusMobiledata =
-    Material.Icons.ltePlusMobiledata
+    I.map F.ltePlusMobiledata
 
 
 {-| Luggage -}
@@ -7060,13 +7066,13 @@ lunchDining =
 {-| Lyrics -}
 lyrics : Icon
 lyrics =
-    Material.Icons.lyrics
+    I.map F.lyrics
 
 
 {-| Macro Off -}
 macroOff : Icon
 macroOff =
-    Material.Icons.macroOff
+    I.map F.macroOff
 
 
 {-| Mail -}
@@ -7090,7 +7096,7 @@ mailOutline =
 {-| Male -}
 male : Icon
 male =
-    Material.Icons.male
+    I.map F.male
 
 
 {-| Man -}
@@ -7126,13 +7132,13 @@ manageAccounts =
 {-| Manage History -}
 manageHistory : Icon
 manageHistory =
-    Material.Icons.manageHistory
+    I.map F.manageHistory
 
 
 {-| Manage Search -}
 manageSearch : Icon
 manageSearch =
-    Material.Icons.manageSearch
+    I.map F.manageSearch
 
 
 {-| Map -}
@@ -7144,7 +7150,7 @@ map =
 {-| Maps Home Work -}
 mapsHomeWork : Icon
 mapsHomeWork =
-    Material.Icons.mapsHomeWork
+    I.map F.mapsHomeWork
 
 
 {-| Maps Ugc -}
@@ -7210,7 +7216,7 @@ markunreadMailbox =
 {-| Masks -}
 masks : Icon
 masks =
-    Material.Icons.masks
+    I.map F.masks
 
 
 {-| Maximize -}
@@ -7228,7 +7234,7 @@ mediaBluetoothOff =
 {-| Media Bluetooth On -}
 mediaBluetoothOn : Icon
 mediaBluetoothOn =
-    Material.Icons.mediaBluetoothOn
+    I.map F.mediaBluetoothOn
 
 
 {-| Mediation -}
@@ -7264,7 +7270,7 @@ medicationLiquid =
 {-| Meeting Room -}
 meetingRoom : Icon
 meetingRoom =
-    Material.Icons.meetingRoom
+    I.map F.meetingRoom
 
 
 {-| Memory -}
@@ -7276,7 +7282,7 @@ memory =
 {-| Menu -}
 menu : Icon
 menu =
-    Material.Icons.menu
+    I.map F.menu
 
 
 {-| Menu Book -}
@@ -7288,19 +7294,19 @@ menuBook =
 {-| Menu Open -}
 menuOpen : Icon
 menuOpen =
-    Material.Icons.menuOpen
+    I.map F.menuOpen
 
 
 {-| Merge -}
 merge : Icon
 merge =
-    Material.Icons.merge
+    I.map F.merge
 
 
 {-| Merge Type -}
 mergeType : Icon
 mergeType =
-    Material.Icons.mergeType
+    I.map F.mergeType
 
 
 {-| Message -}
@@ -7366,7 +7372,7 @@ minorCrash =
 {-| Minus -}
 minus : Icon
 minus =
-    Material.Icons.minus
+    I.map F.minus
 
 
 {-| Miscellaneous Services -}
@@ -7408,7 +7414,7 @@ mobileScreenShare =
 {-| Mobiledata Off -}
 mobiledataOff : Icon
 mobiledataOff =
-    Material.Icons.mobiledataOff
+    I.map F.mobiledataOff
 
 
 {-| Mode -}
@@ -7438,37 +7444,37 @@ modeEditOutline =
 {-| Mode Fan Off -}
 modeFanOff : Icon
 modeFanOff =
-    Material.Icons.modeFanOff
+    I.map F.modeFanOff
 
 
 {-| Mode Night -}
 modeNight : Icon
 modeNight =
-    Material.Icons.modeNight
+    I.map F.modeNight
 
 
 {-| Mode Of Travel -}
 modeOfTravel : Icon
 modeOfTravel =
-    Material.Icons.modeOfTravel
+    I.map F.modeOfTravel
 
 
 {-| Mode Standby -}
 modeStandby : Icon
 modeStandby =
-    Material.Icons.modeStandby
+    I.map F.modeStandby
 
 
 {-| Model Training -}
 modelTraining : Icon
 modelTraining =
-    Material.Icons.modelTraining
+    I.map F.modelTraining
 
 
 {-| Monetization On -}
 monetizationOn : Icon
 monetizationOn =
-    Material.Icons.monetizationOn
+    I.map F.monetizationOn
 
 
 {-| Money -}
@@ -7516,7 +7522,7 @@ monochromePhotos =
 {-| Mood -}
 mood : Icon
 mood =
-    Material.Icons.mood
+    I.map F.mood
 
 
 {-| Mood Bad -}
@@ -7540,19 +7546,19 @@ more =
 {-| More Horiz -}
 moreHoriz : Icon
 moreHoriz =
-    Material.Icons.moreHoriz
+    I.map F.moreHoriz
 
 
 {-| More Time -}
 moreTime : Icon
 moreTime =
-    Material.Icons.moreTime
+    I.map F.moreTime
 
 
 {-| More Vert -}
 moreVert : Icon
 moreVert =
-    Material.Icons.moreVert
+    I.map F.moreVert
 
 
 {-| Mosque -}
@@ -7564,7 +7570,7 @@ mosque =
 {-| Motion Photos Auto -}
 motionPhotosAuto : Icon
 motionPhotosAuto =
-    Material.Icons.motionPhotosAuto
+    I.map F.motionPhotosAuto
 
 
 {-| Motion Photos Off -}
@@ -7576,19 +7582,19 @@ motionPhotosOff =
 {-| Motion Photos On -}
 motionPhotosOn : Icon
 motionPhotosOn =
-    Material.Icons.motionPhotosOn
+    I.map F.motionPhotosOn
 
 
 {-| Motion Photos Pause -}
 motionPhotosPause : Icon
 motionPhotosPause =
-    Material.Icons.motionPhotosPause
+    I.map F.motionPhotosPause
 
 
 {-| Motion Photos Paused -}
 motionPhotosPaused : Icon
 motionPhotosPaused =
-    Material.Icons.motionPhotosPaused
+    I.map F.motionPhotosPaused
 
 
 {-| Motorcycle -}
@@ -7600,13 +7606,13 @@ motorcycle =
 {-| Mouse -}
 mouse : Icon
 mouse =
-    Material.Icons.mouse
+    I.map F.mouse
 
 
 {-| Move Down -}
 moveDown : Icon
 moveDown =
-    Material.Icons.moveDown
+    I.map F.moveDown
 
 
 {-| Move To Inbox -}
@@ -7618,31 +7624,31 @@ moveToInbox =
 {-| Move Up -}
 moveUp : Icon
 moveUp =
-    Material.Icons.moveUp
+    I.map F.moveUp
 
 
 {-| Movie -}
 movie : Icon
 movie =
-    Material.Icons.movie
+    I.map F.movie
 
 
 {-| Movie Creation -}
 movieCreation : Icon
 movieCreation =
-    Material.Icons.movieCreation
+    I.map F.movieCreation
 
 
 {-| Movie Filter -}
 movieFilter : Icon
 movieFilter =
-    Material.Icons.movieFilter
+    I.map F.movieFilter
 
 
 {-| Moving -}
 moving : Icon
 moving =
-    Material.Icons.moving
+    I.map F.moving
 
 
 {-| Mp -}
@@ -7654,7 +7660,7 @@ mp =
 {-| Multiline Chart -}
 multilineChart : Icon
 multilineChart =
-    Material.Icons.multilineChart
+    I.map F.multilineChart
 
 
 {-| Multiple Stop -}
@@ -7666,13 +7672,13 @@ multipleStop =
 {-| Museum -}
 museum : Icon
 museum =
-    Material.Icons.museum
+    I.map F.museum
 
 
 {-| Music Note -}
 musicNote : Icon
 musicNote =
-    Material.Icons.musicNote
+    I.map F.musicNote
 
 
 {-| Music Off -}
@@ -7690,19 +7696,19 @@ musicVideo =
 {-| My Location -}
 myLocation : Icon
 myLocation =
-    Material.Icons.myLocation
+    I.map F.myLocation
 
 
 {-| Nat -}
 nat : Icon
 nat =
-    Material.Icons.nat
+    I.map F.nat
 
 
 {-| Nature -}
 nature : Icon
 nature =
-    Material.Icons.nature
+    I.map F.nature
 
 
 {-| Nature People -}
@@ -7732,13 +7738,13 @@ navigation =
 {-| Near Me -}
 nearMe : Icon
 nearMe =
-    Material.Icons.nearMe
+    I.map F.nearMe
 
 
 {-| Near Me Disabled -}
 nearMeDisabled : Icon
 nearMeDisabled =
-    Material.Icons.nearMeDisabled
+    I.map F.nearMeDisabled
 
 
 {-| Nearby Error -}
@@ -7762,13 +7768,13 @@ nestCamWiredStand =
 {-| Network Cell -}
 networkCell : Icon
 networkCell =
-    Material.Icons.networkCell
+    I.map F.networkCell
 
 
 {-| Network Check -}
 networkCheck : Icon
 networkCheck =
-    Material.Icons.networkCheck
+    I.map F.networkCheck
 
 
 {-| Network Locked -}
@@ -7780,7 +7786,7 @@ networkLocked =
 {-| Network Ping -}
 networkPing : Icon
 networkPing =
-    Material.Icons.networkPing
+    I.map F.networkPing
 
 
 {-| Network Wifi -}
@@ -7792,19 +7798,19 @@ networkWifi =
 {-| Network Wifi 1 Bar -}
 networkWifi1Bar : Icon
 networkWifi1Bar =
-    Material.Icons.networkWifi1Bar
+    I.map F.networkWifi1Bar
 
 
 {-| Network Wifi 2 Bar -}
 networkWifi2Bar : Icon
 networkWifi2Bar =
-    Material.Icons.networkWifi2Bar
+    I.map F.networkWifi2Bar
 
 
 {-| Network Wifi 3 Bar -}
 networkWifi3Bar : Icon
 networkWifi3Bar =
-    Material.Icons.networkWifi3Bar
+    I.map F.networkWifi3Bar
 
 
 {-| New Label -}
@@ -7816,7 +7822,7 @@ newLabel =
 {-| New Releases -}
 newReleases : Icon
 newReleases =
-    Material.Icons.newReleases
+    I.map F.newReleases
 
 
 {-| Newspaper -}
@@ -7828,7 +7834,7 @@ newspaper =
 {-| Next Plan -}
 nextPlan : Icon
 nextPlan =
-    Material.Icons.nextPlan
+    I.map F.nextPlan
 
 
 {-| Next Week -}
@@ -7852,13 +7858,13 @@ nightShelter =
 {-| Nightlife -}
 nightlife : Icon
 nightlife =
-    Material.Icons.nightlife
+    I.map F.nightlife
 
 
 {-| Nightlight -}
 nightlight : Icon
 nightlight =
-    Material.Icons.nightlight
+    I.map F.nightlight
 
 
 {-| Nightlight Round -}
@@ -7870,19 +7876,19 @@ nightlightRound =
 {-| Nights Stay -}
 nightsStay : Icon
 nightsStay =
-    Material.Icons.nightsStay
+    I.map F.nightsStay
 
 
 {-| No Accounts -}
 noAccounts : Icon
 noAccounts =
-    Material.Icons.noAccounts
+    I.map F.noAccounts
 
 
 {-| No Adult Content -}
 noAdultContent : Icon
 noAdultContent =
-    Material.Icons.noAdultContent
+    I.map F.noAdultContent
 
 
 {-| No Backpack -}
@@ -7942,7 +7948,7 @@ noLuggage =
 {-| No Meals -}
 noMeals : Icon
 noMeals =
-    Material.Icons.noMeals
+    I.map F.noMeals
 
 
 {-| No Meeting Room -}
@@ -7978,37 +7984,37 @@ noTransfer =
 {-| Noise Aware -}
 noiseAware : Icon
 noiseAware =
-    Material.Icons.noiseAware
+    I.map F.noiseAware
 
 
 {-| Noise Control Off -}
 noiseControlOff : Icon
 noiseControlOff =
-    Material.Icons.noiseControlOff
+    I.map F.noiseControlOff
 
 
 {-| Nordic Walking -}
 nordicWalking : Icon
 nordicWalking =
-    Material.Icons.nordicWalking
+    I.map F.nordicWalking
 
 
 {-| North -}
 north : Icon
 north =
-    Material.Icons.north
+    I.map F.north
 
 
 {-| North East -}
 northEast : Icon
 northEast =
-    Material.Icons.northEast
+    I.map F.northEast
 
 
 {-| North West -}
 northWest : Icon
 northWest =
-    Material.Icons.northWest
+    I.map F.northWest
 
 
 {-| Not Accessible -}
@@ -8020,13 +8026,13 @@ notAccessible =
 {-| Not Equal -}
 notEqual : Icon
 notEqual =
-    Material.Icons.notEqual
+    I.map F.notEqual
 
 
 {-| Not Interested -}
 notInterested : Icon
 notInterested =
-    Material.Icons.notInterested
+    I.map F.notInterested
 
 
 {-| Not Listed Location -}
@@ -8038,7 +8044,7 @@ notListedLocation =
 {-| Not Started -}
 notStarted : Icon
 notStarted =
-    Material.Icons.notStarted
+    I.map F.notStarted
 
 
 {-| Note -}
@@ -8110,19 +8116,19 @@ notificationsPaused =
 {-| Numbers -}
 numbers : Icon
 numbers =
-    Material.Icons.numbers
+    I.map F.numbers
 
 
 {-| Offline Bolt -}
 offlineBolt : Icon
 offlineBolt =
-    Material.Icons.offlineBolt
+    I.map F.offlineBolt
 
 
 {-| Offline Pin -}
 offlinePin : Icon
 offlinePin =
-    Material.Icons.offlinePin
+    I.map F.offlinePin
 
 
 {-| Offline Share -}
@@ -8152,13 +8158,13 @@ ondemandVideo =
 {-| Online Prediction -}
 onlinePrediction : Icon
 onlinePrediction =
-    Material.Icons.onlinePrediction
+    I.map F.onlinePrediction
 
 
 {-| Opacity -}
 opacity : Icon
 opacity =
-    Material.Icons.opacity
+    I.map F.opacity
 
 
 {-| Open In Browser -}
@@ -8170,7 +8176,7 @@ openInBrowser =
 {-| Open In Full -}
 openInFull : Icon
 openInFull =
-    Material.Icons.openInFull
+    I.map F.openInFull
 
 
 {-| Open In New -}
@@ -8188,25 +8194,25 @@ openInNewOff =
 {-| Open With -}
 openWith : Icon
 openWith =
-    Material.Icons.openWith
+    I.map F.openWith
 
 
 {-| Other Houses -}
 otherHouses : Icon
 otherHouses =
-    Material.Icons.otherHouses
+    I.map F.otherHouses
 
 
 {-| Outbond -}
 outbond : Icon
 outbond =
-    Material.Icons.outbond
+    I.map F.outbond
 
 
 {-| Outbound -}
 outbound : Icon
 outbound =
-    Material.Icons.outbound
+    I.map F.outbound
 
 
 {-| Outbox -}
@@ -8230,7 +8236,7 @@ outlet =
 {-| Outlined Flag -}
 outlinedFlag : Icon
 outlinedFlag =
-    Material.Icons.outlinedFlag
+    I.map F.outlinedFlag
 
 
 {-| Output -}
@@ -8260,13 +8266,13 @@ pageview =
 {-| Paid -}
 paid : Icon
 paid =
-    Material.Icons.paid
+    I.map F.paid
 
 
 {-| Palette -}
 palette : Icon
 palette =
-    Material.Icons.palette
+    I.map F.palette
 
 
 {-| Pan Tool -}
@@ -8290,7 +8296,7 @@ panorama =
 {-| Panorama Fish Eye -}
 panoramaFishEye : Icon
 panoramaFishEye =
-    Material.Icons.panoramaFishEye
+    I.map F.panoramaFishEye
 
 
 {-| Panorama Horizontal -}
@@ -8344,13 +8350,13 @@ panoramaWideAngleSelect =
 {-| Paragliding -}
 paragliding : Icon
 paragliding =
-    Material.Icons.paragliding
+    I.map F.paragliding
 
 
 {-| Park -}
 park : Icon
 park =
-    Material.Icons.park
+    I.map F.park
 
 
 {-| Party Mode -}
@@ -8362,37 +8368,37 @@ partyMode =
 {-| Password -}
 password : Icon
 password =
-    Material.Icons.password
+    I.map F.password
 
 
 {-| Pattern -}
 pattern : Icon
 pattern =
-    Material.Icons.pattern
+    I.map F.pattern
 
 
 {-| Pause -}
 pause : Icon
 pause =
-    Material.Icons.pause
+    I.map F.pause
 
 
 {-| Pause Circle -}
 pauseCircle : Icon
 pauseCircle =
-    Material.Icons.pauseCircle
+    I.map F.pauseCircle
 
 
 {-| Pause Circle Filled -}
 pauseCircleFilled : Icon
 pauseCircleFilled =
-    Material.Icons.pauseCircleFilled
+    I.map F.pauseCircleFilled
 
 
 {-| Pause Circle Outline -}
 pauseCircleOutline : Icon
 pauseCircleOutline =
-    Material.Icons.pauseCircleOutline
+    I.map F.pauseCircleOutline
 
 
 {-| Pause Presentation -}
@@ -8416,7 +8422,7 @@ payments =
 {-| Paypal -}
 paypal : Icon
 paypal =
-    Material.Icons.paypal
+    I.map F.paypal
 
 
 {-| Pedal Bike -}
@@ -8428,7 +8434,7 @@ pedalBike =
 {-| Pending -}
 pending : Icon
 pending =
-    Material.Icons.pending
+    I.map F.pending
 
 
 {-| Pending Actions -}
@@ -8440,7 +8446,7 @@ pendingActions =
 {-| Pentagon -}
 pentagon : Icon
 pentagon =
-    Material.Icons.pentagon
+    I.map F.pentagon
 
 
 {-| People -}
@@ -8452,7 +8458,7 @@ people =
 {-| People Alt -}
 peopleAlt : Icon
 peopleAlt =
-    Material.Icons.peopleAlt
+    I.map F.peopleAlt
 
 
 {-| People Outline -}
@@ -8470,7 +8476,7 @@ percent =
 {-| Percentage -}
 percentage : Icon
 percentage =
-    Material.Icons.percentage
+    I.map F.percentage
 
 
 {-| Perm Camera Mic -}
@@ -8518,37 +8524,37 @@ permPhoneMsg =
 {-| Perm Scan Wifi -}
 permScanWifi : Icon
 permScanWifi =
-    Material.Icons.permScanWifi
+    I.map F.permScanWifi
 
 
 {-| Person -}
 person : Icon
 person =
-    Material.Icons.person
+    I.map F.person
 
 
 {-| Person 2 -}
 person2 : Icon
 person2 =
-    Material.Icons.person2
+    I.map F.person2
 
 
 {-| Person 3 -}
 person3 : Icon
 person3 =
-    Material.Icons.person3
+    I.map F.person3
 
 
 {-| Person 4 -}
 person4 : Icon
 person4 =
-    Material.Icons.person4
+    I.map F.person4
 
 
 {-| Person Add -}
 personAdd : Icon
 personAdd =
-    Material.Icons.personAdd
+    I.map F.personAdd
 
 
 {-| Person Add Alt -}
@@ -8560,7 +8566,7 @@ personAddAlt =
 {-| Person Add Alt 1 -}
 personAddAlt1 : Icon
 personAddAlt1 =
-    Material.Icons.personAddAlt1
+    I.map F.personAddAlt1
 
 
 {-| Person Add Disabled -}
@@ -8572,13 +8578,13 @@ personAddDisabled =
 {-| Person Off -}
 personOff : Icon
 personOff =
-    Material.Icons.personOff
+    I.map F.personOff
 
 
 {-| Person Outline -}
 personOutline : Icon
 personOutline =
-    Material.Icons.personOutline
+    I.map F.personOutline
 
 
 {-| Person Pin -}
@@ -8596,25 +8602,25 @@ personPinCircle =
 {-| Person Remove -}
 personRemove : Icon
 personRemove =
-    Material.Icons.personRemove
+    I.map F.personRemove
 
 
 {-| Person Remove Alt 1 -}
 personRemoveAlt1 : Icon
 personRemoveAlt1 =
-    Material.Icons.personRemoveAlt1
+    I.map F.personRemoveAlt1
 
 
 {-| Person Search -}
 personSearch : Icon
 personSearch =
-    Material.Icons.personSearch
+    I.map F.personSearch
 
 
 {-| Personal Injury -}
 personalInjury : Icon
 personalInjury =
-    Material.Icons.personalInjury
+    I.map F.personalInjury
 
 
 {-| Personal Video -}
@@ -8626,7 +8632,7 @@ personalVideo =
 {-| Pest Control -}
 pestControl : Icon
 pestControl =
-    Material.Icons.pestControl
+    I.map F.pestControl
 
 
 {-| Pest Control Rodent -}
@@ -8638,13 +8644,13 @@ pestControlRodent =
 {-| Pets -}
 pets : Icon
 pets =
-    Material.Icons.pets
+    I.map F.pets
 
 
 {-| Phishing -}
 phishing : Icon
 phishing =
-    Material.Icons.phishing
+    I.map F.phishing
 
 
 {-| Phone -}
@@ -8854,13 +8860,13 @@ pictureInPictureAlt =
 {-| Pie Chart -}
 pieChart : Icon
 pieChart =
-    Material.Icons.pieChart
+    I.map F.pieChart
 
 
 {-| Pie Chart Outline -}
 pieChartOutline : Icon
 pieChartOutline =
-    Material.Icons.pieChartOutline
+    I.map F.pieChartOutline
 
 
 {-| Pin -}
@@ -8890,7 +8896,7 @@ pinInvoke =
 {-| Pin Off -}
 pinOff : Icon
 pinOff =
-    Material.Icons.pinOff
+    I.map F.pinOff
 
 
 {-| Pinch -}
@@ -8908,7 +8914,7 @@ pivotTableChart =
 {-| Pix -}
 pix : Icon
 pix =
-    Material.Icons.pix
+    I.map F.pix
 
 
 {-| Place -}
@@ -8932,13 +8938,13 @@ playArrow =
 {-| Play Circle -}
 playCircle : Icon
 playCircle =
-    Material.Icons.playCircle
+    I.map F.playCircle
 
 
 {-| Play Circle Filled -}
 playCircleFilled : Icon
 playCircleFilled =
-    Material.Icons.playCircleFilled
+    I.map F.playCircleFilled
 
 
 {-| Play Circle Filled White -}
@@ -8950,7 +8956,7 @@ playCircleFilledWhite =
 {-| Play Circle Outline -}
 playCircleOutline : Icon
 playCircleOutline =
-    Material.Icons.playCircleOutline
+    I.map F.playCircleOutline
 
 
 {-| Play Disabled -}
@@ -8962,7 +8968,7 @@ playDisabled =
 {-| Play For Work -}
 playForWork : Icon
 playForWork =
-    Material.Icons.playForWork
+    I.map F.playForWork
 
 
 {-| Play Lesson -}
@@ -8974,37 +8980,37 @@ playLesson =
 {-| Playlist Add -}
 playlistAdd : Icon
 playlistAdd =
-    Material.Icons.playlistAdd
+    I.map F.playlistAdd
 
 
 {-| Playlist Add Check -}
 playlistAddCheck : Icon
 playlistAddCheck =
-    Material.Icons.playlistAddCheck
+    I.map F.playlistAddCheck
 
 
 {-| Playlist Add Check Circle -}
 playlistAddCheckCircle : Icon
 playlistAddCheckCircle =
-    Material.Icons.playlistAddCheckCircle
+    I.map F.playlistAddCheckCircle
 
 
 {-| Playlist Add Circle -}
 playlistAddCircle : Icon
 playlistAddCircle =
-    Material.Icons.playlistAddCircle
+    I.map F.playlistAddCircle
 
 
 {-| Playlist Play -}
 playlistPlay : Icon
 playlistPlay =
-    Material.Icons.playlistPlay
+    I.map F.playlistPlay
 
 
 {-| Playlist Remove -}
 playlistRemove : Icon
 playlistRemove =
-    Material.Icons.playlistRemove
+    I.map F.playlistRemove
 
 
 {-| Plumbing -}
@@ -9016,19 +9022,19 @@ plumbing =
 {-| Plus -}
 plus : Icon
 plus =
-    Material.Icons.plus
+    I.map F.plus
 
 
 {-| Plus Minus -}
 plusMinus : Icon
 plusMinus =
-    Material.Icons.plusMinus
+    I.map F.plusMinus
 
 
 {-| Plus Minus Alt -}
 plusMinusAlt : Icon
 plusMinusAlt =
-    Material.Icons.plusMinusAlt
+    I.map F.plusMinusAlt
 
 
 {-| Plus One -}
@@ -9040,7 +9046,7 @@ plusOne =
 {-| Podcasts -}
 podcasts : Icon
 podcasts =
-    Material.Icons.podcasts
+    I.map F.podcasts
 
 
 {-| Point Of Sale -}
@@ -9052,7 +9058,7 @@ pointOfSale =
 {-| Policy -}
 policy : Icon
 policy =
-    Material.Icons.policy
+    I.map F.policy
 
 
 {-| Poll -}
@@ -9064,7 +9070,7 @@ poll =
 {-| Polyline -}
 polyline : Icon
 polyline =
-    Material.Icons.polyline
+    I.map F.polyline
 
 
 {-| Polymer -}
@@ -9106,7 +9112,7 @@ power =
 {-| Power Input -}
 powerInput : Icon
 powerInput =
-    Material.Icons.powerInput
+    I.map F.powerInput
 
 
 {-| Power Off -}
@@ -9118,7 +9124,7 @@ powerOff =
 {-| Power Settings New -}
 powerSettingsNew : Icon
 powerSettingsNew =
-    Material.Icons.powerSettingsNew
+    I.map F.powerSettingsNew
 
 
 {-| Precision Manufacturing -}
@@ -9130,7 +9136,7 @@ precisionManufacturing =
 {-| Pregnant Woman -}
 pregnantWoman : Icon
 pregnantWoman =
-    Material.Icons.pregnantWoman
+    I.map F.pregnantWoman
 
 
 {-| Present To All -}
@@ -9172,13 +9178,13 @@ printDisabled =
 {-| Priority High -}
 priorityHigh : Icon
 priorityHigh =
-    Material.Icons.priorityHigh
+    I.map F.priorityHigh
 
 
 {-| Privacy Tip -}
 privacyTip : Icon
 privacyTip =
-    Material.Icons.privacyTip
+    I.map F.privacyTip
 
 
 {-| Private Connectivity -}
@@ -9190,7 +9196,7 @@ privateConnectivity =
 {-| Production Quantity Limits -}
 productionQuantityLimits : Icon
 productionQuantityLimits =
-    Material.Icons.productionQuantityLimits
+    I.map F.productionQuantityLimits
 
 
 {-| Propane -}
@@ -9208,7 +9214,7 @@ propaneTank =
 {-| Psychology -}
 psychology : Icon
 psychology =
-    Material.Icons.psychology
+    I.map F.psychology
 
 
 {-| Psychology Alt -}
@@ -9220,25 +9226,25 @@ psychologyAlt =
 {-| Public -}
 public : Icon
 public =
-    Material.Icons.public
+    I.map F.public
 
 
 {-| Public Off -}
 publicOff : Icon
 publicOff =
-    Material.Icons.publicOff
+    I.map F.publicOff
 
 
 {-| Publish -}
 publish : Icon
 publish =
-    Material.Icons.publish
+    I.map F.publish
 
 
 {-| Published With Changes -}
 publishedWithChanges : Icon
 publishedWithChanges =
-    Material.Icons.publishedWithChanges
+    I.map F.publishedWithChanges
 
 
 {-| Punch Clock -}
@@ -9256,25 +9262,25 @@ pushPin =
 {-| Qr Code -}
 qrCode : Icon
 qrCode =
-    Material.Icons.qrCode
+    I.map F.qrCode
 
 
 {-| Qr Code 2 -}
 qrCode2 : Icon
 qrCode2 =
-    Material.Icons.qrCode2
+    I.map F.qrCode2
 
 
 {-| Qr Code Scanner -}
 qrCodeScanner : Icon
 qrCodeScanner =
-    Material.Icons.qrCodeScanner
+    I.map F.qrCodeScanner
 
 
 {-| Qrcode -}
 qrcode : Icon
 qrcode =
-    Material.Icons.qrcode
+    I.map F.qrcode
 
 
 {-| Query Builder -}
@@ -9286,7 +9292,7 @@ queryBuilder =
 {-| Query Stats -}
 queryStats : Icon
 queryStats =
-    Material.Icons.queryStats
+    I.map F.queryStats
 
 
 {-| Question Answer -}
@@ -9298,7 +9304,7 @@ questionAnswer =
 {-| Question Mark -}
 questionMark : Icon
 questionMark =
-    Material.Icons.questionMark
+    I.map F.questionMark
 
 
 {-| Queue -}
@@ -9310,7 +9316,7 @@ queue =
 {-| Queue Music -}
 queueMusic : Icon
 queueMusic =
-    Material.Icons.queueMusic
+    I.map F.queueMusic
 
 
 {-| Queue Play Next -}
@@ -9334,7 +9340,7 @@ quiz =
 {-| Quora -}
 quora : Icon
 quora =
-    Material.Icons.quora
+    I.map F.quora
 
 
 {-| R Mobiledata -}
@@ -9346,7 +9352,7 @@ rMobiledata =
 {-| Radar -}
 radar : Icon
 radar =
-    Material.Icons.radar
+    I.map F.radar
 
 
 {-| Radio -}
@@ -9364,7 +9370,7 @@ radioButtonChecked =
 {-| Radio Button Unchecked -}
 radioButtonUnchecked : Icon
 radioButtonUnchecked =
-    Material.Icons.radioButtonUnchecked
+    I.map F.radioButtonUnchecked
 
 
 {-| Railway Alert -}
@@ -9382,13 +9388,13 @@ ramenDining =
 {-| Ramp Left -}
 rampLeft : Icon
 rampLeft =
-    Material.Icons.rampLeft
+    I.map F.rampLeft
 
 
 {-| Ramp Right -}
 rampRight : Icon
 rampRight =
-    Material.Icons.rampRight
+    I.map F.rampRight
 
 
 {-| Rate Review -}
@@ -9400,19 +9406,19 @@ rateReview =
 {-| Raw Off -}
 rawOff : Icon
 rawOff =
-    Material.Icons.rawOff
+    I.map F.rawOff
 
 
 {-| Raw On -}
 rawOn : Icon
 rawOn =
-    Material.Icons.rawOn
+    I.map F.rawOn
 
 
 {-| Read More -}
 readMore : Icon
 readMore =
-    Material.Icons.readMore
+    I.map F.readMore
 
 
 {-| Real Estate Agent -}
@@ -9424,7 +9430,7 @@ realEstateAgent =
 {-| Receipt -}
 receipt : Icon
 receipt =
-    Material.Icons.receipt
+    I.map F.receipt
 
 
 {-| Receipt Long -}
@@ -9454,19 +9460,19 @@ recordVoiceOver =
 {-| Rectangle -}
 rectangle : Icon
 rectangle =
-    Material.Icons.rectangle
+    I.map F.rectangle
 
 
 {-| Recycling -}
 recycling : Icon
 recycling =
-    Material.Icons.recycling
+    I.map F.recycling
 
 
 {-| Reddit -}
 reddit : Icon
 reddit =
-    Material.Icons.reddit
+    I.map F.reddit
 
 
 {-| Redeem -}
@@ -9478,19 +9484,19 @@ redeem =
 {-| Redo -}
 redo : Icon
 redo =
-    Material.Icons.redo
+    I.map F.redo
 
 
 {-| Reduce Capacity -}
 reduceCapacity : Icon
 reduceCapacity =
-    Material.Icons.reduceCapacity
+    I.map F.reduceCapacity
 
 
 {-| Refresh -}
 refresh : Icon
 refresh =
-    Material.Icons.refresh
+    I.map F.refresh
 
 
 {-| Remember Me -}
@@ -9502,19 +9508,19 @@ rememberMe =
 {-| Remove -}
 remove : Icon
 remove =
-    Material.Icons.remove
+    I.map F.remove
 
 
 {-| Remove Circle -}
 removeCircle : Icon
 removeCircle =
-    Material.Icons.removeCircle
+    I.map F.removeCircle
 
 
 {-| Remove Circle Outline -}
 removeCircleOutline : Icon
 removeCircleOutline =
-    Material.Icons.removeCircleOutline
+    I.map F.removeCircleOutline
 
 
 {-| Remove Done -}
@@ -9538,13 +9544,13 @@ removeModerator =
 {-| Remove Red Eye -}
 removeRedEye : Icon
 removeRedEye =
-    Material.Icons.removeRedEye
+    I.map F.removeRedEye
 
 
 {-| Remove Road -}
 removeRoad : Icon
 removeRoad =
-    Material.Icons.removeRoad
+    I.map F.removeRoad
 
 
 {-| Remove Shopping Cart -}
@@ -9556,19 +9562,19 @@ removeShoppingCart =
 {-| Reorder -}
 reorder : Icon
 reorder =
-    Material.Icons.reorder
+    I.map F.reorder
 
 
 {-| Repartition -}
 repartition : Icon
 repartition =
-    Material.Icons.repartition
+    I.map F.repartition
 
 
 {-| Repeat -}
 repeat : Icon
 repeat =
-    Material.Icons.repeat
+    I.map F.repeat
 
 
 {-| Repeat On -}
@@ -9580,7 +9586,7 @@ repeatOn =
 {-| Repeat One -}
 repeatOne : Icon
 repeatOne =
-    Material.Icons.repeatOne
+    I.map F.repeatOne
 
 
 {-| Repeat One On -}
@@ -9592,7 +9598,7 @@ repeatOneOn =
 {-| Replay -}
 replay : Icon
 replay =
-    Material.Icons.replay
+    I.map F.replay
 
 
 {-| Replay 10 -}
@@ -9622,13 +9628,13 @@ replayCircleFilled =
 {-| Reply -}
 reply : Icon
 reply =
-    Material.Icons.reply
+    I.map F.reply
 
 
 {-| Reply All -}
 replyAll : Icon
 replyAll =
-    Material.Icons.replyAll
+    I.map F.replyAll
 
 
 {-| Report -}
@@ -9652,7 +9658,7 @@ reportOff =
 {-| Report Problem -}
 reportProblem : Icon
 reportProblem =
-    Material.Icons.reportProblem
+    I.map F.reportProblem
 
 
 {-| Request Page -}
@@ -9676,7 +9682,7 @@ resetTv =
 {-| Restart Alt -}
 restartAlt : Icon
 restartAlt =
-    Material.Icons.restartAlt
+    I.map F.restartAlt
 
 
 {-| Restaurant -}
@@ -9688,7 +9694,7 @@ restaurant =
 {-| Restaurant Menu -}
 restaurantMenu : Icon
 restaurantMenu =
-    Material.Icons.restaurantMenu
+    I.map F.restaurantMenu
 
 
 {-| Restore -}
@@ -9718,7 +9724,7 @@ reviews =
 {-| Rice Bowl -}
 riceBowl : Icon
 riceBowl =
-    Material.Icons.riceBowl
+    I.map F.riceBowl
 
 
 {-| Ring Volume -}
@@ -9742,13 +9748,13 @@ rocketLaunch =
 {-| Roller Shades -}
 rollerShades : Icon
 rollerShades =
-    Material.Icons.rollerShades
+    I.map F.rollerShades
 
 
 {-| Roller Shades Closed -}
 rollerShadesClosed : Icon
 rollerShadesClosed =
-    Material.Icons.rollerShadesClosed
+    I.map F.rollerShadesClosed
 
 
 {-| Roller Skating -}
@@ -9760,19 +9766,19 @@ rollerSkating =
 {-| Roofing -}
 roofing : Icon
 roofing =
-    Material.Icons.roofing
+    I.map F.roofing
 
 
 {-| Room -}
 room : Icon
 room =
-    Material.Icons.room
+    I.map F.room
 
 
 {-| Room Preferences -}
 roomPreferences : Icon
 roomPreferences =
-    Material.Icons.roomPreferences
+    I.map F.roomPreferences
 
 
 {-| Room Service -}
@@ -9784,7 +9790,7 @@ roomService =
 {-| Rotate 90 Degrees Ccw -}
 rotate90DegreesCcw : Icon
 rotate90DegreesCcw =
-    Material.Icons.rotate90DegreesCcw
+    I.map F.rotate90DegreesCcw
 
 
 {-| Rotate 90 Degrees Cw -}
@@ -9796,13 +9802,13 @@ rotate90DegreesCw =
 {-| Rotate Left -}
 rotateLeft : Icon
 rotateLeft =
-    Material.Icons.rotateLeft
+    I.map F.rotateLeft
 
 
 {-| Rotate Right -}
 rotateRight : Icon
 rotateRight =
-    Material.Icons.rotateRight
+    I.map F.rotateRight
 
 
 {-| Roundabout Left -}
@@ -9820,7 +9826,7 @@ roundaboutRight =
 {-| Rounded Corner -}
 roundedCorner : Icon
 roundedCorner =
-    Material.Icons.roundedCorner
+    I.map F.roundedCorner
 
 
 {-| Route -}
@@ -9856,13 +9862,13 @@ rsvp =
 {-| Rtt -}
 rtt : Icon
 rtt =
-    Material.Icons.rtt
+    I.map F.rtt
 
 
 {-| Rule -}
 rule : Icon
 rule =
-    Material.Icons.rule
+    I.map F.rule
 
 
 {-| Rule Folder -}
@@ -9874,13 +9880,13 @@ ruleFolder =
 {-| Run Circle -}
 runCircle : Icon
 runCircle =
-    Material.Icons.runCircle
+    I.map F.runCircle
 
 
 {-| Running With Errors -}
 runningWithErrors : Icon
 runningWithErrors =
-    Material.Icons.runningWithErrors
+    I.map F.runningWithErrors
 
 
 {-| Rv Hookup -}
@@ -9892,25 +9898,25 @@ rvHookup =
 {-| Safety Check -}
 safetyCheck : Icon
 safetyCheck =
-    Material.Icons.safetyCheck
+    I.map F.safetyCheck
 
 
 {-| Safety Divider -}
 safetyDivider : Icon
 safetyDivider =
-    Material.Icons.safetyDivider
+    I.map F.safetyDivider
 
 
 {-| Sailing -}
 sailing : Icon
 sailing =
-    Material.Icons.sailing
+    I.map F.sailing
 
 
 {-| Sanitizer -}
 sanitizer : Icon
 sanitizer =
-    Material.Icons.sanitizer
+    I.map F.sanitizer
 
 
 {-| Satellite -}
@@ -9964,7 +9970,7 @@ savings =
 {-| Scale -}
 scale : Icon
 scale =
-    Material.Icons.scale
+    I.map F.scale
 
 
 {-| Scanner -}
@@ -9976,7 +9982,7 @@ scanner =
 {-| Scatter Plot -}
 scatterPlot : Icon
 scatterPlot =
-    Material.Icons.scatterPlot
+    I.map F.scatterPlot
 
 
 {-| Schedule -}
@@ -9994,19 +10000,19 @@ scheduleSend =
 {-| Schema -}
 schema : Icon
 schema =
-    Material.Icons.schema
+    I.map F.schema
 
 
 {-| School -}
 school : Icon
 school =
-    Material.Icons.school
+    I.map F.school
 
 
 {-| Science -}
 science : Icon
 science =
-    Material.Icons.science
+    I.map F.science
 
 
 {-| Score -}
@@ -10078,7 +10084,7 @@ screenshotMonitor =
 {-| Scuba Diving -}
 scubaDiving : Icon
 scubaDiving =
-    Material.Icons.scubaDiving
+    I.map F.scubaDiving
 
 
 {-| Sd -}
@@ -10108,19 +10114,19 @@ sdStorage =
 {-| Search -}
 search : Icon
 search =
-    Material.Icons.search
+    I.map F.search
 
 
 {-| Search Off -}
 searchOff : Icon
 searchOff =
-    Material.Icons.searchOff
+    I.map F.searchOff
 
 
 {-| Security -}
 security : Icon
 security =
-    Material.Icons.security
+    I.map F.security
 
 
 {-| Security Update -}
@@ -10144,7 +10150,7 @@ securityUpdateWarning =
 {-| Segment -}
 segment : Icon
 segment =
-    Material.Icons.segment
+    I.map F.segment
 
 
 {-| Select All -}
@@ -10156,7 +10162,7 @@ selectAll =
 {-| Self Improvement -}
 selfImprovement : Icon
 selfImprovement =
-    Material.Icons.selfImprovement
+    I.map F.selfImprovement
 
 
 {-| Sell -}
@@ -10198,7 +10204,7 @@ sensorDoor =
 {-| Sensor Occupied -}
 sensorOccupied : Icon
 sensorOccupied =
-    Material.Icons.sensorOccupied
+    I.map F.sensorOccupied
 
 
 {-| Sensor Window -}
@@ -10210,13 +10216,13 @@ sensorWindow =
 {-| Sensors -}
 sensors : Icon
 sensors =
-    Material.Icons.sensors
+    I.map F.sensors
 
 
 {-| Sensors Off -}
 sensorsOff : Icon
 sensorsOff =
-    Material.Icons.sensorsOff
+    I.map F.sensorsOff
 
 
 {-| Sentiment Dissatisfied -}
@@ -10276,7 +10282,7 @@ settings =
 {-| Settings Accessibility -}
 settingsAccessibility : Icon
 settingsAccessibility =
-    Material.Icons.settingsAccessibility
+    I.map F.settingsAccessibility
 
 
 {-| Settings Applications -}
@@ -10288,13 +10294,13 @@ settingsApplications =
 {-| Settings Backup Restore -}
 settingsBackupRestore : Icon
 settingsBackupRestore =
-    Material.Icons.settingsBackupRestore
+    I.map F.settingsBackupRestore
 
 
 {-| Settings Bluetooth -}
 settingsBluetooth : Icon
 settingsBluetooth =
-    Material.Icons.settingsBluetooth
+    I.map F.settingsBluetooth
 
 
 {-| Settings Brightness -}
@@ -10312,13 +10318,13 @@ settingsCell =
 {-| Settings Ethernet -}
 settingsEthernet : Icon
 settingsEthernet =
-    Material.Icons.settingsEthernet
+    I.map F.settingsEthernet
 
 
 {-| Settings Input Antenna -}
 settingsInputAntenna : Icon
 settingsInputAntenna =
-    Material.Icons.settingsInputAntenna
+    I.map F.settingsInputAntenna
 
 
 {-| Settings Input Component -}
@@ -10342,7 +10348,7 @@ settingsInputHdmi =
 {-| Settings Input Svideo -}
 settingsInputSvideo : Icon
 settingsInputSvideo =
-    Material.Icons.settingsInputSvideo
+    I.map F.settingsInputSvideo
 
 
 {-| Settings Overscan -}
@@ -10360,7 +10366,7 @@ settingsPhone =
 {-| Settings Power -}
 settingsPower : Icon
 settingsPower =
-    Material.Icons.settingsPower
+    I.map F.settingsPower
 
 
 {-| Settings Remote -}
@@ -10372,7 +10378,7 @@ settingsRemote =
 {-| Settings Suggest -}
 settingsSuggest : Icon
 settingsSuggest =
-    Material.Icons.settingsSuggest
+    I.map F.settingsSuggest
 
 
 {-| Settings System Daydream -}
@@ -10384,13 +10390,13 @@ settingsSystemDaydream =
 {-| Settings Voice -}
 settingsVoice : Icon
 settingsVoice =
-    Material.Icons.settingsVoice
+    I.map F.settingsVoice
 
 
 {-| Severe Cold -}
 severeCold : Icon
 severeCold =
-    Material.Icons.severeCold
+    I.map F.severeCold
 
 
 {-| Shape Line -}
@@ -10408,13 +10414,13 @@ share =
 {-| Share Arrival Time -}
 shareArrivalTime : Icon
 shareArrivalTime =
-    Material.Icons.shareArrivalTime
+    I.map F.shareArrivalTime
 
 
 {-| Share Location -}
 shareLocation : Icon
 shareLocation =
-    Material.Icons.shareLocation
+    I.map F.shareLocation
 
 
 {-| Shield -}
@@ -10426,7 +10432,7 @@ shield =
 {-| Shield Moon -}
 shieldMoon : Icon
 shieldMoon =
-    Material.Icons.shieldMoon
+    I.map F.shieldMoon
 
 
 {-| Shop -}
@@ -10450,7 +10456,7 @@ shopTwo =
 {-| Shopify -}
 shopify : Icon
 shopify =
-    Material.Icons.shopify
+    I.map F.shopify
 
 
 {-| Shopping Bag -}
@@ -10480,13 +10486,13 @@ shoppingCartCheckout =
 {-| Short Text -}
 shortText : Icon
 shortText =
-    Material.Icons.shortText
+    I.map F.shortText
 
 
 {-| Shortcut -}
 shortcut : Icon
 shortcut =
-    Material.Icons.shortcut
+    I.map F.shortcut
 
 
 {-| Show Chart -}
@@ -10498,13 +10504,13 @@ showChart =
 {-| Shower -}
 shower : Icon
 shower =
-    Material.Icons.shower
+    I.map F.shower
 
 
 {-| Shuffle -}
 shuffle : Icon
 shuffle =
-    Material.Icons.shuffle
+    I.map F.shuffle
 
 
 {-| Shuffle On -}
@@ -10516,13 +10522,13 @@ shuffleOn =
 {-| Shutter Speed -}
 shutterSpeed : Icon
 shutterSpeed =
-    Material.Icons.shutterSpeed
+    I.map F.shutterSpeed
 
 
 {-| Sick -}
 sick : Icon
 sick =
-    Material.Icons.sick
+    I.map F.sick
 
 
 {-| Sign Language -}
@@ -10570,19 +10576,19 @@ signalCellularAlt =
 {-| Signal Cellular Alt 1 Bar -}
 signalCellularAlt1Bar : Icon
 signalCellularAlt1Bar =
-    Material.Icons.signalCellularAlt1Bar
+    I.map F.signalCellularAlt1Bar
 
 
 {-| Signal Cellular Alt 2 Bar -}
 signalCellularAlt2Bar : Icon
 signalCellularAlt2Bar =
-    Material.Icons.signalCellularAlt2Bar
+    I.map F.signalCellularAlt2Bar
 
 
 {-| Signal Cellular Connected No Internet 0 Bar -}
 signalCellularConnectedNoInternet0Bar : Icon
 signalCellularConnectedNoInternet0Bar =
-    Material.Icons.signalCellularConnectedNoInternet0Bar
+    I.map F.signalCellularConnectedNoInternet0Bar
 
 
 {-| Signal Cellular Connected No Internet 1 Bar -}
@@ -10606,7 +10612,7 @@ signalCellularConnectedNoInternet3Bar =
 {-| Signal Cellular Connected No Internet 4 Bar -}
 signalCellularConnectedNoInternet4Bar : Icon
 signalCellularConnectedNoInternet4Bar =
-    Material.Icons.signalCellularConnectedNoInternet4Bar
+    I.map F.signalCellularConnectedNoInternet4Bar
 
 
 {-| Signal Cellular No Sim -}
@@ -10618,13 +10624,13 @@ signalCellularNoSim =
 {-| Signal Cellular Nodata -}
 signalCellularNodata : Icon
 signalCellularNodata =
-    Material.Icons.signalCellularNodata
+    I.map F.signalCellularNodata
 
 
 {-| Signal Cellular Null -}
 signalCellularNull : Icon
 signalCellularNull =
-    Material.Icons.signalCellularNull
+    I.map F.signalCellularNull
 
 
 {-| Signal Cellular Off -}
@@ -10642,7 +10648,7 @@ signalWifi0Bar =
 {-| Signal Wifi 1 Bar -}
 signalWifi1Bar : Icon
 signalWifi1Bar =
-    Material.Icons.signalWifi1Bar
+    I.map F.signalWifi1Bar
 
 
 {-| Signal Wifi 1 Bar Lock -}
@@ -10678,7 +10684,7 @@ signalWifi3BarLock =
 {-| Signal Wifi 4 Bar -}
 signalWifi4Bar : Icon
 signalWifi4Bar =
-    Material.Icons.signalWifi4Bar
+    I.map F.signalWifi4Bar
 
 
 {-| Signal Wifi 4 Bar Lock -}
@@ -10708,7 +10714,7 @@ signalWifiOff =
 {-| Signal Wifi Statusbar 4 Bar -}
 signalWifiStatusbar4Bar : Icon
 signalWifiStatusbar4Bar =
-    Material.Icons.signalWifiStatusbar4Bar
+    I.map F.signalWifiStatusbar4Bar
 
 
 {-| Signal Wifi Statusbar Connected No Internet 4 -}
@@ -10720,7 +10726,7 @@ signalWifiStatusbarConnectedNoInternet4 =
 {-| Signal Wifi Statusbar Null -}
 signalWifiStatusbarNull : Icon
 signalWifiStatusbarNull =
-    Material.Icons.signalWifiStatusbarNull
+    I.map F.signalWifiStatusbarNull
 
 
 {-| Signpost -}
@@ -10768,7 +10774,7 @@ skateboarding =
 {-| Skip Next -}
 skipNext : Icon
 skipNext =
-    Material.Icons.skipNext
+    I.map F.skipNext
 
 
 {-| Skip Previous -}
@@ -10852,7 +10858,7 @@ smsFailed =
 {-| Snapchat -}
 snapchat : Icon
 snapchat =
-    Material.Icons.snapchat
+    I.map F.snapchat
 
 
 {-| Snippet Folder -}
@@ -10882,7 +10888,7 @@ snowmobile =
 {-| Snowshoeing -}
 snowshoeing : Icon
 snowshoeing =
-    Material.Icons.snowshoeing
+    I.map F.snowshoeing
 
 
 {-| Soap -}
@@ -10894,19 +10900,19 @@ soap =
 {-| Social Distance -}
 socialDistance : Icon
 socialDistance =
-    Material.Icons.socialDistance
+    I.map F.socialDistance
 
 
 {-| Solar Power -}
 solarPower : Icon
 solarPower =
-    Material.Icons.solarPower
+    I.map F.solarPower
 
 
 {-| Sort -}
 sort : Icon
 sort =
-    Material.Icons.sort
+    I.map F.sort
 
 
 {-| Sort By Alpha -}
@@ -10936,31 +10942,31 @@ source =
 {-| South -}
 south : Icon
 south =
-    Material.Icons.south
+    I.map F.south
 
 
 {-| South America -}
 southAmerica : Icon
 southAmerica =
-    Material.Icons.southAmerica
+    I.map F.southAmerica
 
 
 {-| South East -}
 southEast : Icon
 southEast =
-    Material.Icons.southEast
+    I.map F.southEast
 
 
 {-| South West -}
 southWest : Icon
 southWest =
-    Material.Icons.southWest
+    I.map F.southWest
 
 
 {-| Spa -}
 spa : Icon
 spa =
-    Material.Icons.spa
+    I.map F.spa
 
 
 {-| Space Bar -}
@@ -10978,19 +10984,19 @@ spaceDashboard =
 {-| Spatial Audio -}
 spatialAudio : Icon
 spatialAudio =
-    Material.Icons.spatialAudio
+    I.map F.spatialAudio
 
 
 {-| Spatial Audio Off -}
 spatialAudioOff : Icon
 spatialAudioOff =
-    Material.Icons.spatialAudioOff
+    I.map F.spatialAudioOff
 
 
 {-| Spatial Tracking -}
 spatialTracking : Icon
 spatialTracking =
-    Material.Icons.spatialTracking
+    I.map F.spatialTracking
 
 
 {-| Speaker -}
@@ -11032,7 +11038,7 @@ speed =
 {-| Spellcheck -}
 spellcheck : Icon
 spellcheck =
-    Material.Icons.spellcheck
+    I.map F.spellcheck
 
 
 {-| Splitscreen -}
@@ -11044,13 +11050,13 @@ splitscreen =
 {-| Spoke -}
 spoke : Icon
 spoke =
-    Material.Icons.spoke
+    I.map F.spoke
 
 
 {-| Sports -}
 sports : Icon
 sports =
-    Material.Icons.sports
+    I.map F.sports
 
 
 {-| Sports Bar -}
@@ -11062,19 +11068,19 @@ sportsBar =
 {-| Sports Baseball -}
 sportsBaseball : Icon
 sportsBaseball =
-    Material.Icons.sportsBaseball
+    I.map F.sportsBaseball
 
 
 {-| Sports Basketball -}
 sportsBasketball : Icon
 sportsBasketball =
-    Material.Icons.sportsBasketball
+    I.map F.sportsBasketball
 
 
 {-| Sports Cricket -}
 sportsCricket : Icon
 sportsCricket =
-    Material.Icons.sportsCricket
+    I.map F.sportsCricket
 
 
 {-| Sports Esports -}
@@ -11086,43 +11092,43 @@ sportsEsports =
 {-| Sports Football -}
 sportsFootball : Icon
 sportsFootball =
-    Material.Icons.sportsFootball
+    I.map F.sportsFootball
 
 
 {-| Sports Golf -}
 sportsGolf : Icon
 sportsGolf =
-    Material.Icons.sportsGolf
+    I.map F.sportsGolf
 
 
 {-| Sports Gymnastics -}
 sportsGymnastics : Icon
 sportsGymnastics =
-    Material.Icons.sportsGymnastics
+    I.map F.sportsGymnastics
 
 
 {-| Sports Handball -}
 sportsHandball : Icon
 sportsHandball =
-    Material.Icons.sportsHandball
+    I.map F.sportsHandball
 
 
 {-| Sports Hockey -}
 sportsHockey : Icon
 sportsHockey =
-    Material.Icons.sportsHockey
+    I.map F.sportsHockey
 
 
 {-| Sports Kabaddi -}
 sportsKabaddi : Icon
 sportsKabaddi =
-    Material.Icons.sportsKabaddi
+    I.map F.sportsKabaddi
 
 
 {-| Sports Martial Arts -}
 sportsMartialArts : Icon
 sportsMartialArts =
-    Material.Icons.sportsMartialArts
+    I.map F.sportsMartialArts
 
 
 {-| Sports Mma -}
@@ -11146,31 +11152,31 @@ sportsRugby =
 {-| Sports Score -}
 sportsScore : Icon
 sportsScore =
-    Material.Icons.sportsScore
+    I.map F.sportsScore
 
 
 {-| Sports Soccer -}
 sportsSoccer : Icon
 sportsSoccer =
-    Material.Icons.sportsSoccer
+    I.map F.sportsSoccer
 
 
 {-| Sports Tennis -}
 sportsTennis : Icon
 sportsTennis =
-    Material.Icons.sportsTennis
+    I.map F.sportsTennis
 
 
 {-| Sports Volleyball -}
 sportsVolleyball : Icon
 sportsVolleyball =
-    Material.Icons.sportsVolleyball
+    I.map F.sportsVolleyball
 
 
 {-| Square -}
 square : Icon
 square =
-    Material.Icons.square
+    I.map F.square
 
 
 {-| Square Foot -}
@@ -11182,25 +11188,25 @@ squareFoot =
 {-| Ssid Chart -}
 ssidChart : Icon
 ssidChart =
-    Material.Icons.ssidChart
+    I.map F.ssidChart
 
 
 {-| Stacked Bar Chart -}
 stackedBarChart : Icon
 stackedBarChart =
-    Material.Icons.stackedBarChart
+    I.map F.stackedBarChart
 
 
 {-| Stacked Line Chart -}
 stackedLineChart : Icon
 stackedLineChart =
-    Material.Icons.stackedLineChart
+    I.map F.stackedLineChart
 
 
 {-| Stadium -}
 stadium : Icon
 stadium =
-    Material.Icons.stadium
+    I.map F.stadium
 
 
 {-| Stairs -}
@@ -11218,7 +11224,7 @@ star =
 {-| Star Border -}
 starBorder : Icon
 starBorder =
-    Material.Icons.starBorder
+    I.map F.starBorder
 
 
 {-| Star Border Purple500 -}
@@ -11230,13 +11236,13 @@ starBorderPurple500 =
 {-| Star Half -}
 starHalf : Icon
 starHalf =
-    Material.Icons.starHalf
+    I.map F.starHalf
 
 
 {-| Star Outline -}
 starOutline : Icon
 starOutline =
-    Material.Icons.starOutline
+    I.map F.starOutline
 
 
 {-| Star Purple500 -}
@@ -11248,19 +11254,19 @@ starPurple500 =
 {-| Star Rate -}
 starRate : Icon
 starRate =
-    Material.Icons.starRate
+    I.map F.starRate
 
 
 {-| Stars -}
 stars : Icon
 stars =
-    Material.Icons.stars
+    I.map F.stars
 
 
 {-| Start -}
 start : Icon
 start =
-    Material.Icons.start
+    I.map F.start
 
 
 {-| Stay Current Landscape -}
@@ -11302,7 +11308,7 @@ stop =
 {-| Stop Circle -}
 stopCircle : Icon
 stopCircle =
-    Material.Icons.stopCircle
+    I.map F.stopCircle
 
 
 {-| Stop Screen Share -}
@@ -11314,19 +11320,19 @@ stopScreenShare =
 {-| Storage -}
 storage : Icon
 storage =
-    Material.Icons.storage
+    I.map F.storage
 
 
 {-| Store -}
 store : Icon
 store =
-    Material.Icons.store
+    I.map F.store
 
 
 {-| Store Mall Directory -}
 storeMallDirectory : Icon
 storeMallDirectory =
-    Material.Icons.storeMallDirectory
+    I.map F.storeMallDirectory
 
 
 {-| Storefront -}
@@ -11338,13 +11344,13 @@ storefront =
 {-| Storm -}
 storm : Icon
 storm =
-    Material.Icons.storm
+    I.map F.storm
 
 
 {-| Straight -}
 straight : Icon
 straight =
-    Material.Icons.straight
+    I.map F.straight
 
 
 {-| Straighten -}
@@ -11362,7 +11368,7 @@ stream =
 {-| Streetview -}
 streetview : Icon
 streetview =
-    Material.Icons.streetview
+    I.map F.streetview
 
 
 {-| Strikethrough S -}
@@ -11386,19 +11392,19 @@ style =
 {-| Subdirectory Arrow Left -}
 subdirectoryArrowLeft : Icon
 subdirectoryArrowLeft =
-    Material.Icons.subdirectoryArrowLeft
+    I.map F.subdirectoryArrowLeft
 
 
 {-| Subdirectory Arrow Right -}
 subdirectoryArrowRight : Icon
 subdirectoryArrowRight =
-    Material.Icons.subdirectoryArrowRight
+    I.map F.subdirectoryArrowRight
 
 
 {-| Subject -}
 subject : Icon
 subject =
-    Material.Icons.subject
+    I.map F.subject
 
 
 {-| Subscript -}
@@ -11458,7 +11464,7 @@ supervisorAccount =
 {-| Support -}
 support : Icon
 support =
-    Material.Icons.support
+    I.map F.support
 
 
 {-| Support Agent -}
@@ -11482,25 +11488,25 @@ surroundSound =
 {-| Swap Calls -}
 swapCalls : Icon
 swapCalls =
-    Material.Icons.swapCalls
+    I.map F.swapCalls
 
 
 {-| Swap Horiz -}
 swapHoriz : Icon
 swapHoriz =
-    Material.Icons.swapHoriz
+    I.map F.swapHoriz
 
 
 {-| Swap Horizontal Circle -}
 swapHorizontalCircle : Icon
 swapHorizontalCircle =
-    Material.Icons.swapHorizontalCircle
+    I.map F.swapHorizontalCircle
 
 
 {-| Swap Vert -}
 swapVert : Icon
 swapVert =
-    Material.Icons.swapVert
+    I.map F.swapVert
 
 
 {-| Swap Vertical Circle -}
@@ -11524,7 +11530,7 @@ swipeDown =
 {-| Swipe Down Alt -}
 swipeDownAlt : Icon
 swipeDownAlt =
-    Material.Icons.swipeDownAlt
+    I.map F.swipeDownAlt
 
 
 {-| Swipe Left -}
@@ -11536,7 +11542,7 @@ swipeLeft =
 {-| Swipe Left Alt -}
 swipeLeftAlt : Icon
 swipeLeftAlt =
-    Material.Icons.swipeLeftAlt
+    I.map F.swipeLeftAlt
 
 
 {-| Swipe Right -}
@@ -11548,7 +11554,7 @@ swipeRight =
 {-| Swipe Right Alt -}
 swipeRightAlt : Icon
 swipeRightAlt =
-    Material.Icons.swipeRightAlt
+    I.map F.swipeRightAlt
 
 
 {-| Swipe Up -}
@@ -11560,7 +11566,7 @@ swipeUp =
 {-| Swipe Up Alt -}
 swipeUpAlt : Icon
 swipeUpAlt =
-    Material.Icons.swipeUpAlt
+    I.map F.swipeUpAlt
 
 
 {-| Swipe Vertical -}
@@ -11572,13 +11578,13 @@ swipeVertical =
 {-| Switch Access Shortcut -}
 switchAccessShortcut : Icon
 switchAccessShortcut =
-    Material.Icons.switchAccessShortcut
+    I.map F.switchAccessShortcut
 
 
 {-| Switch Access Shortcut Add -}
 switchAccessShortcutAdd : Icon
 switchAccessShortcutAdd =
-    Material.Icons.switchAccessShortcutAdd
+    I.map F.switchAccessShortcutAdd
 
 
 {-| Switch Account -}
@@ -11596,13 +11602,13 @@ switchCamera =
 {-| Switch Left -}
 switchLeft : Icon
 switchLeft =
-    Material.Icons.switchLeft
+    I.map F.switchLeft
 
 
 {-| Switch Right -}
 switchRight : Icon
 switchRight =
-    Material.Icons.switchRight
+    I.map F.switchRight
 
 
 {-| Switch Video -}
@@ -11620,13 +11626,13 @@ synagogue =
 {-| Sync -}
 sync : Icon
 sync =
-    Material.Icons.sync
+    I.map F.sync
 
 
 {-| Sync Alt -}
 syncAlt : Icon
 syncAlt =
-    Material.Icons.syncAlt
+    I.map F.syncAlt
 
 
 {-| Sync Disabled -}
@@ -11638,13 +11644,13 @@ syncDisabled =
 {-| Sync Lock -}
 syncLock : Icon
 syncLock =
-    Material.Icons.syncLock
+    I.map F.syncLock
 
 
 {-| Sync Problem -}
 syncProblem : Icon
 syncProblem =
-    Material.Icons.syncProblem
+    I.map F.syncProblem
 
 
 {-| System Security Update -}
@@ -11710,7 +11716,7 @@ tableRestaurant =
 {-| Table Rows -}
 tableRows : Icon
 tableRows =
-    Material.Icons.tableRows
+    I.map F.tableRows
 
 
 {-| Table View -}
@@ -11740,7 +11746,7 @@ tabletMac =
 {-| Tag -}
 tag : Icon
 tag =
-    Material.Icons.tag
+    I.map F.tag
 
 
 {-| Tag Faces -}
@@ -11776,7 +11782,7 @@ task =
 {-| Task Alt -}
 taskAlt : Icon
 taskAlt =
-    Material.Icons.taskAlt
+    I.map F.taskAlt
 
 
 {-| Taxi Alert -}
@@ -11788,7 +11794,7 @@ taxiAlert =
 {-| Telegram -}
 telegram : Icon
 telegram =
-    Material.Icons.telegram
+    I.map F.telegram
 
 
 {-| Temple Buddhist -}
@@ -11800,7 +11806,7 @@ templeBuddhist =
 {-| Temple Hindu -}
 templeHindu : Icon
 templeHindu =
-    Material.Icons.templeHindu
+    I.map F.templeHindu
 
 
 {-| Terminal -}
@@ -11812,31 +11818,31 @@ terminal =
 {-| Terrain -}
 terrain : Icon
 terrain =
-    Material.Icons.terrain
+    I.map F.terrain
 
 
 {-| Text Decrease -}
 textDecrease : Icon
 textDecrease =
-    Material.Icons.textDecrease
+    I.map F.textDecrease
 
 
 {-| Text Fields -}
 textFields : Icon
 textFields =
-    Material.Icons.textFields
+    I.map F.textFields
 
 
 {-| Text Format -}
 textFormat : Icon
 textFormat =
-    Material.Icons.textFormat
+    I.map F.textFormat
 
 
 {-| Text Increase -}
 textIncrease : Icon
 textIncrease =
-    Material.Icons.textIncrease
+    I.map F.textIncrease
 
 
 {-| Text Rotate Up -}
@@ -11902,7 +11908,7 @@ theaterComedy =
 {-| Theaters -}
 theaters : Icon
 theaters =
-    Material.Icons.theaters
+    I.map F.theaters
 
 
 {-| Thermostat -}
@@ -11914,7 +11920,7 @@ thermostat =
 {-| Thermostat Auto -}
 thermostatAuto : Icon
 thermostatAuto =
-    Material.Icons.thermostatAuto
+    I.map F.thermostatAuto
 
 
 {-| Thumb Down -}
@@ -11962,13 +11968,13 @@ thumbsUpDown =
 {-| Thunderstorm -}
 thunderstorm : Icon
 thunderstorm =
-    Material.Icons.thunderstorm
+    I.map F.thunderstorm
 
 
 {-| Tiktok -}
 tiktok : Icon
 tiktok =
-    Material.Icons.tiktok
+    I.map F.tiktok
 
 
 {-| Time To Leave -}
@@ -11980,7 +11986,7 @@ timeToLeave =
 {-| Timelapse -}
 timelapse : Icon
 timelapse =
-    Material.Icons.timelapse
+    I.map F.timelapse
 
 
 {-| Timeline -}
@@ -12022,13 +12028,13 @@ timer3Select =
 {-| Timer Off -}
 timerOff : Icon
 timerOff =
-    Material.Icons.timerOff
+    I.map F.timerOff
 
 
 {-| Tips And Updates -}
 tipsAndUpdates : Icon
 tipsAndUpdates =
-    Material.Icons.tipsAndUpdates
+    I.map F.tipsAndUpdates
 
 
 {-| Tire Repair -}
@@ -12058,31 +12064,31 @@ today =
 {-| Toggle Off -}
 toggleOff : Icon
 toggleOff =
-    Material.Icons.toggleOff
+    I.map F.toggleOff
 
 
 {-| Toggle On -}
 toggleOn : Icon
 toggleOn =
-    Material.Icons.toggleOn
+    I.map F.toggleOn
 
 
 {-| Token -}
 token : Icon
 token =
-    Material.Icons.token
+    I.map F.token
 
 
 {-| Toll -}
 toll : Icon
 toll =
-    Material.Icons.toll
+    I.map F.toll
 
 
 {-| Tonality -}
 tonality : Icon
 tonality =
-    Material.Icons.tonality
+    I.map F.tonality
 
 
 {-| Topic -}
@@ -12094,7 +12100,7 @@ topic =
 {-| Tornado -}
 tornado : Icon
 tornado =
-    Material.Icons.tornado
+    I.map F.tornado
 
 
 {-| Touch App -}
@@ -12106,7 +12112,7 @@ touchApp =
 {-| Tour -}
 tour : Icon
 tour =
-    Material.Icons.tour
+    I.map F.tour
 
 
 {-| Toys -}
@@ -12118,7 +12124,7 @@ toys =
 {-| Track Changes -}
 trackChanges : Icon
 trackChanges =
-    Material.Icons.trackChanges
+    I.map F.trackChanges
 
 
 {-| Traffic -}
@@ -12142,7 +12148,7 @@ tram =
 {-| Transcribe -}
 transcribe : Icon
 transcribe =
-    Material.Icons.transcribe
+    I.map F.transcribe
 
 
 {-| Transfer Within A Station -}
@@ -12160,25 +12166,25 @@ transform =
 {-| Transgender -}
 transgender : Icon
 transgender =
-    Material.Icons.transgender
+    I.map F.transgender
 
 
 {-| Transit Enterexit -}
 transitEnterexit : Icon
 transitEnterexit =
-    Material.Icons.transitEnterexit
+    I.map F.transitEnterexit
 
 
 {-| Translate -}
 translate : Icon
 translate =
-    Material.Icons.translate
+    I.map F.translate
 
 
 {-| Travel Explore -}
 travelExplore : Icon
 travelExplore =
-    Material.Icons.travelExplore
+    I.map F.travelExplore
 
 
 {-| Trending Down -}
@@ -12202,13 +12208,13 @@ trendingUp =
 {-| Trip Origin -}
 tripOrigin : Icon
 tripOrigin =
-    Material.Icons.tripOrigin
+    I.map F.tripOrigin
 
 
 {-| Troubleshoot -}
 troubleshoot : Icon
 troubleshoot =
-    Material.Icons.troubleshoot
+    I.map F.troubleshoot
 
 
 {-| Try -}
@@ -12220,7 +12226,7 @@ try =
 {-| Tsunami -}
 tsunami : Icon
 tsunami =
-    Material.Icons.tsunami
+    I.map F.tsunami
 
 
 {-| Tty -}
@@ -12232,13 +12238,13 @@ tty =
 {-| Tune -}
 tune : Icon
 tune =
-    Material.Icons.tune
+    I.map F.tune
 
 
 {-| Tungsten -}
 tungsten : Icon
 tungsten =
-    Material.Icons.tungsten
+    I.map F.tungsten
 
 
 {-| Turn Left -}
@@ -12316,19 +12322,19 @@ typeSpecimen =
 {-| U Turn Left -}
 uTurnLeft : Icon
 uTurnLeft =
-    Material.Icons.uTurnLeft
+    I.map F.uTurnLeft
 
 
 {-| U Turn Right -}
 uTurnRight : Icon
 uTurnRight =
-    Material.Icons.uTurnRight
+    I.map F.uTurnRight
 
 
 {-| Umbrella -}
 umbrella : Icon
 umbrella =
-    Material.Icons.umbrella
+    I.map F.umbrella
 
 
 {-| Unarchive -}
@@ -12340,37 +12346,37 @@ unarchive =
 {-| Undo -}
 undo : Icon
 undo =
-    Material.Icons.undo
+    I.map F.undo
 
 
 {-| Unfold Less -}
 unfoldLess : Icon
 unfoldLess =
-    Material.Icons.unfoldLess
+    I.map F.unfoldLess
 
 
 {-| Unfold Less Double -}
 unfoldLessDouble : Icon
 unfoldLessDouble =
-    Material.Icons.unfoldLessDouble
+    I.map F.unfoldLessDouble
 
 
 {-| Unfold More -}
 unfoldMore : Icon
 unfoldMore =
-    Material.Icons.unfoldMore
+    I.map F.unfoldMore
 
 
 {-| Unfold More Double -}
 unfoldMoreDouble : Icon
 unfoldMoreDouble =
-    Material.Icons.unfoldMoreDouble
+    I.map F.unfoldMoreDouble
 
 
 {-| Unpublished -}
 unpublished : Icon
 unpublished =
-    Material.Icons.unpublished
+    I.map F.unpublished
 
 
 {-| Unsubscribe -}
@@ -12394,13 +12400,13 @@ update =
 {-| Update Disabled -}
 updateDisabled : Icon
 updateDisabled =
-    Material.Icons.updateDisabled
+    I.map F.updateDisabled
 
 
 {-| Upgrade -}
 upgrade : Icon
 upgrade =
-    Material.Icons.upgrade
+    I.map F.upgrade
 
 
 {-| Upload -}
@@ -12424,7 +12430,7 @@ usb =
 {-| Usb Off -}
 usbOff : Icon
 usbOff =
-    Material.Icons.usbOff
+    I.map F.usbOff
 
 
 {-| Vaccines -}
@@ -12436,67 +12442,67 @@ vaccines =
 {-| Vape Free -}
 vapeFree : Icon
 vapeFree =
-    Material.Icons.vapeFree
+    I.map F.vapeFree
 
 
 {-| Vaping Rooms -}
 vapingRooms : Icon
 vapingRooms =
-    Material.Icons.vapingRooms
+    I.map F.vapingRooms
 
 
 {-| Verified -}
 verified : Icon
 verified =
-    Material.Icons.verified
+    I.map F.verified
 
 
 {-| Verified User -}
 verifiedUser : Icon
 verifiedUser =
-    Material.Icons.verifiedUser
+    I.map F.verifiedUser
 
 
 {-| Vertical Align Bottom -}
 verticalAlignBottom : Icon
 verticalAlignBottom =
-    Material.Icons.verticalAlignBottom
+    I.map F.verticalAlignBottom
 
 
 {-| Vertical Align Center -}
 verticalAlignCenter : Icon
 verticalAlignCenter =
-    Material.Icons.verticalAlignCenter
+    I.map F.verticalAlignCenter
 
 
 {-| Vertical Align Top -}
 verticalAlignTop : Icon
 verticalAlignTop =
-    Material.Icons.verticalAlignTop
+    I.map F.verticalAlignTop
 
 
 {-| Vertical Distribute -}
 verticalDistribute : Icon
 verticalDistribute =
-    Material.Icons.verticalDistribute
+    I.map F.verticalDistribute
 
 
 {-| Vertical Shades -}
 verticalShades : Icon
 verticalShades =
-    Material.Icons.verticalShades
+    I.map F.verticalShades
 
 
 {-| Vertical Shades Closed -}
 verticalShadesClosed : Icon
 verticalShadesClosed =
-    Material.Icons.verticalShadesClosed
+    I.map F.verticalShadesClosed
 
 
 {-| Vertical Split -}
 verticalSplit : Icon
 verticalSplit =
-    Material.Icons.verticalSplit
+    I.map F.verticalSplit
 
 
 {-| Vibration -}
@@ -12592,25 +12598,25 @@ viewAgenda =
 {-| View Array -}
 viewArray : Icon
 viewArray =
-    Material.Icons.viewArray
+    I.map F.viewArray
 
 
 {-| View Carousel -}
 viewCarousel : Icon
 viewCarousel =
-    Material.Icons.viewCarousel
+    I.map F.viewCarousel
 
 
 {-| View Column -}
 viewColumn : Icon
 viewColumn =
-    Material.Icons.viewColumn
+    I.map F.viewColumn
 
 
 {-| View Comfy -}
 viewComfy : Icon
 viewComfy =
-    Material.Icons.viewComfy
+    I.map F.viewComfy
 
 
 {-| View Comfy Alt -}
@@ -12622,7 +12628,7 @@ viewComfyAlt =
 {-| View Compact -}
 viewCompact : Icon
 viewCompact =
-    Material.Icons.viewCompact
+    I.map F.viewCompact
 
 
 {-| View Compact Alt -}
@@ -12646,7 +12652,7 @@ viewDay =
 {-| View Headline -}
 viewHeadline : Icon
 viewHeadline =
-    Material.Icons.viewHeadline
+    I.map F.viewHeadline
 
 
 {-| View In Ar -}
@@ -12664,25 +12670,25 @@ viewKanban =
 {-| View List -}
 viewList : Icon
 viewList =
-    Material.Icons.viewList
+    I.map F.viewList
 
 
 {-| View Module -}
 viewModule : Icon
 viewModule =
-    Material.Icons.viewModule
+    I.map F.viewModule
 
 
 {-| View Quilt -}
 viewQuilt : Icon
 viewQuilt =
-    Material.Icons.viewQuilt
+    I.map F.viewQuilt
 
 
 {-| View Sidebar -}
 viewSidebar : Icon
 viewSidebar =
-    Material.Icons.viewSidebar
+    I.map F.viewSidebar
 
 
 {-| View Stream -}
@@ -12712,7 +12718,7 @@ vignette =
 {-| Villa -}
 villa : Icon
 villa =
-    Material.Icons.villa
+    I.map F.villa
 
 
 {-| Visibility -}
@@ -12742,25 +12748,25 @@ voiceOverOff =
 {-| Voicemail -}
 voicemail : Icon
 voicemail =
-    Material.Icons.voicemail
+    I.map F.voicemail
 
 
 {-| Volcano -}
 volcano : Icon
 volcano =
-    Material.Icons.volcano
+    I.map F.volcano
 
 
 {-| Volume Down -}
 volumeDown : Icon
 volumeDown =
-    Material.Icons.volumeDown
+    I.map F.volumeDown
 
 
 {-| Volume Mute -}
 volumeMute : Icon
 volumeMute =
-    Material.Icons.volumeMute
+    I.map F.volumeMute
 
 
 {-| Volume Off -}
@@ -12772,7 +12778,7 @@ volumeOff =
 {-| Volume Up -}
 volumeUp : Icon
 volumeUp =
-    Material.Icons.volumeUp
+    I.map F.volumeUp
 
 
 {-| Volunteer Activism -}
@@ -12784,13 +12790,13 @@ volunteerActivism =
 {-| Vpn Key -}
 vpnKey : Icon
 vpnKey =
-    Material.Icons.vpnKey
+    I.map F.vpnKey
 
 
 {-| Vpn Key Off -}
 vpnKeyOff : Icon
 vpnKeyOff =
-    Material.Icons.vpnKeyOff
+    I.map F.vpnKeyOff
 
 
 {-| Vpn Lock -}
@@ -12820,13 +12826,13 @@ wallpaper =
 {-| Warehouse -}
 warehouse : Icon
 warehouse =
-    Material.Icons.warehouse
+    I.map F.warehouse
 
 
 {-| Warning -}
 warning : Icon
 warning =
-    Material.Icons.warning
+    I.map F.warning
 
 
 {-| Warning Amber -}
@@ -12844,31 +12850,31 @@ wash =
 {-| Watch -}
 watch : Icon
 watch =
-    Material.Icons.watch
+    I.map F.watch
 
 
 {-| Watch Later -}
 watchLater : Icon
 watchLater =
-    Material.Icons.watchLater
+    I.map F.watchLater
 
 
 {-| Watch Off -}
 watchOff : Icon
 watchOff =
-    Material.Icons.watchOff
+    I.map F.watchOff
 
 
 {-| Water -}
 water : Icon
 water =
-    Material.Icons.water
+    I.map F.water
 
 
 {-| Water Damage -}
 waterDamage : Icon
 waterDamage =
-    Material.Icons.waterDamage
+    I.map F.waterDamage
 
 
 {-| Water Drop -}
@@ -12886,7 +12892,7 @@ waterfallChart =
 {-| Waves -}
 waves : Icon
 waves =
-    Material.Icons.waves
+    I.map F.waves
 
 
 {-| Waving Hand -}
@@ -12898,7 +12904,7 @@ wavingHand =
 {-| Wb Auto -}
 wbAuto : Icon
 wbAuto =
-    Material.Icons.wbAuto
+    I.map F.wbAuto
 
 
 {-| Wb Cloudy -}
@@ -12928,13 +12934,13 @@ wbShade =
 {-| Wb Sunny -}
 wbSunny : Icon
 wbSunny =
-    Material.Icons.wbSunny
+    I.map F.wbSunny
 
 
 {-| Wb Twilight -}
 wbTwilight : Icon
 wbTwilight =
-    Material.Icons.wbTwilight
+    I.map F.wbTwilight
 
 
 {-| Wc -}
@@ -12970,13 +12976,13 @@ webStories =
 {-| Webhook -}
 webhook : Icon
 webhook =
-    Material.Icons.webhook
+    I.map F.webhook
 
 
 {-| Wechat -}
 wechat : Icon
 wechat =
-    Material.Icons.wechat
+    I.map F.wechat
 
 
 {-| Weekend -}
@@ -12988,19 +12994,19 @@ weekend =
 {-| West -}
 west : Icon
 west =
-    Material.Icons.west
+    I.map F.west
 
 
 {-| Whatsapp -}
 whatsapp : Icon
 whatsapp =
-    Material.Icons.whatsapp
+    I.map F.whatsapp
 
 
 {-| Whatshot -}
 whatshot : Icon
 whatshot =
-    Material.Icons.whatshot
+    I.map F.whatshot
 
 
 {-| Wheelchair Pickup -}
@@ -13018,7 +13024,7 @@ whereToVote =
 {-| Widgets -}
 widgets : Icon
 widgets =
-    Material.Icons.widgets
+    I.map F.widgets
 
 
 {-| Width Full -}
@@ -13042,19 +13048,19 @@ widthWide =
 {-| Wifi -}
 wifi : Icon
 wifi =
-    Material.Icons.wifi
+    I.map F.wifi
 
 
 {-| Wifi 1 Bar -}
 wifi1Bar : Icon
 wifi1Bar =
-    Material.Icons.wifi1Bar
+    I.map F.wifi1Bar
 
 
 {-| Wifi 2 Bar -}
 wifi2Bar : Icon
 wifi2Bar =
-    Material.Icons.wifi2Bar
+    I.map F.wifi2Bar
 
 
 {-| Wifi Calling -}
@@ -13072,13 +13078,13 @@ wifiCalling3 =
 {-| Wifi Channel -}
 wifiChannel : Icon
 wifiChannel =
-    Material.Icons.wifiChannel
+    I.map F.wifiChannel
 
 
 {-| Wifi Find -}
 wifiFind : Icon
 wifiFind =
-    Material.Icons.wifiFind
+    I.map F.wifiFind
 
 
 {-| Wifi Lock -}
@@ -13102,31 +13108,31 @@ wifiPassword =
 {-| Wifi Protected Setup -}
 wifiProtectedSetup : Icon
 wifiProtectedSetup =
-    Material.Icons.wifiProtectedSetup
+    I.map F.wifiProtectedSetup
 
 
 {-| Wifi Tethering -}
 wifiTethering : Icon
 wifiTethering =
-    Material.Icons.wifiTethering
+    I.map F.wifiTethering
 
 
 {-| Wifi Tethering Error -}
 wifiTetheringError : Icon
 wifiTetheringError =
-    Material.Icons.wifiTetheringError
+    I.map F.wifiTetheringError
 
 
 {-| Wifi Tethering Error Rounded -}
 wifiTetheringErrorRounded : Icon
 wifiTetheringErrorRounded =
-    Material.Icons.wifiTetheringErrorRounded
+    I.map F.wifiTetheringErrorRounded
 
 
 {-| Wifi Tethering Off -}
 wifiTetheringOff : Icon
 wifiTetheringOff =
-    Material.Icons.wifiTetheringOff
+    I.map F.wifiTetheringOff
 
 
 {-| Wind Power -}
@@ -13144,7 +13150,7 @@ window =
 {-| Wine Bar -}
 wineBar : Icon
 wineBar =
-    Material.Icons.wineBar
+    I.map F.wineBar
 
 
 {-| Woman -}
@@ -13162,13 +13168,13 @@ woman2 =
 {-| Woo Commerce -}
 wooCommerce : Icon
 wooCommerce =
-    Material.Icons.wooCommerce
+    I.map F.wooCommerce
 
 
 {-| Wordpress -}
 wordpress : Icon
 wordpress =
-    Material.Icons.wordpress
+    I.map F.wordpress
 
 
 {-| Work -}
@@ -13198,25 +13204,25 @@ workOutline =
 {-| Workspace Premium -}
 workspacePremium : Icon
 workspacePremium =
-    Material.Icons.workspacePremium
+    I.map F.workspacePremium
 
 
 {-| Workspaces -}
 workspaces : Icon
 workspaces =
-    Material.Icons.workspaces
+    I.map F.workspaces
 
 
 {-| Wrap Text -}
 wrapText : Icon
 wrapText =
-    Material.Icons.wrapText
+    I.map F.wrapText
 
 
 {-| Wrong Location -}
 wrongLocation : Icon
 wrongLocation =
-    Material.Icons.wrongLocation
+    I.map F.wrongLocation
 
 
 {-| Wysiwyg -}
@@ -13234,7 +13240,7 @@ yard =
 {-| Youtube Searched For -}
 youtubeSearchedFor : Icon
 youtubeSearchedFor =
-    Material.Icons.youtubeSearchedFor
+    I.map F.youtubeSearchedFor
 
 
 {-| Zoom In -}
@@ -13246,7 +13252,7 @@ zoomIn =
 {-| Zoom In Map -}
 zoomInMap : Icon
 zoomInMap =
-    Material.Icons.zoomInMap
+    I.map F.zoomInMap
 
 
 {-| Zoom Out -}
@@ -13258,6 +13264,6 @@ zoomOut =
 {-| Zoom Out Map -}
 zoomOutMap : Icon
 zoomOutMap =
-    Material.Icons.zoomOutMap
+    I.map F.zoomOutMap
 
 

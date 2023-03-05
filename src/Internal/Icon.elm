@@ -1,4 +1,4 @@
-module Internal.Icon exposing (Icon, fromNodes, toHtml, toHtmlWith)
+module Internal.Icon exposing (Icon, fromNodes, map, toSvg, toSvgWith)
 
 import Html exposing (Html)
 import Svg
@@ -6,22 +6,22 @@ import Svg.Attributes
 import VirtualDom
 
 
-type Icon
+type Icon a
     = Icon (List (Svg.Svg Never))
 
 
-fromNodes : List (Svg.Svg Never) -> Icon
+fromNodes : List (Svg.Svg Never) -> Icon a
 fromNodes =
     Icon
 
 
-toHtml : Icon -> Html msg
-toHtml icon =
-    toHtmlWith [] icon
+toSvg : Icon a -> Html msg
+toSvg icon =
+    toSvgWith [] icon
 
 
-toHtmlWith : List (Html.Attribute msg) -> Icon -> Html msg
-toHtmlWith attrs (Icon nodes) =
+toSvgWith : List (Html.Attribute msg) -> Icon a -> Html msg
+toSvgWith attrs (Icon nodes) =
     Svg.svg
         ([ Svg.Attributes.viewBox "0 0 24 24"
          , Svg.Attributes.fill "currentColor"
@@ -29,3 +29,8 @@ toHtmlWith attrs (Icon nodes) =
             ++ attrs
         )
         (List.map (VirtualDom.map never) nodes)
+
+
+map : Icon a -> Icon b
+map (Icon nodes) =
+    Icon nodes
