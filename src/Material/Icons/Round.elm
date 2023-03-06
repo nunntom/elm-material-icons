@@ -104,7 +104,7 @@ type alias Round =
     Icon.Round
 
 
-{-| The main icon type -}
+{-| Convenience alias, useful if you're only using Round icons in your app -}
 type alias Icon =
     Icon.Icon Round
 
@@ -123,7 +123,7 @@ toSvgWith attrs icon =
 
 i : String -> List (S.Svg Never) -> Icon
 i name svg =
-    I.i "Round" name svg
+    I.i "round" name svg
 
 
 {-| 10k -}

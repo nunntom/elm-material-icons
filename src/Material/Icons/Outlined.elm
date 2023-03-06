@@ -104,7 +104,7 @@ type alias Outlined =
     Icon.Outlined
 
 
-{-| The main icon type -}
+{-| Convenience alias, useful if you're only using Outlined icons in your app -}
 type alias Icon =
     Icon.Icon Outlined
 
@@ -123,7 +123,7 @@ toSvgWith attrs icon =
 
 i : String -> List (S.Svg Never) -> Icon
 i name svg =
-    I.i "Outlined" name svg
+    I.i "outlined" name svg
 
 
 {-| 10k -}

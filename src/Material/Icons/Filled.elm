@@ -103,7 +103,7 @@ type alias Filled =
     Icon.Filled
 
 
-{-| The main icon type -}
+{-| Convenience alias, useful if you're only using Filled icons in your app -}
 type alias Icon =
     Icon.Icon Filled
 
@@ -122,7 +122,7 @@ toSvgWith attrs icon =
 
 i : String -> List (S.Svg Never) -> Icon
 i name svg =
-    I.i "Filled" name svg
+    I.i "filled" name svg
 
 
 {-| 10k -}

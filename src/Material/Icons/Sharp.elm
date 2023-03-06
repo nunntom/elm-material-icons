@@ -104,7 +104,7 @@ type alias Sharp =
     Icon.Sharp
 
 
-{-| The main icon type -}
+{-| Convenience alias, useful if you're only using Sharp icons in your app -}
 type alias Icon =
     Icon.Icon Sharp
 
@@ -123,7 +123,7 @@ toSvgWith attrs icon =
 
 i : String -> List (S.Svg Never) -> Icon
 i name svg =
-    I.i "Sharp" name svg
+    I.i "sharp" name svg
 
 
 {-| 10k -}

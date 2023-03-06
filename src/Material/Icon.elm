@@ -1,11 +1,17 @@
 module Material.Icon exposing (Filled, Icon, Outlined, Round, Sharp, TwoTone, toSvg, toSvgWith)
 
 {-| 
+## Type
+
+@docs Icon
+
 ## Conversions
 
 @docs toSvgWith, toSvg
 
-@docs TwoTone, Sharp, Round, Outlined, Filled, Icon
+## Variants
+
+@docs TwoTone, Sharp, Round, Outlined, Filled
 -}
 
 
@@ -13,7 +19,9 @@ import Html
 import Internal.Icon
 
 
-{-| The main icon type -}
+{-| The main icon type. If you don't mind which variant use `Icon a`
+                    , otherwise use e.g. `Icon Filled` or just import that variant module and use the alias `Icon` from it.
+-}
 type alias Icon a =
     Internal.Icon.Icon a
 

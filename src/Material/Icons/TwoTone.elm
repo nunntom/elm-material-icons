@@ -104,7 +104,7 @@ type alias TwoTone =
     Icon.TwoTone
 
 
-{-| The main icon type -}
+{-| Convenience alias, useful if you're only using TwoTone icons in your app -}
 type alias Icon =
     Icon.Icon TwoTone
 
@@ -123,7 +123,7 @@ toSvgWith attrs icon =
 
 i : String -> List (S.Svg Never) -> Icon
 i name svg =
-    I.i "TwoTone" name svg
+    I.i "twotone" name svg
 
 
 {-| 10k -}

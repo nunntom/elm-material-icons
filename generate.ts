@@ -2,11 +2,12 @@ import * as CodeGen from "elm-codegen";
 import fs from "fs";
 import { createRequire } from "node:module";
 const require = createRequire(import.meta.url);
-const { icons, asset_url_pattern } = require("@material-icons/svg/data.json");
-const families = ["baseline", "outline", "round", "sharp", "twotone"];
 import { globby } from "globby";
 import path from "path";
 const __dirname = path.resolve();
+
+const { icons, asset_url_pattern } = require("@material-icons/svg/data.json");
+const variants = ["baseline", "outline", "round", "sharp", "twotone"];
 
 generate();
 
@@ -26,12 +27,12 @@ type Icon = {
   svg: string;
 };
 
-type Family = { family: string; icons: Icon[] };
+type Variant = { variant: string; icons: Icon[] };
 
 function generate(): void {
-  const result: Family[] = families.map((family): Family => {
+  const result: Variant[] = variants.map((variant): Variant => {
     return {
-      family: family,
+      variant: variant,
       icons: icons.map((icon): Icon => {
         try {
           const data: string = fs.readFileSync(
@@ -39,7 +40,7 @@ function generate(): void {
               "/node_modules/@material-icons/svg/svg/" +
               asset_url_pattern
                 .replace("{icon}", icon.name)
-                .replace("{family}", family),
+                .replace("{family}", variant),
             "utf8"
           );
           return {

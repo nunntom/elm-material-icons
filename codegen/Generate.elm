@@ -37,13 +37,13 @@ main =
     Generate.fromJson
         (Decode.list <|
             Decode.map2 Tuple.pair
-                (Decode.field "family" (Decode.map variantModule_ Decode.string))
+                (Decode.field "variant" (Decode.map variantModule_ Decode.string))
                 (Decode.field "icons" <| Decode.list iconDecoder)
         )
         (\files ->
             let
                 baselineDict_ =
-                    List.find (\( family, _ ) -> variantModule_ family == "Filled") files
+                    List.find (\( variant, _ ) -> variantModule_ variant == "Filled") files
                         |> Maybe.map (Tuple.second >> baselineDict)
                         |> Maybe.withDefault Dict.empty
             in
@@ -81,17 +81,33 @@ variantModule s =
 
 iconFile : List String -> Elm.File
 iconFile families =
-    Elm.file [ "Material", "Icon" ] <|
+    Elm.fileWith [ "Material", "Icon" ]
+        { docs =
+            \docs ->
+                List.concat
+                    [ List.find (\{ group } -> group == Just "Type") docs
+                        |> Maybe.map (Elm.docs >> List.singleton)
+                        |> Maybe.withDefault []
+                    , List.find (\{ group } -> group == Just "Conversions") docs
+                        |> Maybe.map (Elm.docs >> List.singleton)
+                        |> Maybe.withDefault []
+                    , List.filter (\{ group } -> not (List.member group [ Just "Type", Just "Conversions" ])) docs
+                        |> List.map Elm.docs
+                    ]
+        , aliases = []
+        }
+    <|
         List.concat
             [ [ Elm.alias "Icon" (iconAnnotation [ "Internal", "Icon" ] (Type.var "a"))
-                    |> Elm.expose
-                    |> Elm.withDocumentation "The main icon type"
+                    |> Elm.exposeWith { exposeConstructor = False, group = Just "Type" }
+                    |> Elm.withDocumentation """The main icon type. If you don't mind which variant use `Icon a`
+                    , otherwise use e.g. `Icon Filled` or just import that variant module and use the alias `Icon` from it."""
               ]
             , List.map
-                (\family ->
-                    Elm.customType family [ Elm.variantWith family [ Gen.Basics.annotation_.never ] ]
-                        |> Elm.expose
-                        |> Elm.withDocumentation (family ++ " Type")
+                (\variant ->
+                    Elm.customType variant [ Elm.variantWith variant [ Gen.Basics.annotation_.never ] ]
+                        |> Elm.exposeWith { exposeConstructor = False, group = Just "Variants" }
+                        |> Elm.withDocumentation (variant ++ " Type")
                 )
                 families
             , [ Elm.withDocumentation "Convert the icon to an SVG node" <|
@@ -114,7 +130,7 @@ file baselineDict_ ( variant, icons ) =
 
         i =
             Elm.Declare.fn2 "i" ( "name", Nothing ) ( "svg", Nothing ) <|
-                fromNodes variant (Type.named [] "Icon")
+                fromNodes (String.toLower variant) (Type.named [] "Icon")
 
         makeIcon name s =
             SvgParser.parseToNode s
@@ -154,7 +170,7 @@ file baselineDict_ ( variant, icons ) =
             [ [ Elm.withDocumentation "The variant" <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Type" } <|
                         Elm.alias variant (Type.named [ "Material", "Icon" ] variant)
-              , Elm.withDocumentation "The main icon type" <|
+              , Elm.withDocumentation ("Convenience alias, useful if you're only using " ++ variant ++ " icons in your app") <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Type" } <|
                         Elm.alias "Icon" annotation
               , Elm.withDocumentation "Convert the icon to an SVG node" <|
