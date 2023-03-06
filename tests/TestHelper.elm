@@ -1,16 +1,20 @@
 module TestHelper exposing (toSvgTest)
 
-import Html exposing (Html)
-import Internal.Icon exposing (Icon)
+import Internal.Icon as Icon exposing (Icon)
+import SvgParser
 import Test exposing (Test)
 import Test.Html.Query as Query
-import Test.Html.Selector as Selector
 
 
-toSvgTest : String -> (Icon a -> Html msg) -> Icon a -> Test
-toSvgTest name toSvg icon =
-    Test.test name <|
+toSvgTest : String -> Icon a -> Test
+toSvgTest raw icon =
+    Test.test (Icon.toName icon ++ " (" ++ Icon.toVariant icon ++ ")") <|
         \_ ->
-            toSvg icon
-                |> Query.fromHtml
-                |> Query.has [ Selector.tag "svg" ]
+            case SvgParser.parse raw of
+                Ok rawSvg ->
+                    rawSvg
+                        |> Query.fromHtml
+                        |> Query.contains (Icon.toSvgRaw icon)
+
+                Err _ ->
+                    Debug.todo "failed to parse svg"

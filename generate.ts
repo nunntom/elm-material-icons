@@ -16,7 +16,7 @@ replaceInFiles(__dirname + "/generated/tests/**/*.elm", "import Html", "");
 // make the svgs all on one line to make the filesize a bit smaller
 replaceInFiles(
   __dirname + "/generated/Material/**/*.elm",
-  /I\.fromNodes[^{]+/g,
+  /\s+i\n[^{]+/g,
   (match) => match.replace(/\s+/g, " ") + "\n\n\n"
 );
 

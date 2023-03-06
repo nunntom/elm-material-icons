@@ -5,6 +5,7 @@ module Generate exposing (main)
 import Dict exposing (Dict)
 import Elm exposing (Expression)
 import Elm.Annotation as Type exposing (Annotation)
+import Elm.Declare
 import Gen.Basics
 import Gen.CodeGen.Generate as Generate
 import Gen.Html
@@ -73,11 +74,6 @@ iconDecoder =
         (Decode.field "svg" Decode.string)
 
 
-iconAnnotation : List String -> Type.Annotation -> Annotation
-iconAnnotation mod arg =
-    Type.namedWith mod "Icon" [ arg ]
-
-
 variantModule : String -> List String
 variantModule s =
     [ "Material", "Icons", s ]
@@ -106,6 +102,16 @@ file baselineDict_ ( variant, icons ) =
     let
         annotation =
             Type.namedWith [ "Material", "Icon" ] "Icon" [ Type.named [] variant ]
+
+        i =
+            Elm.Declare.fn2 "i" ( "name", Nothing ) ( "svg", Nothing ) <|
+                fromNodes variant (Type.named [] "Icon")
+
+        makeIcon name s =
+            SvgParser.parseToNode s
+                |> Result.map identity
+                |> Result.toMaybe
+                |> Maybe.map (node >> i.call (Elm.string name))
     in
     Elm.fileWith (variantModule variant)
         { docs =
@@ -150,6 +156,7 @@ file baselineDict_ ( variant, icons ) =
                     Elm.exposeWith { exposeConstructor = False, group = Just "Conversions" } <|
                         Elm.declaration "toSvgWith" <|
                             Elm.fn2 ( "attrs", Nothing ) ( "icon", Nothing ) (toSvgWith annotation)
+              , i.declaration
               ]
             , List.map
                 (\{ name, svg, category } ->
@@ -173,7 +180,7 @@ file baselineDict_ ( variant, icons ) =
                                             ]
 
                                     else
-                                        Maybe.withDefault (Elm.val "") (makeIcon svg)
+                                        Maybe.withDefault (Elm.val "") (makeIcon name svg)
                 )
                 icons
             ]
@@ -187,112 +194,11 @@ tests ( variant, icons ) =
                 Elm.declaration "suite" <|
                     Gen.Test.describe "toSvg Tests" <|
                         List.map
-                            (\{ name } ->
-                                test (Elm.string <| functionName name) (toSvgExpression (variantModule variant)) (iconExpression (variantModule variant) (functionName name))
+                            (\{ name, svg } ->
+                                test (Elm.string svg) (iconExpression (variantModule variant) (functionName name))
                             )
                             icons
             ]
-
-
-makeIcon : String -> Maybe Expression
-makeIcon s =
-    SvgParser.parseToNode s
-        |> Result.map identity
-        |> Result.toMaybe
-        |> Maybe.andThen firstNode
-        |> Maybe.map fromNodes
-
-
-firstNode : SvgNode -> Maybe Expression
-firstNode svgNode =
-    case svgNode of
-        SvgElement el ->
-            if el.name == "svg" then
-                Just <| Elm.list (List.filterMap node el.children)
-
-            else
-                Nothing
-
-        _ ->
-            Nothing
-
-
-node : SvgNode -> Maybe Expression
-node svgNode =
-    case svgNode of
-        SvgElement el ->
-            Just (element el)
-
-        SvgText content ->
-            Just (Gen.Svg.text content)
-
-        SvgComment _ ->
-            Nothing
-
-
-element : Element -> Elm.Expression
-element el =
-    let
-        attribs =
-            List.filterMap attribute el.attributes
-
-        children =
-            List.filterMap node el.children
-    in
-    case el.name of
-        "svg" ->
-            Gen.Svg.svg attribs children
-
-        "foreignObject" ->
-            Gen.Svg.foreignObject attribs children
-
-        _ ->
-            Elm.apply
-                (Elm.value
-                    { importFrom = [ "Svg" ]
-                    , name = el.name
-                    , annotation =
-                        Just
-                            (Type.function
-                                [ Type.list (Type.namedWith [] "Attribute" [ Type.var "msg" ])
-                                , Type.list
-                                    (Type.namedWith [ "Svg" ] "Svg" [ Type.var "msg" ])
-                                ]
-                                (Type.namedWith [ "Svg" ] "Svg" [ Type.var "msg" ])
-                            )
-                    }
-                )
-                [ Elm.list attribs
-                , Elm.list children
-                ]
-
-
-attribute : ( String, String ) -> Maybe Elm.Expression
-attribute ( name, value ) =
-    case name of
-        "xmlns" ->
-            Nothing
-
-        _ ->
-            Just <|
-                Elm.apply
-                    (Elm.value
-                        { importFrom = [ "Svg", "Attributes" ]
-                        , name = attributeName name
-                        , annotation =
-                            Just
-                                (Type.function
-                                    [ Type.string ]
-                                    (Type.namedWith [ "Svg" ] "Attribute" [ Type.var "msg" ])
-                                )
-                        }
-                    )
-                    [ Elm.string value ]
-
-
-attributeName : String -> String
-attributeName s =
-    functionName s
 
 
 functionName : String -> String
@@ -343,41 +249,20 @@ functionName str =
         |> Maybe.withDefault ""
 
 
-toSvgAnnotation : Type.Annotation -> Type.Annotation
-toSvgAnnotation iconAnnotation_ =
-    Type.function
-        [ iconAnnotation_ ]
-        (Gen.Html.annotation_.html (Type.var "msg"))
-
-
-toSvgExpression : List String -> Elm.Expression
-toSvgExpression mod =
-    Elm.value
-        { importFrom = mod
-        , name = "toSvg"
-        , annotation = Nothing
-        }
-
-
 toSvg : Type.Annotation -> Elm.Expression -> Elm.Expression
 toSvg iconAnnotation_ iconArg =
     Elm.apply
         (Elm.value
             { importFrom = [ "Internal", "Icon" ]
             , name = "toSvg"
-            , annotation = Just (toSvgAnnotation iconAnnotation_)
+            , annotation =
+                Just <|
+                    Type.function
+                        [ iconAnnotation_ ]
+                        (Gen.Html.annotation_.html (Type.var "msg"))
             }
         )
         [ iconArg ]
-
-
-toSvgWithAnnotation : Type.Annotation -> Type.Annotation
-toSvgWithAnnotation iconAnnotation_ =
-    Type.function
-        [ Type.list (Gen.Html.annotation_.attribute (Type.var "msg"))
-        , iconAnnotation_
-        ]
-        (Gen.Html.annotation_.html (Type.var "msg"))
 
 
 toSvgWith : Type.Annotation -> Elm.Expression -> Elm.Expression -> Elm.Expression
@@ -386,25 +271,43 @@ toSvgWith iconAnnotation_ attrArg iconArg =
         (Elm.value
             { importFrom = [ "Internal", "Icon" ]
             , name = "toSvgWith"
-            , annotation = Just (toSvgWithAnnotation iconAnnotation_)
+            , annotation =
+                Just <|
+                    Type.function
+                        [ Type.list (Gen.Html.annotation_.attribute (Type.var "msg"))
+                        , iconAnnotation_
+                        ]
+                        (Gen.Html.annotation_.html (Type.var "msg"))
             }
         )
         [ attrArg, iconArg ]
 
 
-fromNodes : Elm.Expression -> Elm.Expression
-fromNodes nodesArg =
+fromNodes : String -> Type.Annotation -> Elm.Expression -> Elm.Expression -> Elm.Expression
+fromNodes variant annotation nameArg pathsArg =
     Elm.apply
         (Elm.value
             { importFrom = [ "Internal", "Icon" ]
-            , name = "fromNodes"
+            , name = "i"
             , annotation =
                 Just <|
-                    Type.function [ Type.list (Gen.Svg.annotation_.attribute Gen.Basics.annotation_.never) ]
-                        (iconAnnotation [] (Type.var "a"))
+                    Type.function
+                        [ Type.string
+                        , Type.string
+                        , Type.list (Gen.Svg.annotation_.svg Gen.Basics.annotation_.never)
+                        ]
+                        annotation
             }
         )
-        [ nodesArg ]
+        [ Elm.string variant
+        , nameArg
+        , pathsArg
+        ]
+
+
+iconAnnotation : List String -> Type.Annotation -> Annotation
+iconAnnotation mod arg =
+    Type.namedWith mod "Icon" [ arg ]
 
 
 iconExpression : List String -> String -> Expression
@@ -416,8 +319,8 @@ iconExpression mod name =
         }
 
 
-test : Elm.Expression -> Elm.Expression -> Elm.Expression -> Elm.Expression
-test nameArg toSvgArg iconArg =
+test : Elm.Expression -> Elm.Expression -> Elm.Expression
+test rawArg iconArg =
     Elm.apply
         (Elm.value
             { importFrom = [ "TestHelper" ]
@@ -426,10 +329,70 @@ test nameArg toSvgArg iconArg =
                 Just <|
                     Type.function
                         [ Type.string
-                        , toSvgAnnotation (iconAnnotation [] (Type.var "a"))
                         , iconAnnotation [] (Type.var "a")
                         ]
                         Gen.Test.annotation_.test
             }
         )
-        [ nameArg, toSvgArg, iconArg ]
+        [ rawArg, iconArg ]
+
+
+
+-- SVG building
+
+
+node : SvgNode -> Expression
+node svgNode =
+    case svgNode of
+        SvgElement el ->
+            element el
+
+        SvgText content ->
+            Gen.Svg.text content
+
+        SvgComment _ ->
+            Elm.val ""
+
+
+element : Element -> Elm.Expression
+element el =
+    case el.name of
+        "svg" ->
+            Elm.list (List.map node el.children)
+
+        _ ->
+            Elm.apply
+                (Elm.value
+                    { importFrom = [ "Svg" ]
+                    , name = el.name
+                    , annotation =
+                        Just
+                            (Type.function
+                                [ Type.list (Type.namedWith [ "Svg" ] "Attribute" [ Type.var "msg" ])
+                                , Type.list
+                                    (Type.namedWith [ "Svg" ] "Svg" [ Type.var "msg" ])
+                                ]
+                                (Type.namedWith [ "Svg" ] "Svg" [ Type.var "msg" ])
+                            )
+                    }
+                )
+                [ Elm.list (List.map attribute el.attributes)
+                , Elm.list (List.map node el.children)
+                ]
+
+
+attribute : ( String, String ) -> Elm.Expression
+attribute ( name, value ) =
+    Elm.apply
+        (Elm.value
+            { importFrom = [ "Svg", "Attributes" ]
+            , name = functionName name
+            , annotation =
+                Just
+                    (Type.function
+                        [ Type.string ]
+                        (Type.namedWith [ "Svg" ] "Attribute" [ Type.var "msg" ])
+                    )
+            }
+        )
+        [ Elm.string value ]
