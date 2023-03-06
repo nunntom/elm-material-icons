@@ -110,11 +110,11 @@ file : Dict String String -> ( String, List Icon ) -> Elm.File
 file baselineDict_ ( variant, icons ) =
     let
         annotation =
-            Type.namedWith [] "Icon" [ Type.named [] variant ]
+            Type.namedWith [ "Material", "Icon" ] "Icon" [ Type.named [] variant ]
 
         i =
             Elm.Declare.fn2 "i" ( "name", Nothing ) ( "svg", Nothing ) <|
-                fromNodes variant annotation
+                fromNodes variant (Type.named [] "Icon")
 
         makeIcon name s =
             SvgParser.parseToNode s
@@ -156,7 +156,7 @@ file baselineDict_ ( variant, icons ) =
                         Elm.alias variant (Type.named [ "Material", "Icon" ] variant)
               , Elm.withDocumentation "The main icon type" <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Type" } <|
-                        Elm.alias "Icon" (Type.namedWith [ "Material", "Icon" ] "Icon" [ Type.var "a" ])
+                        Elm.alias "Icon" annotation
               , Elm.withDocumentation "Convert the icon to an SVG node" <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Conversions" } <|
                         Elm.declaration "toSvg" <|
@@ -172,7 +172,7 @@ file baselineDict_ ( variant, icons ) =
                     Elm.withDocumentation (String.replace "_" " " name |> String.Extra.toTitleCase) <|
                         Elm.exposeWith { exposeConstructor = False, group = Just (String.Extra.toTitleCase category ++ " Icons") } <|
                             Elm.declaration (functionName name) <|
-                                Elm.withType annotation <|
+                                Elm.withType (Type.named [] "Icon") <|
                                     if variant /= "Filled" && Dict.get name baselineDict_ == Just svg then
                                         Elm.apply
                                             (Elm.value
