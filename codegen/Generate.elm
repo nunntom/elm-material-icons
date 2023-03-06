@@ -91,9 +91,18 @@ iconFile families =
                 (\family ->
                     Elm.customType family [ Elm.variantWith family [ Gen.Basics.annotation_.never ] ]
                         |> Elm.expose
-                        |> Elm.withDocumentation (family ++ "Type")
+                        |> Elm.withDocumentation (family ++ " Type")
                 )
                 families
+            , [ Elm.withDocumentation "Convert the icon to an SVG node" <|
+                    Elm.exposeWith { exposeConstructor = False, group = Just "Conversions" } <|
+                        Elm.declaration "toSvg" <|
+                            Elm.fn ( "icon", Nothing ) (toSvg (Type.namedWith [] "Icon" [ Type.var "a" ]))
+              , Elm.withDocumentation "Convert the icon to an SVG with attributes" <|
+                    Elm.exposeWith { exposeConstructor = False, group = Just "Conversions" } <|
+                        Elm.declaration "toSvgWith" <|
+                            Elm.fn2 ( "attrs", Nothing ) ( "icon", Nothing ) (toSvgWith (Type.namedWith [] "Icon" [ Type.var "a" ]))
+              ]
             ]
 
 
