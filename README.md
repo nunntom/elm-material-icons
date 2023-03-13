@@ -6,43 +6,6 @@ Why another Material Icons package? I wanted a nice opaque custom type `Icon` th
 
 ## Example Usage
 
-```elm
-import Html exposing (Attribute, Html)
-import Html.Attributes exposing (class)
-import Material.Icon as Icon exposing (Icon)
-import Material.Icons.Filled as Filled
-import Material.Icons.Outlined as Outlined
-import Material.Icons.Round as Round
-
-
-button : List (Attribute msg) -> Icon a -> String -> Html msg
-button attrs icon label =
-    Html.button (class "button" :: attrs)
-        [ Icon.toSvg icon
-        , Html.text label
-        ]
-
-
-buttonPrimary : Filled.Icon -> String -> Html msg
-buttonPrimary =
-    button [ class "button-primary" ]
-
-
-buttonSecondary : Outlined.Icon -> String -> Html msg
-buttonSecondary =
-    button [ class "button-secondary" ]
-
-
-view : Html msg
-view =
-    Html.div []
-        [ buttonPrimary Filled.thumbUp "Press this!"
-        , buttonSecondary Outlined.thumbDown "Don't press this!"
-        , button [] Round.rollerSkating "Go roller skating!"
-        ]
-
-```
-
 ### A button that doesn't care which variant of icon you use:
 
 ```elm
@@ -93,4 +56,45 @@ But you can also pass arbitrary Html/Svg attributes:
         , style "color" "red"
         ]
         icon
+```
+
+Note that if you don't provide a width/height (via inline style, css etc.) and the parent doesn't have a size, you won't see anything.
+
+## Full Example
+
+```elm
+import Html exposing (Attribute, Html)
+import Html.Attributes exposing (class)
+import Material.Icon as Icon exposing (Icon)
+import Material.Icons.Filled as Filled
+import Material.Icons.Outlined as Outlined
+import Material.Icons.Round as Round
+
+
+button : List (Attribute msg) -> Icon a -> String -> Html msg
+button attrs icon label =
+    Html.button (class "button" :: attrs)
+        [ Icon.toSvg icon
+        , Html.text label
+        ]
+
+
+buttonPrimary : Filled.Icon -> String -> Html msg
+buttonPrimary =
+    button [ class "button-primary" ]
+
+
+buttonSecondary : Outlined.Icon -> String -> Html msg
+buttonSecondary =
+    button [ class "button-secondary" ]
+
+
+view : Html msg
+view =
+    Html.div []
+        [ buttonPrimary Filled.thumbUp "Press this!"
+        , buttonSecondary Outlined.thumbDown "Don't press this!"
+        , button [] Round.rollerSkating "Go roller skating!"
+        ]
+
 ```
