@@ -2,7 +2,6 @@ module Generate exposing (main)
 
 {-| -}
 
-import Dict exposing (Dict)
 import Elm exposing (Expression)
 import Elm.Annotation as Type exposing (Annotation)
 import Elm.Declare
@@ -11,6 +10,7 @@ import Gen.CodeGen.Generate as Generate
 import Gen.Html
 import Gen.Svg
 import Gen.Test
+import Icon.Variant as Variant exposing (IconVariant(..))
 import Json.Decode as Decode exposing (Decoder)
 import List.Extra as List
 import String.Extra
@@ -22,7 +22,7 @@ main =
     Generate.fromJson
         (Decode.list <|
             Decode.map2 Tuple.pair
-                (Decode.field "variant" (Decode.map variantName Decode.string))
+                (Decode.field "variant" Variant.decoder)
                 (Decode.field "icons" <| Decode.list iconDecoder)
         )
         (\files ->
@@ -30,14 +30,14 @@ main =
                 common =
                     List.findMap
                         (\( variant, icons ) ->
-                            if variantName variant == "Filled" then
-                                Just ( "Common", List.filter (.unsupportedFamilies >> List.isEmpty >> not) icons )
+                            if variant == Filled then
+                                Just ( Common, List.filter (.unsupportedFamilies >> List.isEmpty >> not) icons )
 
                             else
                                 Nothing
                         )
                         files
-                        |> Maybe.withDefault ( "Common", [] )
+                        |> Maybe.withDefault ( Common, [] )
             in
             iconFile (List.map Tuple.first files)
                 :: List.map file (common :: files)
@@ -49,7 +49,7 @@ type alias Icon =
     { name : String
     , category : String
     , svg : String
-    , unsupportedFamilies : List String
+    , unsupportedFamilies : List IconVariant
     }
 
 
@@ -59,39 +59,11 @@ iconDecoder =
         (Decode.field "name" Decode.string)
         (Decode.field "category" Decode.string)
         (Decode.field "svg" Decode.string)
-        (Decode.field "unsupported_families"
-            (Decode.list Decode.string
-                |> Decode.map (List.map variantName)
-            )
-        )
+        (Decode.field "unsupported_families" (Decode.list Variant.decoder))
 
 
-variantName : String -> String
-variantName s =
-    case s of
-        "baseline" ->
-            "Filled"
-
-        "outline" ->
-            "Outlined"
-
-        "twotone" ->
-            "TwoTone"
-
-        "round" ->
-            "Rounded"
-
-        _ ->
-            String.Extra.toTitleCase s
-
-
-variantModule : String -> List String
-variantModule s =
-    [ "Material", "Icons", s ]
-
-
-iconFile : List String -> Elm.File
-iconFile families =
+iconFile : List IconVariant -> Elm.File
+iconFile variants =
     Elm.fileWith [ "Material", "Icon" ]
         { docs =
             \docs ->
@@ -116,11 +88,11 @@ iconFile families =
               ]
             , List.map
                 (\variant ->
-                    Elm.customType variant [ Elm.variantWith variant [ Gen.Basics.annotation_.never ] ]
+                    Elm.customType (Variant.toString variant) [ Elm.variantWith (Variant.toString variant) [ Gen.Basics.annotation_.never ] ]
                         |> Elm.exposeWith { exposeConstructor = False, group = Just "Variants" }
-                        |> Elm.withDocumentation (variant ++ " Type")
+                        |> Elm.withDocumentation (Variant.toString variant ++ " Type")
                 )
-                families
+                variants
             , [ Elm.withDocumentation "Convert the icon to an SVG node" <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Conversions" } <|
                         Elm.declaration "toSvg" <|
@@ -133,11 +105,11 @@ iconFile families =
             ]
 
 
-file : ( String, List Icon ) -> Elm.File
+file : ( IconVariant, List Icon ) -> Elm.File
 file ( variant, icons ) =
     let
         annotation =
-            if variant == "Common" then
+            if variant == Common then
                 Type.namedWith [ "Internal", "Icon" ] "Icon" [ Type.var "a" ]
 
             else
@@ -145,23 +117,9 @@ file ( variant, icons ) =
 
         i =
             Elm.Declare.fn2 "i" ( "name", Nothing ) ( "svg", Nothing ) <|
-                fromNodes
-                    (String.toLower <|
-                        if variant == "Common" then
-                            "filled"
-
-                        else
-                            variant
-                    )
-                    annotation
-
-        makeIcon name s =
-            SvgParser.parseToNode s
-                |> Result.map identity
-                |> Result.toMaybe
-                |> Maybe.map (node >> i.call (Elm.string name))
+                \name nodes -> Elm.apply (fromNodes annotation) [ Elm.string (Variant.toClassName variant), name, nodes ]
     in
-    Elm.fileWith (variantModule variant)
+    Elm.fileWith (Variant.toModule variant)
         { docs =
             \docs ->
                 List.concat
@@ -184,13 +142,13 @@ file ( variant, icons ) =
         }
     <|
         List.concat
-            [ if variant /= "Common" then
+            [ if variant /= Common then
                 [ Elm.withDocumentation "The variant" <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Type" } <|
-                        Elm.alias variant (Type.named [ "Material", "Icon" ] variant)
-                , Elm.withDocumentation ("Convenience alias, useful if you're only using " ++ variant ++ " icons in your app") <|
+                        Elm.alias (Variant.toString variant) (Type.named [ "Material", "Icon" ] (Variant.toString variant))
+                , Elm.withDocumentation ("Convenience alias, useful if you're only using " ++ Variant.toString variant ++ " icons in your app") <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Type" } <|
-                        Elm.alias "Icon" (Type.namedWith [ "Material", "Icon" ] "Icon" [ Type.named [] variant ])
+                        Elm.alias "Icon" (Type.namedWith [ "Material", "Icon" ] "Icon" [ Type.named [] (Variant.toString variant) ])
                 , Elm.withDocumentation "Convert the icon to an SVG node" <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Conversions" } <|
                         Elm.declaration "toSvg" <|
@@ -210,38 +168,30 @@ file ( variant, icons ) =
                         Elm.exposeWith { exposeConstructor = False, group = Just (String.Extra.toTitleCase category ++ " Icons") } <|
                             Elm.declaration (functionName name) <|
                                 Elm.withType annotation <|
-                                    if (variant == "Filled" && not (List.isEmpty unsupportedFamilies)) || List.member variant unsupportedFamilies then
-                                        Elm.apply
-                                            (Elm.value
-                                                { importFrom = [ "Internal", "Icon" ]
-                                                , name = "map"
-                                                , annotation = Nothing
-                                                }
-                                            )
-                                            [ Elm.value
-                                                { importFrom = [ "Material", "Icons", "Common" ]
-                                                , name = functionName name
-                                                , annotation = Just (Type.named [] variant)
-                                                }
-                                            ]
+                                    if (variant == Filled && not (List.isEmpty unsupportedFamilies)) || List.member variant unsupportedFamilies then
+                                        fromCommon name variant
 
                                     else
-                                        Maybe.withDefault (Elm.val "") (makeIcon name svg)
+                                        SvgParser.parseToNode svg
+                                            |> Result.map identity
+                                            |> Result.toMaybe
+                                            |> Maybe.map (node >> i.call (Elm.string name))
+                                            |> Maybe.withDefault (Elm.val "")
                 )
                 icons
             ]
 
 
-tests : ( String, List Icon ) -> Elm.File
+tests : ( IconVariant, List Icon ) -> Elm.File
 tests ( variant, icons ) =
     (\f -> { f | path = "tests/" ++ f.path }) <|
-        Elm.file [ variant ++ "Test" ] <|
+        Elm.file [ Variant.toString variant ++ "Test" ] <|
             [ Elm.expose <|
                 Elm.declaration "suite" <|
                     Gen.Test.describe "toSvg Tests" <|
                         List.map
                             (\{ name, svg } ->
-                                test (Elm.string svg) (iconExpression (variantModule variant) (functionName name))
+                                test (Elm.string svg) (iconExpression (Variant.toModule variant) (functionName name))
                             )
                             icons
             ]
@@ -329,25 +279,37 @@ toSvgWith iconAnnotation_ attrArg iconArg =
         [ attrArg, iconArg ]
 
 
-fromNodes : String -> Type.Annotation -> Elm.Expression -> Elm.Expression -> Elm.Expression
-fromNodes variant annotation nameArg pathsArg =
+fromNodes : Type.Annotation -> Elm.Expression
+fromNodes annotation =
+    Elm.value
+        { importFrom = [ "Internal", "Icon" ]
+        , name = "i"
+        , annotation =
+            Just <|
+                Type.function
+                    [ Type.string
+                    , Type.string
+                    , Type.list (Gen.Svg.annotation_.svg Gen.Basics.annotation_.never)
+                    ]
+                    annotation
+        }
+
+
+fromCommon : String -> IconVariant -> Elm.Expression
+fromCommon name variant =
     Elm.apply
         (Elm.value
             { importFrom = [ "Internal", "Icon" ]
-            , name = "i"
-            , annotation =
-                Just <|
-                    Type.function
-                        [ Type.string
-                        , Type.string
-                        , Type.list (Gen.Svg.annotation_.svg Gen.Basics.annotation_.never)
-                        ]
-                        annotation
+            , name = "map"
+            , annotation = Nothing
             }
         )
-        [ Elm.string variant
-        , nameArg
-        , pathsArg
+        [ Elm.string (Variant.toClassName variant)
+        , Elm.value
+            { importFrom = [ "Material", "Icons", "Common" ]
+            , name = functionName name
+            , annotation = Just (Type.named [] (Variant.toString variant))
+            }
         ]
 
 

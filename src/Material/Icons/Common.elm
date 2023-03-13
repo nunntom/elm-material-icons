@@ -90,7 +90,7 @@ import Svg.Attributes as SA
 
 i : String -> List (S.Svg Never) -> I.Icon a
 i name svg =
-    I.i "filled" name svg
+    I.i "" name svg
 
 
 {-| 123 -}

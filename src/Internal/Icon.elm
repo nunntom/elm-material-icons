@@ -38,9 +38,9 @@ toSvgWith attrs icon =
         icon
 
 
-map : Icon a -> Icon b
-map (Icon nodes) =
-    Icon nodes
+map : String -> Icon a -> Icon b
+map v (Icon nodes) =
+    Icon { nodes | variant = v }
 
 
 toSvg_ : List (Html.Attribute msg) -> Icon a -> Html msg
