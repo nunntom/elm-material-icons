@@ -1,4 +1,4 @@
-module Material.Icon exposing (Filled, Icon, Outlined, Round, Sharp, TwoTone, toSvg, toSvgWith)
+module Material.Icon exposing (Filled, Icon, Outlined, Rounded, Sharp, TwoTone, toSvg, toSvgWith)
 
 {-| 
 ## Type
@@ -11,7 +11,7 @@ module Material.Icon exposing (Filled, Icon, Outlined, Round, Sharp, TwoTone, to
 
 ## Variants
 
-@docs TwoTone, Sharp, Round, Outlined, Filled
+@docs TwoTone, Sharp, Rounded, Outlined, Filled
 -}
 
 
@@ -36,9 +36,9 @@ type Outlined
     = Outlined Never
 
 
-{-| Round Type -}
-type Round
-    = Round Never
+{-| Rounded Type -}
+type Rounded
+    = Rounded Never
 
 
 {-| Sharp Type -}

@@ -94,7 +94,7 @@ module Material.Icons.Outlined exposing (Icon, Outlined, abc, acUnit, accessAlar
 import Html
 import Internal.Icon as I
 import Material.Icon as Icon
-import Material.Icons.Filled as F
+import Material.Icons.Common as C
 import Svg as S
 import Svg.Attributes as SA
 
@@ -110,13 +110,13 @@ type alias Icon =
 
 
 {-| Convert the icon to an SVG node -}
-toSvg : Icon.Icon Outlined -> Html.Html msg
+toSvg : Icon -> Html.Html msg
 toSvg icon =
     I.toSvg icon
 
 
 {-| Convert the icon to an SVG with attributes -}
-toSvgWith : List (Html.Attribute msg) -> Icon.Icon Outlined -> Html.Html msg
+toSvgWith : List (Html.Attribute msg) -> Icon -> Html.Html msg
 toSvgWith attrs icon =
     I.toSvgWith attrs icon
 
@@ -144,7 +144,7 @@ elevenMp = i "11mp" [ S.path [ SA.d "M7.5 14h1v3H10v-3h1v4.5h1.5v-5c0-.55-.45-1-
 {-| 123 -}
 oneTwoThree : Icon
 oneTwoThree =
-    I.map F.oneTwoThree
+    I.map C.oneTwoThree
 
 
 {-| 12mp -}
@@ -205,7 +205,7 @@ oneKPlus = i "1k_plus" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2
 {-| 1x Mobiledata -}
 oneXMobiledata : Icon
 oneXMobiledata =
-    I.map F.oneXMobiledata
+    I.map C.oneXMobiledata
 
 
 {-| 20mp -}
@@ -251,19 +251,19 @@ twoMp = i "2mp" [ S.path [ SA.d "M7.5 14h1v3H10v-3h1v4.5h1.5v-5c0-.55-.45-1-1-1H
 {-| 30fps -}
 thirtyFps : Icon
 thirtyFps =
-    I.map F.thirtyFps
+    I.map C.thirtyFps
 
 
 {-| 30fps Select -}
 thirtyFpsSelect : Icon
 thirtyFpsSelect =
-    I.map F.thirtyFpsSelect
+    I.map C.thirtyFpsSelect
 
 
 {-| 360 -}
 threeSixty : Icon
 threeSixty =
-    I.map F.threeSixty
+    I.map C.threeSixty
 
 
 {-| 3d Rotation -}
@@ -274,7 +274,7 @@ threeDRotation = i "3d_rotation" [ S.path [ SA.d "M7.53 21.48A10.487 10.487 0 0 
 {-| 3g Mobiledata -}
 threeGMobiledata : Icon
 threeGMobiledata =
-    I.map F.threeGMobiledata
+    I.map C.threeGMobiledata
 
 
 {-| 3k -}
@@ -300,13 +300,13 @@ threeP = i "3p" [ S.path [ SA.d "M20 2H4.01c-1.1 0-2 .9-2 2L2 22l4-4h14c1.1 0 2-
 {-| 4g Mobiledata -}
 fourGMobiledata : Icon
 fourGMobiledata =
-    I.map F.fourGMobiledata
+    I.map C.fourGMobiledata
 
 
 {-| 4g Plus Mobiledata -}
 fourGPlusMobiledata : Icon
 fourGPlusMobiledata =
-    I.map F.fourGPlusMobiledata
+    I.map C.fourGPlusMobiledata
 
 
 {-| 4k -}
@@ -347,19 +347,19 @@ fiveMp = i "5mp" [ S.path [ SA.d "M7.5 14h1v3H10v-3h1v4.5h1.5v-5c0-.55-.45-1-1-1
 {-| 6 Ft Apart -}
 sixFtApart : Icon
 sixFtApart =
-    I.map F.sixFtApart
+    I.map C.sixFtApart
 
 
 {-| 60fps -}
 sixtyFps : Icon
 sixtyFps =
-    I.map F.sixtyFps
+    I.map C.sixtyFps
 
 
 {-| 60fps Select -}
 sixtyFpsSelect : Icon
 sixtyFpsSelect =
-    I.map F.sixtyFpsSelect
+    I.map C.sixtyFpsSelect
 
 
 {-| 6k -}
@@ -425,7 +425,7 @@ nineMp = i "9mp" [ S.path [ SA.d "M7.5 14h1v3H10v-3h1v4.5h1.5v-5c0-.55-.45-1-1-1
 {-| Abc -}
 abc : Icon
 abc =
-    I.map F.abc
+    I.map C.abc
 
 
 {-| Ac Unit -}
@@ -436,13 +436,13 @@ acUnit = i "ac_unit" [ S.path [ SA.d "M22 11h-4.17l3.24-3.24l-1.41-1.42L15 11h-2
 {-| Access Alarm -}
 accessAlarm : Icon
 accessAlarm =
-    I.map F.accessAlarm
+    I.map C.accessAlarm
 
 
 {-| Access Alarms -}
 accessAlarms : Icon
 accessAlarms =
-    I.map F.accessAlarms
+    I.map C.accessAlarms
 
 
 {-| Access Time -}
@@ -453,19 +453,19 @@ accessTime = i "access_time" [ S.path [ SA.d "M11.99 2C6.47 2 2 6.48 2 12s4.47 1
 {-| Access Time Filled -}
 accessTimeFilled : Icon
 accessTimeFilled =
-    I.map F.accessTimeFilled
+    I.map C.accessTimeFilled
 
 
 {-| Accessibility -}
 accessibility : Icon
 accessibility =
-    I.map F.accessibility
+    I.map C.accessibility
 
 
 {-| Accessibility New -}
 accessibilityNew : Icon
 accessibilityNew =
-    I.map F.accessibilityNew
+    I.map C.accessibilityNew
 
 
 {-| Accessible -}
@@ -511,13 +511,13 @@ adUnits = i "ad_units" [ S.path [ SA.d "M17 1H7c-1.1 0-2 .9-2 2v18c0 1.1.9 2 2 2
 {-| Adb -}
 adb : Icon
 adb =
-    I.map F.adb
+    I.map C.adb
 
 
 {-| Add -}
 add : Icon
 add =
-    I.map F.add
+    I.map C.add
 
 
 {-| Add A Photo -}
@@ -528,7 +528,7 @@ addAPhoto = i "add_a_photo" [ S.path [ SA.d "M21 6h-3.17L16 4h-6v2h5.12l1.83 2H2
 {-| Add Alarm -}
 addAlarm : Icon
 addAlarm =
-    I.map F.addAlarm
+    I.map C.addAlarm
 
 
 {-| Add Alert -}
@@ -549,7 +549,7 @@ addBusiness = i "add_business" [ S.path [ SA.d "M2 4h15v2H2zm13 13h2v-3h1v-2l-1-
 {-| Add Card -}
 addCard : Icon
 addCard =
-    I.map F.addCard
+    I.map C.addCard
 
 
 {-| Add Chart -}
@@ -560,13 +560,13 @@ addChart = i "add_chart" [ S.path [ SA.d "M19 19H5V5h9V3H5c-1.1 0-2 .9-2 2v14c0 
 {-| Add Circle -}
 addCircle : Icon
 addCircle =
-    I.map F.addCircle
+    I.map C.addCircle
 
 
 {-| Add Circle Outline -}
 addCircleOutline : Icon
 addCircleOutline =
-    I.map F.addCircleOutline
+    I.map C.addCircleOutline
 
 
 {-| Add Comment -}
@@ -622,7 +622,7 @@ addReaction = i "add_reaction" [ S.path [ SA.d "M7 9.5C7 8.67 7.67 8 8.5 8s1.5.6
 {-| Add Road -}
 addRoad : Icon
 addRoad =
-    I.map F.addRoad
+    I.map C.addRoad
 
 
 {-| Add Shopping Cart -}
@@ -633,7 +633,7 @@ addShoppingCart = i "add_shopping_cart" [ S.path [ SA.d "M11 9h2V6h3V4h-3V1h-2v3
 {-| Add Task -}
 addTask : Icon
 addTask =
-    I.map F.addTask
+    I.map C.addTask
 
 
 {-| Add To Drive -}
@@ -659,7 +659,7 @@ addToQueue = i "add_to_queue" [ S.path [ SA.d "M11 15h2v-3h3v-2h-3V7h-2v3H8v2h3z
 {-| Addchart -}
 addchart : Icon
 addchart =
-    I.map F.addchart
+    I.map C.addchart
 
 
 {-| Adf Scanner -}
@@ -670,7 +670,7 @@ adfScanner = i "adf_scanner" [ S.path [ SA.d "M19 12h-1V4H6v8H5c-1.66 0-3 1.34-3
 {-| Adjust -}
 adjust : Icon
 adjust =
-    I.map F.adjust
+    I.map C.adjust
 
 
 {-| Admin Panel Settings -}
@@ -681,13 +681,13 @@ adminPanelSettings = i "admin_panel_settings" [ S.circle [ SA.cx "17", SA.cy "15
 {-| Adobe -}
 adobe : Icon
 adobe =
-    I.map F.adobe
+    I.map C.adobe
 
 
 {-| Ads Click -}
 adsClick : Icon
 adsClick =
-    I.map F.adsClick
+    I.map C.adsClick
 
 
 {-| Agriculture -}
@@ -698,7 +698,7 @@ agriculture = i "agriculture" [ S.path [ SA.d "M4 9h5c0-1.1-.9-2-2-2H4c-.55 0-1 
 {-| Air -}
 air : Icon
 air =
-    I.map F.air
+    I.map C.air
 
 
 {-| Airline Seat Flat -}
@@ -724,19 +724,19 @@ airlineSeatLegroomExtra = i "airline_seat_legroom_extra" [ S.path [ SA.d "M4 12V
 {-| Airline Seat Legroom Normal -}
 airlineSeatLegroomNormal : Icon
 airlineSeatLegroomNormal =
-    I.map F.airlineSeatLegroomNormal
+    I.map C.airlineSeatLegroomNormal
 
 
 {-| Airline Seat Legroom Reduced -}
 airlineSeatLegroomReduced : Icon
 airlineSeatLegroomReduced =
-    I.map F.airlineSeatLegroomReduced
+    I.map C.airlineSeatLegroomReduced
 
 
 {-| Airline Seat Recline Extra -}
 airlineSeatReclineExtra : Icon
 airlineSeatReclineExtra =
-    I.map F.airlineSeatReclineExtra
+    I.map C.airlineSeatReclineExtra
 
 
 {-| Airline Seat Recline Normal -}
@@ -762,19 +762,19 @@ airplaneTicket = i "airplane_ticket" [ S.path [ SA.d "M20.19 4H4c-1.1 0-1.99.9-1
 {-| Airplanemode Active -}
 airplanemodeActive : Icon
 airplanemodeActive =
-    I.map F.airplanemodeActive
+    I.map C.airplanemodeActive
 
 
 {-| Airplanemode Inactive -}
 airplanemodeInactive : Icon
 airplanemodeInactive =
-    I.map F.airplanemodeInactive
+    I.map C.airplanemodeInactive
 
 
 {-| Airplay -}
 airplay : Icon
 airplay =
-    I.map F.airplay
+    I.map C.airplay
 
 
 {-| Airport Shuttle -}
@@ -810,37 +810,37 @@ album = i "album" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.4
 {-| Align Horizontal Center -}
 alignHorizontalCenter : Icon
 alignHorizontalCenter =
-    I.map F.alignHorizontalCenter
+    I.map C.alignHorizontalCenter
 
 
 {-| Align Horizontal Left -}
 alignHorizontalLeft : Icon
 alignHorizontalLeft =
-    I.map F.alignHorizontalLeft
+    I.map C.alignHorizontalLeft
 
 
 {-| Align Horizontal Right -}
 alignHorizontalRight : Icon
 alignHorizontalRight =
-    I.map F.alignHorizontalRight
+    I.map C.alignHorizontalRight
 
 
 {-| Align Vertical Bottom -}
 alignVerticalBottom : Icon
 alignVerticalBottom =
-    I.map F.alignVerticalBottom
+    I.map C.alignVerticalBottom
 
 
 {-| Align Vertical Center -}
 alignVerticalCenter : Icon
 alignVerticalCenter =
-    I.map F.alignVerticalCenter
+    I.map C.alignVerticalCenter
 
 
 {-| Align Vertical Top -}
 alignVerticalTop : Icon
 alignVerticalTop =
-    I.map F.alignVerticalTop
+    I.map C.alignVerticalTop
 
 
 {-| All Inbox -}
@@ -861,7 +861,7 @@ allOut = i "all_out" [ S.path [ SA.d "M4 4v4l4-4zm12 0l4 4V4zm4 16v-4l-4 4zM4 20
 {-| Alt Route -}
 altRoute : Icon
 altRoute =
-    I.map F.altRoute
+    I.map C.altRoute
 
 
 {-| Alternate Email -}
@@ -882,19 +882,19 @@ analytics = i "analytics" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 
 {-| Anchor -}
 anchor : Icon
 anchor =
-    I.map F.anchor
+    I.map C.anchor
 
 
 {-| Android -}
 android : Icon
 android =
-    I.map F.android
+    I.map C.android
 
 
 {-| Animation -}
 animation : Icon
 animation =
-    I.map F.animation
+    I.map C.animation
 
 
 {-| Announcement -}
@@ -910,13 +910,13 @@ aod = i "aod" [ S.path [ SA.d "M17 1.01L7 1c-1.1 0-2 .9-2 2v18c0 1.1.9 2 2 2h10c
 {-| Apartment -}
 apartment : Icon
 apartment =
-    I.map F.apartment
+    I.map C.apartment
 
 
 {-| Api -}
 api : Icon
 api =
-    I.map F.api
+    I.map C.api
 
 
 {-| App Blocking -}
@@ -942,31 +942,31 @@ appShortcut = i "app_shortcut" [ S.path [ SA.d "M17 18H7V6h10v1h2V3c0-1.1-.9-2-2
 {-| Apple -}
 apple : Icon
 apple =
-    I.map F.apple
+    I.map C.apple
 
 
 {-| Approval -}
 approval : Icon
 approval =
-    I.map F.approval
+    I.map C.approval
 
 
 {-| Apps -}
 apps : Icon
 apps =
-    I.map F.apps
+    I.map C.apps
 
 
 {-| Apps Outage -}
 appsOutage : Icon
 appsOutage =
-    I.map F.appsOutage
+    I.map C.appsOutage
 
 
 {-| Architecture -}
 architecture : Icon
 architecture =
-    I.map F.architecture
+    I.map C.architecture
 
 
 {-| Archive -}
@@ -982,7 +982,7 @@ areaChart = i "area_chart" [ S.path [ SA.d "M17 7l-5-4l-5 7l-4-3v13h18V7h-4zm2 9
 {-| Arrow Back -}
 arrowBack : Icon
 arrowBack =
-    I.map F.arrowBack
+    I.map C.arrowBack
 
 
 {-| Arrow Back Ios -}
@@ -993,13 +993,13 @@ arrowBackIos = i "arrow_back_ios" [ S.path [ SA.d "M17.51 3.87L15.73 2.1L5.84 12
 {-| Arrow Back Ios New -}
 arrowBackIosNew : Icon
 arrowBackIosNew =
-    I.map F.arrowBackIosNew
+    I.map C.arrowBackIosNew
 
 
 {-| Arrow Circle Down -}
 arrowCircleDown : Icon
 arrowCircleDown =
-    I.map F.arrowCircleDown
+    I.map C.arrowCircleDown
 
 
 {-| Arrow Circle Left -}
@@ -1015,13 +1015,13 @@ arrowCircleRight = i "arrow_circle_right" [ S.path [ SA.d "M22 12c0-5.52-4.48-10
 {-| Arrow Circle Up -}
 arrowCircleUp : Icon
 arrowCircleUp =
-    I.map F.arrowCircleUp
+    I.map C.arrowCircleUp
 
 
 {-| Arrow Downward -}
 arrowDownward : Icon
 arrowDownward =
-    I.map F.arrowDownward
+    I.map C.arrowDownward
 
 
 {-| Arrow Drop Down -}
@@ -1049,25 +1049,25 @@ arrowForward = i "arrow_forward" [ S.path [ SA.d "M12 4l-1.41 1.41L16.17 11H4v2h
 {-| Arrow Forward Ios -}
 arrowForwardIos : Icon
 arrowForwardIos =
-    I.map F.arrowForwardIos
+    I.map C.arrowForwardIos
 
 
 {-| Arrow Left -}
 arrowLeft : Icon
 arrowLeft =
-    I.map F.arrowLeft
+    I.map C.arrowLeft
 
 
 {-| Arrow Outward -}
 arrowOutward : Icon
 arrowOutward =
-    I.map F.arrowOutward
+    I.map C.arrowOutward
 
 
 {-| Arrow Right -}
 arrowRight : Icon
 arrowRight =
-    I.map F.arrowRight
+    I.map C.arrowRight
 
 
 {-| Arrow Right Alt -}
@@ -1078,13 +1078,13 @@ arrowRightAlt = i "arrow_right_alt" [ S.path [ SA.d "M16.01 11H4v2h12.01v3L20 12
 {-| Arrow Upward -}
 arrowUpward : Icon
 arrowUpward =
-    I.map F.arrowUpward
+    I.map C.arrowUpward
 
 
 {-| Art Track -}
 artTrack : Icon
 artTrack =
-    I.map F.artTrack
+    I.map C.artTrack
 
 
 {-| Article -}
@@ -1095,7 +1095,7 @@ article = i "article" [ S.path [ SA.d "M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c
 {-| Aspect Ratio -}
 aspectRatio : Icon
 aspectRatio =
-    I.map F.aspectRatio
+    I.map C.aspectRatio
 
 
 {-| Assessment -}
@@ -1136,7 +1136,7 @@ assignmentTurnedIn = i "assignment_turned_in" [ S.path [ SA.d "M18 9l-1.41-1.42L
 {-| Assist Walker -}
 assistWalker : Icon
 assistWalker =
-    I.map F.assistWalker
+    I.map C.assistWalker
 
 
 {-| Assistant -}
@@ -1172,13 +1172,13 @@ attachEmail = i "attach_email" [ S.path [ SA.d "M3 6l8 5l8-5v3h2V4c0-1.1-.9-2-2-
 {-| Attach File -}
 attachFile : Icon
 attachFile =
-    I.map F.attachFile
+    I.map C.attachFile
 
 
 {-| Attach Money -}
 attachMoney : Icon
 attachMoney =
-    I.map F.attachMoney
+    I.map C.attachMoney
 
 
 {-| Attachment -}
@@ -1244,13 +1244,13 @@ autoFixOff = i "auto_fix_off" [ S.path [ SA.d "M20 7l.94-2.06L23 4l-2.06-.94L20 
 {-| Auto Graph -}
 autoGraph : Icon
 autoGraph =
-    I.map F.autoGraph
+    I.map C.autoGraph
 
 
 {-| Auto Mode -}
 autoMode : Icon
 autoMode =
-    I.map F.autoMode
+    I.map C.autoMode
 
 
 {-| Auto Stories -}
@@ -1261,25 +1261,25 @@ autoStories = i "auto_stories" [ S.path [ SA.d "M22.47 5.2c-.47-.24-.96-.44-1.47
 {-| Autofps Select -}
 autofpsSelect : Icon
 autofpsSelect =
-    I.map F.autofpsSelect
+    I.map C.autofpsSelect
 
 
 {-| Autorenew -}
 autorenew : Icon
 autorenew =
-    I.map F.autorenew
+    I.map C.autorenew
 
 
 {-| Av Timer -}
 avTimer : Icon
 avTimer =
-    I.map F.avTimer
+    I.map C.avTimer
 
 
 {-| Baby Changing Station -}
 babyChangingStation : Icon
 babyChangingStation =
-    I.map F.babyChangingStation
+    I.map C.babyChangingStation
 
 
 {-| Back Hand -}
@@ -1305,7 +1305,7 @@ backup = i "backup" [ S.path [ SA.d "M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.
 {-| Backup Table -}
 backupTable : Icon
 backupTable =
-    I.map F.backupTable
+    I.map C.backupTable
 
 
 {-| Badge -}
@@ -1321,13 +1321,13 @@ bakeryDining = i "bakery_dining" [ S.path [ SA.d "M20.5 10.94c.13-.32.1-.23.15-.
 {-| Balance -}
 balance : Icon
 balance =
-    I.map F.balance
+    I.map C.balance
 
 
 {-| Balcony -}
 balcony : Icon
 balcony =
-    I.map F.balcony
+    I.map C.balcony
 
 
 {-| Ballot -}
@@ -1338,19 +1338,19 @@ ballot = i "ballot" [ S.path [ SA.d "M13 7.5h5v2h-5zm0 7h5v2h-5zM19 3H5c-1.1 0-2
 {-| Bar Chart -}
 barChart : Icon
 barChart =
-    I.map F.barChart
+    I.map C.barChart
 
 
 {-| Barcode -}
 barcode : Icon
 barcode =
-    I.map F.barcode
+    I.map C.barcode
 
 
 {-| Batch Prediction -}
 batchPrediction : Icon
 batchPrediction =
-    I.map F.batchPrediction
+    I.map C.batchPrediction
 
 
 {-| Bathroom -}
@@ -1366,145 +1366,145 @@ bathtub = i "bathtub" [ S.circle [ SA.cx "7", SA.cy "7", SA.r "2" ] [] , S.path 
 {-| Battery 0 Bar -}
 battery0Bar : Icon
 battery0Bar =
-    I.map F.battery0Bar
+    I.map C.battery0Bar
 
 
 {-| Battery 1 Bar -}
 battery1Bar : Icon
 battery1Bar =
-    I.map F.battery1Bar
+    I.map C.battery1Bar
 
 
 {-| Battery 2 Bar -}
 battery2Bar : Icon
 battery2Bar =
-    I.map F.battery2Bar
+    I.map C.battery2Bar
 
 
 {-| Battery 20 -}
 battery20 : Icon
 battery20 =
-    I.map F.battery20
+    I.map C.battery20
 
 
 {-| Battery 3 Bar -}
 battery3Bar : Icon
 battery3Bar =
-    I.map F.battery3Bar
+    I.map C.battery3Bar
 
 
 {-| Battery 30 -}
 battery30 : Icon
 battery30 =
-    I.map F.battery30
+    I.map C.battery30
 
 
 {-| Battery 4 Bar -}
 battery4Bar : Icon
 battery4Bar =
-    I.map F.battery4Bar
+    I.map C.battery4Bar
 
 
 {-| Battery 5 Bar -}
 battery5Bar : Icon
 battery5Bar =
-    I.map F.battery5Bar
+    I.map C.battery5Bar
 
 
 {-| Battery 50 -}
 battery50 : Icon
 battery50 =
-    I.map F.battery50
+    I.map C.battery50
 
 
 {-| Battery 6 Bar -}
 battery6Bar : Icon
 battery6Bar =
-    I.map F.battery6Bar
+    I.map C.battery6Bar
 
 
 {-| Battery 60 -}
 battery60 : Icon
 battery60 =
-    I.map F.battery60
+    I.map C.battery60
 
 
 {-| Battery 80 -}
 battery80 : Icon
 battery80 =
-    I.map F.battery80
+    I.map C.battery80
 
 
 {-| Battery 90 -}
 battery90 : Icon
 battery90 =
-    I.map F.battery90
+    I.map C.battery90
 
 
 {-| Battery Alert -}
 batteryAlert : Icon
 batteryAlert =
-    I.map F.batteryAlert
+    I.map C.batteryAlert
 
 
 {-| Battery Charging 20 -}
 batteryCharging20 : Icon
 batteryCharging20 =
-    I.map F.batteryCharging20
+    I.map C.batteryCharging20
 
 
 {-| Battery Charging 30 -}
 batteryCharging30 : Icon
 batteryCharging30 =
-    I.map F.batteryCharging30
+    I.map C.batteryCharging30
 
 
 {-| Battery Charging 50 -}
 batteryCharging50 : Icon
 batteryCharging50 =
-    I.map F.batteryCharging50
+    I.map C.batteryCharging50
 
 
 {-| Battery Charging 60 -}
 batteryCharging60 : Icon
 batteryCharging60 =
-    I.map F.batteryCharging60
+    I.map C.batteryCharging60
 
 
 {-| Battery Charging 80 -}
 batteryCharging80 : Icon
 batteryCharging80 =
-    I.map F.batteryCharging80
+    I.map C.batteryCharging80
 
 
 {-| Battery Charging 90 -}
 batteryCharging90 : Icon
 batteryCharging90 =
-    I.map F.batteryCharging90
+    I.map C.batteryCharging90
 
 
 {-| Battery Charging Full -}
 batteryChargingFull : Icon
 batteryChargingFull =
-    I.map F.batteryChargingFull
+    I.map C.batteryChargingFull
 
 
 {-| Battery Full -}
 batteryFull : Icon
 batteryFull =
-    I.map F.batteryFull
+    I.map C.batteryFull
 
 
 {-| Battery Saver -}
 batterySaver : Icon
 batterySaver =
-    I.map F.batterySaver
+    I.map C.batterySaver
 
 
 {-| Battery Std -}
 batteryStd : Icon
 batteryStd =
-    I.map F.batteryStd
+    I.map C.batteryStd
 
 
 {-| Battery Unknown -}
@@ -1560,7 +1560,7 @@ bento = i "bento" [ S.path [ SA.d "M20 5H4c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h16c1
 {-| Bike Scooter -}
 bikeScooter : Icon
 bikeScooter =
-    I.map F.bikeScooter
+    I.map C.bikeScooter
 
 
 {-| Biotech -}
@@ -1576,25 +1576,25 @@ blender = i "blender" [ S.path [ SA.d "M16.13 15.13L18 3h-4V2h-4v1H5c-1.1 0-2 .9
 {-| Blind -}
 blind : Icon
 blind =
-    I.map F.blind
+    I.map C.blind
 
 
 {-| Blinds -}
 blinds : Icon
 blinds =
-    I.map F.blinds
+    I.map C.blinds
 
 
 {-| Blinds Closed -}
 blindsClosed : Icon
 blindsClosed =
-    I.map F.blindsClosed
+    I.map C.blindsClosed
 
 
 {-| Block -}
 block : Icon
 block =
-    I.map F.block
+    I.map C.block
 
 
 {-| Bloodtype -}
@@ -1605,7 +1605,7 @@ bloodtype = i "bloodtype" [ S.path [ SA.d "M9 16h6v2H9zm4-7h-2v2H9v2h2v2h2v-2h2v
 {-| Bluetooth -}
 bluetooth : Icon
 bluetooth =
-    I.map F.bluetooth
+    I.map C.bluetooth
 
 
 {-| Bluetooth Audio -}
@@ -1616,13 +1616,13 @@ bluetoothAudio = i "bluetooth_audio" [ S.path [ SA.d "M14.24 12.01l2.32 2.32c.28
 {-| Bluetooth Connected -}
 bluetoothConnected : Icon
 bluetoothConnected =
-    I.map F.bluetoothConnected
+    I.map C.bluetoothConnected
 
 
 {-| Bluetooth Disabled -}
 bluetoothDisabled : Icon
 bluetoothDisabled =
-    I.map F.bluetoothDisabled
+    I.map C.bluetoothDisabled
 
 
 {-| Bluetooth Drive -}
@@ -1638,13 +1638,13 @@ bluetoothSearching = i "bluetooth_searching" [ S.path [ SA.d "M14.24 12.01l2.32 
 {-| Blur Circular -}
 blurCircular : Icon
 blurCircular =
-    I.map F.blurCircular
+    I.map C.blurCircular
 
 
 {-| Blur Linear -}
 blurLinear : Icon
 blurLinear =
-    I.map F.blurLinear
+    I.map C.blurLinear
 
 
 {-| Blur Off -}
@@ -1655,7 +1655,7 @@ blurOff = i "blur_off" [ S.circle [ SA.cx "14", SA.cy "6", SA.r "1" ] [] , S.pat
 {-| Blur On -}
 blurOn : Icon
 blurOn =
-    I.map F.blurOn
+    I.map C.blurOn
 
 
 {-| Bolt -}
@@ -1706,19 +1706,19 @@ bookmarks = i "bookmarks" [ S.path [ SA.d "M15 7v12.97l-4.21-1.81l-.79-.34l-.79.
 {-| Border All -}
 borderAll : Icon
 borderAll =
-    I.map F.borderAll
+    I.map C.borderAll
 
 
 {-| Border Bottom -}
 borderBottom : Icon
 borderBottom =
-    I.map F.borderBottom
+    I.map C.borderBottom
 
 
 {-| Border Clear -}
 borderClear : Icon
 borderClear =
-    I.map F.borderClear
+    I.map C.borderClear
 
 
 {-| Border Color -}
@@ -1729,55 +1729,55 @@ borderColor = i "border_color" [ S.path [ SA.d "M16.81 8.94l-3.75-3.75L4 14.25V1
 {-| Border Horizontal -}
 borderHorizontal : Icon
 borderHorizontal =
-    I.map F.borderHorizontal
+    I.map C.borderHorizontal
 
 
 {-| Border Inner -}
 borderInner : Icon
 borderInner =
-    I.map F.borderInner
+    I.map C.borderInner
 
 
 {-| Border Left -}
 borderLeft : Icon
 borderLeft =
-    I.map F.borderLeft
+    I.map C.borderLeft
 
 
 {-| Border Outer -}
 borderOuter : Icon
 borderOuter =
-    I.map F.borderOuter
+    I.map C.borderOuter
 
 
 {-| Border Right -}
 borderRight : Icon
 borderRight =
-    I.map F.borderRight
+    I.map C.borderRight
 
 
 {-| Border Style -}
 borderStyle : Icon
 borderStyle =
-    I.map F.borderStyle
+    I.map C.borderStyle
 
 
 {-| Border Top -}
 borderTop : Icon
 borderTop =
-    I.map F.borderTop
+    I.map C.borderTop
 
 
 {-| Border Vertical -}
 borderVertical : Icon
 borderVertical =
-    I.map F.borderVertical
+    I.map C.borderVertical
 
 
 {-| Boy -}
 boy : Icon
 boy =
-    I.map F.boy
+    I.map C.boy
 
 
 {-| Branding Watermark -}
@@ -1848,7 +1848,7 @@ brightnessMedium = i "brightness_medium" [ S.path [ SA.d "M20 8.69V4h-4.69L12 .6
 {-| Broadcast On Home -}
 broadcastOnHome : Icon
 broadcastOnHome =
-    I.map F.broadcastOnHome
+    I.map C.broadcastOnHome
 
 
 {-| Broadcast On Personal -}
@@ -1869,7 +1869,7 @@ browseGallery = i "browse_gallery" [ S.path [ SA.d "M9 3a9 9 0 1 0 .001 18.001A9
 {-| Browser Not Supported -}
 browserNotSupported : Icon
 browserNotSupported =
-    I.map F.browserNotSupported
+    I.map C.browserNotSupported
 
 
 {-| Browser Updated -}
@@ -1925,7 +1925,7 @@ busAlert = i "bus_alert" [ S.circle [ SA.cx "6.5", SA.cy "15.5", SA.r "1.5" ] []
 {-| Business -}
 business : Icon
 business =
-    I.map F.business
+    I.map C.business
 
 
 {-| Business Center -}
@@ -1936,19 +1936,19 @@ businessCenter = i "business_center" [ S.path [ SA.d "M20 7h-4V5l-2-2h-4L8 5v2H4
 {-| Cabin -}
 cabin : Icon
 cabin =
-    I.map F.cabin
+    I.map C.cabin
 
 
 {-| Cable -}
 cable : Icon
 cable =
-    I.map F.cable
+    I.map C.cable
 
 
 {-| Cached -}
 cached : Icon
 cached =
-    I.map F.cached
+    I.map C.cached
 
 
 {-| Cake -}
@@ -1979,13 +1979,13 @@ calendarViewDay = i "calendar_view_day" [ S.path [ SA.d "M3 17h18v2H3zm16-5v1H5v
 {-| Calendar View Month -}
 calendarViewMonth : Icon
 calendarViewMonth =
-    I.map F.calendarViewMonth
+    I.map C.calendarViewMonth
 
 
 {-| Calendar View Week -}
 calendarViewWeek : Icon
 calendarViewWeek =
-    I.map F.calendarViewWeek
+    I.map C.calendarViewWeek
 
 
 {-| Call -}
@@ -2006,7 +2006,7 @@ callMade = i "call_made" [ S.path [ SA.d "M9 5v2h6.59L4 18.59L5.41 20L17 8.41V15
 {-| Call Merge -}
 callMerge : Icon
 callMerge =
-    I.map F.callMerge
+    I.map C.callMerge
 
 
 {-| Call Missed -}
@@ -2017,7 +2017,7 @@ callMissed = i "call_missed" [ S.path [ SA.d "M19.59 7L12 14.59L6.41 9H11V7H3v8h
 {-| Call Missed Outgoing -}
 callMissedOutgoing : Icon
 callMissedOutgoing =
-    I.map F.callMissedOutgoing
+    I.map C.callMissedOutgoing
 
 
 {-| Call Received -}
@@ -2063,7 +2063,7 @@ cameraIndoor = i "camera_indoor" [ S.path [ SA.d "M14 13v-1c0-.55-.45-1-1-1H9c-.
 {-| Camera Outdoor -}
 cameraOutdoor : Icon
 cameraOutdoor =
-    I.map F.cameraOutdoor
+    I.map C.cameraOutdoor
 
 
 {-| Camera Rear -}
@@ -2129,13 +2129,13 @@ cardGiftcard = i "card_giftcard" [ S.path [ SA.d "M20 6h-2.18c.11-.31.18-.65.18-
 {-| Card Membership -}
 cardMembership : Icon
 cardMembership =
-    I.map F.cardMembership
+    I.map C.cardMembership
 
 
 {-| Card Travel -}
 cardTravel : Icon
 cardTravel =
-    I.map F.cardTravel
+    I.map C.cardTravel
 
 
 {-| Carpenter -}
@@ -2156,7 +2156,7 @@ casino = i "casino" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14
 {-| Cast -}
 cast : Icon
 cast =
-    I.map F.cast
+    I.map C.cast
 
 
 {-| Cast Connected -}
@@ -2167,7 +2167,7 @@ castConnected = i "cast_connected" [ S.path [ SA.d "M1 18v3h3c0-1.66-1.34-3-3-3z
 {-| Cast For Education -}
 castForEducation : Icon
 castForEducation =
-    I.map F.castForEducation
+    I.map C.castForEducation
 
 
 {-| Castle -}
@@ -2178,7 +2178,7 @@ castle = i "castle" [ S.path [ SA.d "M21 9v2h-2V3h-2v2h-2V3h-2v2h-2V3H9v2H7V3H5v
 {-| Catching Pokemon -}
 catchingPokemon : Icon
 catchingPokemon =
-    I.map F.catchingPokemon
+    I.map C.catchingPokemon
 
 
 {-| Category -}
@@ -2194,7 +2194,7 @@ celebration = i "celebration" [ S.path [ SA.d "M2 22l14-5l-9-9l-5 14zm10.35-5.82
 {-| Cell Tower -}
 cellTower : Icon
 cellTower =
-    I.map F.cellTower
+    I.map C.cellTower
 
 
 {-| Cell Wifi -}
@@ -2220,7 +2220,7 @@ chair = i "chair" [ S.path [ SA.d "M20 8V6c0-1.65-1.35-3-3-3H7C5.35 3 4 4.35 4 6
 {-| Chair Alt -}
 chairAlt : Icon
 chairAlt =
-    I.map F.chairAlt
+    I.map C.chairAlt
 
 
 {-| Chalet -}
@@ -2236,7 +2236,7 @@ changeCircle = i "change_circle" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 
 {-| Change History -}
 changeHistory : Icon
 changeHistory =
-    I.map F.changeHistory
+    I.map C.changeHistory
 
 
 {-| Charging Station -}
@@ -2252,13 +2252,13 @@ chat = i "chat" [ S.path [ SA.d "M4 4h16v12H5.17L4 17.17V4m0-2c-1.1 0-1.99.9-1.9
 {-| Chat Bubble -}
 chatBubble : Icon
 chatBubble =
-    I.map F.chatBubble
+    I.map C.chatBubble
 
 
 {-| Chat Bubble Outline -}
 chatBubbleOutline : Icon
 chatBubbleOutline =
-    I.map F.chatBubbleOutline
+    I.map C.chatBubbleOutline
 
 
 {-| Check -}
@@ -2274,7 +2274,7 @@ checkBox = i "check_box" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2
 {-| Check Box Outline Blank -}
 checkBoxOutlineBlank : Icon
 checkBoxOutlineBlank =
-    I.map F.checkBoxOutlineBlank
+    I.map C.checkBoxOutlineBlank
 
 
 {-| Check Circle -}
@@ -2290,19 +2290,19 @@ checkCircleOutline = i "check_circle_outline" [ S.path [ SA.d "M12 2C6.48 2 2 6.
 {-| Checklist -}
 checklist : Icon
 checklist =
-    I.map F.checklist
+    I.map C.checklist
 
 
 {-| Checklist Rtl -}
 checklistRtl : Icon
 checklistRtl =
-    I.map F.checklistRtl
+    I.map C.checklistRtl
 
 
 {-| Checkroom -}
 checkroom : Icon
 checkroom =
-    I.map F.checkroom
+    I.map C.checkroom
 
 
 {-| Chevron Left -}
@@ -2368,7 +2368,7 @@ clear = i "clear" [ S.path [ SA.d "M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59
 {-| Clear All -}
 clearAll : Icon
 clearAll =
-    I.map F.clearAll
+    I.map C.clearAll
 
 
 {-| Close -}
@@ -2379,7 +2379,7 @@ close = i "close" [ S.path [ SA.d "M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59
 {-| Close Fullscreen -}
 closeFullscreen : Icon
 closeFullscreen =
-    I.map F.closeFullscreen
+    I.map C.closeFullscreen
 
 
 {-| Closed Caption -}
@@ -2425,7 +2425,7 @@ cloudOff = i "cloud_off" [ S.path [ SA.d "M24 15c0-2.64-2.05-4.78-4.65-4.96A7.49
 {-| Cloud Queue -}
 cloudQueue : Icon
 cloudQueue =
-    I.map F.cloudQueue
+    I.map C.cloudQueue
 
 
 {-| Cloud Sync -}
@@ -2446,19 +2446,19 @@ coPresent = i "co_present" [ S.path [ SA.d "M21 3H3c-1.1 0-2 .9-2 2v8h2V5h18v16c
 {-| Co2 -}
 co2 : Icon
 co2 =
-    I.map F.co2
+    I.map C.co2
 
 
 {-| Code -}
 code : Icon
 code =
-    I.map F.code
+    I.map C.code
 
 
 {-| Code Off -}
 codeOff : Icon
 codeOff =
-    I.map F.codeOff
+    I.map C.codeOff
 
 
 {-| Coffee -}
@@ -2509,7 +2509,7 @@ commentsDisabled = i "comments_disabled" [ S.path [ SA.d "M18.83 16H20V4H6.83l-2
 {-| Commit -}
 commit : Icon
 commit =
-    I.map F.commit
+    I.map C.commit
 
 
 {-| Commute -}
@@ -2520,13 +2520,13 @@ commute = i "commute" [ S.path [ SA.d "M12 4H5C3.34 4 2 5.34 2 7v8c0 1.66 1.34 3
 {-| Compare -}
 compare : Icon
 compare =
-    I.map F.compare
+    I.map C.compare
 
 
 {-| Compare Arrows -}
 compareArrows : Icon
 compareArrows =
-    I.map F.compareArrows
+    I.map C.compareArrows
 
 
 {-| Compass Calibration -}
@@ -2537,7 +2537,7 @@ compassCalibration = i "compass_calibration" [ S.path [ SA.d "M12 12c-2.76 0-5 2
 {-| Compost -}
 compost : Icon
 compost =
-    I.map F.compost
+    I.map C.compost
 
 
 {-| Compress -}
@@ -2548,7 +2548,7 @@ compress = i "compress" [ S.path [ SA.d "M4 9v2h16V9H4zm12-5l-1.41-1.41L13 4.17V
 {-| Computer -}
 computer : Icon
 computer =
-    I.map F.computer
+    I.map C.computer
 
 
 {-| Confirmation Number -}
@@ -2559,7 +2559,7 @@ confirmationNumber = i "confirmation_number" [ S.path [ SA.d "M22 10V6a2 2 0 0 0
 {-| Connect Without Contact -}
 connectWithoutContact : Icon
 connectWithoutContact =
-    I.map F.connectWithoutContact
+    I.map C.connectWithoutContact
 
 
 {-| Connected Tv -}
@@ -2570,13 +2570,13 @@ connectedTv = i "connected_tv" [ S.path [ SA.d "M20 3H4c-1.1 0-2 .9-2 2v12c0 1.1
 {-| Connecting Airports -}
 connectingAirports : Icon
 connectingAirports =
-    I.map F.connectingAirports
+    I.map C.connectingAirports
 
 
 {-| Construction -}
 construction : Icon
 construction =
-    I.map F.construction
+    I.map C.construction
 
 
 {-| Contact Emergency -}
@@ -2617,7 +2617,7 @@ contacts = i "contacts" [ S.path [ SA.d "M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 
 {-| Content Copy -}
 contentCopy : Icon
 contentCopy =
-    I.map F.contentCopy
+    I.map C.contentCopy
 
 
 {-| Content Cut -}
@@ -2633,25 +2633,25 @@ contentPaste = i "content_paste" [ S.path [ SA.d "M19 2h-4.18C14.4.84 13.3 0 12 
 {-| Content Paste Go -}
 contentPasteGo : Icon
 contentPasteGo =
-    I.map F.contentPasteGo
+    I.map C.contentPasteGo
 
 
 {-| Content Paste Off -}
 contentPasteOff : Icon
 contentPasteOff =
-    I.map F.contentPasteOff
+    I.map C.contentPasteOff
 
 
 {-| Content Paste Search -}
 contentPasteSearch : Icon
 contentPasteSearch =
-    I.map F.contentPasteSearch
+    I.map C.contentPasteSearch
 
 
 {-| Contrast -}
 contrast : Icon
 contrast =
-    I.map F.contrast
+    I.map C.contrast
 
 
 {-| Control Camera -}
@@ -2662,7 +2662,7 @@ controlCamera = i "control_camera" [ S.path [ SA.d "M5.54 8.46L2 12l3.54 3.54l1.
 {-| Control Point -}
 controlPoint : Icon
 controlPoint =
-    I.map F.controlPoint
+    I.map C.controlPoint
 
 
 {-| Control Point Duplicate -}
@@ -2678,7 +2678,7 @@ cookie = i "cookie" [ S.circle [ SA.cx "10.5", SA.cy "8.5", SA.r "1.5" ] [] , S.
 {-| Copy All -}
 copyAll : Icon
 copyAll =
-    I.map F.copyAll
+    I.map C.copyAll
 
 
 {-| Copyright -}
@@ -2694,7 +2694,7 @@ coronavirus = i "coronavirus" [ S.path [ SA.d "M9.5 12c0 .55-.45 1-1 1s-1-.45-1-
 {-| Corporate Fare -}
 corporateFare : Icon
 corporateFare =
-    I.map F.corporateFare
+    I.map C.corporateFare
 
 
 {-| Cottage -}
@@ -2720,7 +2720,7 @@ createNewFolder = i "create_new_folder" [ S.path [ SA.d "M20 6h-8l-2-2H4c-1.11 0
 {-| Credit Card -}
 creditCard : Icon
 creditCard =
-    I.map F.creditCard
+    I.map C.creditCard
 
 
 {-| Credit Card Off -}
@@ -2731,7 +2731,7 @@ creditCardOff = i "credit_card_off" [ S.path [ SA.d "M6.83 4H20c1.11 0 2 .89 2 2
 {-| Credit Score -}
 creditScore : Icon
 creditScore =
-    I.map F.creditScore
+    I.map C.creditScore
 
 
 {-| Crib -}
@@ -2742,79 +2742,79 @@ crib = i "crib" [ S.path [ SA.d "M18 9h-6V4H8C5.79 4 4 5.79 4 8v6c0 1.1.9 2 2 2h
 {-| Crisis Alert -}
 crisisAlert : Icon
 crisisAlert =
-    I.map F.crisisAlert
+    I.map C.crisisAlert
 
 
 {-| Crop -}
 crop : Icon
 crop =
-    I.map F.crop
+    I.map C.crop
 
 
 {-| Crop 16 9 -}
 crop169 : Icon
 crop169 =
-    I.map F.crop169
+    I.map C.crop169
 
 
 {-| Crop 3 2 -}
 crop32 : Icon
 crop32 =
-    I.map F.crop32
+    I.map C.crop32
 
 
 {-| Crop 5 4 -}
 crop54 : Icon
 crop54 =
-    I.map F.crop54
+    I.map C.crop54
 
 
 {-| Crop 7 5 -}
 crop75 : Icon
 crop75 =
-    I.map F.crop75
+    I.map C.crop75
 
 
 {-| Crop Din -}
 cropDin : Icon
 cropDin =
-    I.map F.cropDin
+    I.map C.cropDin
 
 
 {-| Crop Free -}
 cropFree : Icon
 cropFree =
-    I.map F.cropFree
+    I.map C.cropFree
 
 
 {-| Crop Landscape -}
 cropLandscape : Icon
 cropLandscape =
-    I.map F.cropLandscape
+    I.map C.cropLandscape
 
 
 {-| Crop Original -}
 cropOriginal : Icon
 cropOriginal =
-    I.map F.cropOriginal
+    I.map C.cropOriginal
 
 
 {-| Crop Portrait -}
 cropPortrait : Icon
 cropPortrait =
-    I.map F.cropPortrait
+    I.map C.cropPortrait
 
 
 {-| Crop Rotate -}
 cropRotate : Icon
 cropRotate =
-    I.map F.cropRotate
+    I.map C.cropRotate
 
 
 {-| Crop Square -}
 cropSquare : Icon
 cropSquare =
-    I.map F.cropSquare
+    I.map C.cropSquare
 
 
 {-| Cruelty Free -}
@@ -2825,61 +2825,61 @@ crueltyFree = i "cruelty_free" [ S.path [ SA.d "M17 14c-.24-.24-.44-.49-.65-.75C
 {-| Css -}
 css : Icon
 css =
-    I.map F.css
+    I.map C.css
 
 
 {-| Currency Bitcoin -}
 currencyBitcoin : Icon
 currencyBitcoin =
-    I.map F.currencyBitcoin
+    I.map C.currencyBitcoin
 
 
 {-| Currency Exchange -}
 currencyExchange : Icon
 currencyExchange =
-    I.map F.currencyExchange
+    I.map C.currencyExchange
 
 
 {-| Currency Franc -}
 currencyFranc : Icon
 currencyFranc =
-    I.map F.currencyFranc
+    I.map C.currencyFranc
 
 
 {-| Currency Lira -}
 currencyLira : Icon
 currencyLira =
-    I.map F.currencyLira
+    I.map C.currencyLira
 
 
 {-| Currency Pound -}
 currencyPound : Icon
 currencyPound =
-    I.map F.currencyPound
+    I.map C.currencyPound
 
 
 {-| Currency Ruble -}
 currencyRuble : Icon
 currencyRuble =
-    I.map F.currencyRuble
+    I.map C.currencyRuble
 
 
 {-| Currency Rupee -}
 currencyRupee : Icon
 currencyRupee =
-    I.map F.currencyRupee
+    I.map C.currencyRupee
 
 
 {-| Currency Yen -}
 currencyYen : Icon
 currencyYen =
-    I.map F.currencyYen
+    I.map C.currencyYen
 
 
 {-| Currency Yuan -}
 currencyYuan : Icon
 currencyYuan =
-    I.map F.currencyYuan
+    I.map C.currencyYuan
 
 
 {-| Curtains -}
@@ -2895,7 +2895,7 @@ curtainsClosed = i "curtains_closed" [ S.path [ SA.d "M20 19V3H4v16H2v2h20v-2h-2
 {-| Cyclone -}
 cyclone : Icon
 cyclone =
-    I.map F.cyclone
+    I.map C.cyclone
 
 
 {-| Dangerous -}
@@ -2921,7 +2921,7 @@ dashboardCustomize = i "dashboard_customize" [ S.path [ SA.d "M3 11h8V3H3v8zm2-6
 {-| Data Array -}
 dataArray : Icon
 dataArray =
-    I.map F.dataArray
+    I.map C.dataArray
 
 
 {-| Data Exploration -}
@@ -2932,19 +2932,19 @@ dataExploration = i "data_exploration" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12
 {-| Data Object -}
 dataObject : Icon
 dataObject =
-    I.map F.dataObject
+    I.map C.dataObject
 
 
 {-| Data Saver Off -}
 dataSaverOff : Icon
 dataSaverOff =
-    I.map F.dataSaverOff
+    I.map C.dataSaverOff
 
 
 {-| Data Saver On -}
 dataSaverOn : Icon
 dataSaverOn =
-    I.map F.dataSaverOn
+    I.map C.dataSaverOn
 
 
 {-| Data Thresholding -}
@@ -2955,7 +2955,7 @@ dataThresholding = i "data_thresholding" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 
 {-| Data Usage -}
 dataUsage : Icon
 dataUsage =
-    I.map F.dataUsage
+    I.map C.dataUsage
 
 
 {-| Dataset -}
@@ -3016,19 +3016,19 @@ deliveryDining = i "delivery_dining" [ S.path [ SA.d "M19 7c0-1.1-.9-2-2-2h-3v2h
 {-| Density Large -}
 densityLarge : Icon
 densityLarge =
-    I.map F.densityLarge
+    I.map C.densityLarge
 
 
 {-| Density Medium -}
 densityMedium : Icon
 densityMedium =
-    I.map F.densityMedium
+    I.map C.densityMedium
 
 
 {-| Density Small -}
 densitySmall : Icon
 densitySmall =
-    I.map F.densitySmall
+    I.map C.densitySmall
 
 
 {-| Departure Board -}
@@ -3044,7 +3044,7 @@ description = i "description" [ S.path [ SA.d "M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1
 {-| Deselect -}
 deselect : Icon
 deselect =
-    I.map F.deselect
+    I.map C.deselect
 
 
 {-| Design Services -}
@@ -3055,7 +3055,7 @@ designServices = i "design_services" [ S.path [ SA.d "M20.97 7.27a.996.996 0 0 0
 {-| Desk -}
 desk : Icon
 desk =
-    I.map F.desk
+    I.map C.desk
 
 
 {-| Desktop Access Disabled -}
@@ -3076,7 +3076,7 @@ desktopWindows = i "desktop_windows" [ S.path [ SA.d "M21 2H3c-1.1 0-2 .9-2 2v12
 {-| Details -}
 details : Icon
 details =
-    I.map F.details
+    I.map C.details
 
 
 {-| Developer Board -}
@@ -3087,19 +3087,19 @@ developerBoard = i "developer_board" [ S.path [ SA.d "M22 9V7h-2V5c0-1.1-.9-2-2-
 {-| Developer Board Off -}
 developerBoardOff : Icon
 developerBoardOff =
-    I.map F.developerBoardOff
+    I.map C.developerBoardOff
 
 
 {-| Developer Mode -}
 developerMode : Icon
 developerMode =
-    I.map F.developerMode
+    I.map C.developerMode
 
 
 {-| Device Hub -}
 deviceHub : Icon
 deviceHub =
-    I.map F.deviceHub
+    I.map C.deviceHub
 
 
 {-| Device Thermostat -}
@@ -3115,7 +3115,7 @@ deviceUnknown = i "device_unknown" [ S.path [ SA.d "M17 1H7c-1.1 0-2 .9-2 2v18c0
 {-| Devices -}
 devices : Icon
 devices =
-    I.map F.devices
+    I.map C.devices
 
 
 {-| Devices Fold -}
@@ -3136,7 +3136,7 @@ dialerSip = i "dialer_sip" [ S.path [ SA.d "M16 3h1v5h-1zm-1 2h-2V4h2V3h-3v3h2v1
 {-| Dialpad -}
 dialpad : Icon
 dialpad =
-    I.map F.dialpad
+    I.map C.dialpad
 
 
 {-| Diamond -}
@@ -3167,7 +3167,7 @@ directions = i "directions" [ S.path [ SA.d "M22.43 10.59l-9.01-9.01c-.75-.75-2.
 {-| Directions Bike -}
 directionsBike : Icon
 directionsBike =
-    I.map F.directionsBike
+    I.map C.directionsBike
 
 
 {-| Directions Boat -}
@@ -3218,7 +3218,7 @@ directionsRailwayFilled = i "directions_railway_filled" [ S.path [ SA.d "M12 2c-
 {-| Directions Run -}
 directionsRun : Icon
 directionsRun =
-    I.map F.directionsRun
+    I.map C.directionsRun
 
 
 {-| Directions Subway -}
@@ -3269,7 +3269,7 @@ discFull = i "disc_full" [ S.path [ SA.d "M20 7h2v5h-2zM10 4c-4.42 0-8 3.58-8 8s
 {-| Discord -}
 discord : Icon
 discord =
-    I.map F.discord
+    I.map C.discord
 
 
 {-| Discount -}
@@ -3280,7 +3280,7 @@ discount = i "discount" [ S.path [ SA.d "M12.79 21L3 11.21v2c0 .53.21 1.04.59 1.
 {-| Display Settings -}
 displaySettings : Icon
 displaySettings =
-    I.map F.displaySettings
+    I.map C.displaySettings
 
 
 {-| Diversity 1 -}
@@ -3291,13 +3291,13 @@ diversity1 = i "diversity_1" [ S.circle [ SA.cx "4", SA.cy "14", SA.r "2" ] [] ,
 {-| Diversity 2 -}
 diversity2 : Icon
 diversity2 =
-    I.map F.diversity2
+    I.map C.diversity2
 
 
 {-| Diversity 3 -}
 diversity3 : Icon
 diversity3 =
-    I.map F.diversity3
+    I.map C.diversity3
 
 
 {-| Divide -}
@@ -3333,13 +3333,13 @@ doDisturbOn = i "do_disturb_on" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 1
 {-| Do Not Disturb -}
 doNotDisturb : Icon
 doNotDisturb =
-    I.map F.doNotDisturb
+    I.map C.doNotDisturb
 
 
 {-| Do Not Disturb Alt -}
 doNotDisturbAlt : Icon
 doNotDisturbAlt =
-    I.map F.doNotDisturbAlt
+    I.map C.doNotDisturbAlt
 
 
 {-| Do Not Disturb Off -}
@@ -3355,7 +3355,7 @@ doNotDisturbOn = i "do_not_disturb_on" [ S.path [ SA.d "M7 11v2h10v-2H7zm5-9C6.4
 {-| Do Not Disturb On Total Silence -}
 doNotDisturbOnTotalSilence : Icon
 doNotDisturbOnTotalSilence =
-    I.map F.doNotDisturbOnTotalSilence
+    I.map C.doNotDisturbOnTotalSilence
 
 
 {-| Do Not Step -}
@@ -3371,7 +3371,7 @@ doNotTouch = i "do_not_touch" [ S.path [ SA.d "M2.81 2.81L1.39 4.22L7 9.83v4.3l-
 {-| Dock -}
 dock : Icon
 dock =
-    I.map F.dock
+    I.map C.dock
 
 
 {-| Document Scanner -}
@@ -3382,13 +3382,13 @@ documentScanner = i "document_scanner" [ S.path [ SA.d "M7 3H4v3H2V1h5v2zm15 3V1
 {-| Domain -}
 domain : Icon
 domain =
-    I.map F.domain
+    I.map C.domain
 
 
 {-| Domain Add -}
 domainAdd : Icon
 domainAdd =
-    I.map F.domainAdd
+    I.map C.domainAdd
 
 
 {-| Domain Disabled -}
@@ -3399,19 +3399,19 @@ domainDisabled = i "domain_disabled" [ S.path [ SA.d "M1.41 1.69L0 3.1l2 2V21h15
 {-| Domain Verification -}
 domainVerification : Icon
 domainVerification =
-    I.map F.domainVerification
+    I.map C.domainVerification
 
 
 {-| Done -}
 done : Icon
 done =
-    I.map F.done
+    I.map C.done
 
 
 {-| Done All -}
 doneAll : Icon
 doneAll =
-    I.map F.doneAll
+    I.map C.doneAll
 
 
 {-| Done Outline -}
@@ -3452,13 +3452,13 @@ doorbell = i "doorbell" [ S.path [ SA.d "M11 16.5h2c0 .55-.45 1-1 1s-1-.45-1-1zm
 {-| Double Arrow -}
 doubleArrow : Icon
 doubleArrow =
-    I.map F.doubleArrow
+    I.map C.doubleArrow
 
 
 {-| Downhill Skiing -}
 downhillSkiing : Icon
 downhillSkiing =
-    I.map F.downhillSkiing
+    I.map C.downhillSkiing
 
 
 {-| Download -}
@@ -3489,13 +3489,13 @@ drafts = i "drafts" [ S.path [ SA.d "M21.99 8c0-.72-.37-1.35-.94-1.7L12 1L2.95 6
 {-| Drag Handle -}
 dragHandle : Icon
 dragHandle =
-    I.map F.dragHandle
+    I.map C.dragHandle
 
 
 {-| Drag Indicator -}
 dragIndicator : Icon
 dragIndicator =
-    I.map F.dragIndicator
+    I.map C.dragIndicator
 
 
 {-| Draw -}
@@ -3541,7 +3541,7 @@ dryCleaning = i "dry_cleaning" [ S.path [ SA.d "M19.56 11.36L13 8.44V7c0-.55-.45
 {-| Duo -}
 duo : Icon
 duo =
-    I.map F.duo
+    I.map C.duo
 
 
 {-| Dvr -}
@@ -3552,7 +3552,7 @@ dvr = i "dvr" [ S.path [ SA.d "M21 3H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h5v2h8v-2
 {-| Dynamic Feed -}
 dynamicFeed : Icon
 dynamicFeed =
-    I.map F.dynamicFeed
+    I.map C.dynamicFeed
 
 
 {-| Dynamic Form -}
@@ -3563,7 +3563,7 @@ dynamicForm = i "dynamic_form" [ S.path [ SA.d "M13 11H4c-1.1 0-2-.9-2-2V6c0-1.1
 {-| E Mobiledata -}
 eMobiledata : Icon
 eMobiledata =
-    I.map F.eMobiledata
+    I.map C.eMobiledata
 
 
 {-| Earbuds -}
@@ -3579,7 +3579,7 @@ earbudsBattery = i "earbuds_battery" [ S.path [ SA.d "M21 7h-1V6h-2v1h-1c-.55 0-
 {-| East -}
 east : Icon
 east =
-    I.map F.east
+    I.map C.east
 
 
 {-| Eco -}
@@ -3625,7 +3625,7 @@ editLocationAlt = i "edit_location_alt" [ S.path [ SA.d "M11 11h2.12l6.16-6.16l-
 {-| Edit Note -}
 editNote : Icon
 editNote =
-    I.map F.editNote
+    I.map C.editNote
 
 
 {-| Edit Notifications -}
@@ -3641,7 +3641,7 @@ editOff = i "edit_off" [ S.path [ SA.d "M14.06 9.02l.92.92l-1.11 1.11l1.41 1.41l
 {-| Edit Road -}
 editRoad : Icon
 editRoad =
-    I.map F.editRoad
+    I.map C.editRoad
 
 
 {-| Egg -}
@@ -3662,25 +3662,25 @@ eject = i "eject" [ S.path [ SA.d "M5 17h14v2H5zm7-12L5.33 15h13.34L12 5zm0 3.6l
 {-| Elderly -}
 elderly : Icon
 elderly =
-    I.map F.elderly
+    I.map C.elderly
 
 
 {-| Elderly Woman -}
 elderlyWoman : Icon
 elderlyWoman =
-    I.map F.elderlyWoman
+    I.map C.elderlyWoman
 
 
 {-| Electric Bike -}
 electricBike : Icon
 electricBike =
-    I.map F.electricBike
+    I.map C.electricBike
 
 
 {-| Electric Bolt -}
 electricBolt : Icon
 electricBolt =
-    I.map F.electricBolt
+    I.map C.electricBolt
 
 
 {-| Electric Car -}
@@ -3706,13 +3706,13 @@ electricRickshaw = i "electric_rickshaw" [ S.path [ SA.d "M21 11.18V9.72c0-.47-.
 {-| Electric Scooter -}
 electricScooter : Icon
 electricScooter =
-    I.map F.electricScooter
+    I.map C.electricScooter
 
 
 {-| Electrical Services -}
 electricalServices : Icon
 electricalServices =
-    I.map F.electricalServices
+    I.map C.electricalServices
 
 
 {-| Elevator -}
@@ -3753,7 +3753,7 @@ emojiEvents = i "emoji_events" [ S.path [ SA.d "M19 5h-2V3H7v2H5c-1.1 0-2 .9-2 2
 {-| Emoji Flags -}
 emojiFlags : Icon
 emojiFlags =
-    I.map F.emojiFlags
+    I.map C.emojiFlags
 
 
 {-| Emoji Food Beverage -}
@@ -3774,19 +3774,19 @@ emojiObjects = i "emoji_objects" [ S.path [ SA.d "M12 3c-.46 0-.93.04-1.4.14c-2.
 {-| Emoji People -}
 emojiPeople : Icon
 emojiPeople =
-    I.map F.emojiPeople
+    I.map C.emojiPeople
 
 
 {-| Emoji Symbols -}
 emojiSymbols : Icon
 emojiSymbols =
-    I.map F.emojiSymbols
+    I.map C.emojiSymbols
 
 
 {-| Emoji Transportation -}
 emojiTransportation : Icon
 emojiTransportation =
-    I.map F.emojiTransportation
+    I.map C.emojiTransportation
 
 
 {-| Energy Savings Leaf -}
@@ -3807,19 +3807,19 @@ enhancedEncryption = i "enhanced_encryption" [ S.path [ SA.d "M18 8h-1V6c0-2.76-
 {-| Equalizer -}
 equalizer : Icon
 equalizer =
-    I.map F.equalizer
+    I.map C.equalizer
 
 
 {-| Equals -}
 equals : Icon
 equals =
-    I.map F.equals
+    I.map C.equals
 
 
 {-| Error -}
 error : Icon
 error =
-    I.map F.error
+    I.map C.error
 
 
 {-| Error Outline -}
@@ -3835,19 +3835,19 @@ escalator = i "escalator" [ S.path [ SA.d "M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2
 {-| Escalator Warning -}
 escalatorWarning : Icon
 escalatorWarning =
-    I.map F.escalatorWarning
+    I.map C.escalatorWarning
 
 
 {-| Euro -}
 euro : Icon
 euro =
-    I.map F.euro
+    I.map C.euro
 
 
 {-| Euro Symbol -}
 euroSymbol : Icon
 euroSymbol =
-    I.map F.euroSymbol
+    I.map C.euroSymbol
 
 
 {-| Ev Station -}
@@ -3888,7 +3888,7 @@ eventSeat = i "event_seat" [ S.path [ SA.d "M15 5v7H9V5h6m0-2H9c-1.1 0-2 .9-2 2v
 {-| Exit To App -}
 exitToApp : Icon
 exitToApp =
-    I.map F.exitToApp
+    I.map C.exitToApp
 
 
 {-| Expand -}
@@ -3934,7 +3934,7 @@ exposure = i "exposure" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 
 {-| Exposure Neg 1 -}
 exposureNeg1 : Icon
 exposureNeg1 =
-    I.map F.exposureNeg1
+    I.map C.exposureNeg1
 
 
 {-| Exposure Neg 2 -}
@@ -3945,7 +3945,7 @@ exposureNeg2 = i "exposure_neg_2" [ S.path [ SA.d "M15.05 16.29l2.86-3.07c.38-.3
 {-| Exposure Plus 1 -}
 exposurePlus1 : Icon
 exposurePlus1 =
-    I.map F.exposurePlus1
+    I.map C.exposurePlus1
 
 
 {-| Exposure Plus 2 -}
@@ -3991,7 +3991,7 @@ face4 = i "face_4" [ S.path [ SA.d "M12 2c-.96 0-1.88.14-2.75.39A4.986 4.986 0 0
 {-| Face 5 -}
 face5 : Icon
 face5 =
-    I.map F.face5
+    I.map C.face5
 
 
 {-| Face 6 -}
@@ -4012,7 +4012,7 @@ faceRetouchingOff = i "face_retouching_off" [ S.circle [ SA.cx "9", SA.cy "13", 
 {-| Facebook -}
 facebook : Icon
 facebook =
-    I.map F.facebook
+    I.map C.facebook
 
 
 {-| Fact Check -}
@@ -4028,7 +4028,7 @@ factory = i "factory" [ S.path [ SA.d "M22 22H2V10l7-3v2l5-2v3h3l1-8h3l1 8v12zM1
 {-| Family Restroom -}
 familyRestroom : Icon
 familyRestroom =
-    I.map F.familyRestroom
+    I.map C.familyRestroom
 
 
 {-| Fast Forward -}
@@ -4049,13 +4049,13 @@ fastfood = i "fastfood" [ S.path [ SA.d "M1 21.98c0 .56.45 1.01 1.01 1.01H15c.56
 {-| Favorite -}
 favorite : Icon
 favorite =
-    I.map F.favorite
+    I.map C.favorite
 
 
 {-| Favorite Border -}
 favoriteBorder : Icon
 favoriteBorder =
-    I.map F.favoriteBorder
+    I.map C.favoriteBorder
 
 
 {-| Fax -}
@@ -4086,13 +4086,13 @@ feedback = i "feedback" [ S.path [ SA.d "M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h1
 {-| Female -}
 female : Icon
 female =
-    I.map F.female
+    I.map C.female
 
 
 {-| Fence -}
 fence : Icon
 fence =
-    I.map F.fence
+    I.map C.fence
 
 
 {-| Festival -}
@@ -4163,67 +4163,67 @@ fileUpload = i "file_upload" [ S.path [ SA.d "M18 15v3H6v-3H4v3c0 1.1.9 2 2 2h12
 {-| Filter -}
 filter : Icon
 filter =
-    I.map F.filter
+    I.map C.filter
 
 
 {-| Filter 1 -}
 filter1 : Icon
 filter1 =
-    I.map F.filter1
+    I.map C.filter1
 
 
 {-| Filter 2 -}
 filter2 : Icon
 filter2 =
-    I.map F.filter2
+    I.map C.filter2
 
 
 {-| Filter 3 -}
 filter3 : Icon
 filter3 =
-    I.map F.filter3
+    I.map C.filter3
 
 
 {-| Filter 4 -}
 filter4 : Icon
 filter4 =
-    I.map F.filter4
+    I.map C.filter4
 
 
 {-| Filter 5 -}
 filter5 : Icon
 filter5 =
-    I.map F.filter5
+    I.map C.filter5
 
 
 {-| Filter 6 -}
 filter6 : Icon
 filter6 =
-    I.map F.filter6
+    I.map C.filter6
 
 
 {-| Filter 7 -}
 filter7 : Icon
 filter7 =
-    I.map F.filter7
+    I.map C.filter7
 
 
 {-| Filter 8 -}
 filter8 : Icon
 filter8 =
-    I.map F.filter8
+    I.map C.filter8
 
 
 {-| Filter 9 -}
 filter9 : Icon
 filter9 =
-    I.map F.filter9
+    I.map C.filter9
 
 
 {-| Filter 9 Plus -}
 filter9Plus : Icon
 filter9Plus =
-    I.map F.filter9Plus
+    I.map C.filter9Plus
 
 
 {-| Filter Alt -}
@@ -4239,19 +4239,19 @@ filterAltOff = i "filter_alt_off" [ S.path [ SA.d "M16.95 6l-3.57 4.55l1.43 1.43
 {-| Filter B And W -}
 filterBAndW : Icon
 filterBAndW =
-    I.map F.filterBAndW
+    I.map C.filterBAndW
 
 
 {-| Filter Center Focus -}
 filterCenterFocus : Icon
 filterCenterFocus =
-    I.map F.filterCenterFocus
+    I.map C.filterCenterFocus
 
 
 {-| Filter Drama -}
 filterDrama : Icon
 filterDrama =
-    I.map F.filterDrama
+    I.map C.filterDrama
 
 
 {-| Filter Frames -}
@@ -4267,25 +4267,25 @@ filterHdr = i "filter_hdr" [ S.path [ SA.d "M14 6l-4.22 5.63l1.25 1.67L14 9.33L1
 {-| Filter List -}
 filterList : Icon
 filterList =
-    I.map F.filterList
+    I.map C.filterList
 
 
 {-| Filter List Off -}
 filterListOff : Icon
 filterListOff =
-    I.map F.filterListOff
+    I.map C.filterListOff
 
 
 {-| Filter None -}
 filterNone : Icon
 filterNone =
-    I.map F.filterNone
+    I.map C.filterNone
 
 
 {-| Filter Tilt Shift -}
 filterTiltShift : Icon
 filterTiltShift =
-    I.map F.filterTiltShift
+    I.map C.filterTiltShift
 
 
 {-| Filter Vintage -}
@@ -4301,7 +4301,7 @@ findInPage = i "find_in_page" [ S.path [ SA.d "M14 2H6c-1.1 0-1.99.9-1.99 2L4 20
 {-| Find Replace -}
 findReplace : Icon
 findReplace =
-    I.map F.findReplace
+    I.map C.findReplace
 
 
 {-| Fingerprint -}
@@ -4312,7 +4312,7 @@ fingerprint = i "fingerprint" [ S.path [ SA.d "M17.81 4.47c-.08 0-.16-.02-.23-.0
 {-| Fire Extinguisher -}
 fireExtinguisher : Icon
 fireExtinguisher =
-    I.map F.fireExtinguisher
+    I.map C.fireExtinguisher
 
 
 {-| Fire Hydrant Alt -}
@@ -4343,7 +4343,7 @@ fitScreen = i "fit_screen" [ S.path [ SA.d "M6 16h12V8H6v8zm2-6h8v4H8v-4zm-4 5H2
 {-| Fitbit -}
 fitbit : Icon
 fitbit =
-    I.map F.fitbit
+    I.map C.fitbit
 
 
 {-| Fitness Center -}
@@ -4364,19 +4364,19 @@ flagCircle = i "flag_circle" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 10 1
 {-| Flaky -}
 flaky : Icon
 flaky =
-    I.map F.flaky
+    I.map C.flaky
 
 
 {-| Flare -}
 flare : Icon
 flare =
-    I.map F.flare
+    I.map C.flare
 
 
 {-| Flash Auto -}
 flashAuto : Icon
 flashAuto =
-    I.map F.flashAuto
+    I.map C.flashAuto
 
 
 {-| Flash Off -}
@@ -4403,13 +4403,13 @@ flashlightOn = i "flashlight_on" [ S.path [ SA.d "M18 2H6v6l2 3v11h8V11l2-3V2zm-
 {-| Flatware -}
 flatware : Icon
 flatware =
-    I.map F.flatware
+    I.map C.flatware
 
 
 {-| Flight -}
 flight : Icon
 flight =
-    I.map F.flight
+    I.map C.flight
 
 
 {-| Flight Class -}
@@ -4420,7 +4420,7 @@ flightClass = i "flight_class" [ S.path [ SA.d "M16 4h-2c-1.1 0-2 .9-2 2v5c0 1.1
 {-| Flight Land -}
 flightLand : Icon
 flightLand =
-    I.map F.flightLand
+    I.map C.flightLand
 
 
 {-| Flight Takeoff -}
@@ -4431,7 +4431,7 @@ flightTakeoff = i "flight_takeoff" [ S.path [ SA.d "M2.5 19h19v2h-19v-2zm19.57-9
 {-| Flip -}
 flip : Icon
 flip =
-    I.map F.flip
+    I.map C.flip
 
 
 {-| Flip Camera Android -}
@@ -4447,13 +4447,13 @@ flipCameraIos = i "flip_camera_ios" [ S.path [ SA.d "M20 5h-3.17L15 3H9L7.17 5H4
 {-| Flip To Back -}
 flipToBack : Icon
 flipToBack =
-    I.map F.flipToBack
+    I.map C.flipToBack
 
 
 {-| Flip To Front -}
 flipToFront : Icon
 flipToFront =
-    I.map F.flipToFront
+    I.map C.flipToFront
 
 
 {-| Flood -}
@@ -4474,7 +4474,7 @@ fluorescent = i "fluorescent" [ S.path [ SA.d "M5 15h14V9H5v6zm2-4h10v2H7v-2zm4-
 {-| Flutter Dash -}
 flutterDash : Icon
 flutterDash =
-    I.map F.flutterDash
+    I.map C.flutterDash
 
 
 {-| Fmd Bad -}
@@ -4510,7 +4510,7 @@ folderOff = i "folder_off" [ S.path [ SA.d "M20 6h-8l-2-2H7.17l4 4H20v9.17l1.76 
 {-| Folder Open -}
 folderOpen : Icon
 folderOpen =
-    I.map F.folderOpen
+    I.map C.folderOpen
 
 
 {-| Folder Shared -}
@@ -4531,7 +4531,7 @@ folderZip = i "folder_zip" [ S.path [ SA.d "M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2
 {-| Follow The Signs -}
 followTheSigns : Icon
 followTheSigns =
-    I.map F.followTheSigns
+    I.map C.followTheSigns
 
 
 {-| Font Download -}
@@ -4557,43 +4557,43 @@ forest = i "forest" [ S.path [ SA.d "M24 18l-3.86-6H22L15 2l-3 4.29L9 2L2 12h1.8
 {-| Fork Left -}
 forkLeft : Icon
 forkLeft =
-    I.map F.forkLeft
+    I.map C.forkLeft
 
 
 {-| Fork Right -}
 forkRight : Icon
 forkRight =
-    I.map F.forkRight
+    I.map C.forkRight
 
 
 {-| Format Align Center -}
 formatAlignCenter : Icon
 formatAlignCenter =
-    I.map F.formatAlignCenter
+    I.map C.formatAlignCenter
 
 
 {-| Format Align Justify -}
 formatAlignJustify : Icon
 formatAlignJustify =
-    I.map F.formatAlignJustify
+    I.map C.formatAlignJustify
 
 
 {-| Format Align Left -}
 formatAlignLeft : Icon
 formatAlignLeft =
-    I.map F.formatAlignLeft
+    I.map C.formatAlignLeft
 
 
 {-| Format Align Right -}
 formatAlignRight : Icon
 formatAlignRight =
-    I.map F.formatAlignRight
+    I.map C.formatAlignRight
 
 
 {-| Format Bold -}
 formatBold : Icon
 formatBold =
-    I.map F.formatBold
+    I.map C.formatBold
 
 
 {-| Format Clear -}
@@ -4604,7 +4604,7 @@ formatClear = i "format_clear" [ S.path [ SA.d "M20 8V5H6.39l3 3h1.83l-.55 1.28l
 {-| Format Color Fill -}
 formatColorFill : Icon
 formatColorFill =
-    I.map F.formatColorFill
+    I.map C.formatColorFill
 
 
 {-| Format Color Reset -}
@@ -4615,19 +4615,19 @@ formatColorReset = i "format_color_reset" [ S.path [ SA.d "M12 6.36c1.53 2 3.08 
 {-| Format Color Text -}
 formatColorText : Icon
 formatColorText =
-    I.map F.formatColorText
+    I.map C.formatColorText
 
 
 {-| Format Indent Decrease -}
 formatIndentDecrease : Icon
 formatIndentDecrease =
-    I.map F.formatIndentDecrease
+    I.map C.formatIndentDecrease
 
 
 {-| Format Indent Increase -}
 formatIndentIncrease : Icon
 formatIndentIncrease =
-    I.map F.formatIndentIncrease
+    I.map C.formatIndentIncrease
 
 
 {-| Format Italic -}
@@ -4638,19 +4638,19 @@ formatItalic = i "format_italic" [ S.path [ SA.d "M10 4v3h2.21l-3.42 8H6v3h8v-3h
 {-| Format Line Spacing -}
 formatLineSpacing : Icon
 formatLineSpacing =
-    I.map F.formatLineSpacing
+    I.map C.formatLineSpacing
 
 
 {-| Format List Bulleted -}
 formatListBulleted : Icon
 formatListBulleted =
-    I.map F.formatListBulleted
+    I.map C.formatListBulleted
 
 
 {-| Format List Numbered -}
 formatListNumbered : Icon
 formatListNumbered =
-    I.map F.formatListNumbered
+    I.map C.formatListNumbered
 
 
 {-| Format List Numbered Rtl -}
@@ -4661,7 +4661,7 @@ formatListNumberedRtl = i "format_list_numbered_rtl" [ S.path [ SA.d "M18 17h2v.
 {-| Format Overline -}
 formatOverline : Icon
 formatOverline =
-    I.map F.formatOverline
+    I.map C.formatOverline
 
 
 {-| Format Paint -}
@@ -4677,19 +4677,19 @@ formatQuote = i "format_quote" [ S.path [ SA.d "M18.62 18h-5.24l2-4H13V6h8v7.24L
 {-| Format Shapes -}
 formatShapes : Icon
 formatShapes =
-    I.map F.formatShapes
+    I.map C.formatShapes
 
 
 {-| Format Size -}
 formatSize : Icon
 formatSize =
-    I.map F.formatSize
+    I.map C.formatSize
 
 
 {-| Format Strikethrough -}
 formatStrikethrough : Icon
 formatStrikethrough =
-    I.map F.formatStrikethrough
+    I.map C.formatStrikethrough
 
 
 {-| Format Textdirection L To R -}
@@ -4705,7 +4705,7 @@ formatTextdirectionRToL = i "format_textdirection_r_to_l" [ S.path [ SA.d "M10 4
 {-| Format Underlined -}
 formatUnderlined : Icon
 formatUnderlined =
-    I.map F.formatUnderlined
+    I.map C.formatUnderlined
 
 
 {-| Fort -}
@@ -4741,13 +4741,13 @@ forward5 = i "forward_5" [ S.path [ SA.d "M17.95 13c0 3.31-2.69 6-6 6s-6-2.69-6-
 {-| Forward To Inbox -}
 forwardToInbox : Icon
 forwardToInbox =
-    I.map F.forwardToInbox
+    I.map C.forwardToInbox
 
 
 {-| Foundation -}
 foundation : Icon
 foundation =
-    I.map F.foundation
+    I.map C.foundation
 
 
 {-| Free Breakfast -}
@@ -4768,13 +4768,13 @@ frontHand = i "front_hand" [ S.path [ SA.d "M18.5 8c-.17 0-.34.02-.5.05V4.5a2.5 
 {-| Fullscreen -}
 fullscreen : Icon
 fullscreen =
-    I.map F.fullscreen
+    I.map C.fullscreen
 
 
 {-| Fullscreen Exit -}
 fullscreenExit : Icon
 fullscreenExit =
-    I.map F.fullscreenExit
+    I.map C.fullscreenExit
 
 
 {-| Functions -}
@@ -4785,7 +4785,7 @@ functions = i "functions" [ S.path [ SA.d "M18 4H6v2l6.5 6L6 18v2h12v-3h-7l5-5l-
 {-| G Mobiledata -}
 gMobiledata : Icon
 gMobiledata =
-    I.map F.gMobiledata
+    I.map C.gMobiledata
 
 
 {-| G Translate -}
@@ -4826,7 +4826,7 @@ generatingTokens = i "generating_tokens" [ S.path [ SA.d "M9 4c-4.42 0-8 3.58-8 
 {-| Gesture -}
 gesture : Icon
 gesture =
-    I.map F.gesture
+    I.map C.gesture
 
 
 {-| Get App -}
@@ -4847,19 +4847,19 @@ gifBox = i "gif_box" [ S.path [ SA.d "M19 19H5V5h14v14zM5 3c-1.1 0-2 .9-2 2v14c0
 {-| Girl -}
 girl : Icon
 girl =
-    I.map F.girl
+    I.map C.girl
 
 
 {-| Gite -}
 gite : Icon
 gite =
-    I.map F.gite
+    I.map C.gite
 
 
 {-| Golf Course -}
 golfCourse : Icon
 golfCourse =
-    I.map F.golfCourse
+    I.map C.golfCourse
 
 
 {-| Gpp Bad -}
@@ -4880,13 +4880,13 @@ gppMaybe = i "gpp_maybe" [ S.path [ SA.d "M12 2L4 5v6.09c0 5.05 3.41 9.76 8 10.9
 {-| Gps Fixed -}
 gpsFixed : Icon
 gpsFixed =
-    I.map F.gpsFixed
+    I.map C.gpsFixed
 
 
 {-| Gps Not Fixed -}
 gpsNotFixed : Icon
 gpsNotFixed =
-    I.map F.gpsNotFixed
+    I.map C.gpsNotFixed
 
 
 {-| Gps Off -}
@@ -4907,55 +4907,55 @@ gradient = i "gradient" [ S.path [ SA.d "M11 9h2v2h-2V9zm-2 2h2v2H9v-2zm4 0h2v2h
 {-| Grading -}
 grading : Icon
 grading =
-    I.map F.grading
+    I.map C.grading
 
 
 {-| Grain -}
 grain : Icon
 grain =
-    I.map F.grain
+    I.map C.grain
 
 
 {-| Graphic Eq -}
 graphicEq : Icon
 graphicEq =
-    I.map F.graphicEq
+    I.map C.graphicEq
 
 
 {-| Grass -}
 grass : Icon
 grass =
-    I.map F.grass
+    I.map C.grass
 
 
 {-| Greater Than -}
 greaterThan : Icon
 greaterThan =
-    I.map F.greaterThan
+    I.map C.greaterThan
 
 
 {-| Greater Than Equal -}
 greaterThanEqual : Icon
 greaterThanEqual =
-    I.map F.greaterThanEqual
+    I.map C.greaterThanEqual
 
 
 {-| Grid 3x3 -}
 grid3x3 : Icon
 grid3x3 =
-    I.map F.grid3x3
+    I.map C.grid3x3
 
 
 {-| Grid 4x4 -}
 grid4x4 : Icon
 grid4x4 =
-    I.map F.grid4x4
+    I.map C.grid4x4
 
 
 {-| Grid Goldenratio -}
 gridGoldenratio : Icon
 gridGoldenratio =
-    I.map F.gridGoldenratio
+    I.map C.gridGoldenratio
 
 
 {-| Grid Off -}
@@ -4966,7 +4966,7 @@ gridOff = i "grid_off" [ S.path [ SA.d "M8 4v.89l2 2V4h4v4h-2.89l2 2H14v.89l2 2V
 {-| Grid On -}
 gridOn : Icon
 gridOn =
-    I.map F.gridOn
+    I.map C.gridOn
 
 
 {-| Grid View -}
@@ -5017,13 +5017,13 @@ groups3 = i "groups_3" [ S.path [ SA.d "M16.24 13.65c-1.17-.52-2.61-.9-4.24-.9c-
 {-| H Mobiledata -}
 hMobiledata : Icon
 hMobiledata =
-    I.map F.hMobiledata
+    I.map C.hMobiledata
 
 
 {-| H Plus Mobiledata -}
 hPlusMobiledata : Icon
 hPlusMobiledata =
-    I.map F.hPlusMobiledata
+    I.map C.hPlusMobiledata
 
 
 {-| Hail -}
@@ -5064,7 +5064,7 @@ hdrAutoSelect = i "hdr_auto_select" [ S.path [ SA.d "M10 16H6.5v6H10c.8 0 1.5-.7
 {-| Hdr Enhanced Select -}
 hdrEnhancedSelect : Icon
 hdrEnhancedSelect =
-    I.map F.hdrEnhancedSelect
+    I.map C.hdrEnhancedSelect
 
 
 {-| Hdr Off -}
@@ -5075,19 +5075,19 @@ hdrOff = i "hdr_off" [ S.path [ SA.d "M17.5 15v-2h1.1l.9 2H21l-.9-2.1c.5-.3.9-.8
 {-| Hdr Off Select -}
 hdrOffSelect : Icon
 hdrOffSelect =
-    I.map F.hdrOffSelect
+    I.map C.hdrOffSelect
 
 
 {-| Hdr On -}
 hdrOn : Icon
 hdrOn =
-    I.map F.hdrOn
+    I.map C.hdrOn
 
 
 {-| Hdr On Select -}
 hdrOnSelect : Icon
 hdrOnSelect =
-    I.map F.hdrOnSelect
+    I.map C.hdrOnSelect
 
 
 {-| Hdr Plus -}
@@ -5098,13 +5098,13 @@ hdrPlus = i "hdr_plus" [ S.path [ SA.d "M8.13 19c1.15.64 2.47 1 3.87 1c4.41 0 8-
 {-| Hdr Strong -}
 hdrStrong : Icon
 hdrStrong =
-    I.map F.hdrStrong
+    I.map C.hdrStrong
 
 
 {-| Hdr Weak -}
 hdrWeak : Icon
 hdrWeak =
-    I.map F.hdrWeak
+    I.map C.hdrWeak
 
 
 {-| Headphones -}
@@ -5135,7 +5135,7 @@ headsetOff = i "headset_off" [ S.path [ SA.d "M12 4c3.87 0 7 3.13 7 7v1h-4v.17L1
 {-| Healing -}
 healing : Icon
 healing =
-    I.map F.healing
+    I.map C.healing
 
 
 {-| Health And Safety -}
@@ -5146,13 +5146,13 @@ healthAndSafety = i "health_and_safety" [ S.path [ SA.d "M10.5 13H8v-3h2.5V7.5h3
 {-| Hearing -}
 hearing : Icon
 hearing =
-    I.map F.hearing
+    I.map C.hearing
 
 
 {-| Hearing Disabled -}
 hearingDisabled : Icon
 hearingDisabled =
-    I.map F.hearingDisabled
+    I.map C.hearingDisabled
 
 
 {-| Heart Broken -}
@@ -5168,13 +5168,13 @@ heatPump = i "heat_pump" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2
 {-| Height -}
 height : Icon
 height =
-    I.map F.height
+    I.map C.height
 
 
 {-| Help -}
 help : Icon
 help =
-    I.map F.help
+    I.map C.help
 
 
 {-| Help Center -}
@@ -5185,13 +5185,13 @@ helpCenter = i "help_center" [ S.path [ SA.d "M13.25 16.74c0 .69-.53 1.26-1.25 1
 {-| Help Outline -}
 helpOutline : Icon
 helpOutline =
-    I.map F.helpOutline
+    I.map C.helpOutline
 
 
 {-| Hevc -}
 hevc : Icon
 hevc =
-    I.map F.hevc
+    I.map C.hevc
 
 
 {-| Hexagon -}
@@ -5207,7 +5207,7 @@ hideImage = i "hide_image" [ S.path [ SA.d "M19 5v11.17l2 2V5c0-1.1-.9-2-2-2H5.8
 {-| Hide Source -}
 hideSource : Icon
 hideSource =
-    I.map F.hideSource
+    I.map C.hideSource
 
 
 {-| High Quality -}
@@ -5228,13 +5228,13 @@ highlightAlt = i "highlight_alt" [ S.path [ SA.d "M17 5h-2V3h2v2zm-2 10v6l2.29-2
 {-| Highlight Off -}
 highlightOff : Icon
 highlightOff =
-    I.map F.highlightOff
+    I.map C.highlightOff
 
 
 {-| Hiking -}
 hiking : Icon
 hiking =
-    I.map F.hiking
+    I.map C.hiking
 
 
 {-| History -}
@@ -5245,13 +5245,13 @@ history = i "history" [ S.path [ SA.d "M13 3a9 9 0 0 0-9 9H1l3.89 3.89l.07.14L9 
 {-| History Edu -}
 historyEdu : Icon
 historyEdu =
-    I.map F.historyEdu
+    I.map C.historyEdu
 
 
 {-| History Toggle Off -}
 historyToggleOff : Icon
 historyToggleOff =
-    I.map F.historyToggleOff
+    I.map C.historyToggleOff
 
 
 {-| Hive -}
@@ -5262,13 +5262,13 @@ hive = i "hive" [ S.path [ SA.d "M21.5 9l-2.25-4h-3.31l-1.69-3h-4.5L8.06 5H4.75L
 {-| Hls -}
 hls : Icon
 hls =
-    I.map F.hls
+    I.map C.hls
 
 
 {-| Hls Off -}
 hlsOff : Icon
 hlsOff =
-    I.map F.hlsOff
+    I.map C.hlsOff
 
 
 {-| Holiday Village -}
@@ -5284,13 +5284,13 @@ home = i "home" [ S.path [ SA.d "M12 5.69l5 4.5V18h-2v-6H9v6H7v-7.81l5-4.5M12 3L
 {-| Home Max -}
 homeMax : Icon
 homeMax =
-    I.map F.homeMax
+    I.map C.homeMax
 
 
 {-| Home Mini -}
 homeMini : Icon
 homeMini =
-    I.map F.homeMini
+    I.map C.homeMini
 
 
 {-| Home Repair Service -}
@@ -5306,13 +5306,13 @@ homeWork = i "home_work" [ S.path [ SA.d "M1 11v10h6v-5h2v5h6V11L8 6l-7 5zm12 8h
 {-| Horizontal Distribute -}
 horizontalDistribute : Icon
 horizontalDistribute =
-    I.map F.horizontalDistribute
+    I.map C.horizontalDistribute
 
 
 {-| Horizontal Rule -}
 horizontalRule : Icon
 horizontalRule =
-    I.map F.horizontalRule
+    I.map C.horizontalRule
 
 
 {-| Horizontal Split -}
@@ -5338,31 +5338,31 @@ hotelClass = i "hotel_class" [ S.path [ SA.d "M11 8.89l.94 3.11h2.82l-2.27 1.62l
 {-| Hourglass Bottom -}
 hourglassBottom : Icon
 hourglassBottom =
-    I.map F.hourglassBottom
+    I.map C.hourglassBottom
 
 
 {-| Hourglass Disabled -}
 hourglassDisabled : Icon
 hourglassDisabled =
-    I.map F.hourglassDisabled
+    I.map C.hourglassDisabled
 
 
 {-| Hourglass Empty -}
 hourglassEmpty : Icon
 hourglassEmpty =
-    I.map F.hourglassEmpty
+    I.map C.hourglassEmpty
 
 
 {-| Hourglass Full -}
 hourglassFull : Icon
 hourglassFull =
-    I.map F.hourglassFull
+    I.map C.hourglassFull
 
 
 {-| Hourglass Top -}
 hourglassTop : Icon
 hourglassTop =
-    I.map F.hourglassTop
+    I.map C.hourglassTop
 
 
 {-| House -}
@@ -5373,7 +5373,7 @@ house = i "house" [ S.path [ SA.d "M19 9.3V4h-3v2.6L12 3L2 12h3v8h6v-6h2v6h6v-8h
 {-| House Siding -}
 houseSiding : Icon
 houseSiding =
-    I.map F.houseSiding
+    I.map C.houseSiding
 
 
 {-| Houseboat -}
@@ -5394,13 +5394,13 @@ howToVote = i "how_to_vote" [ S.path [ SA.d "M18 13h-.68l-2 2h1.91L19 17H5l1.78-
 {-| Html -}
 html : Icon
 html =
-    I.map F.html
+    I.map C.html
 
 
 {-| Http -}
 http : Icon
 http =
-    I.map F.http
+    I.map C.http
 
 
 {-| Https -}
@@ -5436,7 +5436,7 @@ image = i "image" [ S.path [ SA.d "M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.
 {-| Image Aspect Ratio -}
 imageAspectRatio : Icon
 imageAspectRatio =
-    I.map F.imageAspectRatio
+    I.map C.imageAspectRatio
 
 
 {-| Image Not Supported -}
@@ -5462,13 +5462,13 @@ importContacts = i "import_contacts" [ S.path [ SA.d "M21 5c-1.11-.35-2.33-.5-3.
 {-| Import Export -}
 importExport : Icon
 importExport =
-    I.map F.importExport
+    I.map C.importExport
 
 
 {-| Important Devices -}
 importantDevices : Icon
 importantDevices =
-    I.map F.importantDevices
+    I.map C.importantDevices
 
 
 {-| Inbox -}
@@ -5479,7 +5479,7 @@ inbox = i "inbox" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14a2 2 0 0 0 2 2h14c1
 {-| Incomplete Circle -}
 incompleteCircle : Icon
 incompleteCircle =
-    I.map F.incompleteCircle
+    I.map C.incompleteCircle
 
 
 {-| Indeterminate Check Box -}
@@ -5520,7 +5520,7 @@ insertDriveFile = i "insert_drive_file" [ S.path [ SA.d "M14 2H6c-1.1 0-1.99.9-1
 {-| Insert Emoticon -}
 insertEmoticon : Icon
 insertEmoticon =
-    I.map F.insertEmoticon
+    I.map C.insertEmoticon
 
 
 {-| Insert Invitation -}
@@ -5531,7 +5531,7 @@ insertInvitation = i "insert_invitation" [ S.path [ SA.d "M19 3h-1V1h-2v2H8V1H6v
 {-| Insert Link -}
 insertLink : Icon
 insertLink =
-    I.map F.insertLink
+    I.map C.insertLink
 
 
 {-| Insert Page Break -}
@@ -5547,13 +5547,13 @@ insertPhoto = i "insert_photo" [ S.path [ SA.d "M19 5v14H5V5h14m0-2H5c-1.1 0-2 .
 {-| Insights -}
 insights : Icon
 insights =
-    I.map F.insights
+    I.map C.insights
 
 
 {-| Install Desktop -}
 installDesktop : Icon
 installDesktop =
-    I.map F.installDesktop
+    I.map C.installDesktop
 
 
 {-| Install Mobile -}
@@ -5594,13 +5594,13 @@ invertColors = i "invert_colors" [ S.path [ SA.d "M12 4.81V19c-3.31 0-6-2.63-6-5
 {-| Invert Colors Off -}
 invertColorsOff : Icon
 invertColorsOff =
-    I.map F.invertColorsOff
+    I.map C.invertColorsOff
 
 
 {-| Ios Share -}
 iosShare : Icon
 iosShare =
-    I.map F.iosShare
+    I.map C.iosShare
 
 
 {-| Iron -}
@@ -5611,43 +5611,43 @@ iron = i "iron" [ S.path [ SA.d "M21 6c-1.66 0-3 1.34-3 3v4c0 .55-.45 1-1 1v-4c0
 {-| Iso -}
 iso : Icon
 iso =
-    I.map F.iso
+    I.map C.iso
 
 
 {-| Javascript -}
 javascript : Icon
 javascript =
-    I.map F.javascript
+    I.map C.javascript
 
 
 {-| Join Full -}
 joinFull : Icon
 joinFull =
-    I.map F.joinFull
+    I.map C.joinFull
 
 
 {-| Join Inner -}
 joinInner : Icon
 joinInner =
-    I.map F.joinInner
+    I.map C.joinInner
 
 
 {-| Join Left -}
 joinLeft : Icon
 joinLeft =
-    I.map F.joinLeft
+    I.map C.joinLeft
 
 
 {-| Join Right -}
 joinRight : Icon
 joinRight =
-    I.map F.joinRight
+    I.map C.joinRight
 
 
 {-| Kayaking -}
 kayaking : Icon
 kayaking =
-    I.map F.kayaking
+    I.map C.kayaking
 
 
 {-| Kebab Dining -}
@@ -5658,7 +5658,7 @@ kebabDining = i "kebab_dining" [ S.path [ SA.d "M17.75 7h.75a2.5 2.5 0 0 0 0-5h-
 {-| Key -}
 key : Icon
 key =
-    I.map F.key
+    I.map C.key
 
 
 {-| Key Off -}
@@ -5679,19 +5679,19 @@ keyboardAlt = i "keyboard_alt" [ S.path [ SA.d "M21 4H3c-1.1 0-2 .9-2 2v13c0 1.1
 {-| Keyboard Arrow Down -}
 keyboardArrowDown : Icon
 keyboardArrowDown =
-    I.map F.keyboardArrowDown
+    I.map C.keyboardArrowDown
 
 
 {-| Keyboard Arrow Left -}
 keyboardArrowLeft : Icon
 keyboardArrowLeft =
-    I.map F.keyboardArrowLeft
+    I.map C.keyboardArrowLeft
 
 
 {-| Keyboard Arrow Right -}
 keyboardArrowRight : Icon
 keyboardArrowRight =
-    I.map F.keyboardArrowRight
+    I.map C.keyboardArrowRight
 
 
 {-| Keyboard Arrow Up -}
@@ -5707,43 +5707,43 @@ keyboardBackspace = i "keyboard_backspace" [ S.path [ SA.d "M21 11H6.83l3.58-3.5
 {-| Keyboard Capslock -}
 keyboardCapslock : Icon
 keyboardCapslock =
-    I.map F.keyboardCapslock
+    I.map C.keyboardCapslock
 
 
 {-| Keyboard Command Key -}
 keyboardCommandKey : Icon
 keyboardCommandKey =
-    I.map F.keyboardCommandKey
+    I.map C.keyboardCommandKey
 
 
 {-| Keyboard Control Key -}
 keyboardControlKey : Icon
 keyboardControlKey =
-    I.map F.keyboardControlKey
+    I.map C.keyboardControlKey
 
 
 {-| Keyboard Double Arrow Down -}
 keyboardDoubleArrowDown : Icon
 keyboardDoubleArrowDown =
-    I.map F.keyboardDoubleArrowDown
+    I.map C.keyboardDoubleArrowDown
 
 
 {-| Keyboard Double Arrow Left -}
 keyboardDoubleArrowLeft : Icon
 keyboardDoubleArrowLeft =
-    I.map F.keyboardDoubleArrowLeft
+    I.map C.keyboardDoubleArrowLeft
 
 
 {-| Keyboard Double Arrow Right -}
 keyboardDoubleArrowRight : Icon
 keyboardDoubleArrowRight =
-    I.map F.keyboardDoubleArrowRight
+    I.map C.keyboardDoubleArrowRight
 
 
 {-| Keyboard Double Arrow Up -}
 keyboardDoubleArrowUp : Icon
 keyboardDoubleArrowUp =
-    I.map F.keyboardDoubleArrowUp
+    I.map C.keyboardDoubleArrowUp
 
 
 {-| Keyboard Hide -}
@@ -5754,7 +5754,7 @@ keyboardHide = i "keyboard_hide" [ S.path [ SA.d "M20 3H4c-1.1 0-1.99.9-1.99 2L2
 {-| Keyboard Option Key -}
 keyboardOptionKey : Icon
 keyboardOptionKey =
-    I.map F.keyboardOptionKey
+    I.map C.keyboardOptionKey
 
 
 {-| Keyboard Return -}
@@ -5765,7 +5765,7 @@ keyboardReturn = i "keyboard_return" [ S.path [ SA.d "M19 7v4H5.83l3.58-3.59L8 6
 {-| Keyboard Tab -}
 keyboardTab : Icon
 keyboardTab =
-    I.map F.keyboardTab
+    I.map C.keyboardTab
 
 
 {-| Keyboard Voice -}
@@ -5786,7 +5786,7 @@ kitchen = i "kitchen" [ S.path [ SA.d "M8 5h2v3H8zm0 7h2v5H8zm10-9.99L6 2a2 2 0 
 {-| Kitesurfing -}
 kitesurfing : Icon
 kitesurfing =
-    I.map F.kitesurfing
+    I.map C.kitesurfing
 
 
 {-| Label -}
@@ -5827,25 +5827,25 @@ language = i "language" [ S.path [ SA.d "M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.9
 {-| Laptop -}
 laptop : Icon
 laptop =
-    I.map F.laptop
+    I.map C.laptop
 
 
 {-| Laptop Chromebook -}
 laptopChromebook : Icon
 laptopChromebook =
-    I.map F.laptopChromebook
+    I.map C.laptopChromebook
 
 
 {-| Laptop Mac -}
 laptopMac : Icon
 laptopMac =
-    I.map F.laptopMac
+    I.map C.laptopMac
 
 
 {-| Laptop Windows -}
 laptopWindows : Icon
 laptopWindows =
-    I.map F.laptopWindows
+    I.map C.laptopWindows
 
 
 {-| Last Page -}
@@ -5856,7 +5856,7 @@ lastPage = i "last_page" [ S.path [ SA.d "M5.59 7.41L10.18 12l-4.59 4.59L7 18l6-
 {-| Launch -}
 launch : Icon
 launch =
-    I.map F.launch
+    I.map C.launch
 
 
 {-| Layers -}
@@ -5877,7 +5877,7 @@ leaderboard = i "leaderboard" [ S.path [ SA.d "M16 11V3H8v6H2v12h20V11h-6zm-6-6h
 {-| Leak Add -}
 leakAdd : Icon
 leakAdd =
-    I.map F.leakAdd
+    I.map C.leakAdd
 
 
 {-| Leak Remove -}
@@ -5893,7 +5893,7 @@ leaveBagsAtHome = i "leave_bags_at_home" [ S.path [ SA.d "M10.83 8H17v6.17l2 2V8
 {-| Legend Toggle -}
 legendToggle : Icon
 legendToggle =
-    I.map F.legendToggle
+    I.map C.legendToggle
 
 
 {-| Lens -}
@@ -5904,19 +5904,19 @@ lens = i "lens" [ S.path [ SA.d "M12 4c4.41 0 8 3.59 8 8s-3.59 8-8 8s-8-3.59-8-8
 {-| Lens Blur -}
 lensBlur : Icon
 lensBlur =
-    I.map F.lensBlur
+    I.map C.lensBlur
 
 
 {-| Less Than -}
 lessThan : Icon
 lessThan =
-    I.map F.lessThan
+    I.map C.lessThan
 
 
 {-| Less Than Equal -}
 lessThanEqual : Icon
 lessThanEqual =
-    I.map F.lessThanEqual
+    I.map C.lessThanEqual
 
 
 {-| Library Add -}
@@ -5962,25 +5962,25 @@ lightbulbCircle = i "lightbulb_circle" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12
 {-| Line Axis -}
 lineAxis : Icon
 lineAxis =
-    I.map F.lineAxis
+    I.map C.lineAxis
 
 
 {-| Line Style -}
 lineStyle : Icon
 lineStyle =
-    I.map F.lineStyle
+    I.map C.lineStyle
 
 
 {-| Line Weight -}
 lineWeight : Icon
 lineWeight =
-    I.map F.lineWeight
+    I.map C.lineWeight
 
 
 {-| Linear Scale -}
 linearScale : Icon
 linearScale =
-    I.map F.linearScale
+    I.map C.linearScale
 
 
 {-| Link -}
@@ -6036,13 +6036,13 @@ localActivity = i "local_activity" [ S.path [ SA.d "M22 10V6c0-1.1-.9-2-2-2H4c-1
 {-| Local Airport -}
 localAirport : Icon
 localAirport =
-    I.map F.localAirport
+    I.map C.localAirport
 
 
 {-| Local Atm -}
 localAtm : Icon
 localAtm =
-    I.map F.localAtm
+    I.map C.localAtm
 
 
 {-| Local Bar -}
@@ -6068,7 +6068,7 @@ localConvenienceStore = i "local_convenience_store" [ S.path [ SA.d "M19 7V4H5v3
 {-| Local Dining -}
 localDining : Icon
 localDining =
-    I.map F.localDining
+    I.map C.localDining
 
 
 {-| Local Drink -}
@@ -6134,7 +6134,7 @@ localOffer = i "local_offer" [ S.path [ SA.d "M21.41 11.58l-9-9C12.05 2.22 11.55
 {-| Local Parking -}
 localParking : Icon
 localParking =
-    I.map F.localParking
+    I.map C.localParking
 
 
 {-| Local Pharmacy -}
@@ -6190,7 +6190,7 @@ localTaxi = i "local_taxi" [ S.path [ SA.d "M18.92 6.01C18.72 5.42 18.16 5 17.5 
 {-| Location City -}
 locationCity : Icon
 locationCity =
-    I.map F.locationCity
+    I.map C.locationCity
 
 
 {-| Location Disabled -}
@@ -6211,7 +6211,7 @@ locationOn = i "location_on" [ S.path [ SA.d "M12 2C8.13 2 5 5.13 5 9c0 5.25 7 1
 {-| Location Searching -}
 locationSearching : Icon
 locationSearching =
-    I.map F.locationSearching
+    I.map C.locationSearching
 
 
 {-| Lock -}
@@ -6242,25 +6242,25 @@ lockReset = i "lock_reset" [ S.path [ SA.d "M13 3a9 9 0 0 0-9 9c0 .06.01.12.01.1
 {-| Log In -}
 logIn : Icon
 logIn =
-    I.map F.logIn
+    I.map C.logIn
 
 
 {-| Log Out -}
 logOut : Icon
 logOut =
-    I.map F.logOut
+    I.map C.logOut
 
 
 {-| Login -}
 login : Icon
 login =
-    I.map F.login
+    I.map C.login
 
 
 {-| Logo Dev -}
 logoDev : Icon
 logoDev =
-    I.map F.logoDev
+    I.map C.logoDev
 
 
 {-| Logout -}
@@ -6271,7 +6271,7 @@ logout = i "logout" [ S.path [ SA.d "M17 8l-1.41 1.41L17.17 11H9v2h8.17l-1.58 1.
 {-| Looks -}
 looks : Icon
 looks =
-    I.map F.looks
+    I.map C.looks
 
 
 {-| Looks 3 -}
@@ -6307,13 +6307,13 @@ looksTwo = i "looks_two" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2
 {-| Loop -}
 loop : Icon
 loop =
-    I.map F.loop
+    I.map C.loop
 
 
 {-| Loupe -}
 loupe : Icon
 loupe =
-    I.map F.loupe
+    I.map C.loupe
 
 
 {-| Low Priority -}
@@ -6329,13 +6329,13 @@ loyalty = i "loyalty" [ S.path [ SA.d "M21.41 11.58l-9-9C12.05 2.22 11.55 2 11 2
 {-| Lte Mobiledata -}
 lteMobiledata : Icon
 lteMobiledata =
-    I.map F.lteMobiledata
+    I.map C.lteMobiledata
 
 
 {-| Lte Plus Mobiledata -}
 ltePlusMobiledata : Icon
 ltePlusMobiledata =
-    I.map F.ltePlusMobiledata
+    I.map C.ltePlusMobiledata
 
 
 {-| Luggage -}
@@ -6371,37 +6371,37 @@ mailLock = i "mail_lock" [ S.path [ SA.d "M4 8l8 5l8-5v2h2V6c0-1.1-.9-2-2-2H4c-1
 {-| Mail Outline -}
 mailOutline : Icon
 mailOutline =
-    I.map F.mailOutline
+    I.map C.mailOutline
 
 
 {-| Male -}
 male : Icon
 male =
-    I.map F.male
+    I.map C.male
 
 
 {-| Man -}
 man : Icon
 man =
-    I.map F.man
+    I.map C.man
 
 
 {-| Man 2 -}
 man2 : Icon
 man2 =
-    I.map F.man2
+    I.map C.man2
 
 
 {-| Man 3 -}
 man3 : Icon
 man3 =
-    I.map F.man3
+    I.map C.man3
 
 
 {-| Man 4 -}
 man4 : Icon
 man4 =
-    I.map F.man4
+    I.map C.man4
 
 
 {-| Manage Accounts -}
@@ -6412,13 +6412,13 @@ manageAccounts = i "manage_accounts" [ S.path [ SA.d "M4 18v-.65c0-.34.16-.66.41
 {-| Manage History -}
 manageHistory : Icon
 manageHistory =
-    I.map F.manageHistory
+    I.map C.manageHistory
 
 
 {-| Manage Search -}
 manageSearch : Icon
 manageSearch =
-    I.map F.manageSearch
+    I.map C.manageSearch
 
 
 {-| Map -}
@@ -6495,13 +6495,13 @@ maximize =
 {-| Media Bluetooth Off -}
 mediaBluetoothOff : Icon
 mediaBluetoothOff =
-    I.map F.mediaBluetoothOff
+    I.map C.mediaBluetoothOff
 
 
 {-| Media Bluetooth On -}
 mediaBluetoothOn : Icon
 mediaBluetoothOn =
-    I.map F.mediaBluetoothOn
+    I.map C.mediaBluetoothOn
 
 
 {-| Mediation -}
@@ -6537,37 +6537,37 @@ meetingRoom = i "meeting_room" [ S.path [ SA.d "M19 19V4h-4V3H5v16H3v2h12V6h2v15
 {-| Memory -}
 memory : Icon
 memory =
-    I.map F.memory
+    I.map C.memory
 
 
 {-| Menu -}
 menu : Icon
 menu =
-    I.map F.menu
+    I.map C.menu
 
 
 {-| Menu Book -}
 menuBook : Icon
 menuBook =
-    I.map F.menuBook
+    I.map C.menuBook
 
 
 {-| Menu Open -}
 menuOpen : Icon
 menuOpen =
-    I.map F.menuOpen
+    I.map C.menuOpen
 
 
 {-| Merge -}
 merge : Icon
 merge =
-    I.map F.merge
+    I.map C.merge
 
 
 {-| Merge Type -}
 mergeType : Icon
 mergeType =
-    I.map F.mergeType
+    I.map C.mergeType
 
 
 {-| Message -}
@@ -6624,13 +6624,13 @@ minorCrash = i "minor_crash" [ S.path [ SA.d "M18.92 9.01C18.72 8.42 18.16 8 17.
 {-| Minus -}
 minus : Icon
 minus =
-    I.map F.minus
+    I.map C.minus
 
 
 {-| Miscellaneous Services -}
 miscellaneousServices : Icon
 miscellaneousServices =
-    I.map F.miscellaneousServices
+    I.map C.miscellaneousServices
 
 
 {-| Missed Video Call -}
@@ -6701,13 +6701,13 @@ modeOfTravel = i "mode_of_travel" [ S.path [ SA.d "M15.31 18.9c-.96 1-2.06 2.03-
 {-| Mode Standby -}
 modeStandby : Icon
 modeStandby =
-    I.map F.modeStandby
+    I.map C.modeStandby
 
 
 {-| Model Training -}
 modelTraining : Icon
 modelTraining =
-    I.map F.modelTraining
+    I.map C.modelTraining
 
 
 {-| Monetization On -}
@@ -6733,7 +6733,7 @@ moneyOffCsred = i "money_off_csred" [ S.path [ SA.d "M12.5 6.9c1.78 0 2.44.85 2.
 {-| Monitor -}
 monitor : Icon
 monitor =
-    I.map F.monitor
+    I.map C.monitor
 
 
 {-| Monitor Heart -}
@@ -6749,13 +6749,13 @@ monitorWeight = i "monitor_weight" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0
 {-| Monochrome Photos -}
 monochromePhotos : Icon
 monochromePhotos =
-    I.map F.monochromePhotos
+    I.map C.monochromePhotos
 
 
 {-| Mood -}
 mood : Icon
 mood =
-    I.map F.mood
+    I.map C.mood
 
 
 {-| Mood Bad -}
@@ -6776,19 +6776,19 @@ more = i "more" [ S.path [ SA.d "M22 3H7c-.69 0-1.23.35-1.59.88L0 12l5.41 8.11c.
 {-| More Horiz -}
 moreHoriz : Icon
 moreHoriz =
-    I.map F.moreHoriz
+    I.map C.moreHoriz
 
 
 {-| More Time -}
 moreTime : Icon
 moreTime =
-    I.map F.moreTime
+    I.map C.moreTime
 
 
 {-| More Vert -}
 moreVert : Icon
 moreVert =
-    I.map F.moreVert
+    I.map C.moreVert
 
 
 {-| Mosque -}
@@ -6819,7 +6819,7 @@ motionPhotosPause = i "motion_photos_pause" [ S.path [ SA.d "M2.88 7.88l1.54 1.5
 {-| Motion Photos Paused -}
 motionPhotosPaused : Icon
 motionPhotosPaused =
-    I.map F.motionPhotosPaused
+    I.map C.motionPhotosPaused
 
 
 {-| Motorcycle -}
@@ -6835,7 +6835,7 @@ mouse = i "mouse" [ S.path [ SA.d "M20 9c-.04-4.39-3.6-7.93-8-7.93S4.04 4.61 4 9
 {-| Move Down -}
 moveDown : Icon
 moveDown =
-    I.map F.moveDown
+    I.map C.moveDown
 
 
 {-| Move To Inbox -}
@@ -6846,7 +6846,7 @@ moveToInbox = i "move_to_inbox" [ S.path [ SA.d "M16 9h-2.55V6h-2.9v3H8l4 4zm3-6
 {-| Move Up -}
 moveUp : Icon
 moveUp =
-    I.map F.moveUp
+    I.map C.moveUp
 
 
 {-| Movie -}
@@ -6877,13 +6877,13 @@ mp = i "mp" [ S.path [ SA.d "M17 9h-3.5v6H15v-1.5h2c.55 0 1-.45 1-1V10c0-.55-.45
 {-| Multiline Chart -}
 multilineChart : Icon
 multilineChart =
-    I.map F.multilineChart
+    I.map C.multilineChart
 
 
 {-| Multiple Stop -}
 multipleStop : Icon
 multipleStop =
-    I.map F.multipleStop
+    I.map C.multipleStop
 
 
 {-| Museum -}
@@ -6904,19 +6904,19 @@ musicOff = i "music_off" [ S.path [ SA.d "M14 7h4V3h-6v4.61l2 2zm-2 3.44L4.41 2.
 {-| Music Video -}
 musicVideo : Icon
 musicVideo =
-    I.map F.musicVideo
+    I.map C.musicVideo
 
 
 {-| My Location -}
 myLocation : Icon
 myLocation =
-    I.map F.myLocation
+    I.map C.myLocation
 
 
 {-| Nat -}
 nat : Icon
 nat =
-    I.map F.nat
+    I.map C.nat
 
 
 {-| Nature -}
@@ -6957,13 +6957,13 @@ nearMeDisabled = i "near_me_disabled" [ S.path [ SA.d "M12 6.34L21 3l-3.34 9l-1.
 {-| Nearby Error -}
 nearbyError : Icon
 nearbyError =
-    I.map F.nearbyError
+    I.map C.nearbyError
 
 
 {-| Nearby Off -}
 nearbyOff : Icon
 nearbyOff =
-    I.map F.nearbyOff
+    I.map C.nearbyOff
 
 
 {-| Nest Cam Wired Stand -}
@@ -6974,13 +6974,13 @@ nestCamWiredStand = i "nest_cam_wired_stand" [ S.path [ SA.d "M16 1c-.15 0 .11-.
 {-| Network Cell -}
 networkCell : Icon
 networkCell =
-    I.map F.networkCell
+    I.map C.networkCell
 
 
 {-| Network Check -}
 networkCheck : Icon
 networkCheck =
-    I.map F.networkCheck
+    I.map C.networkCheck
 
 
 {-| Network Locked -}
@@ -6991,7 +6991,7 @@ networkLocked = i "network_locked" [ S.path [ SA.d "M22 16v-.5a2.5 2.5 0 0 0-5 0
 {-| Network Ping -}
 networkPing : Icon
 networkPing =
-    I.map F.networkPing
+    I.map C.networkPing
 
 
 {-| Network Wifi -}
@@ -7002,19 +7002,19 @@ networkWifi = i "network_wifi" [ S.path [ SA.d "M12 4C7.31 4 3.07 5.9 0 8.98L12 
 {-| Network Wifi 1 Bar -}
 networkWifi1Bar : Icon
 networkWifi1Bar =
-    I.map F.networkWifi1Bar
+    I.map C.networkWifi1Bar
 
 
 {-| Network Wifi 2 Bar -}
 networkWifi2Bar : Icon
 networkWifi2Bar =
-    I.map F.networkWifi2Bar
+    I.map C.networkWifi2Bar
 
 
 {-| Network Wifi 3 Bar -}
 networkWifi3Bar : Icon
 networkWifi3Bar =
-    I.map F.networkWifi3Bar
+    I.map C.networkWifi3Bar
 
 
 {-| New Label -}
@@ -7030,7 +7030,7 @@ newReleases = i "new_releases" [ S.path [ SA.d "M23 12l-2.44-2.78l.34-3.68l-3.61
 {-| Newspaper -}
 newspaper : Icon
 newspaper =
-    I.map F.newspaper
+    I.map C.newspaper
 
 
 {-| Next Plan -}
@@ -7046,7 +7046,7 @@ nextWeek = i "next_week" [ S.path [ SA.d "M11 18.5l4-4l-4-4l-1 1l3 3l-3 3zM20 7h
 {-| Nfc -}
 nfc : Icon
 nfc =
-    I.map F.nfc
+    I.map C.nfc
 
 
 {-| Night Shelter -}
@@ -7057,7 +7057,7 @@ nightShelter = i "night_shelter" [ S.path [ SA.d "M12 5.5l6 4.5v9H6v-9l6-4.5M12 
 {-| Nightlife -}
 nightlife : Icon
 nightlife =
-    I.map F.nightlife
+    I.map C.nightlife
 
 
 {-| Nightlight -}
@@ -7083,7 +7083,7 @@ noAccounts = i "no_accounts" [ S.path [ SA.d "M15.18 10.94c.2-.44.32-.92.32-1.44
 {-| No Adult Content -}
 noAdultContent : Icon
 noAdultContent =
-    I.map F.noAdultContent
+    I.map C.noAdultContent
 
 
 {-| No Backpack -}
@@ -7134,7 +7134,7 @@ noLuggage = i "no_luggage" [ S.path [ SA.d "M16 13.17l-1.5-1.5V9H16v4.17zm3.78 9
 {-| No Meals -}
 noMeals : Icon
 noMeals =
-    I.map F.noMeals
+    I.map C.noMeals
 
 
 {-| No Meeting Room -}
@@ -7165,37 +7165,37 @@ noTransfer = i "no_transfer" [ S.path [ SA.d "M8.5 13c.83 0 1.5.67 1.5 1.5S9.33 
 {-| Noise Aware -}
 noiseAware : Icon
 noiseAware =
-    I.map F.noiseAware
+    I.map C.noiseAware
 
 
 {-| Noise Control Off -}
 noiseControlOff : Icon
 noiseControlOff =
-    I.map F.noiseControlOff
+    I.map C.noiseControlOff
 
 
 {-| Nordic Walking -}
 nordicWalking : Icon
 nordicWalking =
-    I.map F.nordicWalking
+    I.map C.nordicWalking
 
 
 {-| North -}
 north : Icon
 north =
-    I.map F.north
+    I.map C.north
 
 
 {-| North East -}
 northEast : Icon
 northEast =
-    I.map F.northEast
+    I.map C.northEast
 
 
 {-| North West -}
 northWest : Icon
 northWest =
-    I.map F.northWest
+    I.map C.northWest
 
 
 {-| Not Accessible -}
@@ -7206,13 +7206,13 @@ notAccessible = i "not_accessible" [ S.path [ SA.d "M10 4c0-1.1.9-2 2-2s2 .9 2 2
 {-| Not Equal -}
 notEqual : Icon
 notEqual =
-    I.map F.notEqual
+    I.map C.notEqual
 
 
 {-| Not Interested -}
 notInterested : Icon
 notInterested =
-    I.map F.notInterested
+    I.map C.notInterested
 
 
 {-| Not Listed Location -}
@@ -7268,7 +7268,7 @@ notificationsActive = i "notifications_active" [ S.path [ SA.d "M12 22c1.1 0 2-.
 {-| Notifications None -}
 notificationsNone : Icon
 notificationsNone =
-    I.map F.notificationsNone
+    I.map C.notificationsNone
 
 
 {-| Notifications Off -}
@@ -7284,7 +7284,7 @@ notificationsPaused = i "notifications_paused" [ S.path [ SA.d "M9.5 9.8h2.8l-2.
 {-| Numbers -}
 numbers : Icon
 numbers =
-    I.map F.numbers
+    I.map C.numbers
 
 
 {-| Offline Bolt -}
@@ -7320,43 +7320,43 @@ ondemandVideo = i "ondemand_video" [ S.path [ SA.d "M9 7v8l7-4zm12-4H3c-1.1 0-2 
 {-| Online Prediction -}
 onlinePrediction : Icon
 onlinePrediction =
-    I.map F.onlinePrediction
+    I.map C.onlinePrediction
 
 
 {-| Opacity -}
 opacity : Icon
 opacity =
-    I.map F.opacity
+    I.map C.opacity
 
 
 {-| Open In Browser -}
 openInBrowser : Icon
 openInBrowser =
-    I.map F.openInBrowser
+    I.map C.openInBrowser
 
 
 {-| Open In Full -}
 openInFull : Icon
 openInFull =
-    I.map F.openInFull
+    I.map C.openInFull
 
 
 {-| Open In New -}
 openInNew : Icon
 openInNew =
-    I.map F.openInNew
+    I.map C.openInNew
 
 
 {-| Open In New Off -}
 openInNewOff : Icon
 openInNewOff =
-    I.map F.openInNewOff
+    I.map C.openInNewOff
 
 
 {-| Open With -}
 openWith : Icon
 openWith =
-    I.map F.openWith
+    I.map C.openWith
 
 
 {-| Other Houses -}
@@ -7392,13 +7392,13 @@ outlet = i "outlet" [ S.path [ SA.d "M12 4c4.41 0 8 3.59 8 8s-3.59 8-8 8s-8-3.59
 {-| Outlined Flag -}
 outlinedFlag : Icon
 outlinedFlag =
-    I.map F.outlinedFlag
+    I.map C.outlinedFlag
 
 
 {-| Output -}
 output : Icon
 output =
-    I.map F.output
+    I.map C.output
 
 
 {-| Padding -}
@@ -7444,7 +7444,7 @@ panorama = i "panorama" [ S.path [ SA.d "M21 4H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 
 {-| Panorama Fish Eye -}
 panoramaFishEye : Icon
 panoramaFishEye =
-    I.map F.panoramaFishEye
+    I.map C.panoramaFishEye
 
 
 {-| Panorama Horizontal -}
@@ -7505,19 +7505,19 @@ partyMode = i "party_mode" [ S.path [ SA.d "M20 4h-3.17L15 2H9L7.17 4H4c-1.1 0-2
 {-| Password -}
 password : Icon
 password =
-    I.map F.password
+    I.map C.password
 
 
 {-| Pattern -}
 pattern : Icon
 pattern =
-    I.map F.pattern
+    I.map C.pattern
 
 
 {-| Pause -}
 pause : Icon
 pause =
-    I.map F.pause
+    I.map C.pause
 
 
 {-| Pause Circle -}
@@ -7528,13 +7528,13 @@ pauseCircle = i "pause_circle" [ S.path [ SA.d "M9 16h2V8H9v8zm3-14C6.48 2 2 6.4
 {-| Pause Circle Filled -}
 pauseCircleFilled : Icon
 pauseCircleFilled =
-    I.map F.pauseCircleFilled
+    I.map C.pauseCircleFilled
 
 
 {-| Pause Circle Outline -}
 pauseCircleOutline : Icon
 pauseCircleOutline =
-    I.map F.pauseCircleOutline
+    I.map C.pauseCircleOutline
 
 
 {-| Pause Presentation -}
@@ -7545,7 +7545,7 @@ pausePresentation = i "pause_presentation" [ S.path [ SA.d "M21 3H3c-1.1 0-2 .85
 {-| Payment -}
 payment : Icon
 payment =
-    I.map F.payment
+    I.map C.payment
 
 
 {-| Payments -}
@@ -7556,13 +7556,13 @@ payments = i "payments" [ S.path [ SA.d "M19 14V6c0-1.1-.9-2-2-2H3c-1.1 0-2 .9-2
 {-| Paypal -}
 paypal : Icon
 paypal =
-    I.map F.paypal
+    I.map C.paypal
 
 
 {-| Pedal Bike -}
 pedalBike : Icon
 pedalBike =
-    I.map F.pedalBike
+    I.map C.pedalBike
 
 
 {-| Pending -}
@@ -7573,7 +7573,7 @@ pending = i "pending" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10
 {-| Pending Actions -}
 pendingActions : Icon
 pendingActions =
-    I.map F.pendingActions
+    I.map C.pendingActions
 
 
 {-| Pentagon -}
@@ -7694,7 +7694,7 @@ personOff = i "person_off" [ S.path [ SA.d "M20 17.17l-3.37-3.38c.64.22 1.23.48 
 {-| Person Outline -}
 personOutline : Icon
 personOutline =
-    I.map F.personOutline
+    I.map C.personOutline
 
 
 {-| Person Pin -}
@@ -7730,7 +7730,7 @@ personalInjury = i "personal_injury" [ S.path [ SA.d "M12 10c2.21 0 4-1.79 4-4s-
 {-| Personal Video -}
 personalVideo : Icon
 personalVideo =
-    I.map F.personalVideo
+    I.map C.personalVideo
 
 
 {-| Pest Control -}
@@ -7746,7 +7746,7 @@ pestControlRodent = i "pest_control_rodent" [ S.circle [ SA.cx "17", SA.cy "17",
 {-| Pets -}
 pets : Icon
 pets =
-    I.map F.pets
+    I.map C.pets
 
 
 {-| Phishing -}
@@ -7797,7 +7797,7 @@ phoneInTalk = i "phone_in_talk" [ S.path [ SA.d "M15 12h2c0-2.76-2.24-5-5-5v2c1.
 {-| Phone Iphone -}
 phoneIphone : Icon
 phoneIphone =
-    I.map F.phoneIphone
+    I.map C.phoneIphone
 
 
 {-| Phone Locked -}
@@ -7818,19 +7818,19 @@ phonePaused = i "phone_paused" [ S.path [ SA.d "M6.54 5c.06.88.21 1.75.44 2.58l-
 {-| Phonelink -}
 phonelink : Icon
 phonelink =
-    I.map F.phonelink
+    I.map C.phonelink
 
 
 {-| Phonelink Erase -}
 phonelinkErase : Icon
 phonelinkErase =
-    I.map F.phonelinkErase
+    I.map C.phonelinkErase
 
 
 {-| Phonelink Lock -}
 phonelinkLock : Icon
 phonelinkLock =
-    I.map F.phonelinkLock
+    I.map C.phonelinkLock
 
 
 {-| Phonelink Off -}
@@ -7841,7 +7841,7 @@ phonelinkOff = i "phonelink_off" [ S.path [ SA.d "M22 6V4H7.39l2 2zm2 13V9c0-.55
 {-| Phonelink Ring -}
 phonelinkRing : Icon
 phonelinkRing =
-    I.map F.phonelinkRing
+    I.map C.phonelinkRing
 
 
 {-| Phonelink Setup -}
@@ -7892,31 +7892,31 @@ photoSizeSelectActual = i "photo_size_select_actual" [ S.path [ SA.d "M21 3H3C2 
 {-| Photo Size Select Large -}
 photoSizeSelectLarge : Icon
 photoSizeSelectLarge =
-    I.map F.photoSizeSelectLarge
+    I.map C.photoSizeSelectLarge
 
 
 {-| Photo Size Select Small -}
 photoSizeSelectSmall : Icon
 photoSizeSelectSmall =
-    I.map F.photoSizeSelectSmall
+    I.map C.photoSizeSelectSmall
 
 
 {-| Php -}
 php : Icon
 php =
-    I.map F.php
+    I.map C.php
 
 
 {-| Piano -}
 piano : Icon
 piano =
-    I.map F.piano
+    I.map C.piano
 
 
 {-| Piano Off -}
 pianoOff : Icon
 pianoOff =
-    I.map F.pianoOff
+    I.map C.pianoOff
 
 
 {-| Picture As Pdf -}
@@ -7942,7 +7942,7 @@ pieChart = i "pie_chart" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10
 {-| Pie Chart Outline -}
 pieChartOutline : Icon
 pieChartOutline =
-    I.map F.pieChartOutline
+    I.map C.pieChartOutline
 
 
 {-| Pin -}
@@ -7983,7 +7983,7 @@ pivotTableChart = i "pivot_table_chart" [ S.path [ SA.d "M21 5c0-1.1-.9-2-2-2h-9
 {-| Pix -}
 pix : Icon
 pix =
-    I.map F.pix
+    I.map C.pix
 
 
 {-| Place -}
@@ -8009,7 +8009,7 @@ playCircle = i "play_circle" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 10 1
 {-| Play Circle Filled -}
 playCircleFilled : Icon
 playCircleFilled =
-    I.map F.playCircleFilled
+    I.map C.playCircleFilled
 
 
 {-| Play Circle Filled White -}
@@ -8030,7 +8030,7 @@ playDisabled = i "play_disabled" [ S.path [ SA.d "M16.45 13.62L19 12L8 5v.17zM2.
 {-| Play For Work -}
 playForWork : Icon
 playForWork =
-    I.map F.playForWork
+    I.map C.playForWork
 
 
 {-| Play Lesson -}
@@ -8041,13 +8041,13 @@ playLesson = i "play_lesson" [ S.path [ SA.d "M5 20V4h2v7l2.5-1.5L12 11V4h5v7.08
 {-| Playlist Add -}
 playlistAdd : Icon
 playlistAdd =
-    I.map F.playlistAdd
+    I.map C.playlistAdd
 
 
 {-| Playlist Add Check -}
 playlistAddCheck : Icon
 playlistAddCheck =
-    I.map F.playlistAddCheck
+    I.map C.playlistAddCheck
 
 
 {-| Playlist Add Check Circle -}
@@ -8063,37 +8063,37 @@ playlistAddCircle = i "playlist_add_circle" [ S.path [ SA.d "M12 2C6.48 2 2 6.48
 {-| Playlist Play -}
 playlistPlay : Icon
 playlistPlay =
-    I.map F.playlistPlay
+    I.map C.playlistPlay
 
 
 {-| Playlist Remove -}
 playlistRemove : Icon
 playlistRemove =
-    I.map F.playlistRemove
+    I.map C.playlistRemove
 
 
 {-| Plumbing -}
 plumbing : Icon
 plumbing =
-    I.map F.plumbing
+    I.map C.plumbing
 
 
 {-| Plus -}
 plus : Icon
 plus =
-    I.map F.plus
+    I.map C.plus
 
 
 {-| Plus Minus -}
 plusMinus : Icon
 plusMinus =
-    I.map F.plusMinus
+    I.map C.plusMinus
 
 
 {-| Plus Minus Alt -}
 plusMinusAlt : Icon
 plusMinusAlt =
-    I.map F.plusMinusAlt
+    I.map C.plusMinusAlt
 
 
 {-| Plus One -}
@@ -8104,13 +8104,13 @@ plusOne = i "plus_one" [ S.path [ SA.d "M10 8H8v4H4v2h4v4h2v-4h4v-2h-4V8zm4.5-1.
 {-| Podcasts -}
 podcasts : Icon
 podcasts =
-    I.map F.podcasts
+    I.map C.podcasts
 
 
 {-| Point Of Sale -}
 pointOfSale : Icon
 pointOfSale =
-    I.map F.pointOfSale
+    I.map C.pointOfSale
 
 
 {-| Policy -}
@@ -8151,7 +8151,7 @@ portrait = i "portrait" [ S.path [ SA.d "M12 12c1.65 0 3-1.35 3-3s-1.35-3-3-3s-3
 {-| Post Add -}
 postAdd : Icon
 postAdd =
-    I.map F.postAdd
+    I.map C.postAdd
 
 
 {-| Power -}
@@ -8162,7 +8162,7 @@ power = i "power" [ S.path [ SA.d "M16 9v4.66l-3.5 3.51V19h-1v-1.83L8 13.65V9h8m
 {-| Power Input -}
 powerInput : Icon
 powerInput =
-    I.map F.powerInput
+    I.map C.powerInput
 
 
 {-| Power Off -}
@@ -8173,7 +8173,7 @@ powerOff = i "power_off" [ S.path [ SA.d "M10 3H8v1.88l2 2zm6 6v3.88l1.8 1.8l.2-
 {-| Power Settings New -}
 powerSettingsNew : Icon
 powerSettingsNew =
-    I.map F.powerSettingsNew
+    I.map C.powerSettingsNew
 
 
 {-| Precision Manufacturing -}
@@ -8184,13 +8184,13 @@ precisionManufacturing = i "precision_manufacturing" [ S.path [ SA.d "M19.93 8.3
 {-| Pregnant Woman -}
 pregnantWoman : Icon
 pregnantWoman =
-    I.map F.pregnantWoman
+    I.map C.pregnantWoman
 
 
 {-| Present To All -}
 presentToAll : Icon
 presentToAll =
-    I.map F.presentToAll
+    I.map C.presentToAll
 
 
 {-| Preview -}
@@ -8221,7 +8221,7 @@ printDisabled = i "print_disabled" [ S.path [ SA.d "M1.41 1.6L0 3.01L5 8c-1.66 0
 {-| Priority High -}
 priorityHigh : Icon
 priorityHigh =
-    I.map F.priorityHigh
+    I.map C.priorityHigh
 
 
 {-| Privacy Tip -}
@@ -8237,7 +8237,7 @@ privateConnectivity = i "private_connectivity" [ S.path [ SA.d "M12 7c2.76 0 5 2
 {-| Production Quantity Limits -}
 productionQuantityLimits : Icon
 productionQuantityLimits =
-    I.map F.productionQuantityLimits
+    I.map C.productionQuantityLimits
 
 
 {-| Propane -}
@@ -8268,7 +8268,7 @@ public = i "public" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4
 {-| Public Off -}
 publicOff : Icon
 publicOff =
-    I.map F.publicOff
+    I.map C.publicOff
 
 
 {-| Publish -}
@@ -8294,25 +8294,25 @@ pushPin = i "push_pin" [ S.path [ SA.d "M14 4v5c0 1.12.37 2.16 1 3H9c.65-.86 1-1
 {-| Qr Code -}
 qrCode : Icon
 qrCode =
-    I.map F.qrCode
+    I.map C.qrCode
 
 
 {-| Qr Code 2 -}
 qrCode2 : Icon
 qrCode2 =
-    I.map F.qrCode2
+    I.map C.qrCode2
 
 
 {-| Qr Code Scanner -}
 qrCodeScanner : Icon
 qrCodeScanner =
-    I.map F.qrCodeScanner
+    I.map C.qrCodeScanner
 
 
 {-| Qrcode -}
 qrcode : Icon
 qrcode =
-    I.map F.qrcode
+    I.map C.qrcode
 
 
 {-| Query Builder -}
@@ -8323,7 +8323,7 @@ queryBuilder = i "query_builder" [ S.path [ SA.d "M11.99 2C6.47 2 2 6.48 2 12s4.
 {-| Query Stats -}
 queryStats : Icon
 queryStats =
-    I.map F.queryStats
+    I.map C.queryStats
 
 
 {-| Question Answer -}
@@ -8334,7 +8334,7 @@ questionAnswer = i "question_answer" [ S.path [ SA.d "M15 4v7H5.17l-.59.59l-.58.
 {-| Question Mark -}
 questionMark : Icon
 questionMark =
-    I.map F.questionMark
+    I.map C.questionMark
 
 
 {-| Queue -}
@@ -8350,7 +8350,7 @@ queueMusic = i "queue_music" [ S.path [ SA.d "M22 6h-5v8.18c-.31-.11-.65-.18-1-.
 {-| Queue Play Next -}
 queuePlayNext : Icon
 queuePlayNext =
-    I.map F.queuePlayNext
+    I.map C.queuePlayNext
 
 
 {-| Quickreply -}
@@ -8366,19 +8366,19 @@ quiz = i "quiz" [ S.path [ SA.d "M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 
 {-| Quora -}
 quora : Icon
 quora =
-    I.map F.quora
+    I.map C.quora
 
 
 {-| R Mobiledata -}
 rMobiledata : Icon
 rMobiledata =
-    I.map F.rMobiledata
+    I.map C.rMobiledata
 
 
 {-| Radar -}
 radar : Icon
 radar =
-    I.map F.radar
+    I.map C.radar
 
 
 {-| Radio -}
@@ -8394,7 +8394,7 @@ radioButtonChecked = i "radio_button_checked" [ S.path [ SA.d "M12 2C6.48 2 2 6.
 {-| Radio Button Unchecked -}
 radioButtonUnchecked : Icon
 radioButtonUnchecked =
-    I.map F.radioButtonUnchecked
+    I.map C.radioButtonUnchecked
 
 
 {-| Railway Alert -}
@@ -8410,13 +8410,13 @@ ramenDining = i "ramen_dining" [ S.path [ SA.d "M19.66 14c-.66 1.92-2.24 3.54-4.
 {-| Ramp Left -}
 rampLeft : Icon
 rampLeft =
-    I.map F.rampLeft
+    I.map C.rampLeft
 
 
 {-| Ramp Right -}
 rampRight : Icon
 rampRight =
-    I.map F.rampRight
+    I.map C.rampRight
 
 
 {-| Rate Review -}
@@ -8427,19 +8427,19 @@ rateReview = i "rate_review" [ S.path [ SA.d "M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l
 {-| Raw Off -}
 rawOff : Icon
 rawOff =
-    I.map F.rawOff
+    I.map C.rawOff
 
 
 {-| Raw On -}
 rawOn : Icon
 rawOn =
-    I.map F.rawOn
+    I.map C.rawOn
 
 
 {-| Read More -}
 readMore : Icon
 readMore =
-    I.map F.readMore
+    I.map C.readMore
 
 
 {-| Real Estate Agent -}
@@ -8481,37 +8481,37 @@ rectangle =
 {-| Recycling -}
 recycling : Icon
 recycling =
-    I.map F.recycling
+    I.map C.recycling
 
 
 {-| Reddit -}
 reddit : Icon
 reddit =
-    I.map F.reddit
+    I.map C.reddit
 
 
 {-| Redeem -}
 redeem : Icon
 redeem =
-    I.map F.redeem
+    I.map C.redeem
 
 
 {-| Redo -}
 redo : Icon
 redo =
-    I.map F.redo
+    I.map C.redo
 
 
 {-| Reduce Capacity -}
 reduceCapacity : Icon
 reduceCapacity =
-    I.map F.reduceCapacity
+    I.map C.reduceCapacity
 
 
 {-| Refresh -}
 refresh : Icon
 refresh =
-    I.map F.refresh
+    I.map C.refresh
 
 
 {-| Remember Me -}
@@ -8522,19 +8522,19 @@ rememberMe = i "remember_me" [ S.path [ SA.d "M17 1H7c-1.1 0-2 .9-2 2v18c0 1.1.9
 {-| Remove -}
 remove : Icon
 remove =
-    I.map F.remove
+    I.map C.remove
 
 
 {-| Remove Circle -}
 removeCircle : Icon
 removeCircle =
-    I.map F.removeCircle
+    I.map C.removeCircle
 
 
 {-| Remove Circle Outline -}
 removeCircleOutline : Icon
 removeCircleOutline =
-    I.map F.removeCircleOutline
+    I.map C.removeCircleOutline
 
 
 {-| Remove Done -}
@@ -8560,7 +8560,7 @@ removeRedEye = i "remove_red_eye" [ S.path [ SA.d "M12 6.5a9.77 9.77 0 0 1 8.82 
 {-| Remove Road -}
 removeRoad : Icon
 removeRoad =
-    I.map F.removeRoad
+    I.map C.removeRoad
 
 
 {-| Remove Shopping Cart -}
@@ -8571,19 +8571,19 @@ removeShoppingCart = i "remove_shopping_cart" [ S.path [ SA.d "M1.41 1.13L0 2.54
 {-| Reorder -}
 reorder : Icon
 reorder =
-    I.map F.reorder
+    I.map C.reorder
 
 
 {-| Repartition -}
 repartition : Icon
 repartition =
-    I.map F.repartition
+    I.map C.repartition
 
 
 {-| Repeat -}
 repeat : Icon
 repeat =
-    I.map F.repeat
+    I.map C.repeat
 
 
 {-| Repeat On -}
@@ -8594,7 +8594,7 @@ repeatOn = i "repeat_on" [ S.path [ SA.d "M21 1H3c-1.1 0-2 .9-2 2v18c0 1.1.9 2 2
 {-| Repeat One -}
 repeatOne : Icon
 repeatOne =
-    I.map F.repeatOne
+    I.map C.repeatOne
 
 
 {-| Repeat One On -}
@@ -8605,7 +8605,7 @@ repeatOneOn = i "repeat_one_on" [ S.path [ SA.d "M21 1H3c-1.1 0-2 .9-2 2v18c0 1.
 {-| Replay -}
 replay : Icon
 replay =
-    I.map F.replay
+    I.map C.replay
 
 
 {-| Replay 10 -}
@@ -8631,13 +8631,13 @@ replayCircleFilled = i "replay_circle_filled" [ S.path [ SA.d "M12 2C6.48 2 2 6.
 {-| Reply -}
 reply : Icon
 reply =
-    I.map F.reply
+    I.map C.reply
 
 
 {-| Reply All -}
 replyAll : Icon
 replyAll =
-    I.map F.replyAll
+    I.map C.replyAll
 
 
 {-| Report -}
@@ -8688,7 +8688,7 @@ restaurant = i "restaurant" [ S.path [ SA.d "M16 6v8h3v8h2V2c-2.76 0-5 2.24-5 4z
 {-| Restaurant Menu -}
 restaurantMenu : Icon
 restaurantMenu =
-    I.map F.restaurantMenu
+    I.map C.restaurantMenu
 
 
 {-| Restore -}
@@ -8749,7 +8749,7 @@ rollerSkating = i "roller_skating" [ S.path [ SA.d "M20 12a3.96 3.96 0 0 0-2.91-
 {-| Roofing -}
 roofing : Icon
 roofing =
-    I.map F.roofing
+    I.map C.roofing
 
 
 {-| Room -}
@@ -8770,7 +8770,7 @@ roomService = i "room_service" [ S.path [ SA.d "M18.98 17H2v2h20v-2zM21 16c-.27-
 {-| Rotate 90 Degrees Ccw -}
 rotate90DegreesCcw : Icon
 rotate90DegreesCcw =
-    I.map F.rotate90DegreesCcw
+    I.map C.rotate90DegreesCcw
 
 
 {-| Rotate 90 Degrees Cw -}
@@ -8781,31 +8781,31 @@ rotate90DegreesCw = i "rotate_90_degrees_cw" [ S.path [ SA.d "M2 13a9 9 0 0 0 13
 {-| Rotate Left -}
 rotateLeft : Icon
 rotateLeft =
-    I.map F.rotateLeft
+    I.map C.rotateLeft
 
 
 {-| Rotate Right -}
 rotateRight : Icon
 rotateRight =
-    I.map F.rotateRight
+    I.map C.rotateRight
 
 
 {-| Roundabout Left -}
 roundaboutLeft : Icon
 roundaboutLeft =
-    I.map F.roundaboutLeft
+    I.map C.roundaboutLeft
 
 
 {-| Roundabout Right -}
 roundaboutRight : Icon
 roundaboutRight =
-    I.map F.roundaboutRight
+    I.map C.roundaboutRight
 
 
 {-| Rounded Corner -}
 roundedCorner : Icon
 roundedCorner =
-    I.map F.roundedCorner
+    I.map C.roundedCorner
 
 
 {-| Route -}
@@ -8826,25 +8826,25 @@ rowing = i "rowing" [ S.path [ SA.d "M8.5 14.5L4 19l1.5 1.5L9 17h2l-2.5-2.5zM15 
 {-| Rss Feed -}
 rssFeed : Icon
 rssFeed =
-    I.map F.rssFeed
+    I.map C.rssFeed
 
 
 {-| Rsvp -}
 rsvp : Icon
 rsvp =
-    I.map F.rsvp
+    I.map C.rsvp
 
 
 {-| Rtt -}
 rtt : Icon
 rtt =
-    I.map F.rtt
+    I.map C.rtt
 
 
 {-| Rule -}
 rule : Icon
 rule =
-    I.map F.rule
+    I.map C.rule
 
 
 {-| Rule Folder -}
@@ -8860,7 +8860,7 @@ runCircle = i "run_circle" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 
 {-| Running With Errors -}
 runningWithErrors : Icon
 runningWithErrors =
-    I.map F.runningWithErrors
+    I.map C.runningWithErrors
 
 
 {-| Rv Hookup -}
@@ -8876,7 +8876,7 @@ safetyCheck = i "safety_check" [ S.path [ SA.d "M12 2L4 5v6.09c0 5.05 3.41 9.76 
 {-| Safety Divider -}
 safetyDivider : Icon
 safetyDivider =
-    I.map F.safetyDivider
+    I.map C.safetyDivider
 
 
 {-| Sailing -}
@@ -8997,13 +8997,13 @@ screenLockRotation = i "screen_lock_rotation" [ S.path [ SA.d "M22.3 13.77l-2.57
 {-| Screen Rotation -}
 screenRotation : Icon
 screenRotation =
-    I.map F.screenRotation
+    I.map C.screenRotation
 
 
 {-| Screen Rotation Alt -}
 screenRotationAlt : Icon
 screenRotationAlt =
-    I.map F.screenRotationAlt
+    I.map C.screenRotationAlt
 
 
 {-| Screen Search Desktop -}
@@ -9024,13 +9024,13 @@ screenshot = i "screenshot" [ S.path [ SA.d "M17 1.01L7 1c-1.1 0-2 .9-2 2v18c0 1
 {-| Screenshot Monitor -}
 screenshotMonitor : Icon
 screenshotMonitor =
-    I.map F.screenshotMonitor
+    I.map C.screenshotMonitor
 
 
 {-| Scuba Diving -}
 scubaDiving : Icon
 scubaDiving =
-    I.map F.scubaDiving
+    I.map C.scubaDiving
 
 
 {-| Sd -}
@@ -9056,19 +9056,19 @@ sdStorage = i "sd_storage" [ S.path [ SA.d "M18 4v16H6V8.83L10.83 4H18m0-2h-8L4 
 {-| Search -}
 search : Icon
 search =
-    I.map F.search
+    I.map C.search
 
 
 {-| Search Off -}
 searchOff : Icon
 searchOff =
-    I.map F.searchOff
+    I.map C.searchOff
 
 
 {-| Security -}
 security : Icon
 security =
-    I.map F.security
+    I.map C.security
 
 
 {-| Security Update -}
@@ -9089,19 +9089,19 @@ securityUpdateWarning = i "security_update_warning" [ S.path [ SA.d "M11 15h2v2h
 {-| Segment -}
 segment : Icon
 segment =
-    I.map F.segment
+    I.map C.segment
 
 
 {-| Select All -}
 selectAll : Icon
 selectAll =
-    I.map F.selectAll
+    I.map C.selectAll
 
 
 {-| Self Improvement -}
 selfImprovement : Icon
 selfImprovement =
-    I.map F.selfImprovement
+    I.map C.selfImprovement
 
 
 {-| Sell -}
@@ -9147,13 +9147,13 @@ sensorWindow = i "sensor_window" [ S.path [ SA.d "M18 2H6c-1.1 0-2 .9-2 2v16c0 1
 {-| Sensors -}
 sensors : Icon
 sensors =
-    I.map F.sensors
+    I.map C.sensors
 
 
 {-| Sensors Off -}
 sensorsOff : Icon
 sensorsOff =
-    I.map F.sensorsOff
+    I.map C.sensorsOff
 
 
 {-| Sentiment Dissatisfied -}
@@ -9204,7 +9204,7 @@ settings = i "settings" [ S.path [ SA.d "M19.43 12.98c.04-.32.07-.64.07-.98c0-.3
 {-| Settings Accessibility -}
 settingsAccessibility : Icon
 settingsAccessibility =
-    I.map F.settingsAccessibility
+    I.map C.settingsAccessibility
 
 
 {-| Settings Applications -}
@@ -9215,19 +9215,19 @@ settingsApplications = i "settings_applications" [ S.path [ SA.d "M6.21 13.97l1.
 {-| Settings Backup Restore -}
 settingsBackupRestore : Icon
 settingsBackupRestore =
-    I.map F.settingsBackupRestore
+    I.map C.settingsBackupRestore
 
 
 {-| Settings Bluetooth -}
 settingsBluetooth : Icon
 settingsBluetooth =
-    I.map F.settingsBluetooth
+    I.map C.settingsBluetooth
 
 
 {-| Settings Brightness -}
 settingsBrightness : Icon
 settingsBrightness =
-    I.map F.settingsBrightness
+    I.map C.settingsBrightness
 
 
 {-| Settings Cell -}
@@ -9238,13 +9238,13 @@ settingsCell = i "settings_cell" [ S.path [ SA.d "M7 22h2v2H7zm4 0h2v2h-2zm4 0h2
 {-| Settings Ethernet -}
 settingsEthernet : Icon
 settingsEthernet =
-    I.map F.settingsEthernet
+    I.map C.settingsEthernet
 
 
 {-| Settings Input Antenna -}
 settingsInputAntenna : Icon
 settingsInputAntenna =
-    I.map F.settingsInputAntenna
+    I.map C.settingsInputAntenna
 
 
 {-| Settings Input Component -}
@@ -9265,13 +9265,13 @@ settingsInputHdmi = i "settings_input_hdmi" [ S.path [ SA.d "M18 7V4c0-1.1-.9-2-
 {-| Settings Input Svideo -}
 settingsInputSvideo : Icon
 settingsInputSvideo =
-    I.map F.settingsInputSvideo
+    I.map C.settingsInputSvideo
 
 
 {-| Settings Overscan -}
 settingsOverscan : Icon
 settingsOverscan =
-    I.map F.settingsOverscan
+    I.map C.settingsOverscan
 
 
 {-| Settings Phone -}
@@ -9282,7 +9282,7 @@ settingsPhone = i "settings_phone" [ S.path [ SA.d "M11 9h2v2h-2zm4 0h2v2h-2zm5 
 {-| Settings Power -}
 settingsPower : Icon
 settingsPower =
-    I.map F.settingsPower
+    I.map C.settingsPower
 
 
 {-| Settings Remote -}
@@ -9308,7 +9308,7 @@ settingsVoice = i "settings_voice" [ S.path [ SA.d "M7 22h2v2H7zm5-9c1.66 0 3-1.
 {-| Severe Cold -}
 severeCold : Icon
 severeCold =
-    I.map F.severeCold
+    I.map C.severeCold
 
 
 {-| Shape Line -}
@@ -9329,7 +9329,7 @@ shareArrivalTime = i "share_arrival_time" [ S.path [ SA.d "M8 4c-4.42 0-8 3.58-8
 {-| Share Location -}
 shareLocation : Icon
 shareLocation =
-    I.map F.shareLocation
+    I.map C.shareLocation
 
 
 {-| Shield -}
@@ -9360,7 +9360,7 @@ shopTwo = i "shop_two" [ S.path [ SA.d "M3 9H1v11c0 1.11.89 2 2 2h14c1.11 0 2-.8
 {-| Shopify -}
 shopify : Icon
 shopify =
-    I.map F.shopify
+    I.map C.shopify
 
 
 {-| Shopping Bag -}
@@ -9381,13 +9381,13 @@ shoppingCart = i "shopping_cart" [ S.path [ SA.d "M15.55 13c.75 0 1.41-.41 1.75-
 {-| Shopping Cart Checkout -}
 shoppingCartCheckout : Icon
 shoppingCartCheckout =
-    I.map F.shoppingCartCheckout
+    I.map C.shoppingCartCheckout
 
 
 {-| Short Text -}
 shortText : Icon
 shortText =
-    I.map F.shortText
+    I.map C.shortText
 
 
 {-| Shortcut -}
@@ -9408,7 +9408,7 @@ shower = i "shower" [ S.path [ SA.d "M9 17c0 .55-.45 1-1 1s-1-.45-1-1s.45-1 1-1s
 {-| Shuffle -}
 shuffle : Icon
 shuffle =
-    I.map F.shuffle
+    I.map C.shuffle
 
 
 {-| Shuffle On -}
@@ -9419,7 +9419,7 @@ shuffleOn = i "shuffle_on" [ S.path [ SA.d "M21 1H3c-1.1 0-2 .9-2 2v18c0 1.1.9 2
 {-| Shutter Speed -}
 shutterSpeed : Icon
 shutterSpeed =
-    I.map F.shutterSpeed
+    I.map C.shutterSpeed
 
 
 {-| Sick -}
@@ -9466,19 +9466,19 @@ signalCellularAlt = i "signal_cellular_alt" [ S.path [ SA.d "M17 4h3v16h-3V4zM5 
 {-| Signal Cellular Alt 1 Bar -}
 signalCellularAlt1Bar : Icon
 signalCellularAlt1Bar =
-    I.map F.signalCellularAlt1Bar
+    I.map C.signalCellularAlt1Bar
 
 
 {-| Signal Cellular Alt 2 Bar -}
 signalCellularAlt2Bar : Icon
 signalCellularAlt2Bar =
-    I.map F.signalCellularAlt2Bar
+    I.map C.signalCellularAlt2Bar
 
 
 {-| Signal Cellular Connected No Internet 0 Bar -}
 signalCellularConnectedNoInternet0Bar : Icon
 signalCellularConnectedNoInternet0Bar =
-    I.map F.signalCellularConnectedNoInternet0Bar
+    I.map C.signalCellularConnectedNoInternet0Bar
 
 
 {-| Signal Cellular Connected No Internet 1 Bar -}
@@ -9499,7 +9499,7 @@ signalCellularConnectedNoInternet3Bar = i "signal_cellular_connected_no_internet
 {-| Signal Cellular Connected No Internet 4 Bar -}
 signalCellularConnectedNoInternet4Bar : Icon
 signalCellularConnectedNoInternet4Bar =
-    I.map F.signalCellularConnectedNoInternet4Bar
+    I.map C.signalCellularConnectedNoInternet4Bar
 
 
 {-| Signal Cellular No Sim -}
@@ -9510,13 +9510,13 @@ signalCellularNoSim = i "signal_cellular_no_sim" [ S.path [ SA.d "M10.83 5H17v9.
 {-| Signal Cellular Nodata -}
 signalCellularNodata : Icon
 signalCellularNodata =
-    I.map F.signalCellularNodata
+    I.map C.signalCellularNodata
 
 
 {-| Signal Cellular Null -}
 signalCellularNull : Icon
 signalCellularNull =
-    I.map F.signalCellularNull
+    I.map C.signalCellularNull
 
 
 {-| Signal Cellular Off -}
@@ -9532,7 +9532,7 @@ signalWifi0Bar = i "signal_wifi_0_bar" [ S.path [ SA.d "M12 4C7.31 4 3.07 5.9 0 
 {-| Signal Wifi 1 Bar -}
 signalWifi1Bar : Icon
 signalWifi1Bar =
-    I.map F.signalWifi1Bar
+    I.map C.signalWifi1Bar
 
 
 {-| Signal Wifi 1 Bar Lock -}
@@ -9563,13 +9563,13 @@ signalWifi3BarLock = i "signal_wifi_3_bar_lock" [ S.path [ SA.fillOpacity ".3" ,
 {-| Signal Wifi 4 Bar -}
 signalWifi4Bar : Icon
 signalWifi4Bar =
-    I.map F.signalWifi4Bar
+    I.map C.signalWifi4Bar
 
 
 {-| Signal Wifi 4 Bar Lock -}
 signalWifi4BarLock : Icon
 signalWifi4BarLock =
-    I.map F.signalWifi4BarLock
+    I.map C.signalWifi4BarLock
 
 
 {-| Signal Wifi Bad -}
@@ -9590,19 +9590,19 @@ signalWifiOff = i "signal_wifi_off" [ S.path [ SA.d "M23.64 7c-.45-.34-4.93-4-11
 {-| Signal Wifi Statusbar 4 Bar -}
 signalWifiStatusbar4Bar : Icon
 signalWifiStatusbar4Bar =
-    I.map F.signalWifiStatusbar4Bar
+    I.map C.signalWifiStatusbar4Bar
 
 
 {-| Signal Wifi Statusbar Connected No Internet 4 -}
 signalWifiStatusbarConnectedNoInternet4 : Icon
 signalWifiStatusbarConnectedNoInternet4 =
-    I.map F.signalWifiStatusbarConnectedNoInternet4
+    I.map C.signalWifiStatusbarConnectedNoInternet4
 
 
 {-| Signal Wifi Statusbar Null -}
 signalWifiStatusbarNull : Icon
 signalWifiStatusbarNull =
-    I.map F.signalWifiStatusbarNull
+    I.map C.signalWifiStatusbarNull
 
 
 {-| Signpost -}
@@ -9628,7 +9628,7 @@ simCardDownload = i "sim_card_download" [ S.path [ SA.d "M18 2h-8L4 8v12c0 1.1.9
 {-| Single Bed -}
 singleBed : Icon
 singleBed =
-    I.map F.singleBed
+    I.map C.singleBed
 
 
 {-| Sip -}
@@ -9639,7 +9639,7 @@ sip = i "sip" [ S.path [ SA.d "M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0
 {-| Skateboarding -}
 skateboarding : Icon
 skateboarding =
-    I.map F.skateboarding
+    I.map C.skateboarding
 
 
 {-| Skip Next -}
@@ -9655,13 +9655,13 @@ skipPrevious = i "skip_previous" [ S.path [ SA.d "M6 6h2v12H6zm3.5 6l8.5 6V6l-8.
 {-| Sledding -}
 sledding : Icon
 sledding =
-    I.map F.sledding
+    I.map C.sledding
 
 
 {-| Slideshow -}
 slideshow : Icon
 slideshow =
-    I.map F.slideshow
+    I.map C.slideshow
 
 
 {-| Slow Motion Video -}
@@ -9672,7 +9672,7 @@ slowMotionVideo = i "slow_motion_video" [ S.path [ SA.d "M13.05 9.79L10 7.5v9l3.
 {-| Smart Button -}
 smartButton : Icon
 smartButton =
-    I.map F.smartButton
+    I.map C.smartButton
 
 
 {-| Smart Display -}
@@ -9693,7 +9693,7 @@ smartToy = i "smart_toy" [ S.path [ SA.d "M20 9V7c0-1.1-.9-2-2-2h-3c0-1.66-1.34-
 {-| Smartphone -}
 smartphone : Icon
 smartphone =
-    I.map F.smartphone
+    I.map C.smartphone
 
 
 {-| Smoke Free -}
@@ -9719,7 +9719,7 @@ smsFailed = i "sms_failed" [ S.path [ SA.d "M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.
 {-| Snapchat -}
 snapchat : Icon
 snapchat =
-    I.map F.snapchat
+    I.map C.snapchat
 
 
 {-| Snippet Folder -}
@@ -9735,7 +9735,7 @@ snooze = i "snooze" [ S.path [ SA.d "M9 11h3.63L9 15.2V17h6v-2h-3.63L15 10.8V9H9
 {-| Snowboarding -}
 snowboarding : Icon
 snowboarding =
-    I.map F.snowboarding
+    I.map C.snowboarding
 
 
 {-| Snowmobile -}
@@ -9746,7 +9746,7 @@ snowmobile = i "snowmobile" [ S.path [ SA.d "M22 17c0 .55-.45 1-1 1h-.17l-2.2-2.
 {-| Snowshoeing -}
 snowshoeing : Icon
 snowshoeing =
-    I.map F.snowshoeing
+    I.map C.snowshoeing
 
 
 {-| Soap -}
@@ -9767,7 +9767,7 @@ solarPower = i "solar_power" [ S.path [ SA.d "M20 12H4L2 22h20l-2-10zm-1.64 2l.4
 {-| Sort -}
 sort : Icon
 sort =
-    I.map F.sort
+    I.map C.sort
 
 
 {-| Sort By Alpha -}
@@ -9778,7 +9778,7 @@ sortByAlpha = i "sort_by_alpha" [ S.path [ SA.d "M14.94 4.66h-4.72l2.36-2.36l2.3
 {-| Sos -}
 sos : Icon
 sos =
-    I.map F.sos
+    I.map C.sos
 
 
 {-| Soup Kitchen -}
@@ -9794,25 +9794,25 @@ source = i "source" [ S.path [ SA.d "M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0
 {-| South -}
 south : Icon
 south =
-    I.map F.south
+    I.map C.south
 
 
 {-| South America -}
 southAmerica : Icon
 southAmerica =
-    I.map F.southAmerica
+    I.map C.southAmerica
 
 
 {-| South East -}
 southEast : Icon
 southEast =
-    I.map F.southEast
+    I.map C.southEast
 
 
 {-| South West -}
 southWest : Icon
 southWest =
-    I.map F.southWest
+    I.map C.southWest
 
 
 {-| Spa -}
@@ -9869,7 +9869,7 @@ speakerNotesOff = i "speaker_notes_off" [ S.path [ SA.d "M20 4v12h-1.34l1.91 1.9
 {-| Speaker Phone -}
 speakerPhone : Icon
 speakerPhone =
-    I.map F.speakerPhone
+    I.map C.speakerPhone
 
 
 {-| Speed -}
@@ -9880,13 +9880,13 @@ speed = i "speed" [ S.path [ SA.d "M20.38 8.57l-1.23 1.85a8 8 0 0 1-.22 7.58H5.0
 {-| Spellcheck -}
 spellcheck : Icon
 spellcheck =
-    I.map F.spellcheck
+    I.map C.spellcheck
 
 
 {-| Splitscreen -}
 splitscreen : Icon
 splitscreen =
-    I.map F.splitscreen
+    I.map C.splitscreen
 
 
 {-| Spoke -}
@@ -9897,7 +9897,7 @@ spoke = i "spoke" [ S.path [ SA.d "M16 7c0-2.21-1.79-4-4-4S8 4.79 8 7s1.79 4 4 4
 {-| Sports -}
 sports : Icon
 sports =
-    I.map F.sports
+    I.map C.sports
 
 
 {-| Sports Bar -}
@@ -9933,37 +9933,37 @@ sportsFootball = i "sports_football" [ S.path [ SA.d "M20.31 3.69c-.32-.33-1.94-
 {-| Sports Golf -}
 sportsGolf : Icon
 sportsGolf =
-    I.map F.sportsGolf
+    I.map C.sportsGolf
 
 
 {-| Sports Gymnastics -}
 sportsGymnastics : Icon
 sportsGymnastics =
-    I.map F.sportsGymnastics
+    I.map C.sportsGymnastics
 
 
 {-| Sports Handball -}
 sportsHandball : Icon
 sportsHandball =
-    I.map F.sportsHandball
+    I.map C.sportsHandball
 
 
 {-| Sports Hockey -}
 sportsHockey : Icon
 sportsHockey =
-    I.map F.sportsHockey
+    I.map C.sportsHockey
 
 
 {-| Sports Kabaddi -}
 sportsKabaddi : Icon
 sportsKabaddi =
-    I.map F.sportsKabaddi
+    I.map C.sportsKabaddi
 
 
 {-| Sports Martial Arts -}
 sportsMartialArts : Icon
 sportsMartialArts =
-    I.map F.sportsMartialArts
+    I.map C.sportsMartialArts
 
 
 {-| Sports Mma -}
@@ -9984,19 +9984,19 @@ sportsRugby = i "sports_rugby" [ S.path [ SA.d "M20.49 3.51c-.56-.56-2.15-.97-4.
 {-| Sports Score -}
 sportsScore : Icon
 sportsScore =
-    I.map F.sportsScore
+    I.map C.sportsScore
 
 
 {-| Sports Soccer -}
 sportsSoccer : Icon
 sportsSoccer =
-    I.map F.sportsSoccer
+    I.map C.sportsSoccer
 
 
 {-| Sports Tennis -}
 sportsTennis : Icon
 sportsTennis =
-    I.map F.sportsTennis
+    I.map C.sportsTennis
 
 
 {-| Sports Volleyball -}
@@ -10013,25 +10013,25 @@ square =
 {-| Square Foot -}
 squareFoot : Icon
 squareFoot =
-    I.map F.squareFoot
+    I.map C.squareFoot
 
 
 {-| Ssid Chart -}
 ssidChart : Icon
 ssidChart =
-    I.map F.ssidChart
+    I.map C.ssidChart
 
 
 {-| Stacked Bar Chart -}
 stackedBarChart : Icon
 stackedBarChart =
-    I.map F.stackedBarChart
+    I.map C.stackedBarChart
 
 
 {-| Stacked Line Chart -}
 stackedLineChart : Icon
 stackedLineChart =
-    I.map F.stackedLineChart
+    I.map C.stackedLineChart
 
 
 {-| Stadium -}
@@ -10052,7 +10052,7 @@ star = i "star" [ S.path [ SA.d "M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61
 {-| Star Border -}
 starBorder : Icon
 starBorder =
-    I.map F.starBorder
+    I.map C.starBorder
 
 
 {-| Star Border Purple500 -}
@@ -10063,13 +10063,13 @@ starBorderPurple500 = i "star_border_purple500" [ S.path [ SA.d "M22 9.24l-7.19-
 {-| Star Half -}
 starHalf : Icon
 starHalf =
-    I.map F.starHalf
+    I.map C.starHalf
 
 
 {-| Star Outline -}
 starOutline : Icon
 starOutline =
-    I.map F.starOutline
+    I.map C.starOutline
 
 
 {-| Star Purple500 -}
@@ -10090,31 +10090,31 @@ stars = i "stars" [ S.path [ SA.d "M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C1
 {-| Start -}
 start : Icon
 start =
-    I.map F.start
+    I.map C.start
 
 
 {-| Stay Current Landscape -}
 stayCurrentLandscape : Icon
 stayCurrentLandscape =
-    I.map F.stayCurrentLandscape
+    I.map C.stayCurrentLandscape
 
 
 {-| Stay Current Portrait -}
 stayCurrentPortrait : Icon
 stayCurrentPortrait =
-    I.map F.stayCurrentPortrait
+    I.map C.stayCurrentPortrait
 
 
 {-| Stay Primary Landscape -}
 stayPrimaryLandscape : Icon
 stayPrimaryLandscape =
-    I.map F.stayPrimaryLandscape
+    I.map C.stayPrimaryLandscape
 
 
 {-| Stay Primary Portrait -}
 stayPrimaryPortrait : Icon
 stayPrimaryPortrait =
-    I.map F.stayPrimaryPortrait
+    I.map C.stayPrimaryPortrait
 
 
 {-| Sticky Note 2 -}
@@ -10141,7 +10141,7 @@ stopScreenShare = i "stop_screen_share" [ S.path [ SA.d "M21.79 18l2 2H24v-2h-2.
 {-| Storage -}
 storage : Icon
 storage =
-    I.map F.storage
+    I.map C.storage
 
 
 {-| Store -}
@@ -10157,25 +10157,25 @@ storeMallDirectory = i "store_mall_directory" [ S.path [ SA.d "M18.36 9l.6 3H5.0
 {-| Storefront -}
 storefront : Icon
 storefront =
-    I.map F.storefront
+    I.map C.storefront
 
 
 {-| Storm -}
 storm : Icon
 storm =
-    I.map F.storm
+    I.map C.storm
 
 
 {-| Straight -}
 straight : Icon
 straight =
-    I.map F.straight
+    I.map C.straight
 
 
 {-| Straighten -}
 straighten : Icon
 straighten =
-    I.map F.straighten
+    I.map C.straighten
 
 
 {-| Stream -}
@@ -10186,7 +10186,7 @@ stream = i "stream" [ S.circle [ SA.cx "20", SA.cy "12", SA.r "2" ] [] , S.circl
 {-| Streetview -}
 streetview : Icon
 streetview =
-    I.map F.streetview
+    I.map C.streetview
 
 
 {-| Strikethrough S -}
@@ -10207,25 +10207,25 @@ style = i "style" [ S.path [ SA.d "M2.53 19.65l1.34.56v-9.03l-2.43 5.86c-.41 1.0
 {-| Subdirectory Arrow Left -}
 subdirectoryArrowLeft : Icon
 subdirectoryArrowLeft =
-    I.map F.subdirectoryArrowLeft
+    I.map C.subdirectoryArrowLeft
 
 
 {-| Subdirectory Arrow Right -}
 subdirectoryArrowRight : Icon
 subdirectoryArrowRight =
-    I.map F.subdirectoryArrowRight
+    I.map C.subdirectoryArrowRight
 
 
 {-| Subject -}
 subject : Icon
 subject =
-    I.map F.subject
+    I.map C.subject
 
 
 {-| Subscript -}
 subscript : Icon
 subscript =
-    I.map F.subscript
+    I.map C.subscript
 
 
 {-| Subscriptions -}
@@ -10256,7 +10256,7 @@ summarize = i "summarize" [ S.path [ SA.d "M15 3H5c-1.1 0-1.99.9-1.99 2L3 19c0 1
 {-| Superscript -}
 superscript : Icon
 superscript =
-    I.map F.superscript
+    I.map C.superscript
 
 
 {-| Supervised User Circle -}
@@ -10272,19 +10272,19 @@ supervisorAccount = i "supervisor_account" [ S.path [ SA.d "M9 12c1.93 0 3.5-1.5
 {-| Support -}
 support : Icon
 support =
-    I.map F.support
+    I.map C.support
 
 
 {-| Support Agent -}
 supportAgent : Icon
 supportAgent =
-    I.map F.supportAgent
+    I.map C.supportAgent
 
 
 {-| Surfing -}
 surfing : Icon
 surfing =
-    I.map F.surfing
+    I.map C.surfing
 
 
 {-| Surround Sound -}
@@ -10295,13 +10295,13 @@ surroundSound = i "surround_sound" [ S.path [ SA.d "M20 4H4c-1.1 0-2 .9-2 2v12c0
 {-| Swap Calls -}
 swapCalls : Icon
 swapCalls =
-    I.map F.swapCalls
+    I.map C.swapCalls
 
 
 {-| Swap Horiz -}
 swapHoriz : Icon
 swapHoriz =
-    I.map F.swapHoriz
+    I.map C.swapHoriz
 
 
 {-| Swap Horizontal Circle -}
@@ -10392,13 +10392,13 @@ switchCamera = i "switch_camera" [ S.path [ SA.d "M20 4h-3.17L15 2H9L7.17 4H4c-1
 {-| Switch Left -}
 switchLeft : Icon
 switchLeft =
-    I.map F.switchLeft
+    I.map C.switchLeft
 
 
 {-| Switch Right -}
 switchRight : Icon
 switchRight =
-    I.map F.switchRight
+    I.map C.switchRight
 
 
 {-| Switch Video -}
@@ -10414,7 +10414,7 @@ synagogue = i "synagogue" [ S.path [ SA.d "M20 4c-1.66 0-3 1.34-3 3v.29L12 3L7 7
 {-| Sync -}
 sync : Icon
 sync =
-    I.map F.sync
+    I.map C.sync
 
 
 {-| Sync Alt -}
@@ -10430,13 +10430,13 @@ syncDisabled = i "sync_disabled" [ S.path [ SA.d "M10 6.35V4.26c-.66.17-1.29.43-
 {-| Sync Lock -}
 syncLock : Icon
 syncLock =
-    I.map F.syncLock
+    I.map C.syncLock
 
 
 {-| Sync Problem -}
 syncProblem : Icon
 syncProblem =
-    I.map F.syncProblem
+    I.map C.syncProblem
 
 
 {-| System Security Update -}
@@ -10457,7 +10457,7 @@ systemSecurityUpdateWarning = i "system_security_update_warning" [ S.path [ SA.d
 {-| System Update -}
 systemUpdate : Icon
 systemUpdate =
-    I.map F.systemUpdate
+    I.map C.systemUpdate
 
 
 {-| System Update Alt -}
@@ -10468,13 +10468,13 @@ systemUpdateAlt = i "system_update_alt" [ S.path [ SA.d "M12 16l4-4h-3V3h-2v9H8l
 {-| Tab -}
 tab : Icon
 tab =
-    I.map F.tab
+    I.map C.tab
 
 
 {-| Tab Unselected -}
 tabUnselected : Icon
 tabUnselected =
-    I.map F.tabUnselected
+    I.map C.tabUnselected
 
 
 {-| Table Bar -}
@@ -10500,37 +10500,37 @@ tableRows = i "table_rows" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2
 {-| Table View -}
 tableView : Icon
 tableView =
-    I.map F.tableView
+    I.map C.tableView
 
 
 {-| Tablet -}
 tablet : Icon
 tablet =
-    I.map F.tablet
+    I.map C.tablet
 
 
 {-| Tablet Android -}
 tabletAndroid : Icon
 tabletAndroid =
-    I.map F.tabletAndroid
+    I.map C.tabletAndroid
 
 
 {-| Tablet Mac -}
 tabletMac : Icon
 tabletMac =
-    I.map F.tabletMac
+    I.map C.tabletMac
 
 
 {-| Tag -}
 tag : Icon
 tag =
-    I.map F.tag
+    I.map C.tag
 
 
 {-| Tag Faces -}
 tagFaces : Icon
 tagFaces =
-    I.map F.tagFaces
+    I.map C.tagFaces
 
 
 {-| Takeout Dining -}
@@ -10541,7 +10541,7 @@ takeoutDining = i "takeout_dining" [ S.path [ SA.d "M7.79 18l-.51-7h9.46l-.51 7H
 {-| Tap And Play -}
 tapAndPlay : Icon
 tapAndPlay =
-    I.map F.tapAndPlay
+    I.map C.tapAndPlay
 
 
 {-| Tapas -}
@@ -10557,7 +10557,7 @@ task = i "task" [ S.path [ SA.d "M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.
 {-| Task Alt -}
 taskAlt : Icon
 taskAlt =
-    I.map F.taskAlt
+    I.map C.taskAlt
 
 
 {-| Taxi Alert -}
@@ -10568,7 +10568,7 @@ taxiAlert = i "taxi_alert" [ S.circle [ SA.cx "6.5", SA.cy "15.5", SA.r "1.5" ] 
 {-| Telegram -}
 telegram : Icon
 telegram =
-    I.map F.telegram
+    I.map C.telegram
 
 
 {-| Temple Buddhist -}
@@ -10584,7 +10584,7 @@ templeHindu = i "temple_hindu" [ S.path [ SA.d "M20 11v2h-2L15 3V1h-2v2h-2.03V1h
 {-| Terminal -}
 terminal : Icon
 terminal =
-    I.map F.terminal
+    I.map C.terminal
 
 
 {-| Terrain -}
@@ -10595,25 +10595,25 @@ terrain = i "terrain" [ S.path [ SA.d "M14 6l-4.22 5.63l1.25 1.67L14 9.33L19 16h
 {-| Text Decrease -}
 textDecrease : Icon
 textDecrease =
-    I.map F.textDecrease
+    I.map C.textDecrease
 
 
 {-| Text Fields -}
 textFields : Icon
 textFields =
-    I.map F.textFields
+    I.map C.textFields
 
 
 {-| Text Format -}
 textFormat : Icon
 textFormat =
-    I.map F.textFormat
+    I.map C.textFormat
 
 
 {-| Text Increase -}
 textIncrease : Icon
 textIncrease =
-    I.map F.textIncrease
+    I.map C.textIncrease
 
 
 {-| Text Rotate Up -}
@@ -10659,7 +10659,7 @@ textsms = i "textsms" [ S.path [ SA.d "M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2
 {-| Texture -}
 texture : Icon
 texture =
-    I.map F.texture
+    I.map C.texture
 
 
 {-| Theater Comedy -}
@@ -10680,7 +10680,7 @@ thermostat = i "thermostat" [ S.path [ SA.d "M15 13V5c0-1.66-1.34-3-3-3S9 3.34 9
 {-| Thermostat Auto -}
 thermostatAuto : Icon
 thermostatAuto =
-    I.map F.thermostatAuto
+    I.map C.thermostatAuto
 
 
 {-| Thumb Down -}
@@ -10726,7 +10726,7 @@ thunderstorm = i "thunderstorm" [ S.path [ SA.d "M17.92 7.02C17.45 4.18 14.97 2 
 {-| Tiktok -}
 tiktok : Icon
 tiktok =
-    I.map F.tiktok
+    I.map C.tiktok
 
 
 {-| Time To Leave -}
@@ -10742,7 +10742,7 @@ timelapse = i "timelapse" [ S.path [ SA.d "M16.24 7.75A5.974 5.974 0 0 0 12 5.99
 {-| Timeline -}
 timeline : Icon
 timeline =
-    I.map F.timeline
+    I.map C.timeline
 
 
 {-| Timer -}
@@ -10758,7 +10758,7 @@ timer10 = i "timer_10" [ S.path [ SA.d "M-.01 7.72V9.4l3-1V18h2V6h-.25L-.01 7.72
 {-| Timer 10 Select -}
 timer10Select : Icon
 timer10Select =
-    I.map F.timer10Select
+    I.map C.timer10Select
 
 
 {-| Timer 3 -}
@@ -10769,7 +10769,7 @@ timer3 = i "timer_3" [ S.path [ SA.d "M11.61 12.97c-.16-.24-.36-.46-.62-.65a3.38
 {-| Timer 3 Select -}
 timer3Select : Icon
 timer3Select =
-    I.map F.timer3Select
+    I.map C.timer3Select
 
 
 {-| Timer Off -}
@@ -10796,7 +10796,7 @@ title =
 {-| Toc -}
 toc : Icon
 toc =
-    I.map F.toc
+    I.map C.toc
 
 
 {-| Today -}
@@ -10822,13 +10822,13 @@ token = i "token" [ S.path [ SA.d "M21 7l-9-5l-9 5v10l9 5l9-5V7zm-9-2.71l5.91 3.
 {-| Toll -}
 toll : Icon
 toll =
-    I.map F.toll
+    I.map C.toll
 
 
 {-| Tonality -}
 tonality : Icon
 tonality =
-    I.map F.tonality
+    I.map C.tonality
 
 
 {-| Topic -}
@@ -10859,7 +10859,7 @@ toys = i "toys" [ S.path [ SA.d "M18.75 10.08L17.4 6.05A2.978 2.978 0 0 0 14.56 
 {-| Track Changes -}
 trackChanges : Icon
 trackChanges =
-    I.map F.trackChanges
+    I.map C.trackChanges
 
 
 {-| Traffic -}
@@ -10890,31 +10890,31 @@ transferWithinAStation = i "transfer_within_a_station" [ S.path [ SA.d "M16.49 1
 {-| Transform -}
 transform : Icon
 transform =
-    I.map F.transform
+    I.map C.transform
 
 
 {-| Transgender -}
 transgender : Icon
 transgender =
-    I.map F.transgender
+    I.map C.transgender
 
 
 {-| Transit Enterexit -}
 transitEnterexit : Icon
 transitEnterexit =
-    I.map F.transitEnterexit
+    I.map C.transitEnterexit
 
 
 {-| Translate -}
 translate : Icon
 translate =
-    I.map F.translate
+    I.map C.translate
 
 
 {-| Travel Explore -}
 travelExplore : Icon
 travelExplore =
-    I.map F.travelExplore
+    I.map C.travelExplore
 
 
 {-| Trending Down -}
@@ -10936,13 +10936,13 @@ trendingUp = i "trending_up" [ S.path [ SA.d "M16 6l2.29 2.29l-4.88 4.88l-4-4L2 
 {-| Trip Origin -}
 tripOrigin : Icon
 tripOrigin =
-    I.map F.tripOrigin
+    I.map C.tripOrigin
 
 
 {-| Troubleshoot -}
 troubleshoot : Icon
 troubleshoot =
-    I.map F.troubleshoot
+    I.map C.troubleshoot
 
 
 {-| Try -}
@@ -10963,7 +10963,7 @@ tty = i "tty" [ S.path [ SA.d "M16 6h-2V4h2v2zm2 1h-2v2h2V7zm1 2h2V7h-2v2zm0-5h-
 {-| Tune -}
 tune : Icon
 tune =
-    I.map F.tune
+    I.map C.tune
 
 
 {-| Tungsten -}
@@ -10974,55 +10974,55 @@ tungsten = i "tungsten" [ S.path [ SA.d "M11 19h2v3h-2zm-9-8h3v2H2zm17 0h3v2h-3z
 {-| Turn Left -}
 turnLeft : Icon
 turnLeft =
-    I.map F.turnLeft
+    I.map C.turnLeft
 
 
 {-| Turn Right -}
 turnRight : Icon
 turnRight =
-    I.map F.turnRight
+    I.map C.turnRight
 
 
 {-| Turn Sharp Left -}
 turnSharpLeft : Icon
 turnSharpLeft =
-    I.map F.turnSharpLeft
+    I.map C.turnSharpLeft
 
 
 {-| Turn Sharp Right -}
 turnSharpRight : Icon
 turnSharpRight =
-    I.map F.turnSharpRight
+    I.map C.turnSharpRight
 
 
 {-| Turn Slight Left -}
 turnSlightLeft : Icon
 turnSlightLeft =
-    I.map F.turnSlightLeft
+    I.map C.turnSlightLeft
 
 
 {-| Turn Slight Right -}
 turnSlightRight : Icon
 turnSlightRight =
-    I.map F.turnSlightRight
+    I.map C.turnSlightRight
 
 
 {-| Turned In -}
 turnedIn : Icon
 turnedIn =
-    I.map F.turnedIn
+    I.map C.turnedIn
 
 
 {-| Turned In Not -}
 turnedInNot : Icon
 turnedInNot =
-    I.map F.turnedInNot
+    I.map C.turnedInNot
 
 
 {-| Tv -}
 tv : Icon
 tv =
-    I.map F.tv
+    I.map C.tv
 
 
 {-| Tv Off -}
@@ -11043,19 +11043,19 @@ typeSpecimen = i "type_specimen" [ S.path [ SA.d "M4 6H2v14c0 1.1.9 2 2 2h14v-2H
 {-| U Turn Left -}
 uTurnLeft : Icon
 uTurnLeft =
-    I.map F.uTurnLeft
+    I.map C.uTurnLeft
 
 
 {-| U Turn Right -}
 uTurnRight : Icon
 uTurnRight =
-    I.map F.uTurnRight
+    I.map C.uTurnRight
 
 
 {-| Umbrella -}
 umbrella : Icon
 umbrella =
-    I.map F.umbrella
+    I.map C.umbrella
 
 
 {-| Unarchive -}
@@ -11066,31 +11066,31 @@ unarchive = i "unarchive" [ S.path [ SA.d "M20.54 5.23l-1.39-1.68C18.88 3.21 18.
 {-| Undo -}
 undo : Icon
 undo =
-    I.map F.undo
+    I.map C.undo
 
 
 {-| Unfold Less -}
 unfoldLess : Icon
 unfoldLess =
-    I.map F.unfoldLess
+    I.map C.unfoldLess
 
 
 {-| Unfold Less Double -}
 unfoldLessDouble : Icon
 unfoldLessDouble =
-    I.map F.unfoldLessDouble
+    I.map C.unfoldLessDouble
 
 
 {-| Unfold More -}
 unfoldMore : Icon
 unfoldMore =
-    I.map F.unfoldMore
+    I.map C.unfoldMore
 
 
 {-| Unfold More Double -}
 unfoldMoreDouble : Icon
 unfoldMoreDouble =
-    I.map F.unfoldMoreDouble
+    I.map C.unfoldMoreDouble
 
 
 {-| Unpublished -}
@@ -11121,7 +11121,7 @@ updateDisabled = i "update_disabled" [ S.path [ SA.d "M20.94 13a8.865 8.865 0 0 
 {-| Upgrade -}
 upgrade : Icon
 upgrade =
-    I.map F.upgrade
+    I.map C.upgrade
 
 
 {-| Upload -}
@@ -11142,7 +11142,7 @@ usb = i "usb" [ S.path [ SA.d "M15 7v4h1v2h-3V5h2l-3-4l-3 4h2v8H8v-2.07c.7-.37 1
 {-| Usb Off -}
 usbOff : Icon
 usbOff =
-    I.map F.usbOff
+    I.map C.usbOff
 
 
 {-| Vaccines -}
@@ -11153,13 +11153,13 @@ vaccines = i "vaccines" [ S.path [ SA.d "M11 5.5H8V4h.5c.55 0 1-.45 1-1s-.45-1-1
 {-| Vape Free -}
 vapeFree : Icon
 vapeFree =
-    I.map F.vapeFree
+    I.map C.vapeFree
 
 
 {-| Vaping Rooms -}
 vapingRooms : Icon
 vapingRooms =
-    I.map F.vapingRooms
+    I.map C.vapingRooms
 
 
 {-| Verified -}
@@ -11175,25 +11175,25 @@ verifiedUser = i "verified_user" [ S.path [ SA.d "M12 1L3 5v6c0 5.55 3.84 10.74 
 {-| Vertical Align Bottom -}
 verticalAlignBottom : Icon
 verticalAlignBottom =
-    I.map F.verticalAlignBottom
+    I.map C.verticalAlignBottom
 
 
 {-| Vertical Align Center -}
 verticalAlignCenter : Icon
 verticalAlignCenter =
-    I.map F.verticalAlignCenter
+    I.map C.verticalAlignCenter
 
 
 {-| Vertical Align Top -}
 verticalAlignTop : Icon
 verticalAlignTop =
-    I.map F.verticalAlignTop
+    I.map C.verticalAlignTop
 
 
 {-| Vertical Distribute -}
 verticalDistribute : Icon
 verticalDistribute =
-    I.map F.verticalDistribute
+    I.map C.verticalDistribute
 
 
 {-| Vertical Shades -}
@@ -11204,7 +11204,7 @@ verticalShades = i "vertical_shades" [ S.path [ SA.d "M20 19V3H4v16H2v2h20v-2h-2
 {-| Vertical Shades Closed -}
 verticalShadesClosed : Icon
 verticalShadesClosed =
-    I.map F.verticalShadesClosed
+    I.map C.verticalShadesClosed
 
 
 {-| Vertical Split -}
@@ -11215,7 +11215,7 @@ verticalSplit = i "vertical_split" [ S.path [ SA.d "M3 13h8v2H3zm0 4h8v2H3zm0-8h
 {-| Vibration -}
 vibration : Icon
 vibration =
-    I.map F.vibration
+    I.map C.vibration
 
 
 {-| Video Call -}
@@ -11246,7 +11246,7 @@ videoFile = i "video_file" [ S.path [ SA.d "M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2
 {-| Video Label -}
 videoLabel : Icon
 videoLabel =
-    I.map F.videoLabel
+    I.map C.videoLabel
 
 
 {-| Video Library -}
@@ -11257,7 +11257,7 @@ videoLibrary = i "video_library" [ S.path [ SA.d "M4 6H2v14c0 1.1.9 2 2 2h14v-2H
 {-| Video Settings -}
 videoSettings : Icon
 videoSettings =
-    I.map F.videoSettings
+    I.map C.videoSettings
 
 
 {-| Video Stable -}
@@ -11338,7 +11338,7 @@ viewDay = i "view_day" [ S.path [ SA.d "M21 18H2v2h19v-2zm-2-8v4H4v-4h15m1-2H3c-
 {-| View Headline -}
 viewHeadline : Icon
 viewHeadline =
-    I.map F.viewHeadline
+    I.map C.viewHeadline
 
 
 {-| View In Ar -}
@@ -11419,7 +11419,7 @@ voiceOverOff = i "voice_over_off" [ S.path [ SA.d "M16.76 5.36l-1.68 1.69c.8 1.1
 {-| Voicemail -}
 voicemail : Icon
 voicemail =
-    I.map F.voicemail
+    I.map C.voicemail
 
 
 {-| Volcano -}
@@ -11475,13 +11475,13 @@ vrpano = i "vrpano" [ S.path [ SA.d "M21.01 4C20.45 4 17.4 5.5 12 5.5c-5.31 0-8.
 {-| Wallet -}
 wallet : Icon
 wallet =
-    I.map F.wallet
+    I.map C.wallet
 
 
 {-| Wallpaper -}
 wallpaper : Icon
 wallpaper =
-    I.map F.wallpaper
+    I.map C.wallpaper
 
 
 {-| Warehouse -}
@@ -11492,7 +11492,7 @@ warehouse = i "warehouse" [ S.path [ SA.d "M20 8.35V19h-2v-8H6v8H4V8.35l8-3.2l8 
 {-| Warning -}
 warning : Icon
 warning =
-    I.map F.warning
+    I.map C.warning
 
 
 {-| Warning Amber -}
@@ -11523,7 +11523,7 @@ watchOff = i "watch_off" [ S.path [ SA.d "M12 7c2.76 0 5 2.24 5 5c0 .64-.13 1.25
 {-| Water -}
 water : Icon
 water =
-    I.map F.water
+    I.map C.water
 
 
 {-| Water Damage -}
@@ -11544,7 +11544,7 @@ waterfallChart = i "waterfall_chart" [ S.path [ SA.d "M18 4h3v16h-3V4zM3 13h3v7H
 {-| Waves -}
 waves : Icon
 waves =
-    I.map F.waves
+    I.map C.waves
 
 
 {-| Waving Hand -}
@@ -11585,13 +11585,13 @@ wbSunny = i "wb_sunny" [ S.path [ SA.d "M6.76 4.84l-1.8-1.79l-1.41 1.41l1.79 1.7
 {-| Wb Twilight -}
 wbTwilight : Icon
 wbTwilight =
-    I.map F.wbTwilight
+    I.map C.wbTwilight
 
 
 {-| Wc -}
 wc : Icon
 wc =
-    I.map F.wc
+    I.map C.wc
 
 
 {-| Web -}
@@ -11602,13 +11602,13 @@ web = i "web" [ S.path [ SA.d "M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h1
 {-| Web Asset -}
 webAsset : Icon
 webAsset =
-    I.map F.webAsset
+    I.map C.webAsset
 
 
 {-| Web Asset Off -}
 webAssetOff : Icon
 webAssetOff =
-    I.map F.webAssetOff
+    I.map C.webAssetOff
 
 
 {-| Web Stories -}
@@ -11619,13 +11619,13 @@ webStories = i "web_stories" [ S.path [ SA.d "M17 4v16c1.1 0 2-.9 2-2V6c0-1.1-.9
 {-| Webhook -}
 webhook : Icon
 webhook =
-    I.map F.webhook
+    I.map C.webhook
 
 
 {-| Wechat -}
 wechat : Icon
 wechat =
-    I.map F.wechat
+    I.map C.wechat
 
 
 {-| Weekend -}
@@ -11636,13 +11636,13 @@ weekend = i "weekend" [ S.path [ SA.d "M21 9V7c0-1.65-1.35-3-3-3H6C4.35 4 3 5.35
 {-| West -}
 west : Icon
 west =
-    I.map F.west
+    I.map C.west
 
 
 {-| Whatsapp -}
 whatsapp : Icon
 whatsapp =
-    I.map F.whatsapp
+    I.map C.whatsapp
 
 
 {-| Whatshot -}
@@ -11653,7 +11653,7 @@ whatshot = i "whatshot" [ S.path [ SA.d "M11.57 13.16c-1.36.28-2.17 1.16-2.17 2.
 {-| Wheelchair Pickup -}
 wheelchairPickup : Icon
 wheelchairPickup =
-    I.map F.wheelchairPickup
+    I.map C.wheelchairPickup
 
 
 {-| Where To Vote -}
@@ -11684,19 +11684,19 @@ widthWide = i "width_wide" [ S.path [ SA.d "M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2
 {-| Wifi -}
 wifi : Icon
 wifi =
-    I.map F.wifi
+    I.map C.wifi
 
 
 {-| Wifi 1 Bar -}
 wifi1Bar : Icon
 wifi1Bar =
-    I.map F.wifi1Bar
+    I.map C.wifi1Bar
 
 
 {-| Wifi 2 Bar -}
 wifi2Bar : Icon
 wifi2Bar =
-    I.map F.wifi2Bar
+    I.map C.wifi2Bar
 
 
 {-| Wifi Calling -}
@@ -11712,7 +11712,7 @@ wifiCalling3 = i "wifi_calling_3" [ S.path [ SA.d "M16.49 4.5c1.79 0 3.42.73 4.5
 {-| Wifi Channel -}
 wifiChannel : Icon
 wifiChannel =
-    I.map F.wifiChannel
+    I.map C.wifiChannel
 
 
 {-| Wifi Find -}
@@ -11723,7 +11723,7 @@ wifiFind = i "wifi_find" [ S.path [ SA.d "M12 6c4.14 0 7.88 1.68 10.59 4.39L24 8
 {-| Wifi Lock -}
 wifiLock : Icon
 wifiLock =
-    I.map F.wifiLock
+    I.map C.wifiLock
 
 
 {-| Wifi Off -}
@@ -11739,31 +11739,31 @@ wifiPassword = i "wifi_password" [ S.path [ SA.d "M24 8.98l-2.12 2.13C19.35 8.57
 {-| Wifi Protected Setup -}
 wifiProtectedSetup : Icon
 wifiProtectedSetup =
-    I.map F.wifiProtectedSetup
+    I.map C.wifiProtectedSetup
 
 
 {-| Wifi Tethering -}
 wifiTethering : Icon
 wifiTethering =
-    I.map F.wifiTethering
+    I.map C.wifiTethering
 
 
 {-| Wifi Tethering Error -}
 wifiTetheringError : Icon
 wifiTetheringError =
-    I.map F.wifiTetheringError
+    I.map C.wifiTetheringError
 
 
 {-| Wifi Tethering Error Rounded -}
 wifiTetheringErrorRounded : Icon
 wifiTetheringErrorRounded =
-    I.map F.wifiTetheringErrorRounded
+    I.map C.wifiTetheringErrorRounded
 
 
 {-| Wifi Tethering Off -}
 wifiTetheringOff : Icon
 wifiTetheringOff =
-    I.map F.wifiTetheringOff
+    I.map C.wifiTetheringOff
 
 
 {-| Wind Power -}
@@ -11784,31 +11784,31 @@ wineBar = i "wine_bar" [ S.path [ SA.d "M6 3v6c0 2.97 2.16 5.43 5 5.91V19H8v2h8v
 {-| Woman -}
 woman : Icon
 woman =
-    I.map F.woman
+    I.map C.woman
 
 
 {-| Woman 2 -}
 woman2 : Icon
 woman2 =
-    I.map F.woman2
+    I.map C.woman2
 
 
 {-| Woo Commerce -}
 wooCommerce : Icon
 wooCommerce =
-    I.map F.wooCommerce
+    I.map C.wooCommerce
 
 
 {-| Wordpress -}
 wordpress : Icon
 wordpress =
-    I.map F.wordpress
+    I.map C.wordpress
 
 
 {-| Work -}
 work : Icon
 work =
-    I.map F.work
+    I.map C.work
 
 
 {-| Work History -}
@@ -11839,7 +11839,7 @@ workspaces = i "workspaces" [ S.path [ SA.d "M6 15c1.1 0 2 .9 2 2s-.9 2-2 2s-2-.
 {-| Wrap Text -}
 wrapText : Icon
 wrapText =
-    I.map F.wrapText
+    I.map C.wrapText
 
 
 {-| Wrong Location -}
@@ -11850,7 +11850,7 @@ wrongLocation = i "wrong_location" [ S.path [ SA.d "M18 11v.2c0 2.34-1.95 5.44-6
 {-| Wysiwyg -}
 wysiwyg : Icon
 wysiwyg =
-    I.map F.wysiwyg
+    I.map C.wysiwyg
 
 
 {-| Yard -}
@@ -11861,7 +11861,7 @@ yard = i "yard" [ S.path [ SA.d "M18 13c-3.31 0-6 2.69-6 6c3.31 0 6-2.69 6-6zM6 
 {-| Youtube Searched For -}
 youtubeSearchedFor : Icon
 youtubeSearchedFor =
-    I.map F.youtubeSearchedFor
+    I.map C.youtubeSearchedFor
 
 
 {-| Zoom In -}
@@ -11872,18 +11872,18 @@ zoomIn = i "zoom_in" [ S.path [ SA.d "M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 1
 {-| Zoom In Map -}
 zoomInMap : Icon
 zoomInMap =
-    I.map F.zoomInMap
+    I.map C.zoomInMap
 
 
 {-| Zoom Out -}
 zoomOut : Icon
 zoomOut =
-    I.map F.zoomOut
+    I.map C.zoomOut
 
 
 {-| Zoom Out Map -}
 zoomOutMap : Icon
 zoomOutMap =
-    I.map F.zoomOutMap
+    I.map C.zoomOutMap
 
 

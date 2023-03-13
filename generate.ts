@@ -25,6 +25,7 @@ type Icon = {
   name: string;
   category: string;
   svg: string;
+  unsupported_families?: string[];
 };
 
 type Variant = { variant: string; icons: Icon[] };
@@ -47,6 +48,7 @@ function generate(): void {
             name: icon.name,
             category: icon.categories[0],
             svg: data,
+            unsupported_families: icon.unsupported_families ?? [],
           };
         } catch (err) {
           console.error(err);

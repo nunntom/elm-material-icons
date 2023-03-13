@@ -1,9 +1,9 @@
-module Material.Icons.Round exposing (Icon, Round, abc, acUnit, accessAlarm, accessAlarms, accessTime, accessTimeFilled, accessibility, accessibilityNew, accessible, accessibleForward, accountBalance, accountBalanceWallet, accountBox, accountCircle, accountTree, adUnits, adb, add, addAPhoto, addAlarm, addAlert, addBox, addBusiness, addCard, addChart, addCircle, addCircleOutline, addComment, addHome, addHomeWork, addIcCall, addLink, addLocation, addLocationAlt, addModerator, addPhotoAlternate, addReaction, addRoad, addShoppingCart, addTask, addToDrive, addToHomeScreen, addToPhotos, addToQueue, addchart, adfScanner, adjust, adminPanelSettings, adobe, adsClick, agriculture, air, airlineSeatFlat, airlineSeatFlatAngled, airlineSeatIndividualSuite, airlineSeatLegroomExtra, airlineSeatLegroomNormal, airlineSeatLegroomReduced, airlineSeatReclineExtra, airlineSeatReclineNormal, airlineStops, airlines, airplaneTicket, airplanemodeActive, airplanemodeInactive, airplay, airportShuttle, alarm, alarmAdd, alarmOff, alarmOn, album, alignHorizontalCenter, alignHorizontalLeft, alignHorizontalRight, alignVerticalBottom, alignVerticalCenter, alignVerticalTop, allInbox, allInclusive, allOut, altRoute, alternateEmail, ampStories, analytics, anchor, android, animation, announcement, aod, apartment, api, appBlocking, appRegistration, appSettingsAlt, appShortcut, apple, approval, apps, appsOutage, architecture, archive, areaChart, arrowBack, arrowBackIos, arrowBackIosNew, arrowCircleDown, arrowCircleLeft, arrowCircleRight, arrowCircleUp, arrowDownward, arrowDropDown, arrowDropDownCircle, arrowDropUp, arrowForward, arrowForwardIos, arrowLeft, arrowOutward, arrowRight, arrowRightAlt, arrowUpward, artTrack, article, aspectRatio, assessment, assignment, assignmentInd, assignmentLate, assignmentReturn, assignmentReturned, assignmentTurnedIn, assistWalker, assistant, assistantDirection, assistantPhoto, assuredWorkload, atm, attachEmail, attachFile, attachMoney, attachment, attractions, attribution, audioFile, audiotrack, autoAwesome, autoAwesomeMosaic, autoAwesomeMotion, autoDelete, autoFixHigh, autoFixNormal, autoFixOff, autoGraph, autoMode, autoStories, autofpsSelect, autorenew, avTimer, babyChangingStation, backHand, backpack, backspace, backup, backupTable, badge, bakeryDining, balance, balcony, ballot, barChart, barcode, batchPrediction, bathroom, bathtub, battery0Bar, battery1Bar, battery20, battery2Bar, battery30, battery3Bar, battery4Bar, battery50, battery5Bar, battery60, battery6Bar, battery80, battery90, batteryAlert, batteryCharging20, batteryCharging30, batteryCharging50, batteryCharging60, batteryCharging80, batteryCharging90, batteryChargingFull, batteryFull, batterySaver, batteryStd, batteryUnknown, beachAccess, bed, bedroomBaby, bedroomChild, bedroomParent, bedtime, bedtimeOff, beenhere, bento, bikeScooter, biotech, blender, blind, blinds, blindsClosed, block, bloodtype, bluetooth, bluetoothAudio, bluetoothConnected, bluetoothDisabled, bluetoothDrive, bluetoothSearching, blurCircular, blurLinear, blurOff, blurOn, bolt, book, bookOnline, bookmark, bookmarkAdd, bookmarkAdded, bookmarkBorder, bookmarkRemove, bookmarks, borderAll, borderBottom, borderClear, borderColor, borderHorizontal, borderInner, borderLeft, borderOuter, borderRight, borderStyle, borderTop, borderVertical, boy, brandingWatermark, breakfastDining, brightness1, brightness2, brightness3, brightness4, brightness5, brightness6, brightness7, brightnessAuto, brightnessHigh, brightnessLow, brightnessMedium, broadcastOnHome, broadcastOnPersonal, brokenImage, browseGallery, browserNotSupported, browserUpdated, brunchDining, brush, bubbleChart, bugReport, build, buildCircle, bungalow, burstMode, busAlert, business, businessCenter, cabin, cable, cached, cake, calculate, calendarMonth, calendarToday, calendarViewDay, calendarViewMonth, calendarViewWeek, call, callEnd, callMade, callMerge, callMissed, callMissedOutgoing, callReceived, callSplit, callToAction, camera, cameraAlt, cameraEnhance, cameraFront, cameraIndoor, cameraOutdoor, cameraRear, cameraRoll, cameraswitch, campaign, cancel, cancelPresentation, cancelScheduleSend, candlestickChart, carCrash, carRental, carRepair, cardGiftcard, cardMembership, cardTravel, carpenter, cases, casino, cast, castConnected, castForEducation, castle, catchingPokemon, category, celebration, cellTower, cellWifi, centerFocusStrong, centerFocusWeak, chair, chairAlt, chalet, changeCircle, changeHistory, chargingStation, chat, chatBubble, chatBubbleOutline, check, checkBox, checkBoxOutlineBlank, checkCircle, checkCircleOutline, checklist, checklistRtl, checkroom, chevronLeft, chevronRight, childCare, childFriendly, chromeReaderMode, church, circle, circleNotifications, class, cleanHands, cleaningServices, clear, clearAll, close, closeFullscreen, closedCaption, closedCaptionDisabled, closedCaptionOff, cloud, cloudCircle, cloudDone, cloudDownload, cloudOff, cloudQueue, cloudSync, cloudUpload, co2, coPresent, code, codeOff, coffee, coffeeMaker, collections, collectionsBookmark, colorLens, colorize, comment, commentBank, commentsDisabled, commit, commute, compare, compareArrows, compassCalibration, compost, compress, computer, confirmationNumber, connectWithoutContact, connectedTv, connectingAirports, construction, contactEmergency, contactMail, contactPage, contactPhone, contactSupport, contactless, contacts, contentCopy, contentCut, contentPaste, contentPasteGo, contentPasteOff, contentPasteSearch, contrast, controlCamera, controlPoint, controlPointDuplicate, cookie, copyAll, copyright, coronavirus, corporateFare, cottage, countertops, create, createNewFolder, creditCard, creditCardOff, creditScore, crib, crisisAlert, crop, crop169, crop32, crop54, crop75, cropDin, cropFree, cropLandscape, cropOriginal, cropPortrait, cropRotate, cropSquare, crueltyFree, css, currencyBitcoin, currencyExchange, currencyFranc, currencyLira, currencyPound, currencyRuble, currencyRupee, currencyYen, currencyYuan, curtains, curtainsClosed, cyclone, dangerous, darkMode, dashboard, dashboardCustomize, dataArray, dataExploration, dataObject, dataSaverOff, dataSaverOn, dataThresholding, dataUsage, dataset, datasetLinked, dateRange, deblur, deck, dehaze, delete, deleteForever, deleteOutline, deleteSweep, deliveryDining, densityLarge, densityMedium, densitySmall, departureBoard, description, deselect, designServices, desk, desktopAccessDisabled, desktopMac, desktopWindows, details, developerBoard, developerBoardOff, developerMode, deviceHub, deviceThermostat, deviceUnknown, devices, devicesFold, devicesOther, dialerSip, dialpad, diamond, difference, dining, dinnerDining, directions, directionsBike, directionsBoat, directionsBoatFilled, directionsBus, directionsBusFilled, directionsCar, directionsCarFilled, directionsOff, directionsRailway, directionsRailwayFilled, directionsRun, directionsSubway, directionsSubwayFilled, directionsTransit, directionsTransitFilled, directionsWalk, dirtyLens, disabledByDefault, disabledVisible, discFull, discord, discount, displaySettings, diversity1, diversity2, diversity3, divide, dns, doDisturb, doDisturbAlt, doDisturbOff, doDisturbOn, doNotDisturb, doNotDisturbAlt, doNotDisturbOff, doNotDisturbOn, doNotDisturbOnTotalSilence, doNotStep, doNotTouch, dock, documentScanner, domain, domainAdd, domainDisabled, domainVerification, done, doneAll, doneOutline, donutLarge, donutSmall, doorBack, doorFront, doorSliding, doorbell, doubleArrow, downhillSkiing, download, downloadDone, downloadForOffline, downloading, drafts, dragHandle, dragIndicator, draw, driveEta, driveFileMove, driveFileMoveRtl, driveFileRenameOutline, driveFolderUpload, dry, dryCleaning, duo, dvr, dynamicFeed, dynamicForm, eMobiledata, earbuds, earbudsBattery, east, eco, edgesensorHigh, edgesensorLow, edit, editAttributes, editCalendar, editLocation, editLocationAlt, editNote, editNotifications, editOff, editRoad, egg, eggAlt, eightK, eightKPlus, eightMp, eighteenMp, eighteenUpRating, eject, elderly, elderlyWoman, electricBike, electricBolt, electricCar, electricMeter, electricMoped, electricRickshaw, electricScooter, electricalServices, elevator, elevenMp, email, emergency, emergencyRecording, emergencyShare, emojiEmotions, emojiEvents, emojiFlags, emojiFoodBeverage, emojiNature, emojiObjects, emojiPeople, emojiSymbols, emojiTransportation, energySavingsLeaf, engineering, enhancedEncryption, equalizer, equals, error, errorOutline, escalator, escalatorWarning, euro, euroSymbol, evStation, event, eventAvailable, eventBusy, eventNote, eventRepeat, eventSeat, exitToApp, expand, expandCircleDown, expandLess, expandMore, explicit, explore, exploreOff, exposure, exposureNeg1, exposureNeg2, exposurePlus1, exposurePlus2, exposureZero, extension, extensionOff, face, face2, face3, face4, face5, face6, faceRetouchingNatural, faceRetouchingOff, facebook, factCheck, factory, familyRestroom, fastForward, fastRewind, fastfood, favorite, favoriteBorder, fax, featuredPlayList, featuredVideo, feed, feedback, female, fence, festival, fiberDvr, fiberManualRecord, fiberNew, fiberPin, fiberSmartRecord, fifteenMp, fileCopy, fileDownload, fileDownloadDone, fileDownloadOff, fileOpen, filePresent, fileUpload, filter, filter1, filter2, filter3, filter4, filter5, filter6, filter7, filter8, filter9, filter9Plus, filterAlt, filterAltOff, filterBAndW, filterCenterFocus, filterDrama, filterFrames, filterHdr, filterList, filterListOff, filterNone, filterTiltShift, filterVintage, findInPage, findReplace, fingerprint, fireExtinguisher, fireHydrantAlt, fireTruck, fireplace, firstPage, fitScreen, fitbit, fitnessCenter, fiveG, fiveK, fiveKPlus, fiveMp, flag, flagCircle, flaky, flare, flashAuto, flashOff, flashOn, flashlightOff, flashlightOn, flatware, flight, flightClass, flightLand, flightTakeoff, flip, flipCameraAndroid, flipCameraIos, flipToBack, flipToFront, flood, flourescent, fluorescent, flutterDash, fmdBad, fmdGood, folder, folderCopy, folderDelete, folderOff, folderOpen, folderShared, folderSpecial, folderZip, followTheSigns, fontDownload, fontDownloadOff, foodBank, forest, forkLeft, forkRight, formatAlignCenter, formatAlignJustify, formatAlignLeft, formatAlignRight, formatBold, formatClear, formatColorFill, formatColorReset, formatColorText, formatIndentDecrease, formatIndentIncrease, formatItalic, formatLineSpacing, formatListBulleted, formatListNumbered, formatListNumberedRtl, formatOverline, formatPaint, formatQuote, formatShapes, formatSize, formatStrikethrough, formatTextdirectionLToR, formatTextdirectionRToL, formatUnderlined, fort, forum, forward, forward10, forward30, forward5, forwardToInbox, foundation, fourGMobiledata, fourGPlusMobiledata, fourK, fourKPlus, fourMp, fourteenMp, freeBreakfast, freeCancellation, frontHand, fullscreen, fullscreenExit, functions, gMobiledata, gTranslate, gamepad, games, garage, gasMeter, gavel, generatingTokens, gesture, getApp, gif, gifBox, girl, gite, golfCourse, gppBad, gppGood, gppMaybe, gpsFixed, gpsNotFixed, gpsOff, grade, gradient, grading, grain, graphicEq, grass, greaterThan, greaterThanEqual, grid3x3, grid4x4, gridGoldenratio, gridOff, gridOn, gridView, group, groupAdd, groupOff, groupRemove, groupWork, groups, groups2, groups3, hMobiledata, hPlusMobiledata, hail, handshake, handyman, hardware, hd, hdrAuto, hdrAutoSelect, hdrEnhancedSelect, hdrOff, hdrOffSelect, hdrOn, hdrOnSelect, hdrPlus, hdrStrong, hdrWeak, headphones, headphonesBattery, headset, headsetMic, headsetOff, healing, healthAndSafety, hearing, hearingDisabled, heartBroken, heatPump, height, help, helpCenter, helpOutline, hevc, hexagon, hideImage, hideSource, highQuality, highlight, highlightAlt, highlightOff, hiking, history, historyEdu, historyToggleOff, hive, hls, hlsOff, holidayVillage, home, homeMax, homeMini, homeRepairService, homeWork, horizontalDistribute, horizontalRule, horizontalSplit, hotTub, hotel, hotelClass, hourglassBottom, hourglassDisabled, hourglassEmpty, hourglassFull, hourglassTop, house, houseSiding, houseboat, howToReg, howToVote, html, http, https, hub, hvac, iceSkating, icecream, image, imageAspectRatio, imageNotSupported, imageSearch, imagesearchRoller, importContacts, importExport, importantDevices, inbox, incompleteCircle, indeterminateCheckBox, info, input, insertChart, insertChartOutlined, insertComment, insertDriveFile, insertEmoticon, insertInvitation, insertLink, insertPageBreak, insertPhoto, insights, installDesktop, installMobile, integrationInstructions, interests, interpreterMode, inventory, inventory2, invertColors, invertColorsOff, iosShare, iron, iso, javascript, joinFull, joinInner, joinLeft, joinRight, kayaking, kebabDining, key, keyOff, keyboard, keyboardAlt, keyboardArrowDown, keyboardArrowLeft, keyboardArrowRight, keyboardArrowUp, keyboardBackspace, keyboardCapslock, keyboardCommandKey, keyboardControlKey, keyboardDoubleArrowDown, keyboardDoubleArrowLeft, keyboardDoubleArrowRight, keyboardDoubleArrowUp, keyboardHide, keyboardOptionKey, keyboardReturn, keyboardTab, keyboardVoice, kingBed, kitchen, kitesurfing, label, labelImportant, labelOff, lan, landscape, landslide, language, laptop, laptopChromebook, laptopMac, laptopWindows, lastPage, launch, layers, layersClear, leaderboard, leakAdd, leakRemove, leaveBagsAtHome, legendToggle, lens, lensBlur, lessThan, lessThanEqual, libraryAdd, libraryAddCheck, libraryBooks, libraryMusic, light, lightMode, lightbulb, lightbulbCircle, lineAxis, lineStyle, lineWeight, linearScale, link, linkOff, linkedCamera, liquor, list, listAlt, liveHelp, liveTv, living, localActivity, localAirport, localAtm, localBar, localCafe, localCarWash, localConvenienceStore, localDining, localDrink, localFireDepartment, localFlorist, localGasStation, localGroceryStore, localHospital, localHotel, localLaundryService, localLibrary, localMall, localMovies, localOffer, localParking, localPharmacy, localPhone, localPizza, localPlay, localPolice, localPostOffice, localPrintshop, localSee, localShipping, localTaxi, locationCity, locationDisabled, locationOff, locationOn, locationSearching, lock, lockClock, lockOpen, lockPerson, lockReset, logIn, logOut, login, logoDev, logout, looks, looks3, looks4, looks5, looks6, looksOne, looksTwo, loop, loupe, lowPriority, loyalty, lteMobiledata, ltePlusMobiledata, luggage, lunchDining, lyrics, macroOff, mail, mailLock, mailOutline, male, man, man2, man3, man4, manageAccounts, manageHistory, manageSearch, map, mapsHomeWork, mapsUgc, margin, markAsUnread, markChatRead, markChatUnread, markEmailRead, markEmailUnread, markUnreadChatAlt, markunread, markunreadMailbox, masks, maximize, mediaBluetoothOff, mediaBluetoothOn, mediation, medicalInformation, medicalServices, medication, medicationLiquid, meetingRoom, memory, menu, menuBook, menuOpen, merge, mergeType, message, mic, micExternalOff, micExternalOn, micNone, micOff, microwave, militaryTech, minimize, minorCrash, minus, miscellaneousServices, missedVideoCall, mms, mobileFriendly, mobileOff, mobileScreenShare, mobiledataOff, mode, modeComment, modeEdit, modeEditOutline, modeFanOff, modeNight, modeOfTravel, modeStandby, modelTraining, monetizationOn, money, moneyOff, moneyOffCsred, monitor, monitorHeart, monitorWeight, monochromePhotos, mood, moodBad, moped, more, moreHoriz, moreTime, moreVert, mosque, motionPhotosAuto, motionPhotosOff, motionPhotosOn, motionPhotosPause, motionPhotosPaused, motorcycle, mouse, moveDown, moveToInbox, moveUp, movie, movieCreation, movieFilter, moving, mp, multilineChart, multipleStop, museum, musicNote, musicOff, musicVideo, myLocation, nat, nature, naturePeople, navigateBefore, navigateNext, navigation, nearMe, nearMeDisabled, nearbyError, nearbyOff, nestCamWiredStand, networkCell, networkCheck, networkLocked, networkPing, networkWifi, networkWifi1Bar, networkWifi2Bar, networkWifi3Bar, newLabel, newReleases, newspaper, nextPlan, nextWeek, nfc, nightShelter, nightlife, nightlight, nightlightRound, nightsStay, nineK, nineKPlus, nineMp, nineteenMp, noAccounts, noAdultContent, noBackpack, noCell, noCrash, noDrinks, noEncryption, noEncryptionGmailerrorred, noFlash, noFood, noLuggage, noMeals, noMeetingRoom, noPhotography, noSim, noStroller, noTransfer, noiseAware, noiseControlOff, nordicWalking, north, northEast, northWest, notAccessible, notEqual, notInterested, notListedLocation, notStarted, note, noteAdd, noteAlt, notes, notificationAdd, notificationImportant, notifications, notificationsActive, notificationsNone, notificationsOff, notificationsPaused, numbers, offlineBolt, offlinePin, offlineShare, oilBarrel, onDeviceTraining, ondemandVideo, oneK, oneKPlus, oneTwoThree, oneXMobiledata, onlinePrediction, opacity, openInBrowser, openInFull, openInNew, openInNewOff, openWith, otherHouses, outbond, outbound, outbox, outdoorGrill, outlet, outlinedFlag, output, padding, pages, pageview, paid, palette, panTool, panToolAlt, panorama, panoramaFishEye, panoramaHorizontal, panoramaHorizontalSelect, panoramaPhotosphere, panoramaPhotosphereSelect, panoramaVertical, panoramaVerticalSelect, panoramaWideAngle, panoramaWideAngleSelect, paragliding, park, partyMode, password, pattern, pause, pauseCircle, pauseCircleFilled, pauseCircleOutline, pausePresentation, payment, payments, paypal, pedalBike, pending, pendingActions, pentagon, people, peopleAlt, peopleOutline, percent, percentage, permCameraMic, permContactCalendar, permDataSetting, permDeviceInformation, permIdentity, permMedia, permPhoneMsg, permScanWifi, person, person2, person3, person4, personAdd, personAddAlt, personAddAlt1, personAddDisabled, personOff, personOutline, personPin, personPinCircle, personRemove, personRemoveAlt1, personSearch, personalInjury, personalVideo, pestControl, pestControlRodent, pets, phishing, phone, phoneAndroid, phoneBluetoothSpeaker, phoneCallback, phoneDisabled, phoneEnabled, phoneForwarded, phoneInTalk, phoneIphone, phoneLocked, phoneMissed, phonePaused, phonelink, phonelinkErase, phonelinkLock, phonelinkOff, phonelinkRing, phonelinkSetup, photo, photoAlbum, photoCamera, photoCameraBack, photoCameraFront, photoFilter, photoLibrary, photoSizeSelectActual, photoSizeSelectLarge, photoSizeSelectSmall, php, piano, pianoOff, pictureAsPdf, pictureInPicture, pictureInPictureAlt, pieChart, pieChartOutline, pin, pinDrop, pinEnd, pinInvoke, pinOff, pinch, pivotTableChart, pix, place, plagiarism, playArrow, playCircle, playCircleFilled, playCircleFilledWhite, playCircleOutline, playDisabled, playForWork, playLesson, playlistAdd, playlistAddCheck, playlistAddCheckCircle, playlistAddCircle, playlistPlay, playlistRemove, plumbing, plus, plusMinus, plusMinusAlt, plusOne, podcasts, pointOfSale, policy, poll, polyline, polymer, pool, portableWifiOff, portrait, postAdd, power, powerInput, powerOff, powerSettingsNew, precisionManufacturing, pregnantWoman, presentToAll, preview, priceChange, priceCheck, print, printDisabled, priorityHigh, privacyTip, privateConnectivity, productionQuantityLimits, propane, propaneTank, psychology, psychologyAlt, public, publicOff, publish, publishedWithChanges, punchClock, pushPin, qrCode, qrCode2, qrCodeScanner, qrcode, queryBuilder, queryStats, questionAnswer, questionMark, queue, queueMusic, queuePlayNext, quickreply, quiz, quora, rMobiledata, radar, radio, radioButtonChecked, radioButtonUnchecked, railwayAlert, ramenDining, rampLeft, rampRight, rateReview, rawOff, rawOn, readMore, realEstateAgent, receipt, receiptLong, recentActors, recommend, recordVoiceOver, rectangle, recycling, reddit, redeem, redo, reduceCapacity, refresh, rememberMe, remove, removeCircle, removeCircleOutline, removeDone, removeFromQueue, removeModerator, removeRedEye, removeRoad, removeShoppingCart, reorder, repartition, repeat, repeatOn, repeatOne, repeatOneOn, replay, replay10, replay30, replay5, replayCircleFilled, reply, replyAll, report, reportGmailerrorred, reportOff, reportProblem, requestPage, requestQuote, resetTv, restartAlt, restaurant, restaurantMenu, restore, restoreFromTrash, restorePage, reviews, riceBowl, ringVolume, rocket, rocketLaunch, rollerShades, rollerShadesClosed, rollerSkating, roofing, room, roomPreferences, roomService, rotate90DegreesCcw, rotate90DegreesCw, rotateLeft, rotateRight, roundaboutLeft, roundaboutRight, roundedCorner, route, router, rowing, rssFeed, rsvp, rtt, rule, ruleFolder, runCircle, runningWithErrors, rvHookup, safetyCheck, safetyDivider, sailing, sanitizer, satellite, satelliteAlt, save, saveAll, saveAlt, saveAs, savedSearch, savings, scale, scanner, scatterPlot, schedule, scheduleSend, schema, school, science, score, scoreboard, screenLockLandscape, screenLockPortrait, screenLockRotation, screenRotation, screenRotationAlt, screenSearchDesktop, screenShare, screenshot, screenshotMonitor, scubaDiving, sd, sdCard, sdCardAlert, sdStorage, search, searchOff, security, securityUpdate, securityUpdateGood, securityUpdateWarning, segment, selectAll, selfImprovement, sell, send, sendAndArchive, sendTimeExtension, sendToMobile, sensorDoor, sensorOccupied, sensorWindow, sensors, sensorsOff, sentimentDissatisfied, sentimentNeutral, sentimentSatisfied, sentimentSatisfiedAlt, sentimentSlightlyDissatisfied, sentimentVeryDissatisfied, sentimentVerySatisfied, setMeal, settings, settingsAccessibility, settingsApplications, settingsBackupRestore, settingsBluetooth, settingsBrightness, settingsCell, settingsEthernet, settingsInputAntenna, settingsInputComponent, settingsInputComposite, settingsInputHdmi, settingsInputSvideo, settingsOverscan, settingsPhone, settingsPower, settingsRemote, settingsSuggest, settingsSystemDaydream, settingsVoice, sevenK, sevenKPlus, sevenMp, seventeenMp, severeCold, shapeLine, share, shareArrivalTime, shareLocation, shield, shieldMoon, shop, shop2, shopTwo, shopify, shoppingBag, shoppingBasket, shoppingCart, shoppingCartCheckout, shortText, shortcut, showChart, shower, shuffle, shuffleOn, shutterSpeed, sick, signLanguage, signalCellular0Bar, signalCellular1Bar, signalCellular2Bar, signalCellular3Bar, signalCellular4Bar, signalCellularAlt, signalCellularAlt1Bar, signalCellularAlt2Bar, signalCellularConnectedNoInternet0Bar, signalCellularConnectedNoInternet1Bar, signalCellularConnectedNoInternet2Bar, signalCellularConnectedNoInternet3Bar, signalCellularConnectedNoInternet4Bar, signalCellularNoSim, signalCellularNodata, signalCellularNull, signalCellularOff, signalWifi0Bar, signalWifi1Bar, signalWifi1BarLock, signalWifi2Bar, signalWifi2BarLock, signalWifi3Bar, signalWifi3BarLock, signalWifi4Bar, signalWifi4BarLock, signalWifiBad, signalWifiConnectedNoInternet4, signalWifiOff, signalWifiStatusbar4Bar, signalWifiStatusbarConnectedNoInternet4, signalWifiStatusbarNull, signpost, simCard, simCardAlert, simCardDownload, singleBed, sip, sixFtApart, sixK, sixKPlus, sixMp, sixteenMp, sixtyFps, sixtyFpsSelect, skateboarding, skipNext, skipPrevious, sledding, slideshow, slowMotionVideo, smartButton, smartDisplay, smartScreen, smartToy, smartphone, smokeFree, smokingRooms, sms, smsFailed, snapchat, snippetFolder, snooze, snowboarding, snowmobile, snowshoeing, soap, socialDistance, solarPower, sort, sortByAlpha, sos, soupKitchen, source, south, southAmerica, southEast, southWest, spa, spaceBar, spaceDashboard, spatialAudio, spatialAudioOff, spatialTracking, speaker, speakerGroup, speakerNotes, speakerNotesOff, speakerPhone, speed, spellcheck, splitscreen, spoke, sports, sportsBar, sportsBaseball, sportsBasketball, sportsCricket, sportsEsports, sportsFootball, sportsGolf, sportsGymnastics, sportsHandball, sportsHockey, sportsKabaddi, sportsMartialArts, sportsMma, sportsMotorsports, sportsRugby, sportsScore, sportsSoccer, sportsTennis, sportsVolleyball, square, squareFoot, ssidChart, stackedBarChart, stackedLineChart, stadium, stairs, star, starBorder, starBorderPurple500, starHalf, starOutline, starPurple500, starRate, stars, start, stayCurrentLandscape, stayCurrentPortrait, stayPrimaryLandscape, stayPrimaryPortrait, stickyNote2, stop, stopCircle, stopScreenShare, storage, store, storeMallDirectory, storefront, storm, straight, straighten, stream, streetview, strikethroughS, stroller, style, subdirectoryArrowLeft, subdirectoryArrowRight, subject, subscript, subscriptions, subtitles, subtitlesOff, subway, summarize, superscript, supervisedUserCircle, supervisorAccount, support, supportAgent, surfing, surroundSound, swapCalls, swapHoriz, swapHorizontalCircle, swapVert, swapVerticalCircle, swipe, swipeDown, swipeDownAlt, swipeLeft, swipeLeftAlt, swipeRight, swipeRightAlt, swipeUp, swipeUpAlt, swipeVertical, switchAccessShortcut, switchAccessShortcutAdd, switchAccount, switchCamera, switchLeft, switchRight, switchVideo, synagogue, sync, syncAlt, syncDisabled, syncLock, syncProblem, systemSecurityUpdate, systemSecurityUpdateGood, systemSecurityUpdateWarning, systemUpdate, systemUpdateAlt, tab, tabUnselected, tableBar, tableChart, tableRestaurant, tableRows, tableView, tablet, tabletAndroid, tabletMac, tag, tagFaces, takeoutDining, tapAndPlay, tapas, task, taskAlt, taxiAlert, telegram, templeBuddhist, templeHindu, tenK, tenMp, terminal, terrain, textDecrease, textFields, textFormat, textIncrease, textRotateUp, textRotateVertical, textRotationAngledown, textRotationAngleup, textRotationDown, textRotationNone, textSnippet, textsms, texture, theaterComedy, theaters, thermostat, thermostatAuto, thirteenMp, thirtyFps, thirtyFpsSelect, threeDRotation, threeGMobiledata, threeK, threeKPlus, threeMp, threeP, threeSixty, thumbDown, thumbDownAlt, thumbDownOffAlt, thumbUp, thumbUpAlt, thumbUpOffAlt, thumbsUpDown, thunderstorm, tiktok, timeToLeave, timelapse, timeline, timer, timer10, timer10Select, timer3, timer3Select, timerOff, tipsAndUpdates, tireRepair, title, toSvg, toSvgWith, toc, today, toggleOff, toggleOn, token, toll, tonality, topic, tornado, touchApp, tour, toys, trackChanges, traffic, train, tram, transcribe, transferWithinAStation, transform, transgender, transitEnterexit, translate, travelExplore, trendingDown, trendingFlat, trendingUp, tripOrigin, troubleshoot, try, tsunami, tty, tune, tungsten, turnLeft, turnRight, turnSharpLeft, turnSharpRight, turnSlightLeft, turnSlightRight, turnedIn, turnedInNot, tv, tvOff, twelveMp, twentyFourMp, twentyMp, twentyOneMp, twentyThreeMp, twentyTwoMp, twoK, twoKPlus, twoMp, twoWheeler, typeSpecimen, uTurnLeft, uTurnRight, umbrella, unarchive, undo, unfoldLess, unfoldLessDouble, unfoldMore, unfoldMoreDouble, unpublished, unsubscribe, upcoming, update, updateDisabled, upgrade, upload, uploadFile, usb, usbOff, vaccines, vapeFree, vapingRooms, verified, verifiedUser, verticalAlignBottom, verticalAlignCenter, verticalAlignTop, verticalDistribute, verticalShades, verticalShadesClosed, verticalSplit, vibration, videoCall, videoCameraBack, videoCameraFront, videoChat, videoFile, videoLabel, videoLibrary, videoSettings, videoStable, videocam, videocamOff, videogameAsset, videogameAssetOff, viewAgenda, viewArray, viewCarousel, viewColumn, viewComfy, viewComfyAlt, viewCompact, viewCompactAlt, viewCozy, viewDay, viewHeadline, viewInAr, viewKanban, viewList, viewModule, viewQuilt, viewSidebar, viewStream, viewTimeline, viewWeek, vignette, villa, visibility, visibilityOff, voiceChat, voiceOverOff, voicemail, volcano, volumeDown, volumeMute, volumeOff, volumeUp, volunteerActivism, vpnKey, vpnKeyOff, vpnLock, vrpano, wallet, wallpaper, warehouse, warning, warningAmber, wash, watch, watchLater, watchOff, water, waterDamage, waterDrop, waterfallChart, waves, wavingHand, wbAuto, wbCloudy, wbIncandescent, wbIridescent, wbShade, wbSunny, wbTwilight, wc, web, webAsset, webAssetOff, webStories, webhook, wechat, weekend, west, whatsapp, whatshot, wheelchairPickup, whereToVote, widgets, widthFull, widthNormal, widthWide, wifi, wifi1Bar, wifi2Bar, wifiCalling, wifiCalling3, wifiChannel, wifiFind, wifiLock, wifiOff, wifiPassword, wifiProtectedSetup, wifiTethering, wifiTetheringError, wifiTetheringErrorRounded, wifiTetheringOff, windPower, window, wineBar, woman, woman2, wooCommerce, wordpress, work, workHistory, workOff, workOutline, workspacePremium, workspaces, wrapText, wrongLocation, wysiwyg, yard, youtubeSearchedFor, zoomIn, zoomInMap, zoomOut, zoomOutMap)
+module Material.Icons.Rounded exposing (Icon, Rounded, abc, acUnit, accessAlarm, accessAlarms, accessTime, accessTimeFilled, accessibility, accessibilityNew, accessible, accessibleForward, accountBalance, accountBalanceWallet, accountBox, accountCircle, accountTree, adUnits, adb, add, addAPhoto, addAlarm, addAlert, addBox, addBusiness, addCard, addChart, addCircle, addCircleOutline, addComment, addHome, addHomeWork, addIcCall, addLink, addLocation, addLocationAlt, addModerator, addPhotoAlternate, addReaction, addRoad, addShoppingCart, addTask, addToDrive, addToHomeScreen, addToPhotos, addToQueue, addchart, adfScanner, adjust, adminPanelSettings, adobe, adsClick, agriculture, air, airlineSeatFlat, airlineSeatFlatAngled, airlineSeatIndividualSuite, airlineSeatLegroomExtra, airlineSeatLegroomNormal, airlineSeatLegroomReduced, airlineSeatReclineExtra, airlineSeatReclineNormal, airlineStops, airlines, airplaneTicket, airplanemodeActive, airplanemodeInactive, airplay, airportShuttle, alarm, alarmAdd, alarmOff, alarmOn, album, alignHorizontalCenter, alignHorizontalLeft, alignHorizontalRight, alignVerticalBottom, alignVerticalCenter, alignVerticalTop, allInbox, allInclusive, allOut, altRoute, alternateEmail, ampStories, analytics, anchor, android, animation, announcement, aod, apartment, api, appBlocking, appRegistration, appSettingsAlt, appShortcut, apple, approval, apps, appsOutage, architecture, archive, areaChart, arrowBack, arrowBackIos, arrowBackIosNew, arrowCircleDown, arrowCircleLeft, arrowCircleRight, arrowCircleUp, arrowDownward, arrowDropDown, arrowDropDownCircle, arrowDropUp, arrowForward, arrowForwardIos, arrowLeft, arrowOutward, arrowRight, arrowRightAlt, arrowUpward, artTrack, article, aspectRatio, assessment, assignment, assignmentInd, assignmentLate, assignmentReturn, assignmentReturned, assignmentTurnedIn, assistWalker, assistant, assistantDirection, assistantPhoto, assuredWorkload, atm, attachEmail, attachFile, attachMoney, attachment, attractions, attribution, audioFile, audiotrack, autoAwesome, autoAwesomeMosaic, autoAwesomeMotion, autoDelete, autoFixHigh, autoFixNormal, autoFixOff, autoGraph, autoMode, autoStories, autofpsSelect, autorenew, avTimer, babyChangingStation, backHand, backpack, backspace, backup, backupTable, badge, bakeryDining, balance, balcony, ballot, barChart, barcode, batchPrediction, bathroom, bathtub, battery0Bar, battery1Bar, battery20, battery2Bar, battery30, battery3Bar, battery4Bar, battery50, battery5Bar, battery60, battery6Bar, battery80, battery90, batteryAlert, batteryCharging20, batteryCharging30, batteryCharging50, batteryCharging60, batteryCharging80, batteryCharging90, batteryChargingFull, batteryFull, batterySaver, batteryStd, batteryUnknown, beachAccess, bed, bedroomBaby, bedroomChild, bedroomParent, bedtime, bedtimeOff, beenhere, bento, bikeScooter, biotech, blender, blind, blinds, blindsClosed, block, bloodtype, bluetooth, bluetoothAudio, bluetoothConnected, bluetoothDisabled, bluetoothDrive, bluetoothSearching, blurCircular, blurLinear, blurOff, blurOn, bolt, book, bookOnline, bookmark, bookmarkAdd, bookmarkAdded, bookmarkBorder, bookmarkRemove, bookmarks, borderAll, borderBottom, borderClear, borderColor, borderHorizontal, borderInner, borderLeft, borderOuter, borderRight, borderStyle, borderTop, borderVertical, boy, brandingWatermark, breakfastDining, brightness1, brightness2, brightness3, brightness4, brightness5, brightness6, brightness7, brightnessAuto, brightnessHigh, brightnessLow, brightnessMedium, broadcastOnHome, broadcastOnPersonal, brokenImage, browseGallery, browserNotSupported, browserUpdated, brunchDining, brush, bubbleChart, bugReport, build, buildCircle, bungalow, burstMode, busAlert, business, businessCenter, cabin, cable, cached, cake, calculate, calendarMonth, calendarToday, calendarViewDay, calendarViewMonth, calendarViewWeek, call, callEnd, callMade, callMerge, callMissed, callMissedOutgoing, callReceived, callSplit, callToAction, camera, cameraAlt, cameraEnhance, cameraFront, cameraIndoor, cameraOutdoor, cameraRear, cameraRoll, cameraswitch, campaign, cancel, cancelPresentation, cancelScheduleSend, candlestickChart, carCrash, carRental, carRepair, cardGiftcard, cardMembership, cardTravel, carpenter, cases, casino, cast, castConnected, castForEducation, castle, catchingPokemon, category, celebration, cellTower, cellWifi, centerFocusStrong, centerFocusWeak, chair, chairAlt, chalet, changeCircle, changeHistory, chargingStation, chat, chatBubble, chatBubbleOutline, check, checkBox, checkBoxOutlineBlank, checkCircle, checkCircleOutline, checklist, checklistRtl, checkroom, chevronLeft, chevronRight, childCare, childFriendly, chromeReaderMode, church, circle, circleNotifications, class, cleanHands, cleaningServices, clear, clearAll, close, closeFullscreen, closedCaption, closedCaptionDisabled, closedCaptionOff, cloud, cloudCircle, cloudDone, cloudDownload, cloudOff, cloudQueue, cloudSync, cloudUpload, co2, coPresent, code, codeOff, coffee, coffeeMaker, collections, collectionsBookmark, colorLens, colorize, comment, commentBank, commentsDisabled, commit, commute, compare, compareArrows, compassCalibration, compost, compress, computer, confirmationNumber, connectWithoutContact, connectedTv, connectingAirports, construction, contactEmergency, contactMail, contactPage, contactPhone, contactSupport, contactless, contacts, contentCopy, contentCut, contentPaste, contentPasteGo, contentPasteOff, contentPasteSearch, contrast, controlCamera, controlPoint, controlPointDuplicate, cookie, copyAll, copyright, coronavirus, corporateFare, cottage, countertops, create, createNewFolder, creditCard, creditCardOff, creditScore, crib, crisisAlert, crop, crop169, crop32, crop54, crop75, cropDin, cropFree, cropLandscape, cropOriginal, cropPortrait, cropRotate, cropSquare, crueltyFree, css, currencyBitcoin, currencyExchange, currencyFranc, currencyLira, currencyPound, currencyRuble, currencyRupee, currencyYen, currencyYuan, curtains, curtainsClosed, cyclone, dangerous, darkMode, dashboard, dashboardCustomize, dataArray, dataExploration, dataObject, dataSaverOff, dataSaverOn, dataThresholding, dataUsage, dataset, datasetLinked, dateRange, deblur, deck, dehaze, delete, deleteForever, deleteOutline, deleteSweep, deliveryDining, densityLarge, densityMedium, densitySmall, departureBoard, description, deselect, designServices, desk, desktopAccessDisabled, desktopMac, desktopWindows, details, developerBoard, developerBoardOff, developerMode, deviceHub, deviceThermostat, deviceUnknown, devices, devicesFold, devicesOther, dialerSip, dialpad, diamond, difference, dining, dinnerDining, directions, directionsBike, directionsBoat, directionsBoatFilled, directionsBus, directionsBusFilled, directionsCar, directionsCarFilled, directionsOff, directionsRailway, directionsRailwayFilled, directionsRun, directionsSubway, directionsSubwayFilled, directionsTransit, directionsTransitFilled, directionsWalk, dirtyLens, disabledByDefault, disabledVisible, discFull, discord, discount, displaySettings, diversity1, diversity2, diversity3, divide, dns, doDisturb, doDisturbAlt, doDisturbOff, doDisturbOn, doNotDisturb, doNotDisturbAlt, doNotDisturbOff, doNotDisturbOn, doNotDisturbOnTotalSilence, doNotStep, doNotTouch, dock, documentScanner, domain, domainAdd, domainDisabled, domainVerification, done, doneAll, doneOutline, donutLarge, donutSmall, doorBack, doorFront, doorSliding, doorbell, doubleArrow, downhillSkiing, download, downloadDone, downloadForOffline, downloading, drafts, dragHandle, dragIndicator, draw, driveEta, driveFileMove, driveFileMoveRtl, driveFileRenameOutline, driveFolderUpload, dry, dryCleaning, duo, dvr, dynamicFeed, dynamicForm, eMobiledata, earbuds, earbudsBattery, east, eco, edgesensorHigh, edgesensorLow, edit, editAttributes, editCalendar, editLocation, editLocationAlt, editNote, editNotifications, editOff, editRoad, egg, eggAlt, eightK, eightKPlus, eightMp, eighteenMp, eighteenUpRating, eject, elderly, elderlyWoman, electricBike, electricBolt, electricCar, electricMeter, electricMoped, electricRickshaw, electricScooter, electricalServices, elevator, elevenMp, email, emergency, emergencyRecording, emergencyShare, emojiEmotions, emojiEvents, emojiFlags, emojiFoodBeverage, emojiNature, emojiObjects, emojiPeople, emojiSymbols, emojiTransportation, energySavingsLeaf, engineering, enhancedEncryption, equalizer, equals, error, errorOutline, escalator, escalatorWarning, euro, euroSymbol, evStation, event, eventAvailable, eventBusy, eventNote, eventRepeat, eventSeat, exitToApp, expand, expandCircleDown, expandLess, expandMore, explicit, explore, exploreOff, exposure, exposureNeg1, exposureNeg2, exposurePlus1, exposurePlus2, exposureZero, extension, extensionOff, face, face2, face3, face4, face5, face6, faceRetouchingNatural, faceRetouchingOff, facebook, factCheck, factory, familyRestroom, fastForward, fastRewind, fastfood, favorite, favoriteBorder, fax, featuredPlayList, featuredVideo, feed, feedback, female, fence, festival, fiberDvr, fiberManualRecord, fiberNew, fiberPin, fiberSmartRecord, fifteenMp, fileCopy, fileDownload, fileDownloadDone, fileDownloadOff, fileOpen, filePresent, fileUpload, filter, filter1, filter2, filter3, filter4, filter5, filter6, filter7, filter8, filter9, filter9Plus, filterAlt, filterAltOff, filterBAndW, filterCenterFocus, filterDrama, filterFrames, filterHdr, filterList, filterListOff, filterNone, filterTiltShift, filterVintage, findInPage, findReplace, fingerprint, fireExtinguisher, fireHydrantAlt, fireTruck, fireplace, firstPage, fitScreen, fitbit, fitnessCenter, fiveG, fiveK, fiveKPlus, fiveMp, flag, flagCircle, flaky, flare, flashAuto, flashOff, flashOn, flashlightOff, flashlightOn, flatware, flight, flightClass, flightLand, flightTakeoff, flip, flipCameraAndroid, flipCameraIos, flipToBack, flipToFront, flood, flourescent, fluorescent, flutterDash, fmdBad, fmdGood, folder, folderCopy, folderDelete, folderOff, folderOpen, folderShared, folderSpecial, folderZip, followTheSigns, fontDownload, fontDownloadOff, foodBank, forest, forkLeft, forkRight, formatAlignCenter, formatAlignJustify, formatAlignLeft, formatAlignRight, formatBold, formatClear, formatColorFill, formatColorReset, formatColorText, formatIndentDecrease, formatIndentIncrease, formatItalic, formatLineSpacing, formatListBulleted, formatListNumbered, formatListNumberedRtl, formatOverline, formatPaint, formatQuote, formatShapes, formatSize, formatStrikethrough, formatTextdirectionLToR, formatTextdirectionRToL, formatUnderlined, fort, forum, forward, forward10, forward30, forward5, forwardToInbox, foundation, fourGMobiledata, fourGPlusMobiledata, fourK, fourKPlus, fourMp, fourteenMp, freeBreakfast, freeCancellation, frontHand, fullscreen, fullscreenExit, functions, gMobiledata, gTranslate, gamepad, games, garage, gasMeter, gavel, generatingTokens, gesture, getApp, gif, gifBox, girl, gite, golfCourse, gppBad, gppGood, gppMaybe, gpsFixed, gpsNotFixed, gpsOff, grade, gradient, grading, grain, graphicEq, grass, greaterThan, greaterThanEqual, grid3x3, grid4x4, gridGoldenratio, gridOff, gridOn, gridView, group, groupAdd, groupOff, groupRemove, groupWork, groups, groups2, groups3, hMobiledata, hPlusMobiledata, hail, handshake, handyman, hardware, hd, hdrAuto, hdrAutoSelect, hdrEnhancedSelect, hdrOff, hdrOffSelect, hdrOn, hdrOnSelect, hdrPlus, hdrStrong, hdrWeak, headphones, headphonesBattery, headset, headsetMic, headsetOff, healing, healthAndSafety, hearing, hearingDisabled, heartBroken, heatPump, height, help, helpCenter, helpOutline, hevc, hexagon, hideImage, hideSource, highQuality, highlight, highlightAlt, highlightOff, hiking, history, historyEdu, historyToggleOff, hive, hls, hlsOff, holidayVillage, home, homeMax, homeMini, homeRepairService, homeWork, horizontalDistribute, horizontalRule, horizontalSplit, hotTub, hotel, hotelClass, hourglassBottom, hourglassDisabled, hourglassEmpty, hourglassFull, hourglassTop, house, houseSiding, houseboat, howToReg, howToVote, html, http, https, hub, hvac, iceSkating, icecream, image, imageAspectRatio, imageNotSupported, imageSearch, imagesearchRoller, importContacts, importExport, importantDevices, inbox, incompleteCircle, indeterminateCheckBox, info, input, insertChart, insertChartOutlined, insertComment, insertDriveFile, insertEmoticon, insertInvitation, insertLink, insertPageBreak, insertPhoto, insights, installDesktop, installMobile, integrationInstructions, interests, interpreterMode, inventory, inventory2, invertColors, invertColorsOff, iosShare, iron, iso, javascript, joinFull, joinInner, joinLeft, joinRight, kayaking, kebabDining, key, keyOff, keyboard, keyboardAlt, keyboardArrowDown, keyboardArrowLeft, keyboardArrowRight, keyboardArrowUp, keyboardBackspace, keyboardCapslock, keyboardCommandKey, keyboardControlKey, keyboardDoubleArrowDown, keyboardDoubleArrowLeft, keyboardDoubleArrowRight, keyboardDoubleArrowUp, keyboardHide, keyboardOptionKey, keyboardReturn, keyboardTab, keyboardVoice, kingBed, kitchen, kitesurfing, label, labelImportant, labelOff, lan, landscape, landslide, language, laptop, laptopChromebook, laptopMac, laptopWindows, lastPage, launch, layers, layersClear, leaderboard, leakAdd, leakRemove, leaveBagsAtHome, legendToggle, lens, lensBlur, lessThan, lessThanEqual, libraryAdd, libraryAddCheck, libraryBooks, libraryMusic, light, lightMode, lightbulb, lightbulbCircle, lineAxis, lineStyle, lineWeight, linearScale, link, linkOff, linkedCamera, liquor, list, listAlt, liveHelp, liveTv, living, localActivity, localAirport, localAtm, localBar, localCafe, localCarWash, localConvenienceStore, localDining, localDrink, localFireDepartment, localFlorist, localGasStation, localGroceryStore, localHospital, localHotel, localLaundryService, localLibrary, localMall, localMovies, localOffer, localParking, localPharmacy, localPhone, localPizza, localPlay, localPolice, localPostOffice, localPrintshop, localSee, localShipping, localTaxi, locationCity, locationDisabled, locationOff, locationOn, locationSearching, lock, lockClock, lockOpen, lockPerson, lockReset, logIn, logOut, login, logoDev, logout, looks, looks3, looks4, looks5, looks6, looksOne, looksTwo, loop, loupe, lowPriority, loyalty, lteMobiledata, ltePlusMobiledata, luggage, lunchDining, lyrics, macroOff, mail, mailLock, mailOutline, male, man, man2, man3, man4, manageAccounts, manageHistory, manageSearch, map, mapsHomeWork, mapsUgc, margin, markAsUnread, markChatRead, markChatUnread, markEmailRead, markEmailUnread, markUnreadChatAlt, markunread, markunreadMailbox, masks, maximize, mediaBluetoothOff, mediaBluetoothOn, mediation, medicalInformation, medicalServices, medication, medicationLiquid, meetingRoom, memory, menu, menuBook, menuOpen, merge, mergeType, message, mic, micExternalOff, micExternalOn, micNone, micOff, microwave, militaryTech, minimize, minorCrash, minus, miscellaneousServices, missedVideoCall, mms, mobileFriendly, mobileOff, mobileScreenShare, mobiledataOff, mode, modeComment, modeEdit, modeEditOutline, modeFanOff, modeNight, modeOfTravel, modeStandby, modelTraining, monetizationOn, money, moneyOff, moneyOffCsred, monitor, monitorHeart, monitorWeight, monochromePhotos, mood, moodBad, moped, more, moreHoriz, moreTime, moreVert, mosque, motionPhotosAuto, motionPhotosOff, motionPhotosOn, motionPhotosPause, motionPhotosPaused, motorcycle, mouse, moveDown, moveToInbox, moveUp, movie, movieCreation, movieFilter, moving, mp, multilineChart, multipleStop, museum, musicNote, musicOff, musicVideo, myLocation, nat, nature, naturePeople, navigateBefore, navigateNext, navigation, nearMe, nearMeDisabled, nearbyError, nearbyOff, nestCamWiredStand, networkCell, networkCheck, networkLocked, networkPing, networkWifi, networkWifi1Bar, networkWifi2Bar, networkWifi3Bar, newLabel, newReleases, newspaper, nextPlan, nextWeek, nfc, nightShelter, nightlife, nightlight, nightlightRound, nightsStay, nineK, nineKPlus, nineMp, nineteenMp, noAccounts, noAdultContent, noBackpack, noCell, noCrash, noDrinks, noEncryption, noEncryptionGmailerrorred, noFlash, noFood, noLuggage, noMeals, noMeetingRoom, noPhotography, noSim, noStroller, noTransfer, noiseAware, noiseControlOff, nordicWalking, north, northEast, northWest, notAccessible, notEqual, notInterested, notListedLocation, notStarted, note, noteAdd, noteAlt, notes, notificationAdd, notificationImportant, notifications, notificationsActive, notificationsNone, notificationsOff, notificationsPaused, numbers, offlineBolt, offlinePin, offlineShare, oilBarrel, onDeviceTraining, ondemandVideo, oneK, oneKPlus, oneTwoThree, oneXMobiledata, onlinePrediction, opacity, openInBrowser, openInFull, openInNew, openInNewOff, openWith, otherHouses, outbond, outbound, outbox, outdoorGrill, outlet, outlinedFlag, output, padding, pages, pageview, paid, palette, panTool, panToolAlt, panorama, panoramaFishEye, panoramaHorizontal, panoramaHorizontalSelect, panoramaPhotosphere, panoramaPhotosphereSelect, panoramaVertical, panoramaVerticalSelect, panoramaWideAngle, panoramaWideAngleSelect, paragliding, park, partyMode, password, pattern, pause, pauseCircle, pauseCircleFilled, pauseCircleOutline, pausePresentation, payment, payments, paypal, pedalBike, pending, pendingActions, pentagon, people, peopleAlt, peopleOutline, percent, percentage, permCameraMic, permContactCalendar, permDataSetting, permDeviceInformation, permIdentity, permMedia, permPhoneMsg, permScanWifi, person, person2, person3, person4, personAdd, personAddAlt, personAddAlt1, personAddDisabled, personOff, personOutline, personPin, personPinCircle, personRemove, personRemoveAlt1, personSearch, personalInjury, personalVideo, pestControl, pestControlRodent, pets, phishing, phone, phoneAndroid, phoneBluetoothSpeaker, phoneCallback, phoneDisabled, phoneEnabled, phoneForwarded, phoneInTalk, phoneIphone, phoneLocked, phoneMissed, phonePaused, phonelink, phonelinkErase, phonelinkLock, phonelinkOff, phonelinkRing, phonelinkSetup, photo, photoAlbum, photoCamera, photoCameraBack, photoCameraFront, photoFilter, photoLibrary, photoSizeSelectActual, photoSizeSelectLarge, photoSizeSelectSmall, php, piano, pianoOff, pictureAsPdf, pictureInPicture, pictureInPictureAlt, pieChart, pieChartOutline, pin, pinDrop, pinEnd, pinInvoke, pinOff, pinch, pivotTableChart, pix, place, plagiarism, playArrow, playCircle, playCircleFilled, playCircleFilledWhite, playCircleOutline, playDisabled, playForWork, playLesson, playlistAdd, playlistAddCheck, playlistAddCheckCircle, playlistAddCircle, playlistPlay, playlistRemove, plumbing, plus, plusMinus, plusMinusAlt, plusOne, podcasts, pointOfSale, policy, poll, polyline, polymer, pool, portableWifiOff, portrait, postAdd, power, powerInput, powerOff, powerSettingsNew, precisionManufacturing, pregnantWoman, presentToAll, preview, priceChange, priceCheck, print, printDisabled, priorityHigh, privacyTip, privateConnectivity, productionQuantityLimits, propane, propaneTank, psychology, psychologyAlt, public, publicOff, publish, publishedWithChanges, punchClock, pushPin, qrCode, qrCode2, qrCodeScanner, qrcode, queryBuilder, queryStats, questionAnswer, questionMark, queue, queueMusic, queuePlayNext, quickreply, quiz, quora, rMobiledata, radar, radio, radioButtonChecked, radioButtonUnchecked, railwayAlert, ramenDining, rampLeft, rampRight, rateReview, rawOff, rawOn, readMore, realEstateAgent, receipt, receiptLong, recentActors, recommend, recordVoiceOver, rectangle, recycling, reddit, redeem, redo, reduceCapacity, refresh, rememberMe, remove, removeCircle, removeCircleOutline, removeDone, removeFromQueue, removeModerator, removeRedEye, removeRoad, removeShoppingCart, reorder, repartition, repeat, repeatOn, repeatOne, repeatOneOn, replay, replay10, replay30, replay5, replayCircleFilled, reply, replyAll, report, reportGmailerrorred, reportOff, reportProblem, requestPage, requestQuote, resetTv, restartAlt, restaurant, restaurantMenu, restore, restoreFromTrash, restorePage, reviews, riceBowl, ringVolume, rocket, rocketLaunch, rollerShades, rollerShadesClosed, rollerSkating, roofing, room, roomPreferences, roomService, rotate90DegreesCcw, rotate90DegreesCw, rotateLeft, rotateRight, roundaboutLeft, roundaboutRight, roundedCorner, route, router, rowing, rssFeed, rsvp, rtt, rule, ruleFolder, runCircle, runningWithErrors, rvHookup, safetyCheck, safetyDivider, sailing, sanitizer, satellite, satelliteAlt, save, saveAll, saveAlt, saveAs, savedSearch, savings, scale, scanner, scatterPlot, schedule, scheduleSend, schema, school, science, score, scoreboard, screenLockLandscape, screenLockPortrait, screenLockRotation, screenRotation, screenRotationAlt, screenSearchDesktop, screenShare, screenshot, screenshotMonitor, scubaDiving, sd, sdCard, sdCardAlert, sdStorage, search, searchOff, security, securityUpdate, securityUpdateGood, securityUpdateWarning, segment, selectAll, selfImprovement, sell, send, sendAndArchive, sendTimeExtension, sendToMobile, sensorDoor, sensorOccupied, sensorWindow, sensors, sensorsOff, sentimentDissatisfied, sentimentNeutral, sentimentSatisfied, sentimentSatisfiedAlt, sentimentSlightlyDissatisfied, sentimentVeryDissatisfied, sentimentVerySatisfied, setMeal, settings, settingsAccessibility, settingsApplications, settingsBackupRestore, settingsBluetooth, settingsBrightness, settingsCell, settingsEthernet, settingsInputAntenna, settingsInputComponent, settingsInputComposite, settingsInputHdmi, settingsInputSvideo, settingsOverscan, settingsPhone, settingsPower, settingsRemote, settingsSuggest, settingsSystemDaydream, settingsVoice, sevenK, sevenKPlus, sevenMp, seventeenMp, severeCold, shapeLine, share, shareArrivalTime, shareLocation, shield, shieldMoon, shop, shop2, shopTwo, shopify, shoppingBag, shoppingBasket, shoppingCart, shoppingCartCheckout, shortText, shortcut, showChart, shower, shuffle, shuffleOn, shutterSpeed, sick, signLanguage, signalCellular0Bar, signalCellular1Bar, signalCellular2Bar, signalCellular3Bar, signalCellular4Bar, signalCellularAlt, signalCellularAlt1Bar, signalCellularAlt2Bar, signalCellularConnectedNoInternet0Bar, signalCellularConnectedNoInternet1Bar, signalCellularConnectedNoInternet2Bar, signalCellularConnectedNoInternet3Bar, signalCellularConnectedNoInternet4Bar, signalCellularNoSim, signalCellularNodata, signalCellularNull, signalCellularOff, signalWifi0Bar, signalWifi1Bar, signalWifi1BarLock, signalWifi2Bar, signalWifi2BarLock, signalWifi3Bar, signalWifi3BarLock, signalWifi4Bar, signalWifi4BarLock, signalWifiBad, signalWifiConnectedNoInternet4, signalWifiOff, signalWifiStatusbar4Bar, signalWifiStatusbarConnectedNoInternet4, signalWifiStatusbarNull, signpost, simCard, simCardAlert, simCardDownload, singleBed, sip, sixFtApart, sixK, sixKPlus, sixMp, sixteenMp, sixtyFps, sixtyFpsSelect, skateboarding, skipNext, skipPrevious, sledding, slideshow, slowMotionVideo, smartButton, smartDisplay, smartScreen, smartToy, smartphone, smokeFree, smokingRooms, sms, smsFailed, snapchat, snippetFolder, snooze, snowboarding, snowmobile, snowshoeing, soap, socialDistance, solarPower, sort, sortByAlpha, sos, soupKitchen, source, south, southAmerica, southEast, southWest, spa, spaceBar, spaceDashboard, spatialAudio, spatialAudioOff, spatialTracking, speaker, speakerGroup, speakerNotes, speakerNotesOff, speakerPhone, speed, spellcheck, splitscreen, spoke, sports, sportsBar, sportsBaseball, sportsBasketball, sportsCricket, sportsEsports, sportsFootball, sportsGolf, sportsGymnastics, sportsHandball, sportsHockey, sportsKabaddi, sportsMartialArts, sportsMma, sportsMotorsports, sportsRugby, sportsScore, sportsSoccer, sportsTennis, sportsVolleyball, square, squareFoot, ssidChart, stackedBarChart, stackedLineChart, stadium, stairs, star, starBorder, starBorderPurple500, starHalf, starOutline, starPurple500, starRate, stars, start, stayCurrentLandscape, stayCurrentPortrait, stayPrimaryLandscape, stayPrimaryPortrait, stickyNote2, stop, stopCircle, stopScreenShare, storage, store, storeMallDirectory, storefront, storm, straight, straighten, stream, streetview, strikethroughS, stroller, style, subdirectoryArrowLeft, subdirectoryArrowRight, subject, subscript, subscriptions, subtitles, subtitlesOff, subway, summarize, superscript, supervisedUserCircle, supervisorAccount, support, supportAgent, surfing, surroundSound, swapCalls, swapHoriz, swapHorizontalCircle, swapVert, swapVerticalCircle, swipe, swipeDown, swipeDownAlt, swipeLeft, swipeLeftAlt, swipeRight, swipeRightAlt, swipeUp, swipeUpAlt, swipeVertical, switchAccessShortcut, switchAccessShortcutAdd, switchAccount, switchCamera, switchLeft, switchRight, switchVideo, synagogue, sync, syncAlt, syncDisabled, syncLock, syncProblem, systemSecurityUpdate, systemSecurityUpdateGood, systemSecurityUpdateWarning, systemUpdate, systemUpdateAlt, tab, tabUnselected, tableBar, tableChart, tableRestaurant, tableRows, tableView, tablet, tabletAndroid, tabletMac, tag, tagFaces, takeoutDining, tapAndPlay, tapas, task, taskAlt, taxiAlert, telegram, templeBuddhist, templeHindu, tenK, tenMp, terminal, terrain, textDecrease, textFields, textFormat, textIncrease, textRotateUp, textRotateVertical, textRotationAngledown, textRotationAngleup, textRotationDown, textRotationNone, textSnippet, textsms, texture, theaterComedy, theaters, thermostat, thermostatAuto, thirteenMp, thirtyFps, thirtyFpsSelect, threeDRotation, threeGMobiledata, threeK, threeKPlus, threeMp, threeP, threeSixty, thumbDown, thumbDownAlt, thumbDownOffAlt, thumbUp, thumbUpAlt, thumbUpOffAlt, thumbsUpDown, thunderstorm, tiktok, timeToLeave, timelapse, timeline, timer, timer10, timer10Select, timer3, timer3Select, timerOff, tipsAndUpdates, tireRepair, title, toSvg, toSvgWith, toc, today, toggleOff, toggleOn, token, toll, tonality, topic, tornado, touchApp, tour, toys, trackChanges, traffic, train, tram, transcribe, transferWithinAStation, transform, transgender, transitEnterexit, translate, travelExplore, trendingDown, trendingFlat, trendingUp, tripOrigin, troubleshoot, try, tsunami, tty, tune, tungsten, turnLeft, turnRight, turnSharpLeft, turnSharpRight, turnSlightLeft, turnSlightRight, turnedIn, turnedInNot, tv, tvOff, twelveMp, twentyFourMp, twentyMp, twentyOneMp, twentyThreeMp, twentyTwoMp, twoK, twoKPlus, twoMp, twoWheeler, typeSpecimen, uTurnLeft, uTurnRight, umbrella, unarchive, undo, unfoldLess, unfoldLessDouble, unfoldMore, unfoldMoreDouble, unpublished, unsubscribe, upcoming, update, updateDisabled, upgrade, upload, uploadFile, usb, usbOff, vaccines, vapeFree, vapingRooms, verified, verifiedUser, verticalAlignBottom, verticalAlignCenter, verticalAlignTop, verticalDistribute, verticalShades, verticalShadesClosed, verticalSplit, vibration, videoCall, videoCameraBack, videoCameraFront, videoChat, videoFile, videoLabel, videoLibrary, videoSettings, videoStable, videocam, videocamOff, videogameAsset, videogameAssetOff, viewAgenda, viewArray, viewCarousel, viewColumn, viewComfy, viewComfyAlt, viewCompact, viewCompactAlt, viewCozy, viewDay, viewHeadline, viewInAr, viewKanban, viewList, viewModule, viewQuilt, viewSidebar, viewStream, viewTimeline, viewWeek, vignette, villa, visibility, visibilityOff, voiceChat, voiceOverOff, voicemail, volcano, volumeDown, volumeMute, volumeOff, volumeUp, volunteerActivism, vpnKey, vpnKeyOff, vpnLock, vrpano, wallet, wallpaper, warehouse, warning, warningAmber, wash, watch, watchLater, watchOff, water, waterDamage, waterDrop, waterfallChart, waves, wavingHand, wbAuto, wbCloudy, wbIncandescent, wbIridescent, wbShade, wbSunny, wbTwilight, wc, web, webAsset, webAssetOff, webStories, webhook, wechat, weekend, west, whatsapp, whatshot, wheelchairPickup, whereToVote, widgets, widthFull, widthNormal, widthWide, wifi, wifi1Bar, wifi2Bar, wifiCalling, wifiCalling3, wifiChannel, wifiFind, wifiLock, wifiOff, wifiPassword, wifiProtectedSetup, wifiTethering, wifiTetheringError, wifiTetheringErrorRounded, wifiTetheringOff, windPower, window, wineBar, woman, woman2, wooCommerce, wordpress, work, workHistory, workOff, workOutline, workspacePremium, workspaces, wrapText, wrongLocation, wysiwyg, yard, youtubeSearchedFor, zoomIn, zoomInMap, zoomOut, zoomOutMap)
 
 {-| 
 ## Type
 
-@docs Icon, Round
+@docs Icon, Rounded
 
 ## Conversions
 
@@ -94,36 +94,36 @@ module Material.Icons.Round exposing (Icon, Round, abc, acUnit, accessAlarm, acc
 import Html
 import Internal.Icon as I
 import Material.Icon as Icon
-import Material.Icons.Filled as F
+import Material.Icons.Common as C
 import Svg as S
 import Svg.Attributes as SA
 
 
 {-| The variant -}
-type alias Round =
-    Icon.Round
+type alias Rounded =
+    Icon.Rounded
 
 
-{-| Convenience alias, useful if you're only using Round icons in your app -}
+{-| Convenience alias, useful if you're only using Rounded icons in your app -}
 type alias Icon =
-    Icon.Icon Round
+    Icon.Icon Rounded
 
 
 {-| Convert the icon to an SVG node -}
-toSvg : Icon.Icon Round -> Html.Html msg
+toSvg : Icon -> Html.Html msg
 toSvg icon =
     I.toSvg icon
 
 
 {-| Convert the icon to an SVG with attributes -}
-toSvgWith : List (Html.Attribute msg) -> Icon.Icon Round -> Html.Html msg
+toSvgWith : List (Html.Attribute msg) -> Icon -> Html.Html msg
 toSvgWith attrs icon =
     I.toSvgWith attrs icon
 
 
 i : String -> List (S.Svg Never) -> Icon
 i name svg =
-    I.i "round" name svg
+    I.i "rounded" name svg
 
 
 {-| 10k -}
@@ -474,13 +474,13 @@ accountBalanceWallet = i "account_balance_wallet" [ S.path [ SA.d "M10 16V8a2 2 
 {-| Account Box -}
 accountBox : Icon
 accountBox =
-    I.map F.accountBox
+    I.map C.accountBox
 
 
 {-| Account Circle -}
 accountCircle : Icon
 accountCircle =
-    I.map F.accountCircle
+    I.map C.accountCircle
 
 
 {-| Account Tree -}
@@ -496,7 +496,7 @@ adUnits = i "ad_units" [ S.path [ SA.d "M17 1H7c-1.1 0-2 .9-2 2v18c0 1.1.9 2 2 2
 {-| Adb -}
 adb : Icon
 adb =
-    I.map F.adb
+    I.map C.adb
 
 
 {-| Add -}
@@ -647,7 +647,7 @@ adfScanner = i "adf_scanner" [ S.path [ SA.d "M19 12h-1V6c0-1.1-.9-2-2-2H8c-1.1 
 {-| Adjust -}
 adjust : Icon
 adjust =
-    I.map F.adjust
+    I.map C.adjust
 
 
 {-| Admin Panel Settings -}
@@ -658,7 +658,7 @@ adminPanelSettings = i "admin_panel_settings" [ S.path [ SA.d "M17 11c.34 0 .67.
 {-| Adobe -}
 adobe : Icon
 adobe =
-    I.map F.adobe
+    I.map C.adobe
 
 
 {-| Ads Click -}
@@ -774,7 +774,7 @@ alarmOn = i "alarm_on" [ S.path [ SA.d "M14.94 10.11l-4.4 4.42l-1.6-1.6a.754.754
 {-| Album -}
 album : Icon
 album =
-    I.map F.album
+    I.map C.album
 
 
 {-| Align Horizontal Center -}
@@ -850,13 +850,13 @@ anchor = i "anchor" [ S.path [ SA.d "M13 9V7.82C14.16 7.4 15 6.3 15 5c0-1.65-1.3
 {-| Android -}
 android : Icon
 android =
-    I.map F.android
+    I.map C.android
 
 
 {-| Animation -}
 animation : Icon
 animation =
-    I.map F.animation
+    I.map C.animation
 
 
 {-| Announcement -}
@@ -902,7 +902,7 @@ appShortcut = i "app_shortcut" [ S.path [ SA.d "M17 18H7V6h10v1h2V3c0-1.1-.9-2-2
 {-| Apple -}
 apple : Icon
 apple =
-    I.map F.apple
+    I.map C.apple
 
 
 {-| Approval -}
@@ -913,7 +913,7 @@ approval = i "approval" [ S.path [ SA.d "M4 16v4c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2
 {-| Apps -}
 apps : Icon
 apps =
-    I.map F.apps
+    I.map C.apps
 
 
 {-| Apps Outage -}
@@ -1154,7 +1154,7 @@ autoAwesome = i "auto_awesome" [ S.path [ SA.d "M19.46 8l.79-1.75L22 5.46a.5.5 0
 {-| Auto Awesome Mosaic -}
 autoAwesomeMosaic : Icon
 autoAwesomeMosaic =
-    I.map F.autoAwesomeMosaic
+    I.map C.autoAwesomeMosaic
 
 
 {-| Auto Awesome Motion -}
@@ -1275,7 +1275,7 @@ barChart = i "bar_chart" [ S.path [ SA.d "M6 20c1.1 0 2-.9 2-2v-7c0-1.1-.9-2-2-2
 {-| Barcode -}
 barcode : Icon
 barcode =
-    I.map F.barcode
+    I.map C.barcode
 
 
 {-| Batch Prediction -}
@@ -1461,7 +1461,7 @@ beenhere = i "beenhere" [ S.path [ SA.d "M19 1H5c-1.1 0-1.99.9-1.99 2L3 15.93c0 
 {-| Bento -}
 bento : Icon
 bento =
-    I.map F.bento
+    I.map C.bento
 
 
 {-| Bike Scooter -}
@@ -1497,7 +1497,7 @@ blindsClosed = i "blinds_closed" [ S.path [ SA.d "M20 19V5c0-1.1-.9-2-2-2H6c-1.1
 {-| Block -}
 block : Icon
 block =
-    I.map F.block
+    I.map C.block
 
 
 {-| Bloodtype -}
@@ -1538,7 +1538,7 @@ bluetoothSearching = i "bluetooth_searching" [ S.path [ SA.d "M15.98 10.28l-1.38
 {-| Blur Circular -}
 blurCircular : Icon
 blurCircular =
-    I.map F.blurCircular
+    I.map C.blurCircular
 
 
 {-| Blur Linear -}
@@ -1554,7 +1554,7 @@ blurOff = i "blur_off" [ S.circle [ SA.cx "14", SA.cy "6", SA.r "1" ] [] , S.pat
 {-| Blur On -}
 blurOn : Icon
 blurOn =
-    I.map F.blurOn
+    I.map C.blurOn
 
 
 {-| Bolt -}
@@ -1565,7 +1565,7 @@ bolt = i "bolt" [ S.path [ SA.d "M10.67 21c-.35 0-.62-.31-.57-.66L11 14H7.5c-.88
 {-| Book -}
 book : Icon
 book =
-    I.map F.book
+    I.map C.book
 
 
 {-| Book Online -}
@@ -1601,7 +1601,7 @@ bookmarkRemove = i "bookmark_remove" [ S.path [ SA.d "M21 6c0 .55-.45 1-1 1h-4c-
 {-| Bookmarks -}
 bookmarks : Icon
 bookmarks =
-    I.map F.bookmarks
+    I.map C.bookmarks
 
 
 {-| Border All -}
@@ -1617,7 +1617,7 @@ borderBottom = i "border_bottom" [ S.path [ SA.d "M9 11H7v2h2v-2zm4 4h-2v2h2v-2z
 {-| Border Clear -}
 borderClear : Icon
 borderClear =
-    I.map F.borderClear
+    I.map C.borderClear
 
 
 {-| Border Color -}
@@ -1683,7 +1683,7 @@ breakfastDining = i "breakfast_dining" [ S.path [ SA.d "M18 3H6C3.79 3 2 4.79 2 
 {-| Brightness 1 -}
 brightness1 : Icon
 brightness1 =
-    I.map F.brightness1
+    I.map C.brightness1
 
 
 {-| Brightness 2 -}
@@ -1744,7 +1744,7 @@ broadcastOnHome = i "broadcast_on_home" [ S.path [ SA.d "M22 6c0-1.1-.9-2-2-2H5c
 {-| Broadcast On Personal -}
 broadcastOnPersonal : Icon
 broadcastOnPersonal =
-    I.map F.broadcastOnPersonal
+    I.map C.broadcastOnPersonal
 
 
 {-| Broken Image -}
@@ -1775,13 +1775,13 @@ brunchDining = i "brunch_dining" [ S.path [ SA.d "M18 8h2V4h-2v4zm-3 14H3c-.55 0
 {-| Brush -}
 brush : Icon
 brush =
-    I.map F.brush
+    I.map C.brush
 
 
 {-| Bubble Chart -}
 bubbleChart : Icon
 bubbleChart =
-    I.map F.bubbleChart
+    I.map C.bubbleChart
 
 
 {-| Bug Report -}
@@ -1867,13 +1867,13 @@ calendarViewDay = i "calendar_view_day" [ S.path [ SA.d "M5 7h14c1.1 0 2 .9 2 2v
 {-| Calendar View Month -}
 calendarViewMonth : Icon
 calendarViewMonth =
-    I.map F.calendarViewMonth
+    I.map C.calendarViewMonth
 
 
 {-| Calendar View Week -}
 calendarViewWeek : Icon
 calendarViewWeek =
-    I.map F.calendarViewWeek
+    I.map C.calendarViewWeek
 
 
 {-| Call -}
@@ -2034,7 +2034,7 @@ cases = i "cases" [ S.path [ SA.d "M18 5V3c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v2H7
 {-| Casino -}
 casino : Icon
 casino =
-    I.map F.casino
+    I.map C.casino
 
 
 {-| Cast -}
@@ -2060,7 +2060,7 @@ castle = i "castle" [ S.path [ SA.d "M22 9c-.55 0-1 .45-1 1v1h-2V4c0-.55-.45-1-1
 {-| Catching Pokemon -}
 catchingPokemon : Icon
 catchingPokemon =
-    I.map F.catchingPokemon
+    I.map C.catchingPokemon
 
 
 {-| Category -}
@@ -2131,7 +2131,7 @@ chat = i "chat" [ S.path [ SA.d "M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 
 {-| Chat Bubble -}
 chatBubble : Icon
 chatBubble =
-    I.map F.chatBubble
+    I.map C.chatBubble
 
 
 {-| Chat Bubble Outline -}
@@ -2212,7 +2212,7 @@ church = i "church" [ S.path [ SA.d "M18 12.22v-1.99a2 2 0 0 0-1.11-1.79L13 6.5V
 {-| Circle -}
 circle : Icon
 circle =
-    I.map F.circle
+    I.map C.circle
 
 
 {-| Circle Notifications -}
@@ -2223,7 +2223,7 @@ circleNotifications = i "circle_notifications" [ S.path [ SA.d "M12 2C6.48 2 2 6
 {-| Class -}
 class : Icon
 class =
-    I.map F.class
+    I.map C.class
 
 
 {-| Clean Hands -}
@@ -2274,7 +2274,7 @@ closedCaptionOff = i "closed_caption_off" [ S.path [ SA.d "M19 4H5a2 2 0 0 0-2 2
 {-| Cloud -}
 cloud : Icon
 cloud =
-    I.map F.cloud
+    I.map C.cloud
 
 
 {-| Cloud Circle -}
@@ -2300,7 +2300,7 @@ cloudOff = i "cloud_off" [ S.path [ SA.d "M24 15c0-2.64-2.05-4.78-4.65-4.96A7.49
 {-| Cloud Queue -}
 cloudQueue : Icon
 cloudQueue =
-    I.map F.cloudQueue
+    I.map C.cloudQueue
 
 
 {-| Cloud Sync -}
@@ -2316,7 +2316,7 @@ cloudUpload = i "cloud_upload" [ S.path [ SA.d "M19.35 10.04A7.49 7.49 0 0 0 12 
 {-| Co Present -}
 coPresent : Icon
 coPresent =
-    I.map F.coPresent
+    I.map C.coPresent
 
 
 {-| Co2 -}
@@ -2357,7 +2357,7 @@ collectionsBookmark = i "collections_bookmark" [ S.path [ SA.d "M17 20H5c-.55 0-
 {-| Color Lens -}
 colorLens : Icon
 colorLens =
-    I.map F.colorLens
+    I.map C.colorLens
 
 
 {-| Colorize -}
@@ -2513,7 +2513,7 @@ contentPasteSearch = i "content_paste_search" [ S.path [ SA.d "M5 5h2v1c0 1.1.9 
 {-| Contrast -}
 contrast : Icon
 contrast =
-    I.map F.contrast
+    I.map C.contrast
 
 
 {-| Control Camera -}
@@ -2539,7 +2539,7 @@ cookie = i "cookie" [ S.path [ SA.d "M21.27 10.9c-1.21-.33-2.31-1.46-2.29-2.89c.
 {-| Copy All -}
 copyAll : Icon
 copyAll =
-    I.map F.copyAll
+    I.map C.copyAll
 
 
 {-| Copyright -}
@@ -2550,7 +2550,7 @@ copyright = i "copyright" [ S.path [ SA.d "M10.08 10.86c.05-.33.16-.62.3-.87s.34
 {-| Coronavirus -}
 coronavirus : Icon
 coronavirus =
-    I.map F.coronavirus
+    I.map C.coronavirus
 
 
 {-| Corporate Fare -}
@@ -2601,7 +2601,7 @@ crib = i "crib" [ S.path [ SA.d "M18.32 18.32a.971.971 0 0 0-1.31-.08c-.32.25-.6
 {-| Crisis Alert -}
 crisisAlert : Icon
 crisisAlert =
-    I.map F.crisisAlert
+    I.map C.crisisAlert
 
 
 {-| Crop -}
@@ -2612,25 +2612,25 @@ crop = i "crop" [ S.path [ SA.d "M17 15h2V7c0-1.1-.9-2-2-2H9v2h7c.55 0 1 .45 1 1
 {-| Crop 16 9 -}
 crop169 : Icon
 crop169 =
-    I.map F.crop169
+    I.map C.crop169
 
 
 {-| Crop 3 2 -}
 crop32 : Icon
 crop32 =
-    I.map F.crop32
+    I.map C.crop32
 
 
 {-| Crop 5 4 -}
 crop54 : Icon
 crop54 =
-    I.map F.crop54
+    I.map C.crop54
 
 
 {-| Crop 7 5 -}
 crop75 : Icon
 crop75 =
-    I.map F.crop75
+    I.map C.crop75
 
 
 {-| Crop Din -}
@@ -2671,7 +2671,7 @@ cropSquare = i "crop_square" [ S.path [ SA.d "M18 4H6c-1.1 0-2 .9-2 2v12c0 1.1.9
 {-| Cruelty Free -}
 crueltyFree : Icon
 crueltyFree =
-    I.map F.crueltyFree
+    I.map C.crueltyFree
 
 
 {-| Css -}
@@ -2777,7 +2777,7 @@ dataObject = i "data_object" [ S.path [ SA.d "M4 7v2c0 .55-.45 1-1 1s-1 .45-1 1v
 {-| Data Saver Off -}
 dataSaverOff : Icon
 dataSaverOff =
-    I.map F.dataSaverOff
+    I.map C.dataSaverOff
 
 
 {-| Data Saver On -}
@@ -2798,7 +2798,7 @@ dataUsage = i "data_usage" [ S.path [ SA.d "M13 3.87v.02c0 .67.45 1.23 1.08 1.43
 {-| Dataset -}
 dataset : Icon
 dataset =
-    I.map F.dataset
+    I.map C.dataset
 
 
 {-| Dataset Linked -}
@@ -2814,7 +2814,7 @@ dateRange = i "date_range" [ S.path [ SA.d "M19 4h-1V3c0-.55-.45-1-1-1s-1 .45-1 
 {-| Deblur -}
 deblur : Icon
 deblur =
-    I.map F.deblur
+    I.map C.deblur
 
 
 {-| Deck -}
@@ -2950,7 +2950,7 @@ devices = i "devices" [ S.path [ SA.d "M4 7c0-.55.45-1 1-1h16c.55 0 1-.45 1-1s-.
 {-| Devices Fold -}
 devicesFold : Icon
 devicesFold =
-    I.map F.devicesFold
+    I.map C.devicesFold
 
 
 {-| Devices Other -}
@@ -2966,7 +2966,7 @@ dialerSip = i "dialer_sip" [ S.path [ SA.d "M16.5 8c.28 0 .5-.22.5-.5v-4c0-.28-.
 {-| Dialpad -}
 dialpad : Icon
 dialpad =
-    I.map F.dialpad
+    I.map C.dialpad
 
 
 {-| Diamond -}
@@ -3087,7 +3087,7 @@ disabledByDefault = i "disabled_by_default" [ S.path [ SA.d "M3 5v14c0 1.1.9 2 2
 {-| Disabled Visible -}
 disabledVisible : Icon
 disabledVisible =
-    I.map F.disabledVisible
+    I.map C.disabledVisible
 
 
 {-| Disc Full -}
@@ -3098,13 +3098,13 @@ discFull = i "disc_full" [ S.path [ SA.d "M20 16h2v-2h-2v2zm0-8v3c0 .55.45 1 1 1
 {-| Discord -}
 discord : Icon
 discord =
-    I.map F.discord
+    I.map C.discord
 
 
 {-| Discount -}
 discount : Icon
 discount =
-    I.map F.discount
+    I.map C.discount
 
 
 {-| Display Settings -}
@@ -3160,13 +3160,13 @@ doDisturbOn = i "do_disturb_on" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 1
 {-| Do Not Disturb -}
 doNotDisturb : Icon
 doNotDisturb =
-    I.map F.doNotDisturb
+    I.map C.doNotDisturb
 
 
 {-| Do Not Disturb Alt -}
 doNotDisturbAlt : Icon
 doNotDisturbAlt =
-    I.map F.doNotDisturbAlt
+    I.map C.doNotDisturbAlt
 
 
 {-| Do Not Disturb Off -}
@@ -3312,7 +3312,7 @@ dragHandle = i "drag_handle" [ S.path [ SA.d "M19 9H5c-.55 0-1 .45-1 1s.45 1 1 1
 {-| Drag Indicator -}
 dragIndicator : Icon
 dragIndicator =
-    I.map F.dragIndicator
+    I.map C.dragIndicator
 
 
 {-| Draw -}
@@ -3358,7 +3358,7 @@ dryCleaning = i "dry_cleaning" [ S.path [ SA.d "M19.56 11.36L13 8.44V7c0-.55-.45
 {-| Duo -}
 duo : Icon
 duo =
-    I.map F.duo
+    I.map C.duo
 
 
 {-| Dvr -}
@@ -3384,7 +3384,7 @@ eMobiledata = i "e_mobiledata" [ S.path [ SA.d "M16 8c0-.55-.45-1-1-1H9c-.55 0-1
 {-| Earbuds -}
 earbuds : Icon
 earbuds =
-    I.map F.earbuds
+    I.map C.earbuds
 
 
 {-| Earbuds Battery -}
@@ -3460,13 +3460,13 @@ editRoad = i "edit_road" [ S.path [ SA.d "M17 4c-.55 0-1 .45-1 1v6.9l2-2V5c0-.55
 {-| Egg -}
 egg : Icon
 egg =
-    I.map F.egg
+    I.map C.egg
 
 
 {-| Egg Alt -}
 eggAlt : Icon
 eggAlt =
-    I.map F.eggAlt
+    I.map C.eggAlt
 
 
 {-| Eject -}
@@ -3492,7 +3492,7 @@ electricBike = i "electric_bike" [ S.path [ SA.d "M19 7h-.82l-1.7-4.68A2.008 2.0
 {-| Electric Bolt -}
 electricBolt : Icon
 electricBolt =
-    I.map F.electricBolt
+    I.map C.electricBolt
 
 
 {-| Electric Car -}
@@ -3718,7 +3718,7 @@ explicit = i "explicit" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 
 {-| Explore -}
 explore : Icon
 explore =
-    I.map F.explore
+    I.map C.explore
 
 
 {-| Explore Off -}
@@ -3774,31 +3774,31 @@ face = i "face" [ S.path [ SA.d "M10.25 13a1.25 1.25 0 1 1-2.5 0a1.25 1.25 0 0 1
 {-| Face 2 -}
 face2 : Icon
 face2 =
-    I.map F.face2
+    I.map C.face2
 
 
 {-| Face 3 -}
 face3 : Icon
 face3 =
-    I.map F.face3
+    I.map C.face3
 
 
 {-| Face 4 -}
 face4 : Icon
 face4 =
-    I.map F.face4
+    I.map C.face4
 
 
 {-| Face 5 -}
 face5 : Icon
 face5 =
-    I.map F.face5
+    I.map C.face5
 
 
 {-| Face 6 -}
 face6 : Icon
 face6 =
-    I.map F.face6
+    I.map C.face6
 
 
 {-| Face Retouching Natural -}
@@ -3814,7 +3814,7 @@ faceRetouchingOff = i "face_retouching_off" [ S.circle [ SA.cx "9", SA.cy "13", 
 {-| Facebook -}
 facebook : Icon
 facebook =
-    I.map F.facebook
+    I.map C.facebook
 
 
 {-| Fact Check -}
@@ -3905,7 +3905,7 @@ fiberDvr = i "fiber_dvr" [ S.path [ SA.d "M4.5 10.5h2v3h-2zm13 0h2v1h-2zM21 3H3c
 {-| Fiber Manual Record -}
 fiberManualRecord : Icon
 fiberManualRecord =
-    I.map F.fiberManualRecord
+    I.map C.fiberManualRecord
 
 
 {-| Fiber New -}
@@ -4071,7 +4071,7 @@ filterTiltShift = i "filter_tilt_shift" [ S.path [ SA.d "M11 3.23c0-.64-.59-1.13
 {-| Filter Vintage -}
 filterVintage : Icon
 filterVintage =
-    I.map F.filterVintage
+    I.map C.filterVintage
 
 
 {-| Find In Page -}
@@ -4122,7 +4122,7 @@ fitScreen = i "fit_screen" [ S.path [ SA.d "M18 4h2c1.1 0 2 .9 2 2v2c0 .55-.45 1
 {-| Fitbit -}
 fitbit : Icon
 fitbit =
-    I.map F.fitbit
+    I.map C.fitbit
 
 
 {-| Fitness Center -}
@@ -4243,7 +4243,7 @@ fluorescent = i "fluorescent" [ S.path [ SA.d "M7 15h10c1.1 0 2-.9 2-2v-2c0-1.1-
 {-| Flutter Dash -}
 flutterDash : Icon
 flutterDash =
-    I.map F.flutterDash
+    I.map C.flutterDash
 
 
 {-| Fmd Bad -}
@@ -4549,7 +4549,7 @@ games = i "games" [ S.path [ SA.d "M15 7.29V3c0-.55-.45-1-1-1h-4c-.55 0-1 .45-1 
 {-| Garage -}
 garage : Icon
 garage =
-    I.map F.garage
+    I.map C.garage
 
 
 {-| Gas Meter -}
@@ -4650,7 +4650,7 @@ grading = i "grading" [ S.path [ SA.d "M5 7h14c.55 0 1 .45 1 1s-.45 1-1 1H5c-.55
 {-| Grain -}
 grain : Icon
 grain =
-    I.map F.grain
+    I.map C.grain
 
 
 {-| Graphic Eq -}
@@ -4726,7 +4726,7 @@ groupRemove = i "group_remove" [ S.path [ SA.d "M18 10c0-.55.45-1 1-1h4c.55 0 1 
 {-| Group Work -}
 groupWork : Icon
 groupWork =
-    I.map F.groupWork
+    I.map C.groupWork
 
 
 {-| Groups -}
@@ -4762,7 +4762,7 @@ hail = i "hail" [ S.path [ SA.d "M12 6c-1.1 0-2-.9-2-2s.9-2 2-2s2 .9 2 2s-.9 2-2
 {-| Handshake -}
 handshake : Icon
 handshake =
-    I.map F.handshake
+    I.map C.handshake
 
 
 {-| Handyman -}
@@ -4823,13 +4823,13 @@ hdrPlus = i "hdr_plus" [ S.path [ SA.d "M8.5 14.5h2v1h-2zm6-7H16v3h-1.5z" ] [] ,
 {-| Hdr Strong -}
 hdrStrong : Icon
 hdrStrong =
-    I.map F.hdrStrong
+    I.map C.hdrStrong
 
 
 {-| Hdr Weak -}
 hdrWeak : Icon
 hdrWeak =
-    I.map F.hdrWeak
+    I.map C.hdrWeak
 
 
 {-| Headphones -}
@@ -4860,7 +4860,7 @@ headsetOff = i "headset_off" [ S.path [ SA.d "M12 4c3.87 0 7 3.13 7 7v1h-2c-.6 0
 {-| Healing -}
 healing : Icon
 healing =
-    I.map F.healing
+    I.map C.healing
 
 
 {-| Health And Safety -}
@@ -4886,7 +4886,7 @@ heartBroken = i "heart_broken" [ S.path [ SA.d "M19.57 3.95c-1.92-1.29-4.08-1.17
 {-| Heat Pump -}
 heatPump : Icon
 heatPump =
-    I.map F.heatPump
+    I.map C.heatPump
 
 
 {-| Height -}
@@ -5002,7 +5002,7 @@ homeMax = i "home_max" [ S.path [ SA.d "M19 5H5C2.79 5 1 6.79 1 9v5c0 2.21 1.79 
 {-| Home Mini -}
 homeMini : Icon
 homeMini =
-    I.map F.homeMini
+    I.map C.homeMini
 
 
 {-| Home Repair Service -}
@@ -5113,13 +5113,13 @@ https = i "https" [ S.path [ SA.d "M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-
 {-| Hub -}
 hub : Icon
 hub =
-    I.map F.hub
+    I.map C.hub
 
 
 {-| Hvac -}
 hvac : Icon
 hvac =
-    I.map F.hvac
+    I.map C.hvac
 
 
 {-| Ice Skating -}
@@ -5180,7 +5180,7 @@ inbox = i "inbox" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1
 {-| Incomplete Circle -}
 incompleteCircle : Icon
 incompleteCircle =
-    I.map F.incompleteCircle
+    I.map C.incompleteCircle
 
 
 {-| Indeterminate Check Box -}
@@ -5246,7 +5246,7 @@ insertPhoto = i "insert_photo" [ S.path [ SA.d "M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0
 {-| Insights -}
 insights : Icon
 insights =
-    I.map F.insights
+    I.map C.insights
 
 
 {-| Install Desktop -}
@@ -5397,7 +5397,7 @@ keyboardCapslock = i "keyboard_capslock" [ S.path [ SA.d "M12 8.41l3.89 3.89a.99
 {-| Keyboard Command Key -}
 keyboardCommandKey : Icon
 keyboardCommandKey =
-    I.map F.keyboardCommandKey
+    I.map C.keyboardCommandKey
 
 
 {-| Keyboard Control Key -}
@@ -5568,13 +5568,13 @@ legendToggle = i "legend_toggle" [ S.path [ SA.d "M19 15H5c-.55 0-1-.45-1-1s.45-
 {-| Lens -}
 lens : Icon
 lens =
-    I.map F.lens
+    I.map C.lens
 
 
 {-| Lens Blur -}
 lensBlur : Icon
 lensBlur =
-    I.map F.lensBlur
+    I.map C.lensBlur
 
 
 {-| Less Than -}
@@ -5615,7 +5615,7 @@ light = i "light" [ S.path [ SA.d "M13 6.06V4c0-.55-.45-1-1-1s-1 .45-1 1v2.06c-4
 {-| Light Mode -}
 lightMode : Icon
 lightMode =
-    I.map F.lightMode
+    I.map C.lightMode
 
 
 {-| Lightbulb -}
@@ -5691,7 +5691,7 @@ liveTv = i "live_tv" [ S.path [ SA.d "M10.5 17.15l3.98-2.28c.67-.38.67-1.35 0-1.
 {-| Living -}
 living : Icon
 living =
-    I.map F.living
+    I.map C.living
 
 
 {-| Local Activity -}
@@ -5892,7 +5892,7 @@ lockOpen = i "lock_open" [ S.path [ SA.d "M12 13c-1.1 0-2 .9-2 2s.9 2 2 2s2-.9 2
 {-| Lock Person -}
 lockPerson : Icon
 lockPerson =
-    I.map F.lockPerson
+    I.map C.lockPerson
 
 
 {-| Lock Reset -}
@@ -5918,7 +5918,7 @@ login = i "login" [ S.path [ SA.d "M10.3 7.7a.984.984 0 0 0 0 1.4l1.9 1.9H3c-.55
 {-| Logo Dev -}
 logoDev : Icon
 logoDev =
-    I.map F.logoDev
+    I.map C.logoDev
 
 
 {-| Logout -}
@@ -6004,7 +6004,7 @@ lunchDining = i "lunch_dining" [ S.path [ SA.d "M3.37 14.28c.79-.29 1.17-.78 1.9
 {-| Lyrics -}
 lyrics : Icon
 lyrics =
-    I.map F.lyrics
+    I.map C.lyrics
 
 
 {-| Macro Off -}
@@ -6100,7 +6100,7 @@ markChatRead = i "mark_chat_read" [ S.path [ SA.d "M18.05 19.29a.996.996 0 0 1-1
 {-| Mark Chat Unread -}
 markChatUnread : Icon
 markChatUnread =
-    I.map F.markChatUnread
+    I.map C.markChatUnread
 
 
 {-| Mark Email Read -}
@@ -6266,7 +6266,7 @@ minus = i "minus" [ S.path [ SA.d "M18 12.998H6a1 1 0 0 1 0-2h12a1 1 0 0 1 0 2z"
 {-| Miscellaneous Services -}
 miscellaneousServices : Icon
 miscellaneousServices =
-    I.map F.miscellaneousServices
+    I.map C.miscellaneousServices
 
 
 {-| Missed Video Call -}
@@ -6337,7 +6337,7 @@ modeOfTravel = i "mode_of_travel" [ S.path [ SA.d "M4 10.2C4 5.22 7.8 2 12 2c4 0
 {-| Mode Standby -}
 modeStandby : Icon
 modeStandby =
-    I.map F.modeStandby
+    I.map C.modeStandby
 
 
 {-| Model Training -}
@@ -6373,7 +6373,7 @@ monitor = i "monitor" [ S.path [ SA.d "M20 3H4c-1.1 0-2 .9-2 2v11c0 1.1.9 2 2 2h
 {-| Monitor Heart -}
 monitorHeart : Icon
 monitorHeart =
-    I.map F.monitorHeart
+    I.map C.monitorHeart
 
 
 {-| Monitor Weight -}
@@ -6409,7 +6409,7 @@ more = i "more" [ S.path [ SA.d "M22 3H7c-.69 0-1.23.35-1.59.88L.37 11.45c-.22.3
 {-| More Horiz -}
 moreHoriz : Icon
 moreHoriz =
-    I.map F.moreHoriz
+    I.map C.moreHoriz
 
 
 {-| More Time -}
@@ -6420,13 +6420,13 @@ moreTime = i "more_time" [ S.path [ SA.d "M10.75 8c-.41 0-.75.34-.75.75v4.69c0 .
 {-| More Vert -}
 moreVert : Icon
 moreVert =
-    I.map F.moreVert
+    I.map C.moreVert
 
 
 {-| Mosque -}
 mosque : Icon
 mosque =
-    I.map F.mosque
+    I.map C.mosque
 
 
 {-| Motion Photos Auto -}
@@ -6462,7 +6462,7 @@ motorcycle = i "motorcycle" [ S.path [ SA.d "M19.44 9.03L17.31 6.9l-1.6-1.6c-.19
 {-| Mouse -}
 mouse : Icon
 mouse =
-    I.map F.mouse
+    I.map C.mouse
 
 
 {-| Move Down -}
@@ -6593,7 +6593,7 @@ nearbyOff = i "nearby_off" [ S.path [ SA.d "M21.41 13.42L18.83 16l-1.81-1.81L19.
 {-| Nest Cam Wired Stand -}
 nestCamWiredStand : Icon
 nestCamWiredStand =
-    I.map F.nestCamWiredStand
+    I.map C.nestCamWiredStand
 
 
 {-| Network Cell -}
@@ -6624,7 +6624,7 @@ networkWifi = i "network_wifi" [ S.path [ SA.d "M12 4C7.7 4 3.78 5.6.79 8.24C.35
 {-| Network Wifi 1 Bar -}
 networkWifi1Bar : Icon
 networkWifi1Bar =
-    I.map F.networkWifi1Bar
+    I.map C.networkWifi1Bar
 
 
 {-| Network Wifi 2 Bar -}
@@ -6655,7 +6655,7 @@ newspaper = i "newspaper" [ S.path [ SA.d "M21.15 3.85l-.82.82l-.95-.96c-.39-.39
 {-| Next Plan -}
 nextPlan : Icon
 nextPlan =
-    I.map F.nextPlan
+    I.map C.nextPlan
 
 
 {-| Next Week -}
@@ -6696,13 +6696,13 @@ nightsStay = i "nights_stay" [ S.path [ SA.d "M11.1 12.08c-2-3.88-.92-7.36.07-9.
 {-| No Accounts -}
 noAccounts : Icon
 noAccounts =
-    I.map F.noAccounts
+    I.map C.noAccounts
 
 
 {-| No Adult Content -}
 noAdultContent : Icon
 noAdultContent =
-    I.map F.noAdultContent
+    I.map C.noAdultContent
 
 
 {-| No Backpack -}
@@ -6823,7 +6823,7 @@ notEqual = i "not_equal" [ S.path [ SA.d "M18 9.998H6a1 1 0 1 1 0-2h12a1 1 0 0 1
 {-| Not Interested -}
 notInterested : Icon
 notInterested =
-    I.map F.notInterested
+    I.map C.notInterested
 
 
 {-| Not Listed Location -}
@@ -7024,7 +7024,7 @@ paid = i "paid" [ S.path [ SA.d "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 
 {-| Palette -}
 palette : Icon
 palette =
-    I.map F.palette
+    I.map C.palette
 
 
 {-| Pan Tool -}
@@ -7045,7 +7045,7 @@ panorama = i "panorama" [ S.path [ SA.d "M23 18V6c0-1.1-.9-2-2-2H3c-1.1 0-2 .9-2
 {-| Panorama Fish Eye -}
 panoramaFishEye : Icon
 panoramaFishEye =
-    I.map F.panoramaFishEye
+    I.map C.panoramaFishEye
 
 
 {-| Panorama Horizontal -}
@@ -7111,7 +7111,7 @@ password = i "password" [ S.path [ SA.d "M3 17h18c.55 0 1 .45 1 1s-.45 1-1 1H3c-
 {-| Pattern -}
 pattern : Icon
 pattern =
-    I.map F.pattern
+    I.map C.pattern
 
 
 {-| Pause -}
@@ -7152,7 +7152,7 @@ payments = i "payments" [ S.path [ SA.d "M23 8v10c0 1.1-.9 2-2 2H5c-.55 0-1-.45-
 {-| Paypal -}
 paypal : Icon
 paypal =
-    I.map F.paypal
+    I.map C.paypal
 
 
 {-| Pedal Bike -}
@@ -7163,7 +7163,7 @@ pedalBike = i "pedal_bike" [ S.path [ SA.d "M18.18 10l-1.7-4.68A2.008 2.008 0 0 
 {-| Pending -}
 pending : Icon
 pending =
-    I.map F.pending
+    I.map C.pending
 
 
 {-| Pending Actions -}
@@ -7319,7 +7319,7 @@ personSearch = i "person_search" [ S.circle [ SA.cx "10", SA.cy "8", SA.r "4" ] 
 {-| Personal Injury -}
 personalInjury : Icon
 personalInjury =
-    I.map F.personalInjury
+    I.map C.personalInjury
 
 
 {-| Personal Video -}
@@ -7340,7 +7340,7 @@ pestControlRodent = i "pest_control_rodent" [ S.path [ SA.d "M21.31 17.38l-2.39-
 {-| Pets -}
 pets : Icon
 pets =
-    I.map F.pets
+    I.map C.pets
 
 
 {-| Phishing -}
@@ -7391,7 +7391,7 @@ phoneInTalk = i "phone_in_talk" [ S.path [ SA.d "M12.88 5.05c3.18.4 5.67 2.89 6.
 {-| Phone Iphone -}
 phoneIphone : Icon
 phoneIphone =
-    I.map F.phoneIphone
+    I.map C.phoneIphone
 
 
 {-| Phone Locked -}
@@ -7497,7 +7497,7 @@ php = i "php" [ S.path [ SA.d "M6.5 10.5h-2v1h2v-1zm13.5 0h-2v1h2v-1zm-7 2h-2v1.
 {-| Piano -}
 piano : Icon
 piano =
-    I.map F.piano
+    I.map C.piano
 
 
 {-| Piano Off -}
@@ -7568,7 +7568,7 @@ pivotTableChart = i "pivot_table_chart" [ S.path [ SA.d "M21 5c0-1.1-.9-2-2-2h-9
 {-| Pix -}
 pix : Icon
 pix =
-    I.map F.pix
+    I.map C.pix
 
 
 {-| Place -}
@@ -7764,7 +7764,7 @@ presentToAll = i "present_to_all" [ S.path [ SA.d "M21 3H3c-1.11 0-2 .89-2 2v14c
 {-| Preview -}
 preview : Icon
 preview =
-    I.map F.preview
+    I.map C.preview
 
 
 {-| Price Change -}
@@ -7815,7 +7815,7 @@ propane = i "propane" [ S.path [ SA.d "M16.75 6H16V5c0-1.1-.9-2-2-2h-4c-1.1 0-2 
 {-| Propane Tank -}
 propaneTank : Icon
 propaneTank =
-    I.map F.propaneTank
+    I.map C.propaneTank
 
 
 {-| Psychology -}
@@ -7831,7 +7831,7 @@ psychologyAlt = i "psychology_alt" [ S.path [ SA.d "M19.94 9.06C19.5 5.73 16.57 
 {-| Public -}
 public : Icon
 public =
-    I.map F.public
+    I.map C.public
 
 
 {-| Public Off -}
@@ -7927,7 +7927,7 @@ quiz = i "quiz" [ S.path [ SA.d "M17 20H4V7c0-.55-.45-1-1-1s-1 .45-1 1v13c0 1.1.
 {-| Quora -}
 quora : Icon
 quora =
-    I.map F.quora
+    I.map C.quora
 
 
 {-| R Mobiledata -}
@@ -7938,7 +7938,7 @@ rMobiledata = i "r_mobiledata" [ S.path [ SA.d "M7.8 7.2l.65 1.52A.915.915 0 0 1
 {-| Radar -}
 radar : Icon
 radar =
-    I.map F.radar
+    I.map C.radar
 
 
 {-| Radio -}
@@ -7954,7 +7954,7 @@ radioButtonChecked = i "radio_button_checked" [ S.path [ SA.d "M12 2C6.48 2 2 6.
 {-| Radio Button Unchecked -}
 radioButtonUnchecked : Icon
 radioButtonUnchecked =
-    I.map F.radioButtonUnchecked
+    I.map C.radioButtonUnchecked
 
 
 {-| Railway Alert -}
@@ -8040,7 +8040,7 @@ recycling = i "recycling" [ S.path [ SA.d "M6.2 7.41a.501.501 0 0 1-.17-.68L7.2 
 {-| Reddit -}
 reddit : Icon
 reddit =
-    I.map F.reddit
+    I.map C.reddit
 
 
 {-| Redeem -}
@@ -8066,7 +8066,7 @@ refresh = i "refresh" [ S.path [ SA.d "M17.65 6.35a7.95 7.95 0 0 0-6.48-2.31c-3.
 {-| Remember Me -}
 rememberMe : Icon
 rememberMe =
-    I.map F.rememberMe
+    I.map C.rememberMe
 
 
 {-| Remove -}
@@ -8102,7 +8102,7 @@ removeModerator = i "remove_moderator" [ S.path [ SA.d "M20 11.09v-4.7a2 2 0 0 0
 {-| Remove Red Eye -}
 removeRedEye : Icon
 removeRedEye =
-    I.map F.removeRedEye
+    I.map C.removeRedEye
 
 
 {-| Remove Road -}
@@ -8338,13 +8338,13 @@ roundaboutRight = i "roundabout_right" [ S.path [ SA.d "M8 21c.55 0 1-.45 1-1v-5
 {-| Rounded Corner -}
 roundedCorner : Icon
 roundedCorner =
-    I.map F.roundedCorner
+    I.map C.roundedCorner
 
 
 {-| Route -}
 route : Icon
 route =
-    I.map F.route
+    I.map C.route
 
 
 {-| Router -}
@@ -8405,7 +8405,7 @@ safetyCheck = i "safety_check" [ S.path [ SA.d "M11.3 2.26l-6 2.25C4.52 4.81 4 5
 {-| Safety Divider -}
 safetyDivider : Icon
 safetyDivider =
-    I.map F.safetyDivider
+    I.map C.safetyDivider
 
 
 {-| Sailing -}
@@ -8471,7 +8471,7 @@ scanner = i "scanner" [ S.path [ SA.d "M19.8 10.7L5.15 5.35c-.52-.19-1.1.08-1.3.
 {-| Scatter Plot -}
 scatterPlot : Icon
 scatterPlot =
-    I.map F.scatterPlot
+    I.map C.scatterPlot
 
 
 {-| Schedule -}
@@ -8627,7 +8627,7 @@ selfImprovement = i "self_improvement" [ S.circle [ SA.cx "12", SA.cy "6", SA.r 
 {-| Sell -}
 sell : Icon
 sell =
-    I.map F.sell
+    I.map C.sell
 
 
 {-| Send -}
@@ -8643,7 +8643,7 @@ sendAndArchive = i "send_and_archive" [ S.path [ SA.d "M17 12c-2.76 0-5 2.24-5 5
 {-| Send Time Extension -}
 sendTimeExtension : Icon
 sendTimeExtension =
-    I.map F.sendTimeExtension
+    I.map C.sendTimeExtension
 
 
 {-| Send To Mobile -}
@@ -8664,7 +8664,7 @@ sensorOccupied = i "sensor_occupied" [ S.path [ SA.d "M12 11c1.66 0 3-1.34 3-3s-
 {-| Sensor Window -}
 sensorWindow : Icon
 sensorWindow =
-    I.map F.sensorWindow
+    I.map C.sensorWindow
 
 
 {-| Sensors -}
@@ -8825,7 +8825,7 @@ severeCold = i "severe_cold" [ S.path [ SA.d "M20 2c-.55 0-1 .45-1 1v3c0 .55.45 
 {-| Shape Line -}
 shapeLine : Icon
 shapeLine =
-    I.map F.shapeLine
+    I.map C.shapeLine
 
 
 {-| Share -}
@@ -8871,13 +8871,13 @@ shopTwo = i "shop_two" [ S.path [ SA.d "M2 9c-.55 0-1 .45-1 1v10c0 1.1.9 2 2 2h1
 {-| Shopify -}
 shopify : Icon
 shopify =
-    I.map F.shopify
+    I.map C.shopify
 
 
 {-| Shopping Bag -}
 shoppingBag : Icon
 shoppingBag =
-    I.map F.shoppingBag
+    I.map C.shoppingBag
 
 
 {-| Shopping Basket -}
@@ -9103,7 +9103,7 @@ signalWifiStatusbarNull = i "signal_wifi_statusbar_null" [ S.path [ SA.d "M12 4C
 {-| Signpost -}
 signpost : Icon
 signpost =
-    I.map F.signpost
+    I.map C.signpost
 
 
 {-| Sim Card -}
@@ -9184,7 +9184,7 @@ smartToy = i "smart_toy" [ S.path [ SA.d "M20 9V7c0-1.1-.9-2-2-2h-3c0-1.66-1.34-
 {-| Smartphone -}
 smartphone : Icon
 smartphone =
-    I.map F.smartphone
+    I.map C.smartphone
 
 
 {-| Smoke Free -}
@@ -9210,7 +9210,7 @@ smsFailed = i "sms_failed" [ S.path [ SA.d "M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.
 {-| Snapchat -}
 snapchat : Icon
 snapchat =
-    I.map F.snapchat
+    I.map C.snapchat
 
 
 {-| Snippet Folder -}
@@ -9286,7 +9286,7 @@ south = i "south" [ S.path [ SA.d "M18.3 14.29a.996.996 0 0 0-1.41 0L13 18.17V3c
 {-| South America -}
 southAmerica : Icon
 southAmerica =
-    I.map F.southAmerica
+    I.map C.southAmerica
 
 
 {-| South East -}
@@ -9332,7 +9332,7 @@ spatialTracking = i "spatial_tracking" [ S.circle [ SA.cx "10", SA.cy "9", SA.r 
 {-| Speaker -}
 speaker : Icon
 speaker =
-    I.map F.speaker
+    I.map C.speaker
 
 
 {-| Speaker Group -}
@@ -9373,7 +9373,7 @@ splitscreen = i "splitscreen" [ S.path [ SA.d "M18 4v5H6V4h12zm0-2H6c-1.1 0-2 .9
 {-| Spoke -}
 spoke : Icon
 spoke =
-    I.map F.spoke
+    I.map C.spoke
 
 
 {-| Sports -}
@@ -9389,13 +9389,13 @@ sportsBar = i "sports_bar" [ S.path [ SA.d "M19 9h-1.56c.33-.55.53-1.18.55-1.86c
 {-| Sports Baseball -}
 sportsBaseball : Icon
 sportsBaseball =
-    I.map F.sportsBaseball
+    I.map C.sportsBaseball
 
 
 {-| Sports Basketball -}
 sportsBasketball : Icon
 sportsBasketball =
-    I.map F.sportsBasketball
+    I.map C.sportsBasketball
 
 
 {-| Sports Cricket -}
@@ -9406,7 +9406,7 @@ sportsCricket = i "sports_cricket" [ S.path [ SA.d "M15.05 12.81L6.56 4.32a.996.
 {-| Sports Esports -}
 sportsEsports : Icon
 sportsEsports =
-    I.map F.sportsEsports
+    I.map C.sportsEsports
 
 
 {-| Sports Football -}
@@ -9432,7 +9432,7 @@ sportsHandball = i "sports_handball" [ S.path [ SA.d "M14.27 6c-.55.95-.22 2.18.
 {-| Sports Hockey -}
 sportsHockey : Icon
 sportsHockey =
-    I.map F.sportsHockey
+    I.map C.sportsHockey
 
 
 {-| Sports Kabaddi -}
@@ -9453,7 +9453,7 @@ sportsMma = i "sports_mma" [ S.path [ SA.d "M7 20c0 .55.45 1 1 1h8c.55 0 1-.45 1
 {-| Sports Motorsports -}
 sportsMotorsports : Icon
 sportsMotorsports =
-    I.map F.sportsMotorsports
+    I.map C.sportsMotorsports
 
 
 {-| Sports Rugby -}
@@ -9469,7 +9469,7 @@ sportsScore = i "sports_score" [ S.path [ SA.d "M11 6H9V4h2v2zm4-2h-2v2h2V4zM9 1
 {-| Sports Soccer -}
 sportsSoccer : Icon
 sportsSoccer =
-    I.map F.sportsSoccer
+    I.map C.sportsSoccer
 
 
 {-| Sports Tennis -}
@@ -9480,7 +9480,7 @@ sportsTennis = i "sports_tennis" [ S.path [ SA.d "M19.52 2.49C17.18.15 12.9.62 9
 {-| Sports Volleyball -}
 sportsVolleyball : Icon
 sportsVolleyball =
-    I.map F.sportsVolleyball
+    I.map C.sportsVolleyball
 
 
 {-| Square -}
@@ -9566,25 +9566,25 @@ start = i "start" [ S.path [ SA.d "M15.29 17.29c.39.39 1.02.39 1.41 0l4.59-4.59a
 {-| Stay Current Landscape -}
 stayCurrentLandscape : Icon
 stayCurrentLandscape =
-    I.map F.stayCurrentLandscape
+    I.map C.stayCurrentLandscape
 
 
 {-| Stay Current Portrait -}
 stayCurrentPortrait : Icon
 stayCurrentPortrait =
-    I.map F.stayCurrentPortrait
+    I.map C.stayCurrentPortrait
 
 
 {-| Stay Primary Landscape -}
 stayPrimaryLandscape : Icon
 stayPrimaryLandscape =
-    I.map F.stayPrimaryLandscape
+    I.map C.stayPrimaryLandscape
 
 
 {-| Stay Primary Portrait -}
 stayPrimaryPortrait : Icon
 stayPrimaryPortrait =
-    I.map F.stayPrimaryPortrait
+    I.map C.stayPrimaryPortrait
 
 
 {-| Sticky Note 2 -}
@@ -9650,7 +9650,7 @@ stream = i "stream" [ S.circle [ SA.cx "20", SA.cy "12", SA.r "2" ] [] , S.circl
 {-| Streetview -}
 streetview : Icon
 streetview =
-    I.map F.streetview
+    I.map C.streetview
 
 
 {-| Strikethrough S -}
@@ -9666,7 +9666,7 @@ stroller = i "stroller" [ S.path [ SA.d "M18 20c0 1.1-.9 2-2 2s-2-.9-2-2s.9-2 2-
 {-| Style -}
 style : Icon
 style =
-    I.map F.style
+    I.map C.style
 
 
 {-| Subdirectory Arrow Left -}
@@ -9732,7 +9732,7 @@ supervisorAccount = i "supervisor_account" [ S.path [ SA.d "M16.5 12c1.38 0 2.49
 {-| Support -}
 support : Icon
 support =
-    I.map F.support
+    I.map C.support
 
 
 {-| Support Agent -}
@@ -9953,7 +9953,7 @@ tableView = i "table_view" [ S.path [ SA.d "M19 7H9c-1.1 0-2 .9-2 2v10c0 1.1.9 2
 {-| Tablet -}
 tablet : Icon
 tablet =
-    I.map F.tablet
+    I.map C.tablet
 
 
 {-| Tablet Android -}
@@ -9964,7 +9964,7 @@ tabletAndroid = i "tablet_android" [ S.path [ SA.d "M18 0H6C4.34 0 3 1.34 3 3v18
 {-| Tablet Mac -}
 tabletMac : Icon
 tabletMac =
-    I.map F.tabletMac
+    I.map C.tabletMac
 
 
 {-| Tag -}
@@ -10010,7 +10010,7 @@ taxiAlert = i "taxi_alert" [ S.path [ SA.d "M18 13c-1.91 0-3.63-.76-4.89-2h-8.3l
 {-| Telegram -}
 telegram : Icon
 telegram =
-    I.map F.telegram
+    I.map C.telegram
 
 
 {-| Temple Buddhist -}
@@ -10091,7 +10091,7 @@ textSnippet = i "text_snippet" [ S.path [ SA.d "M14.17 3H5c-1.1 0-2 .9-2 2v14c0 
 {-| Textsms -}
 textsms : Icon
 textsms =
-    I.map F.textsms
+    I.map C.textsms
 
 
 {-| Texture -}
@@ -10162,7 +10162,7 @@ thunderstorm = i "thunderstorm" [ S.path [ SA.d "M17.92 7.02C17.45 4.18 14.97 2 
 {-| Tiktok -}
 tiktok : Icon
 tiktok =
-    I.map F.tiktok
+    I.map C.tiktok
 
 
 {-| Time To Leave -}
@@ -10173,7 +10173,7 @@ timeToLeave = i "time_to_leave" [ S.path [ SA.d "M18.92 5.01C18.72 4.42 18.16 4 
 {-| Timelapse -}
 timelapse : Icon
 timelapse =
-    I.map F.timelapse
+    I.map C.timelapse
 
 
 {-| Timeline -}
@@ -10239,13 +10239,13 @@ today = i "today" [ S.path [ SA.d "M19 3h-1V2c0-.55-.45-1-1-1s-1 .45-1 1v1H8V2c0
 {-| Toggle Off -}
 toggleOff : Icon
 toggleOff =
-    I.map F.toggleOff
+    I.map C.toggleOff
 
 
 {-| Toggle On -}
 toggleOn : Icon
 toggleOn =
-    I.map F.toggleOn
+    I.map C.toggleOn
 
 
 {-| Token -}
@@ -10261,7 +10261,7 @@ toll = i "toll" [ S.path [ SA.d "M15 4c-4.42 0-8 3.58-8 8s3.58 8 8 8s8-3.58 8-8s
 {-| Tonality -}
 tonality : Icon
 tonality =
-    I.map F.tonality
+    I.map C.tonality
 
 
 {-| Topic -}
@@ -10287,7 +10287,7 @@ tour = i "tour" [ S.path [ SA.d "M20.45 5.37A.999.999 0 0 0 19.52 4H7V3c0-.55-.4
 {-| Toys -}
 toys : Icon
 toys =
-    I.map F.toys
+    I.map C.toys
 
 
 {-| Track Changes -}
@@ -10363,7 +10363,7 @@ trendingUp = i "trending_up" [ S.path [ SA.d "M16.85 6.85l1.44 1.44l-4.88 4.88l-
 {-| Trip Origin -}
 tripOrigin : Icon
 tripOrigin =
-    I.map F.tripOrigin
+    I.map C.tripOrigin
 
 
 {-| Troubleshoot -}
@@ -10429,7 +10429,7 @@ turnSlightRight = i "turn_slight_right" [ S.path [ SA.d "M12.34 5c0-.55.45-1 1-1
 {-| Turned In -}
 turnedIn : Icon
 turnedIn =
-    I.map F.turnedIn
+    I.map C.turnedIn
 
 
 {-| Turned In Not -}
@@ -10685,7 +10685,7 @@ videogameAssetOff = i "videogame_asset_off" [ S.path [ SA.d "M20.7 17.87c.76-.28
 {-| View Agenda -}
 viewAgenda : Icon
 viewAgenda =
-    I.map F.viewAgenda
+    I.map C.viewAgenda
 
 
 {-| View Array -}
@@ -10716,7 +10716,7 @@ viewComfyAlt = i "view_comfy_alt" [ S.path [ SA.d "M20 4H4c-1.1 0-2 .9-2 2v12c0 
 {-| View Compact -}
 viewCompact : Icon
 viewCompact =
-    I.map F.viewCompact
+    I.map C.viewCompact
 
 
 {-| View Compact Alt -}
@@ -10772,7 +10772,7 @@ viewSidebar = i "view_sidebar" [ S.path [ SA.d "M15 20H3c-.55 0-1-.45-1-1V5c0-.5
 {-| View Stream -}
 viewStream : Icon
 viewStream =
-    I.map F.viewStream
+    I.map C.viewStream
 
 
 {-| View Timeline -}
@@ -10783,13 +10783,13 @@ viewTimeline = i "view_timeline" [ S.path [ SA.d "M19 3H5c-1.1 0-2 .9-2 2v14c0 1
 {-| View Week -}
 viewWeek : Icon
 viewWeek =
-    I.map F.viewWeek
+    I.map C.viewWeek
 
 
 {-| Vignette -}
 vignette : Icon
 vignette =
-    I.map F.vignette
+    I.map C.vignette
 
 
 {-| Villa -}
@@ -10820,7 +10820,7 @@ voiceOverOff = i "voice_over_off" [ S.path [ SA.d "M15.72 6.41c-.35.35-.44.88-.2
 {-| Voicemail -}
 voicemail : Icon
 voicemail =
-    I.map F.voicemail
+    I.map C.voicemail
 
 
 {-| Volcano -}
@@ -10876,7 +10876,7 @@ vrpano = i "vrpano" [ S.path [ SA.d "M20.69 4.05C18.66 4.73 15.86 5.5 12 5.5c-3.
 {-| Wallet -}
 wallet : Icon
 wallet =
-    I.map F.wallet
+    I.map C.wallet
 
 
 {-| Wallpaper -}
@@ -11007,7 +11007,7 @@ webAssetOff = i "web_asset_off" [ S.path [ SA.d "M6.83 4H20a2 2 0 0 1 2 2v12c0 .
 {-| Web Stories -}
 webStories : Icon
 webStories =
-    I.map F.webStories
+    I.map C.webStories
 
 
 {-| Webhook -}
@@ -11018,7 +11018,7 @@ webhook = i "webhook" [ S.path [ SA.d "M2 16c0-1.84 1-3.45 2.48-4.32c.67-.39 1.5
 {-| Wechat -}
 wechat : Icon
 wechat =
-    I.map F.wechat
+    I.map C.wechat
 
 
 {-| Weekend -}
@@ -11034,7 +11034,7 @@ west = i "west" [ S.path [ SA.d "M9.7 18.3a.996.996 0 0 0 0-1.41L5.83 13H21c.55 
 {-| Whatsapp -}
 whatsapp : Icon
 whatsapp =
-    I.map F.whatsapp
+    I.map C.whatsapp
 
 
 {-| Whatshot -}
@@ -11060,19 +11060,19 @@ widgets = i "widgets" [ S.path [ SA.d "M13 14v6c0 .55.45 1 1 1h6c.55 0 1-.45 1-1
 {-| Width Full -}
 widthFull : Icon
 widthFull =
-    I.map F.widthFull
+    I.map C.widthFull
 
 
 {-| Width Normal -}
 widthNormal : Icon
 widthNormal =
-    I.map F.widthNormal
+    I.map C.widthNormal
 
 
 {-| Width Wide -}
 widthWide : Icon
 widthWide =
-    I.map F.widthWide
+    I.map C.widthWide
 
 
 {-| Wifi -}
@@ -11159,7 +11159,7 @@ windPower = i "wind_power" [ S.path [ SA.d "M9 3H5c-.55 0-1 .45-1 1s.45 1 1 1h4c
 {-| Window -}
 window : Icon
 window =
-    I.map F.window
+    I.map C.window
 
 
 {-| Wine Bar -}
@@ -11180,25 +11180,25 @@ woman2 = i "woman_2" [ S.path [ SA.d "M13.94 8.31a2.078 2.078 0 0 0-2.48-1.24c-.
 {-| Woo Commerce -}
 wooCommerce : Icon
 wooCommerce =
-    I.map F.wooCommerce
+    I.map C.wooCommerce
 
 
 {-| Wordpress -}
 wordpress : Icon
 wordpress =
-    I.map F.wordpress
+    I.map C.wordpress
 
 
 {-| Work -}
 work : Icon
 work =
-    I.map F.work
+    I.map C.work
 
 
 {-| Work History -}
 workHistory : Icon
 workHistory =
-    I.map F.workHistory
+    I.map C.workHistory
 
 
 {-| Work Off -}
@@ -11219,7 +11219,7 @@ workspacePremium = i "workspace_premium" [ S.path [ SA.d "M10.92 12.75l1.08-.82l
 {-| Workspaces -}
 workspaces : Icon
 workspaces =
-    I.map F.workspaces
+    I.map C.workspaces
 
 
 {-| Wrap Text -}

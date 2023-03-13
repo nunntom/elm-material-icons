@@ -19,59 +19,70 @@ import SvgParser exposing (Element, SvgNode(..))
 
 main : Program Decode.Value () ()
 main =
-    let
-        variantModule_ s =
-            case s of
-                "baseline" ->
-                    "Filled"
-
-                "outline" ->
-                    "Outlined"
-
-                "twotone" ->
-                    "TwoTone"
-
-                _ ->
-                    String.Extra.toTitleCase s
-    in
     Generate.fromJson
         (Decode.list <|
             Decode.map2 Tuple.pair
-                (Decode.field "variant" (Decode.map variantModule_ Decode.string))
+                (Decode.field "variant" (Decode.map variantName Decode.string))
                 (Decode.field "icons" <| Decode.list iconDecoder)
         )
         (\files ->
             let
-                baselineDict_ =
-                    List.find (\( variant, _ ) -> variantModule_ variant == "Filled") files
-                        |> Maybe.map (Tuple.second >> baselineDict)
-                        |> Maybe.withDefault Dict.empty
+                common =
+                    List.findMap
+                        (\( variant, icons ) ->
+                            if variantName variant == "Filled" then
+                                Just ( "Common", List.filter (.unsupportedFamilies >> List.isEmpty >> not) icons )
+
+                            else
+                                Nothing
+                        )
+                        files
+                        |> Maybe.withDefault ( "Common", [] )
             in
             iconFile (List.map Tuple.first files)
-                :: List.map (file baselineDict_) files
+                :: List.map file (common :: files)
                 ++ List.map tests files
         )
-
-
-baselineDict : List Icon -> Dict String String
-baselineDict =
-    List.map (\{ name, svg } -> ( name, svg ))
-        >> Dict.fromList
 
 
 type alias Icon =
     { name : String
     , category : String
     , svg : String
+    , unsupportedFamilies : List String
     }
 
 
 iconDecoder : Decoder Icon
 iconDecoder =
-    Decode.map3 Icon
+    Decode.map4 Icon
         (Decode.field "name" Decode.string)
         (Decode.field "category" Decode.string)
         (Decode.field "svg" Decode.string)
+        (Decode.field "unsupported_families"
+            (Decode.list Decode.string
+                |> Decode.map (List.map variantName)
+            )
+        )
+
+
+variantName : String -> String
+variantName s =
+    case s of
+        "baseline" ->
+            "Filled"
+
+        "outline" ->
+            "Outlined"
+
+        "twotone" ->
+            "TwoTone"
+
+        "round" ->
+            "Rounded"
+
+        _ ->
+            String.Extra.toTitleCase s
 
 
 variantModule : String -> List String
@@ -122,15 +133,27 @@ iconFile families =
             ]
 
 
-file : Dict String String -> ( String, List Icon ) -> Elm.File
-file baselineDict_ ( variant, icons ) =
+file : ( String, List Icon ) -> Elm.File
+file ( variant, icons ) =
     let
         annotation =
-            Type.namedWith [ "Material", "Icon" ] "Icon" [ Type.named [] variant ]
+            if variant == "Common" then
+                Type.namedWith [ "Internal", "Icon" ] "Icon" [ Type.var "a" ]
+
+            else
+                Type.named [] "Icon"
 
         i =
             Elm.Declare.fn2 "i" ( "name", Nothing ) ( "svg", Nothing ) <|
-                fromNodes (String.toLower variant) (Type.named [] "Icon")
+                fromNodes
+                    (String.toLower <|
+                        if variant == "Common" then
+                            "filled"
+
+                        else
+                            variant
+                    )
+                    annotation
 
         makeIcon name s =
             SvgParser.parseToNode s
@@ -156,40 +179,38 @@ file baselineDict_ ( variant, icons ) =
             , ( [ "Internal", "Icon" ], "I" )
             , ( [ "Svg" ], "S" )
             , ( [ "Svg", "Attributes" ], "SA" )
+            , ( [ "Material", "Icons", "Common" ], "C" )
             ]
-                ++ (if variant /= "Filled" then
-                        [ ( [ "Material", "Icons", "Filled" ], "F" )
-                        ]
-
-                    else
-                        []
-                   )
         }
     <|
         List.concat
-            [ [ Elm.withDocumentation "The variant" <|
+            [ if variant /= "Common" then
+                [ Elm.withDocumentation "The variant" <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Type" } <|
                         Elm.alias variant (Type.named [ "Material", "Icon" ] variant)
-              , Elm.withDocumentation ("Convenience alias, useful if you're only using " ++ variant ++ " icons in your app") <|
+                , Elm.withDocumentation ("Convenience alias, useful if you're only using " ++ variant ++ " icons in your app") <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Type" } <|
-                        Elm.alias "Icon" annotation
-              , Elm.withDocumentation "Convert the icon to an SVG node" <|
+                        Elm.alias "Icon" (Type.namedWith [ "Material", "Icon" ] "Icon" [ Type.named [] variant ])
+                , Elm.withDocumentation "Convert the icon to an SVG node" <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Conversions" } <|
                         Elm.declaration "toSvg" <|
                             Elm.fn ( "icon", Nothing ) (toSvg annotation)
-              , Elm.withDocumentation "Convert the icon to an SVG with attributes" <|
+                , Elm.withDocumentation "Convert the icon to an SVG with attributes" <|
                     Elm.exposeWith { exposeConstructor = False, group = Just "Conversions" } <|
                         Elm.declaration "toSvgWith" <|
                             Elm.fn2 ( "attrs", Nothing ) ( "icon", Nothing ) (toSvgWith annotation)
-              , i.declaration
-              ]
+                ]
+
+              else
+                []
+            , [ i.declaration ]
             , List.map
-                (\{ name, svg, category } ->
+                (\{ name, svg, category, unsupportedFamilies } ->
                     Elm.withDocumentation (String.replace "_" " " name |> String.Extra.toTitleCase) <|
                         Elm.exposeWith { exposeConstructor = False, group = Just (String.Extra.toTitleCase category ++ " Icons") } <|
                             Elm.declaration (functionName name) <|
-                                Elm.withType (Type.named [] "Icon") <|
-                                    if variant /= "Filled" && Dict.get name baselineDict_ == Just svg then
+                                Elm.withType annotation <|
+                                    if (variant == "Filled" && not (List.isEmpty unsupportedFamilies)) || List.member variant unsupportedFamilies then
                                         Elm.apply
                                             (Elm.value
                                                 { importFrom = [ "Internal", "Icon" ]
@@ -198,7 +219,7 @@ file baselineDict_ ( variant, icons ) =
                                                 }
                                             )
                                             [ Elm.value
-                                                { importFrom = [ "Material", "Icons", "Filled" ]
+                                                { importFrom = [ "Material", "Icons", "Common" ]
                                                 , name = functionName name
                                                 , annotation = Just (Type.named [] variant)
                                                 }
