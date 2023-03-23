@@ -1,18 +1,16 @@
 {
-  "name": "md-icons",
+  "name": "elm-material-icons",
   "version": "1.0.0",
-  "description": "",
-  "main": "generate.ts",
+  "description": "Google's Material Icons for Elm",
+  "main": "bin/generate.ts",
   "type": "module",
   "scripts": {
     "postinstall": "elm-codegen install",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "init": "elm-codegen init",
     "review": "elm-review",
-    "generate": "npm update @material-icons/svg && ts-node generate.ts && rm -rfd src/Material && mv generated/Material src/Material && cp generated/tests/*.elm tests/ && elm-review --fix-all && rm -rfd generated && elm-test"
+    "generate": "npm update @material-icons/svg && ts-node bin/generate.ts && rm -rfd src/Material && mv generated/Material src/Material && cp generated/tests/*.elm tests/ && elm-review --fix-all && rm -rfd generated && elm-test"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Tom Nunn",
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "@material-icons/svg": "^1.0.33",
     "elm": "^0.19.1-5",
