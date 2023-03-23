@@ -47,8 +47,7 @@ button icon label =
 
 ### Size and style
 
-By default the icon will scale to the size of the parent container and take the current font colour.
-But you can also pass arbitrary Html/Svg attributes:
+With `toSvg` the icon will take the current font colour and size (1em), but if you need more control you can pass arbitrary Html/Svg attributes using `toSvgWith`:
 
 ```elm
     Icon.toSvgWith
@@ -58,7 +57,7 @@ But you can also pass arbitrary Html/Svg attributes:
         icon
 ```
 
-Note that if you don't provide a width/height (via inline style, css etc.) and the parent doesn't have a size, you won't see anything.
+Note that if you don't provide a width and/or height (via inline style, css etc.) and the parent doesn't have a size, you won't see anything.
 
 ## Full Example
 

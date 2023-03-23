@@ -24,7 +24,7 @@ i variant name elements =
 
 toSvg : Icon a -> Html msg
 toSvg icon =
-    toSvgWith [] icon
+    toSvgWith [ SA.width "1em", SA.height "1em" ] icon
 
 
 toSvgWith : List (Html.Attribute msg) -> Icon a -> Html msg
