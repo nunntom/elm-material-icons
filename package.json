@@ -5,15 +5,19 @@
   "main": "bin/generate.ts",
   "type": "module",
   "scripts": {
+    "publish": "elm publish",
     "postinstall": "elm-codegen install",
     "review": "elm-review",
     "generate": "npm update @material-icons/svg && ts-node bin/generate.ts && rm -rfd src/Material && mv generated/Material src/Material && cp generated/tests/*.elm tests/ && elm-review --fix-all && rm -rfd generated && elm-test"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.10"
   },
   "author": "Tom Nunn",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "@material-icons/svg": "^1.0.33",
-    "elm": "^0.19.1-5",
+    "elm": "^0.19.0",
     "elm-codegen": "^0.3.0",
     "elm-format": "^0.8.5",
     "elm-review": "^2.9.1",
