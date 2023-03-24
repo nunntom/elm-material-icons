@@ -17,7 +17,7 @@
   "license": "BSD-3-Clause",
   "devDependencies": {
     "@material-icons/svg": "^1.0.33",
-    "elm": "^0.19.1-5",
+    "elm": "^0.19.0",
     "elm-codegen": "^0.3.0",
     "elm-format": "^0.8.5",
     "elm-review": "^2.9.1",
