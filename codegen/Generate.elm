@@ -164,8 +164,11 @@ file ( variant, icons ) =
             , [ i.declaration ]
             , List.map
                 (\{ name, svg, category, unsupportedFamilies } ->
-                    Elm.withDocumentation (String.replace "_" " " name |> String.Extra.toTitleCase) <|
-                        Elm.exposeWith { exposeConstructor = False, group = Just (String.Extra.toTitleCase category ++ " Icons") } <|
+                    Elm.withDocumentation "%%replace%%" <|
+                        -- elm publish can't seem to cope with a large docs.json
+                        --(String.replace "_" " " name |> String.Extra.toTitleCase) <|
+                        Elm.exposeWith { exposeConstructor = False, group = Just (String.Extra.toTitleCase category ++ " Icons") }
+                        <|
                             Elm.declaration (functionName name) <|
                                 Elm.withType annotation <|
                                     if (variant == Filled && not (List.isEmpty unsupportedFamilies)) || List.member variant unsupportedFamilies then

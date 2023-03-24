@@ -38,11 +38,11 @@ import Simplify
 
 config : List Rule
 config =
-    [ Docs.NoMissing.rule
+    [ {- Docs.NoMissing.rule
         { document = onlyExposed
         , from = exposedModules
-        }
-    , Docs.ReviewLinksAndSections.rule
+        } -}
+      Docs.ReviewLinksAndSections.rule
     , Docs.ReviewAtDocs.rule
     , Docs.UpToDateReadmeLinks.rule
     , NoConfusingPrefixOperator.rule

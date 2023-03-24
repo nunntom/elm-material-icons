@@ -21,6 +21,9 @@ replaceInFiles(
   (match) => match.replace(/\s+/g, " ") + "\n\n\n"
 );
 
+// strip out doc comments because elm publish is not coping with the size of the docs.json
+replaceInFiles(__dirname + "/generated/Material/**/*.elm", /%%replace%%/g, "");
+
 type Icon = {
   name: string;
   category: string;
